@@ -95,6 +95,30 @@
 	<game>Volt White</game>
 	<img>s6_voltwhite_aqua</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="trainer">
+	<id>s6_sword_rey</id>
+    <name>Rey</name>
+    <title>Darkened Whirlingwhistler</title>
+	<game>Sword</game>
+	<img>s6_sword_rey</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara>  
+  <chara category="trainer">
+	<id>s7_gauntred_redo</id>
+    <name>Redo</name>
+    <title>Reinstating Lookalike</title>
+	<game>Gauntlet Red</game>
+	<img>s7_gauntred_redo</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara>  
+  <chara category="trainer">
+	<id>s7_gauntemerald_nia</id>
+    <name>Nia</name>
+    <title>Distaff Queen</title>
+	<game>Gauntlet Emerald</game>
+	<img>s7_gauntemerald_nia</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>sg_vietcrystal_baba</id>
@@ -110,6 +134,22 @@
     <title>King of Games</title>
 	<game>Trading Card Game</game>
 	<img>sg_tcg_yugi</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="trainer">
+	<id>sg_lightsapphire_urf</id>
+    <name>Urf</name>
+    <title>Extreme Sportsgirl</title>
+	<game>Lightning Sapphire</game>
+	<img>sg_lightsapphire_urf</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="trainer">
+	<id>int_pbr_mysterialsim</id>
+    <name>Mysterial Sim</name>
+    <title>Virtual Master</title>
+	<game>PBR</game>
+	<img>int_pbr_mysterialsim</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="trainer">
@@ -152,6 +192,17 @@
 	<img>s1_crystal_lazergator</img>
 	<types>
 		<type>Water</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="pokemon">
+	<id>s1_platinum_sunshine</id>
+    <name>Sunshine</name>
+    <title>Sunny Little One</title>
+	<game>Platinum</game>
+	<img>s1_platinum_sunshine</img>
+	<types>
+		<type>Electric</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
@@ -209,6 +260,17 @@
 	<img>s3_brown_burgerkween</img>
 	<types>
 		<type>Fairy</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="pokemon">
+	<id>s3_randoplatinum_moonflash</id>
+    <name>Moonflash</name>
+    <title>Sightless Bloom</title>
+	<game>Randomized Platinum</game>
+	<img>s3_randoplatinum_moonflash</img>
+	<types>
+		<type>Grass</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
@@ -318,6 +380,28 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
+	<id>s7_gauntplatinum_elitefish</id>
+    <name>Elite Fish</name>
+    <title>Abyssal Numen</title>
+	<game>Gauntlet Platinum</game>
+	<img>s7_gauntplatinum_elitefish</img>
+	<types>
+		<type>Water</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="pokemon">
+	<id>s8_chattycrystal_peeps</id>
+    <name>Peeps</name>
+    <title>Newborn Voice</title>
+	<game>Chatty Crystal</game>
+	<img>s8_chattycrystal_peeps</img>
+	<types>
+		<type>Psychic</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="pokemon">
 	<id>sg_bootleggreen_mom</id>
     <name>Mom</name>
     <title>Entrapped Soul</title>
@@ -349,5 +433,17 @@
 		<type>Normal</type>
 	</types>
     <desc>Aunque normalmente no está autorizado para participar en los combates de Pokétopia, El Huevo Malo intentó infiltrarse en la arena imitando a otros Pokémon. Si bien sus orígenes exactos son confusos, las teorías concuerdan en que fue puesto por un Glitch.</desc>
+  </chara> 
+  <chara category="pokemon">
+	<id>int_wooperchristmas_wooper</id>
+    <name>The Wooper Who Saved Christmas</name>
+    <title>Christmas-Saving Wooper</title>
+	<game>The Wooper Who Saved Christmas</game>
+	<img>int_wooperchristmas_wooper</img>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
 </charas>  

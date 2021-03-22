@@ -68,7 +68,7 @@ function showDexEntry(charaId) {
 		for (i = 0; i < currentChara.getElementsByTagName("types")[0].children.length; i++) {
 			
 			var currentType = currentChara.getElementsByTagName("types")[0].children[i];
-			document.getElementById("dexTypes").innerHTML += '<img src="types/' + currentType.textContent.toString().toLowerCase() + '.png">';
+			document.getElementById("dexTypes").innerHTML += '<img src="types/' + currentType.textContent.toString().toLowerCase() + '.png"> ';
 			
 		}
 		

@@ -37,7 +37,7 @@ function pullCharacter() {
 			
 			var currentType = randomPull.getElementsByTagName("types")[0].children[i];
 			//console.log(currentType);
-			document.getElementById("pullType").innerHTML += '<img src="types/' + currentType.textContent.toString().toLowerCase() + '.png">';
+			document.getElementById("pullType").innerHTML += '<img src="types/' + currentType.textContent.toString().toLowerCase() + '.png"> ';
 			
 		}
 		
