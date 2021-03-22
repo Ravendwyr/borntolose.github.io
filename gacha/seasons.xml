@@ -146,5 +146,8 @@
 	<id>int</id>
     <name>Intermissions</name>
 	<color>#757171</color>
+	<runs>
+		<run>PBR</run>
+	</runs>
   </season> 
 </seasons>
