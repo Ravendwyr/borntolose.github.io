@@ -17,10 +17,12 @@ function displayDex() {
 			
 			var location = (localStorage.getItem(id[0].textContent.toString()) == "owned" ? "sprites" : "shadows");
 			
+			var onclick = (localStorage.getItem(id[0].textContent.toString()) == "owned" ? ' onclick="showDexEntry(\'' + id[0].textContent.toString() + '\')"' : "");
+			
 			if (currentChara.getAttribute("category") == "trainer") {
-				document.getElementById("trainers").innerHTML += '<img src="' + location + '/portraits/' + icon[0].textContent.toString() + '.png" style="margin:2px">';
+				document.getElementById("trainers").innerHTML += '<img' + onclick + ' src="' + location + '/portraits/' + icon[0].textContent.toString() + '.png" style="margin:2px">';
 			} else {
-				document.getElementById("mons").innerHTML += '<img src="' + location + '/portraits/' + icon[0].textContent.toString() + '.png" style="margin:2px">';
+				document.getElementById("mons").innerHTML += '<img' + onclick + ' src="' + location + '/portraits/' + icon[0].textContent.toString() + '.png" style="margin:2px">';
 			}	
 		
 		}
@@ -29,11 +31,89 @@ function displayDex() {
  
 } 
 
+function showDexEntry(charaId) {  
+
+	var Connect = new XMLHttpRequest();
+	Connect.open("GET", "pool.xml", false);
+	Connect.setRequestHeader("Content-Type", "text/xml");
+	Connect.send(null);
+
+	var response = Connect.responseXML;
+	var charas = response.childNodes[0];
+
+	for (i = 0; i < charas.children.length; i++) {
+		var currentChara = charas.children[i];
+		var id = currentChara.getElementsByTagName("id");
+		if (id[0].textContent.toString() == charaId) { break ; }
+	}
+	
+	//console.log(currentChara);
+	
+	var name = currentChara.getElementsByTagName("name");
+	var title = currentChara.getElementsByTagName("title");
+	var game = currentChara.getElementsByTagName("game");
+	var img = currentChara.getElementsByTagName("img");
+	var desc = currentChara.getElementsByTagName("desc");
+	
+	document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png">';
+	document.getElementById("dexName").innerHTML = "<b>" + name[0].textContent.toString() + "</b>";
+	document.getElementById("dexTitle").innerHTML = "<small>" + title[0].textContent.toString() + "</small>";
+	document.getElementById("dexGame").innerHTML = setSeason(game[0].textContent.toString());
+	document.getElementById("dexTypes").innerHTML = "";
+	document.getElementById("dexText").innerHTML = desc[0].textContent.toString();
+	
+	// For Mons, display types
+	if (currentChara.getAttribute("category") == "pokemon") {
+		
+		for (i = 0; i < currentChara.getElementsByTagName("types")[0].children.length; i++) {
+			
+			var currentType = currentChara.getElementsByTagName("types")[0].children[i];
+			document.getElementById("dexTypes").innerHTML += '<img src="types/' + currentType.textContent.toString().toLowerCase() + '.png">';
+			
+		}
+		
+	}
+	
+}
+
 function eraseDex() {  
 
 	localStorage.clear();
 	document.getElementById("trainers").innerHTML = "";
 	document.getElementById("mons").innerHTML = "";
 	displayDex();
+
+}
+
+function setSeason(runName) {  
+
+	var Connect = new XMLHttpRequest();
+	Connect.open("GET", "seasons.xml", false);
+	Connect.setRequestHeader("Content-Type", "text/xml");
+	Connect.send(null);
+
+	var response = Connect.responseXML;
+	var seasons = response.childNodes[0];
+	
+	for (i = 0; i < seasons.children.length; i++) {
+		
+		var currentSeason = seasons.children[i];
+		var color = seasons.children[i].getElementsByTagName("color")[0].textContent.toString();
+		//console.log(currentSeason);
+		//console.log(color);
+			
+		for (j = 0; j < currentSeason.getElementsByTagName("runs")[0].children.length; j++) {
+			
+			var currentRun = currentSeason.getElementsByTagName("runs")[0].children[j];
+			//console.log(currentRun);
+			
+			if (currentRun.textContent.toString() == runName) {
+				return "<i style=\"color:" + color + "\">" + runName + "</i>";
+			}
+			
+		}
+	}
+	
+	return "<i style=\"color:" + color + "\">" + runName + "</i>";
 
 }

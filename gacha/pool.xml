@@ -6,6 +6,7 @@
     <title>Original Host</title>
 	<game>Red</game>
 	<img>s1_red_red</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>s1_red_bill</id>
@@ -13,6 +14,7 @@
     <title>Lord of Sheananigans</title>
 	<game>Red</game>
 	<img>s1_red_bill</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>s1_firered_alice</id>
@@ -20,6 +22,7 @@
     <title>Leftist Nerd</title>
 	<game>FireRed</game>
 	<img>s1_firered_alice</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>    
   <chara category="trainer">
 	<id>s1_black_fennel</id>
@@ -27,6 +30,7 @@
     <title>Dreamy Psychopath</title>
 	<game>Black</game>
 	<img>s1_black_fennel</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>s2_redanni_abe</id>
@@ -34,6 +38,7 @@
     <title>Domist Cartographer</title>
 	<game>Red Anniversary</game>
 	<img>s2_redanni_abe</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>s2_redanni_red</id>
@@ -41,6 +46,7 @@
     <title>Dreamt Host</title>
 	<game>Red Anniversary</game>
 	<img>s2_redanni_red</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>s3_crystalanni_azure</id>
@@ -48,6 +54,7 @@
     <title>Unrivaled Rival</title>
 	<game>Crystal Anniversary</game>
 	<img>s3_crystalanni_azure</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>s3_prism_cyan</id>
@@ -55,6 +62,7 @@
     <title>Innocent Powerhouse</title>
 	<game>Prism</game>
 	<img>s3_prism_cyan</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>s4_ultrasun_roark</id>
@@ -62,6 +70,7 @@
     <title>Blinding Brightness</title>
 	<game>Ultra Sun</game>
 	<img>s4_ultrasun_roark</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>s5_dualredblue_cici</id>
@@ -69,6 +78,7 @@
     <title>Orderly Scholar</title>
 	<game>Dual Red &amp; Blue</game>
 	<img>s5_dualredblue_cici</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>    
   <chara category="trainer">
 	<id>s5_dualredblue_xena</id>
@@ -76,6 +86,7 @@
     <title>Chaotic Madcap</title>
 	<game>Dual Red &amp; Blue</game>
 	<img>s5_dualredblue_xena</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>s6_voltwhite_aqua</id>
@@ -83,6 +94,7 @@
     <title>Depressed Cynic</title>
 	<game>Volt White</game>
 	<img>s6_voltwhite_aqua</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
 	<id>sg_vietcrystal_baba</id>
@@ -90,21 +102,24 @@
     <title>Depraved Lunatic</title>
 	<game>Vietnamese Crystal</game>
 	<img>sg_vietcrystal_baba</img>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="trainer">
 	<id>sg_tcg_yugi</id>
     <name>Yugi</name>
     <title>King of Games</title>
 	<game>Trading Card Game</game>
 	<img>sg_tcg_yugi</img>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="trainer">
 	<id>int_crystalolden_jamie</id>
     <name>Jamie</name>
     <title>Queen of Fools</title>
 	<game>Crystal 1.OLDEN</game>
 	<img>int_crystalolden_jamie</img>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>s1_red_lordhelix</id>
     <name>Lord Helix</name>
@@ -115,6 +130,7 @@
 		<type>Rock</type>
 		<type>Water</type>
 	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
 	<id>s1_red_birdjesus</id>
@@ -126,6 +142,7 @@
 		<type>Normal</type>
 		<type>Flying</type>
 	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
 	<id>s1_crystal_lazergator</id>
@@ -136,7 +153,8 @@
 	<types>
 		<type>Water</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>s1_heartgold_kenya</id>
     <name>Kenya</name>
@@ -146,7 +164,8 @@
 	<types>
 		<type>Ground</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>s2_touhoumon_awoo</id>
     <name>Awoo</name>
@@ -157,6 +176,7 @@
 		<type>Beast</type>
 		<type>Steel</type>
 	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
 	<id>s2_moemon_butterbae</id>
@@ -168,6 +188,7 @@
 		<type>Bug</type>
 		<type>Flying</type>
 	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
 	<id>s2_alphasapphire_lampeon</id>
@@ -178,6 +199,7 @@
 	<types>
 		<type>Fire</type>
 	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
 	<id>s3_brown_burgerkween</id>
@@ -188,7 +210,8 @@
 	<types>
 		<type>Fairy</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>s3_sun_ribomber</id>
     <name>Ribomber</name>
@@ -199,7 +222,8 @@
 		<type>Bug</type>
 		<type>Fairy</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>s4_chattyyellow_iaqo</id>
     <name>Iaqo</name>
@@ -210,6 +234,7 @@
 		<type>Normal</type>
 		<type>Flying</type>
 	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
 	<id>s4_blazedglazed_hugbug</id>
@@ -221,6 +246,7 @@
 		<type>Bug</type>
 		<type>Poison</type>
 	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>   
   <chara category="pokemon">
 	<id>s4_randowhite2_turbohelix</id>
@@ -232,6 +258,7 @@
 		<type>Rock</type>
 		<type>Water</type>
 	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
 	<id>s5_stormsilver_secondcat</id>
@@ -242,7 +269,8 @@
 	<types>
 		<type>Normal</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>s5_stormsilver_rustycat</id>
     <name>Rusty Cat</name>
@@ -253,7 +281,8 @@
 		<type>Steel</type>
 		<type>Ground</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>s5_bronze_lucci</id>
     <name>Lucci</name>
@@ -264,7 +293,8 @@
 		<type>Water</type>
 		<type>Flying</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>s6_burningred_kingjackass</id>
     <name>King Jackass</name>
@@ -274,7 +304,8 @@
 	<types>
 		<type>Normal</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>s6_xg_sparkleon</id>
     <name>Sparkleon</name>
@@ -284,7 +315,8 @@
 	<types>
 		<type>Water</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>sg_bootleggreen_mom</id>
     <name>Mom</name>
@@ -294,7 +326,8 @@
 	<types>
 		<type>Psychic</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>sg_sweet_vore</id>
     <name>Vore</name>
@@ -304,7 +337,8 @@
 	<types>
 		<type>Chocolate</type>
 	</types>
-  </chara>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
   <chara category="pokemon">
 	<id>int_pbr_elhuevomalo</id>
     <name>El Huevo Malo</name>
@@ -314,5 +348,6 @@
 	<types>
 		<type>Normal</type>
 	</types>
-  </chara>
+    <desc>Aunque normalmente no está autorizado para participar en los combates de Pokétopia, El Huevo Malo intentó infiltrarse en la arena imitando a otros Pokémon. Si bien sus orígenes exactos son confusos, las teorías concuerdan en que fue puesto por un Glitch.</desc>
+  </chara> 
 </charas>  
