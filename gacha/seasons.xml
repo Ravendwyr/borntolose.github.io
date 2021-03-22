@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seasons>
+  <season>
+	<id>s1</id>
+    <name>Season 1</name>
+	<color>#996600</color>
+	<runs>
+		<run>Red</run>
+		<run>Crystal</run>
+		<run>Emerald</run>
+		<run>FireRed</run>
+		<run>Platinum</run>
+		<run>HeartGold</run>
+		<run>Black</run>
+		<run>Black 2</run>
+		<run>X</run>
+		<run>Omega Ruby</run>
+	</runs>
+  </season>
+  <season>
+	<id>s2</id>
+    <name>Season 2</name>
+	<color>#FF0000</color>
+	<runs>
+		<run>Red Anniversary</run>
+		<run>Touhoumon</run>
+		<run>Moemon</run>
+		<run>Alpha Sapphire</run>
+		<run>Colosseum</run>
+		<run>XD</run>
+	</runs>
+  </season>  
+  <season>
+	<id>s3</id>
+    <name>Season 3</name>
+	<color>#00B0F0</color>
+	<runs>
+		<run>Crystal Anniversary</run>
+		<run>Brown</run>
+		<run>Randomized Platinum</run>
+		<run>Prism</run>
+		<run>Sun</run>
+		<run>Waning Moon</run>
+	</runs>
+  </season>  
+  <season>
+	<id>s4</id>
+    <name>Season 4</name>
+	<color>#CCCC00</color>
+	<runs>
+		<run>Chatty Yellow</run>
+		<run>Blazed Glazed</run>
+		<run>Randomized White 2</run>
+		<run>Pyrite</run>
+		<run>Theta Emerald EX</run>
+		<run>Ultra Sun</run>
+	</runs>
+  </season>  
+  <season>
+	<id>s5</id>
+    <name>Season 5</name>
+	<color>#0000CC</color>
+	<runs>
+		<run>Dual Red &amp; Blue</run>
+		<run>Storm Silver</run>
+		<run>Bronze</run>
+		<run>Randomized Y</run>
+		<run>Flora Sky</run>
+		<run>Fused Crystal</run>
+	</runs>
+  </season>  
+  <season>
+	<id>s6</id>
+    <name>Season 6</name>
+	<color>#FF6600</color>
+	<runs>
+		<run>Burning Red</run>
+		<run>Volt White</run>
+		<run>Randomized Colosseum</run>
+		<run>XG</run>
+		<run>TriHard Emerald</run>
+		<run>Randomized Ultra Moon</run>
+		<run>Sword</run>
+	</runs>
+  </season>  
+  <season>
+	<id>s7</id>
+    <name>Season 7</name>
+	<color>#9900CC</color>
+	<runs>
+		<run>Gauntlet Red</run>
+		<run>Gauntlet Crystal</run>
+		<run>Gauntlet Emerald</run>
+		<run>Gauntlet Platinum</run>
+		<run>Gauntlet Black 2</run>
+		<run>Gauntlet X</run>
+		<run>Sirius</run>
+		<run>Rising Ruby</run>
+		<run>Vega</run>
+	</runs>
+  </season> 
+  <season>
+	<id>s8</id>
+    <name>Season 8</name>
+	<color>#009999</color>
+	<runs>
+		<run>Chatty Crystal</run>
+		<run>Renegade Platinum</run>
+	</runs>
+  </season> 
+  <season>
+	<id>sg</id>
+    <name>Sidegames</name>
+	<color>#00B050</color>
+	<runs>
+		<run>Vietnamese Crystal</run>
+		<run>Trading Card Game</run>
+		<run>Ultra</run>
+		<run>Dark Graystone</run>
+		<run>Ash Gray</run>
+		<run>Bootleg Green</run>
+		<run>Sweet</run>
+		<run>Hypno's Lullaby</run>
+		<run>Gold SpaceWorld Demo</run>
+		<run>Metronome Sapphire</run>
+		<run>NavyBlue</run>
+		<run>Lightning Sapphire</run>
+	</runs>
+  </season> 
+  <season>
+	<id>rev</id>
+    <name>Revisits</name>
+	<color>#A50021</color>
+	<runs>
+		<run>Red Revisit</run>
+		<run>Crystal Revisit</run>
+		<run>Emerald Revisit</run>
+		<run>FireRed Revisit</run>
+		<run>Black Revisit</run>
+		<run>Touhoumon Revisit</run>
+		<run>Sword - Isle of Armor</run>
+		<run>Sword - Crown Tundra</run>
+	</runs>
+  </season>   
+  <season>
+	<id>int</id>
+    <name>Intermissions</name>
+	<color>#757171</color>
+  </season> 
+</seasons>
