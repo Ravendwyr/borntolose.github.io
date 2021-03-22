@@ -69,7 +69,7 @@ function setSeason(runName) {
 		for (j = 0; j < currentSeason.getElementsByTagName("runs")[0].children.length; j++) {
 			
 			var currentRun = currentSeason.getElementsByTagName("runs")[0].children[j];
-			console.log(currentRun);
+			//console.log(currentRun);
 			
 			if (currentRun.textContent.toString() == runName) {
 				return "<i style=\"color:" + color + "\">" + runName + "</i>";
