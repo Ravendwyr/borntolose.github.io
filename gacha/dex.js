@@ -17,7 +17,7 @@ function displayDex() {
 			
 			var location = (localStorage.getItem(id[0].textContent.toString()) == "owned" ? "sprites" : "shadows");
 			
-			var onclick = (localStorage.getItem(id[0].textContent.toString()) == "owned" ? ' onclick="showDexEntry(\'' + id[0].textContent.toString() + '\')"' : "");
+			var onclick = ' onclick="showDexEntry(\'' + id[0].textContent.toString() + '\')"';
 			
 			if (currentChara.getAttribute("category") == "trainer") {
 				document.getElementById("trainers").innerHTML += '<img' + onclick + ' src="' + location + '/portraits/' + icon[0].textContent.toString() + '.png" style="margin:2px">';
@@ -55,21 +55,34 @@ function showDexEntry(charaId) {
 	var img = currentChara.getElementsByTagName("img");
 	var desc = currentChara.getElementsByTagName("desc");
 	
-	document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png">';
-	document.getElementById("dexName").innerHTML = "<b>" + name[0].textContent.toString() + "</b>";
-	document.getElementById("dexTitle").innerHTML = "<small>" + title[0].textContent.toString() + "</small>";
-	document.getElementById("dexGame").innerHTML = setSeason(game[0].textContent.toString());
-	document.getElementById("dexTypes").innerHTML = "";
-	document.getElementById("dexText").innerHTML = desc[0].textContent.toString();
+	if (localStorage.getItem(charaId) == "owned") {
+		document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png">';
+		document.getElementById("dexName").innerHTML = "<b>" + name[0].textContent.toString() + "</b>";
+		document.getElementById("dexTitle").innerHTML = "<small>" + title[0].textContent.toString() + "</small>";
+		document.getElementById("dexGame").innerHTML = setSeason(game[0].textContent.toString());
+		document.getElementById("dexTypes").innerHTML = "";
+		document.getElementById("dexText").innerHTML = desc[0].textContent.toString();
+	} else {
+		document.getElementById("dexImage").innerHTML = '<img src="shadows/' + img[0].textContent.toString() + '.png">';
+		document.getElementById("dexName").innerHTML = "<b>???</b>";
+		document.getElementById("dexTitle").innerHTML = "<small>???</small>";
+		document.getElementById("dexGame").innerHTML = setSeason("???");
+		document.getElementById("dexTypes").innerHTML = "";
+		document.getElementById("dexText").innerHTML = "??????????";
+	}
 	
 	// For Mons, display types
 	if (currentChara.getAttribute("category") == "pokemon") {
 		
-		for (i = 0; i < currentChara.getElementsByTagName("types")[0].children.length; i++) {
-			
-			var currentType = currentChara.getElementsByTagName("types")[0].children[i];
-			document.getElementById("dexTypes").innerHTML += '<img src="types/' + currentType.textContent.toString().toLowerCase() + '.png"> ';
-			
+		if (localStorage.getItem(charaId) == "owned") {
+			for (i = 0; i < currentChara.getElementsByTagName("types")[0].children.length; i++) {
+				
+				var currentType = currentChara.getElementsByTagName("types")[0].children[i];
+				document.getElementById("dexTypes").innerHTML += '<img src="types/' + currentType.textContent.toString().toLowerCase() + '.png"> ';
+				
+			}
+		} else {
+			document.getElementById("dexTypes").innerHTML += '<img src="types/unknown.png">';
 		}
 		
 	}
