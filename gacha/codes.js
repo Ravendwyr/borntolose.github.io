@@ -23,7 +23,7 @@ function checkCode() {
 		document.getElementById("pullName").innerHTML = "";
 		document.getElementById("pullGame").innerHTML = "";
 		document.getElementById("pullType").innerHTML = "";
-		document.getElementById("errorMsg").innerHTML = "<b>But nothing happened!</b>";
+		document.getElementById("errorMsg").innerHTML = "<b>KAPPA OUTDATED <br> POGCHAMP OVERRATED <br> LONG HAVE WE WAITED <br> NOW WE JEBAITED</b>";
 	} else {
 		document.getElementById("errorMsg").innerHTML = "";
 		pullChara(id);
