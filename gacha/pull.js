@@ -5,11 +5,16 @@ function newPull() {
 	var sinceLast = currentDate - localStorage.getItem("lastPullDate");
 	
 	if (localStorage.getItem("lastPullDate") == null || sinceLast > 60000) {
-		document.getElementById("pullMsg").innerHTML = "";
+		document.getElementById("pullMsgUp").innerHTML = "";
+		document.getElementById("pullMsgDown").innerHTML = "";
 		pullCharacter();
 		localStorage.setItem("lastPullDate", currentDate);
 	} else {
-		document.getElementById("pullMsg").innerHTML = "<b>Next pull possible in " + (Math.floor((60000 - sinceLast) / 1000) + 1) + " seconds.</b>";
+		if (document.getElementById("pullImg").innerHTML == "") {
+			document.getElementById("pullMsgUp").innerHTML = "<b>Next pull possible in " + (Math.floor((60000 - sinceLast) / 1000) + 1) + " seconds.</b>";
+		} else {
+			document.getElementById("pullMsgDown").innerHTML = "<b>Next pull possible in " + (Math.floor((60000 - sinceLast) / 1000) + 1) + " seconds.</b>";
+		}
 	}
 	
 }
