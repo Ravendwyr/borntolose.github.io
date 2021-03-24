@@ -1,10 +1,11 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
     <title>TPP Gacha</title>
-	<script type="text/javascript" src="pull.js"></script>	
-	<script type="text/javascript" src="utils.js"></script>
+	<script type="text/javascript" src="md5.js"></script>
+	<script type="text/javascript" src="utils.js"></script>	
+	<script type="text/javascript" src="codes.js"></script>	
   </head>
   <body style="text-align:center">
   
@@ -12,7 +13,9 @@
 
 	<br/><br/>
 
-    <button onclick="newPull()" style="font-size:large">ROLL</button> 
+    <input type="text" id="secretCode">
+	<br/><br/>
+    <button onclick="checkCode()" style="font-size:large">ENTER</button> 
 	
 	<br/><br/>
 	
@@ -23,7 +26,7 @@
 	
 	<br/><br/>
 	
-	<div id="pullMsg"></div>
+	<div id="errorMsg"></div>
 		  
   </body>
 </html>

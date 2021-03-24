@@ -60,6 +60,6 @@ function pullCharacter() {
 	
 	localStorage.setItem(id[0].textContent.toString(), "owned");
 	
-	console.log(localStorage);
+	//console.log(localStorage);
  
 } 
