@@ -15,7 +15,7 @@ function checkCode() {
 		var currentCode = codes.children[i];
 		var code = currentCode.getElementsByTagName("code");
 		
-		if (code[0].textContent.toString() == CryptoJS.MD5(input)) { id = currentCode.getElementsByTagName("id"); break ; }
+		if (code[0].textContent.toString() == CryptoJS.MD5(input).toString()) { id = currentCode.getElementsByTagName("id"); break ; }
 	}
 	
 	if (id == null) {
