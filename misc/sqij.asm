@@ -81,10 +81,6 @@
 
 
 
-
-
-
-
 900 (DRAW_ROOM) z=0     
     k=10		
     u=10                
@@ -135,45 +131,32 @@
 945 .col=14       
     .ptbl
 
-
-
 964 if y=1 then
       for n=6 to 10
         print at n,0 "     "
       next n
-
 
 974 if o=1 then
       for n=0 to 3
          print at n,11 "         "
       next n
 
-
 984 if p=1 then
       for n=6 to 10
          print at n,28 "     "
       next n
 
-
-
 994 if x=1 then print at 17,11 "         "
 996 if x=1 then print at 18,11 "         "
 997 if x=1 then print at 16,11 "         "
-
-
 
 998 print at 10,80 ink 7 "score;"
     ink 7
     print at 19,20 sc
 
-
-
-
 1000 (GAME_LOOP) 
      print at 20,0 ink 7 "energy:" energy
      print at 21,0 ink 7 "level :"
-
-
 
 1001 (GAME_LOOP_NOUPDATE) 
       if paz=0 then 
@@ -182,16 +165,12 @@
         .row=u
         go to 9836 (FLAP_IN_ANI)
 
-
-
-
 1011 if opt=0 and lo=1 then 
         opt=1
         go to 9720 (DRAW_SQIJ_START_RIGHT)
 1012 if opt=0 and lo=0 then
         opt=1
         go to 9700 (DRAW_SQIJ_START_LEFT)
-
 
 1013 (REENTRY_FROM_DRAW_SQIJ_START):
       if room=39 or room=4 or room=7 or room=14 or room=47 or room=54 then
@@ -200,27 +179,21 @@
                     
                     
 
-
-
 1112 if u=3 and k>=2 and o=0 then
         down=1
         go to 8000 (TAKE_DAMAGE)
-
 
 1113 if u=11 and k>=3 and x=0 then
         up=1
         go to 8000 (TAKE_DAMAGE)
 
-
 1114 if k=3 and u>=3 and y=0 then
         left=1
         go to 8000 (TAKE_DAMAGE)
 
-
 1115 if k=20 and u>=3 and p=0 then
         right=1
         go to 8000 (TAKE_DAMAGE)
-
 
 1116 if k=3 and u=10 then
         left=1
@@ -234,7 +207,6 @@
 1119 if k=20 and u=10 then
         right=1
         go to 8000 (TAKE_DAMAGE)
-
 
 1120 if u=3 and k<11 then
         down=1
@@ -255,22 +227,14 @@
 1151 go to 1225              
 * 1152 go to 7015 (ANIMATE_ENEMIES)             
 
-
-
 1225 if inkey$="x" then
        lo=0
        print at u+1, k-1 " "
        print at u+2, k-1 " "
        go to 8121 (MOVE_FORWARD)
 
-
-
-
-
-
 1226 if inkey$="l" then
        go to 3136 (WTF_L_ENTRY)
-
 
 1227 if inkey$="z" then
        lo=1
@@ -278,21 +242,13 @@
        print at u+2, k+9 " "
        go to 8121 (MOVE_FORWARD)
 
-
 1228 if inkey$="k" then go to 9850 (ANIMATE_MOVE_UP)
-
 
 1229 if inkey$="m" then go to 9883 (ANIMATE_MOVE_DOWN)
 
-
 1230 if inkey$="j" then go to 5499 (OPEN_DOOR_WITH_PASS)
 
-
-
 1231 (PASS_REENTRY) if inkey$="b" and k>7 and k<15 then go to 9810 (FIRE_LASER)
-
-
-
 
 1232 if inkey$="i" and room=22 and tree=1 then
        tree=tree-1
@@ -301,29 +257,18 @@
        beep 0.3,37
        trc=trc+1
 
-
-
-
 1233 if room=22 then
        print at 0,0 ink 7 "e.t.r."
        print at 16,12 ink 2 "********"
 
-
-
-
 1234 if trc=6 then go to 6500 (WIN_GAME)
-
 
 1235 go to 7015 (ANIMATE_ENEMIES)
 
 1236 (ENEMY_REENTRY)
-
 1241 if inkey$="n" and not room=7 and not room=14 and not room=39 and not room=47 then go to 3300 (INVENTORY_SCREEN)
 
-
-
 1242 if door=1 then go to 1249
-
 
 1243 if door=0 and room=4 and d1=0 then go to 5000 (DRAW_CLOSED_DOOR)
 1244 if door=0 and room=7 and d2=0 then go to 5000 (DRAW_CLOSED_DOOR)
@@ -332,17 +277,12 @@
 1247 if door=0 and room=47 and d5=0 then go to 5000 (DRAW_CLOSED_DOOR)
 1248 if door=0 and room=54 and d6=0 then go to 5000 (DRAW_CLOSED_DOOR)
 
-
-
 1249 if ro=0 then go to 1297 (falls through to CHECK_EXIT_ROOM)                          
 1250 if xc=1 then go to 1297 (falls through to CHECK_EXIT_ROOM)
-
 
 1251 if room=6 or 9 or 57 or 58 or 40 then go to 1261 (DRAW_PLATFORM)
 1259 if room=37 or 27 or 15 or 1 then go to 1261 (DRAW_PLATFORM)
 1260 go to 1397 (CHECK_EXIT_ROOM)
-
-
 
 1261 (DRAW_PLATFORM)
      .aton
@@ -351,52 +291,28 @@
 1264 .spn=2
 1265 .ptbl
 
-
-
-
-
-
 1397 (CHECK_EXIT_ROOM) if u>=6 and k=0 and y=1 then go to 1430 (LEFT_EXIT_ARRAY)
-
 
 1398 if u=0 and k>=11 and o=1 then go to 1492 (UP_EXIT_ARRAY)
 
-
 1400 if u>=12 and u<=20 and k>=11 and x=1 then go to 1523 (DOWN_EXIT_ARRAY)
 
-
 1401 if u>=6 and k=31 and p=1 then go to 1566 (RIGHT_EXIT_ARRAY)
-
-
 
 1405 if ob=1 then   
         ob=0
         go to 2066 (DRAW_ROOM_OBJECT)
 
-
-
 1406 go to 9999 (ANOTHER_POINTLESS_REDIRECT_TO_INC_SCORE_AND_LOOP)
-
-
-
-
 
 1430-1491 is Left exits
 1492-1522 is Upward exits
 1523-1565 is Down exits
 1566-1784 Right exits
 
-
-
 2000-2063 Room setup statements.
 
-
-
-
 * 2065 if ob=0 then go to 8996 (INC_SCORE_AND_LOOP)
-
-
-
 
 2066 (DRAW_ROOM_OBJECT) .row=3
 2068 if room=9 and obj=0 then go to 2076
@@ -412,8 +328,6 @@
 2078 .ptbl
      go to 8996 (INC_SCORE_AND_LOOP)
 
-
-
 2081 if room=27 and obj4=0 then go to 2089
 2082 if room=37 and obj5=0 then go to 2089
 2084 if room=53 and obj11=0 then go to 2089
@@ -427,8 +341,6 @@
      go to 8996 (INC_SCORE_AND_LOOP)
 3135 .row=4
 
-
-
      if room=15 then go to 3139
 3136 (WTF_L_ENTRY) if room=58 then go to 3139
 3137 if room=59 then go to 3139
@@ -438,10 +350,6 @@
 3140 .spn=9
      .ptbl
 3147 go to 8996 (INC_SCORE_AND_LOOP)
-
-
-
-
 
 
 * 3148 (COLLECT_OBJECT_DEAD)
@@ -467,15 +375,11 @@
 * 3174 if room=2 and obj15=0 then obj15=1: go to 3180 (TREE_COLLECTED)
 * 3175 go to 3268 (UPDATE_SCORE_AND_LOOP)
 
-
 * 3176 .spn=6
 *      .col=18
 * 3177.row=3
 *      .ptbl
 * 3178 go to 3266 (falls through to UPDATE_SCORE_AND_LOOP)
-
-
-
 
 * 3179 (FOOD_COLLECTED) 
 *      beep 0.3, 56
@@ -497,11 +401,8 @@
 *      ob=0
 *      pas=pas+1
 
-
 3268 (UPDATE_SCORE_AND_LOOP) print at 19,20 sc
      go to 1000 (GAME_LOOP)
-
-
 
 
 
@@ -516,8 +417,6 @@
      cls
 3310 go to 900 (DRAW_ROOM)
 
-
-
 5048 door=1
      kl=1
      .spn=10
@@ -529,13 +428,7 @@
      .row=u
      go to 3260 (nonexistant line but falls through to 3268 UPDATE_SCORE_AND_LOOP)
 
-
-
-
-
 5499 (OPEN_DOOR_WITH_PASS) if pas=0 then go to 1231 (PASS_REENTRY)
-
-
 
 5506 if room=7 and d2=0 and pas>0 then d2=1:go to 5513 (SUBTRACT_PASS)
 5507 if d1=0 and room=4 and pas>0 then d1=1:go to 5513 (SUBTRACT_PASS)
@@ -550,11 +443,7 @@
      go to 910 (MID_ROOM_INIT) 
 
 
-
 6004 (COMPLETELY_POINTLESS_CYCLE_1) go to 7000  
-
-
-
 
 6500 (WIN_GAME)
      opt=0
@@ -573,22 +462,15 @@
 6999 go to 1
 
 
-
 7000 (COMPLETELY_POINTLESS_CYCLE_2)
 7013 go to 1015
-
-
-
 
 
 7015 .aton
      if aq=1 then go to 7024 
 
-
-
 7016 sos=0
      aq=1
-
 
 7020 if kill2=0 then
        .spn=17
@@ -598,7 +480,6 @@
 7022 .row=5
      .ptbl
 
-
 7023 if kill0=0 then
         .spn=37
         .col=5
@@ -607,18 +488,9 @@
 7025 .row=4 
      .ptbl
 
-
-
-
 7028 if d1=1 then go to 7045
 
-
-
-
-
-
 7029 let sos=sos+.25
-
 
      if kill0=0 then
        .spn=37
@@ -630,9 +502,6 @@
      .len=5
 7033 .atdv
 
-
-
-
 7034 if sos<7.25 then
        .npx=-2
        .wcrv
@@ -640,10 +509,8 @@
         dl=1
         go to 7070 (ENEMY_EXIT)
 
-
 7036 if kill2=0 then go to 7038
 7037 go to 7074 (ENEMY_EXIT)
-
 
 7038 .spn=17
      .col=22
@@ -654,7 +521,6 @@
      .wcrv
 7042 .atdv
 7043 go to 7074 (ENEMY_EXIT)
-
 
 7044 if kill2=1 then go to 7049
 7045 .spn=17
@@ -674,10 +540,6 @@
 7058 .len=5
      .npx=+2
      .wcrv
-
-
-
-
 7060 if sos=14 then 
        d1=0
        sos=0
@@ -685,24 +547,14 @@
 7074 go to 1236 (ENEMY_REENTRY)
 
 
-
-
-
 8099 energy = energy - 10
 8100 if energy<=0 then go to 8900 (GAME_OVER)
 8010 print at 20,7 energy
 
-
-
 8103 if up=1 then up=0, go to 9850 (ANIMATE_MOVE_UP)
 8104 if down=1 then down=0, go to 9883 (ANIMATE_MOVE_DOWN)
-
 8105 if left=1 then left=0, k=k+1, go to 9830 (ANIMATE_FLAP_RIGHT)
 8106 if right=1 then right=0, k=k-2, go to 9800 (ANIMATE_FLAP_LEFT)
-
-
-
-
 
 
 8121 (MOVE_FORWARD) if kill2=0 and k=14 then 
@@ -711,29 +563,22 @@
         right=1
         go to 8000 (TAKE_DAMAGE)
 
-
 8122 if kill0=0 and k=9 then
         left=1
         go to 8000 (TAKE_DAMAGE)
-
 
 8123 if z=1 and k=8 then 
         right=1
         go to 8000 (TAKE_DAMAGE)
 
-
 8124 if z=1 and k=17 then
         left=1
         go to 8000 (TAKE_DAMAGE)
-
 
 8128 if lo=0 then go to 9830 (ANIMATE_FLAP_RIGHT)
 8129 if lo=1 then go to 9800 (ANIMATE_FLAP_LEFT)
 8887 (POINTLESS_REDIRECT_TO_INC_SCORE_AND_LOOP) go to 8996 (INC_SCORE_AND_LOOP)
 8890 go to 8901 (falls through to INC_SCORE_AND_LOOP)
-
-
-
 
 8900 (GAME_OVER) cls
      print at 10,0 ink 7 "what a plonker.you've just got"
@@ -743,29 +588,16 @@
      cls
      go to 1
 
-
-
-
-
 8996 (INC_SCORE_AND_LOOP) sc=sc+1
      print at 19,0 sc
 8999 ink 7
      go to 1001 (GAME_LOOP_NOUPDATE)
-
-
-
-
-
-
-
 
 9001 (LASER_FIRED) if u>5 and U<14 and k<18 and lo=1 and kill2=0 then 
        kill2=1
        for h=5 to 15
          print at h,22 "    "
          go to 9004  
-
-
 
 9002 if u<5 and u<14 and k<18 and lo=0 and kill0=0 then
         kill0=1
@@ -778,8 +610,6 @@
      sc=sc+20           
      print at 19,0 sc
 9499 go to 9901  
-
-
 
 
 
@@ -804,8 +634,6 @@
        .ptbl
        go to 8200
 
-
-
 9700 (DRAW_SQIJ_START_LEFT) .spn=30
 9701 opt=1                
 9702 .aton
@@ -822,9 +650,6 @@
 9725 .ptbl
 9750 go to 1013
 
-
-
-
 9800 (ANIMATE_FLAP_LEFT) lo=0
 9801 .col=k
 9802 .row=u
@@ -839,9 +664,6 @@
      for n=1 to 3
 9809 k=k-1
      go to 1229
-
-
-
 
 9810 (FIRE_LASER) if lo=0 then
        .spn=20          
@@ -858,14 +680,10 @@
 9817 .atof
      .spn=90           
 9818 .ptbl
-
 9819 go to 9001 (LASER_FIRED)
-
 9820 if lo=1 then
        .spn=20         
        opt=1
-
-
 9821 .aton
 9822 .col=k+9
 9823 .row=u+1
@@ -874,11 +692,7 @@
 9826 .atof
      .spn=90           
 9827 .ptbl
-
 9828 go to 9001 (LASER_FIRED)
-
-
-
 
 9830 (ANIMATE_FLAP_RIGHT) .aton
      lo=1
@@ -887,8 +701,6 @@
 9833 .spn=5                  
 9834 .ptbl
 9835 for n=1 to 3 next n
-
-
 9836 (FLAP_IN_ANI) .spn=29                 
 9837 .ptbl
 9838 for n=1 to 3 next n
@@ -898,9 +710,6 @@
 9842 k=k+1
      k=k                     
 9843 go to 1397 (CHECK_EXIT_ROOM)
-
-
-
 
 
 9850 (ANIMATE_MOVE_UP) if lo=0 then
@@ -916,8 +725,6 @@
      .atuv
 9856 print at u+5, k+2 "      "
 9857 go to 1397 (CHECK_EXIT_ROOM)
-
-
 9860 if lo=1 then
        u=u-1
        go to 9862
@@ -931,12 +738,6 @@
 9866 .ptbl
      .atuv
 9867 go to 1397 (CHECK_EXIT_ROOM)
-
-
-
-
-
-
 
 9870 if lo=1 then go to 9872
 9871 go to 9881
@@ -965,7 +766,6 @@
      .atdv
 9893 go to 1337 (ENEMY_REENTRY) 
 9894 go to 8887 (POINTLESS_REDIRECT_TO_INC_SCORE_AND_LOOP)
-
 
 9895 save "sqij!" line 1
      randomize usr 0
