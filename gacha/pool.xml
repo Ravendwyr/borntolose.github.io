@@ -33,6 +33,14 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
+	<id>s1_x_lild</id>
+    <name>Lil'D</name>
+    <title>Beautiful Facade</title>
+	<game>X</game>
+	<img>s1_x_lild</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara>  
+  <chara category="trainer">
 	<id>s2_redanni_abe</id>
     <name>Abe</name>
     <title>Domist Cartographer</title>
@@ -97,6 +105,22 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="trainer">
+	<id>s6_randocolosseum_dairyqueen</id>
+    <name>Dairy Queen</name>
+    <title>Dessert Girl</title>
+	<game>Randomized Colosseum</game>
+	<img>s6_randocolosseum_dairyqueen</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="trainer">
+	<id>s6_randoultramoon_anabellillie</id>
+    <name>Anabel Lillie</name>
+    <title>Accursed Writer</title>
+	<game>Randomized Ultra Moon</game>
+	<img>s6_randoultramoon_anabellillie</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="trainer">
 	<id>s6_sword_rey</id>
     <name>Rey</name>
     <title>Darkened Whirlingwhistler</title>
@@ -121,6 +145,14 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="trainer">
+	<id>s7_gauntblack2_reese</id>
+    <name>Reese</name>
+    <title>Dressed-Up Libertine</title>
+	<game>Gauntlet Black 2</game>
+	<img>s7_gauntblack2_reese</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara>  
+  <chara category="trainer">
 	<id>sg_vietcrystal_baba</id>
     <name>Baba</name>
     <title>Depraved Lunatic</title>
@@ -142,6 +174,14 @@
     <title>Extreme Sportsgirl</title>
 	<game>Lightning Sapphire</game>
 	<img>sg_lightsapphire_urf</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="trainer">
+	<id>rev_redrevisit_john</id>
+    <name>John</name>
+    <title>Ghostly Ferryman</title>
+	<game>Red Revisit</game>
+	<img>rev_redrevisit_john</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="trainer">
@@ -276,6 +316,18 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
+	<id>s3_crystalanni_oldenbird</id>
+    <name>OLDEN Bird</name>
+    <title>Mysterious Bird</title>
+	<game>Crystal Anniversary</game>
+	<img>s3_crystalanni_oldenbird</img>
+	<types>
+		<type>Ghost</type>
+		<type>Flying</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="pokemon">
 	<id>s3_brown_burgerkween</id>
     <name>Burger Kween</name>
     <title>Corporate Angel Face</title>
@@ -403,6 +455,18 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
+	<id>s5_fusedcrystal_nojob</id>
+    <name>No Job</name>
+    <title>Disdainful Firee</title>
+	<game>Fused Crystal</game>
+	<img>s5_fusedcrystal_nojob</img>
+	<types>
+		<type>Poison</type>
+		<type>Fire</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="pokemon">
 	<id>s6_burningred_kingjackass</id>
     <name>King Jackass</name>
     <title>Rat King</title>
@@ -432,6 +496,42 @@
 	<img>s7_gauntplatinum_elitefish</img>
 	<types>
 		<type>Water</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="pokemon">
+	<id>s7_gauntx_fucklett</id>
+    <name>Fucklett</name>
+    <title>Impudent Evercygnet</title>
+	<game>Gauntlet X</game>
+	<img>s7_gauntx_fucklett</img>
+	<types>
+		<type>Water</type>
+		<type>Flying</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="pokemon">
+	<id>s7_risingruby_hearts</id>
+    <name>Hearts</name>
+    <title>Princess of Hearts</title>
+	<game>Rising Ruby</game>
+	<img>s7_risingruby_hearts</img>
+	<types>
+		<type>Rock</type>
+		<type>Fairy</type>
+	</types>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+  <chara category="pokemon">
+	<id>s7_vega_ox</id>
+    <name>Ox</name>
+    <title>Absolute Epitome of Power</title>
+	<game>Vega</game>
+	<img>s7_vega_ox</img>
+	<types>
+		<type>Electric</type>
+		<type>Fighting</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
