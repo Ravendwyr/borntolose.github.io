@@ -4,7 +4,7 @@ function newPull() {
 	var currentDate = (new Date()).getTime();
 	var sinceLast = currentDate - localStorage.getItem("lastPullDate");
 	
-	if (localStorage.getItem("lastPullDate") == null || sinceLast > 60000) {
+	if (localStorage.getItem("lastPullDate") == null || sinceLast > 6000) {
 		document.getElementById("pullMsgUp").innerHTML = "";
 		document.getElementById("pullMsgDown").innerHTML = "";
 		pullCharacter();
@@ -19,14 +19,9 @@ function newPull() {
 	
 }
   
-function pullCharacter() {  
+function pullCharacter(critCode = "", critValue = "") {  
   
-	var Connect = new XMLHttpRequest();
-	Connect.open("GET", "pool.xml", false);
-	Connect.setRequestHeader("Content-Type", "text/xml");
-	Connect.send(null);
-
-	var response = Connect.responseXML;
+	var response = buildPool();
 	var charas = response.childNodes[0];
 	
 	//console.log(charas);
