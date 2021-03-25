@@ -29,6 +29,8 @@ function checkCode() {
 		pullChara(id);
 	}
 	
+	updateCompletion();
+	
 }
 
 function pullChara(idMD5) {
