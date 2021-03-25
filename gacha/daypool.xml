@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pools>
+	<pool>
+		<day>1</day>
+		<name>The 1st Season</name>
+		<tag>run</tag>
+		<values>
+			<value>Red</value>
+			<value>Crystal</value>
+			<value>Emerald</value>
+			<value>FireRed</value>
+			<value>Platinum</value>
+			<value>HeartGold</value>
+			<value>Black</value>
+			<value>Black 2</value>
+			<value>X</value>
+			<value>Omega Ruby</value>
+		</values>
+	</pool>
+</pools>  

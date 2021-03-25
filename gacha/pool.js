@@ -9,6 +9,8 @@ function buildPool(critCode = "", critValue = "") {
 	var response = Connect.responseXML;
 	var charas = response.childNodes[0];
 	
+	//console.log(critValue);
+	
 	if (critValue.length > 0) {
 		
 		for (i = 0; i < charas.children.length; i++) {
@@ -20,11 +22,12 @@ function buildPool(critCode = "", critValue = "") {
 				
 				if (charaValue.length > 0) {
 					for (k = 0; k < charaValue.children.length; k++) {
-						if (charaValue.children[k].textContent.toString() == critValue.children[j].textContent.toString()) {
+						if (charaValue[0].children[k].textContent.toString() == critValue.children[j].textContent.toString()) {
 							subResponse += charas.children[i];
 						}
 					}
 				} else {
+					console.log(charaValue);
 					if (charaValue.textContent.toString() == critValue.children[j].textContent.toString()) {
 							subResponse += charas.children[i];
 					}
