@@ -2,8 +2,8 @@
 <pools>
 	<pool>
 		<day>1</day>
-		<name>The 1st Season</name>
-		<tag>run</tag>
+		<name>The First Season</name>
+		<tag>game</tag>
 		<values>
 			<value>Red</value>
 			<value>Crystal</value>
@@ -15,6 +15,103 @@
 			<value>Black 2</value>
 			<value>X</value>
 			<value>Omega Ruby</value>
+		</values>
+	</pool>
+	<pool>
+		<day>2</day>
+		<name>Glitches vs Fossils</name>
+		<tag>tags</tag>
+		<values>
+			<value>fossil</value>
+			<value>glitch</value>
+		</values>
+	</pool>
+	<pool>
+		<day>3</day>
+		<name>Randomizers</name>
+		<tag>game</tag>
+		<values>
+			<value>FireRed</value>
+			<value>HeartGold</value>
+			<value>Alpha Sapphire</value>
+			<value>Randomized Platinum</value>
+			<value>Randomized White 2</value>
+			<value>Randomized Y</value>
+			<value>Fused Crystal</value>
+			<value>Randomized Colosseum</value>
+			<value>Randomized Ultra Moon</value>
+			<value>Metronome Sapphire</value>
+			<value>Sanqui Red</value>
+		</values>
+	</pool>
+	<pool>
+		<day>4</day>
+		<name>The NPCs</name>
+		<tag>tags</tag>
+		<values>
+			<value>npc</value>
+		</values>
+	</pool>
+	<pool>
+		<day>5</day>
+		<name>Grass-Fire-Water</name>
+		<tag>types</tag>
+		<values>
+			<value>Grass</value>
+			<value>Fire</value>
+			<value>Water</value>
+		</values>
+	</pool>
+	<pool>
+		<day>6</day>
+		<name>Sidegames &amp; Intermissions</name>
+		<tag>game</tag>
+		<values>
+			<value>Vietnamese Crystal</value>			<value>Trading Card Game</value>			<value>Ultra</value>			<value>Dark Graystone</value>			<value>Ash Gray</value>			<value>Bootleg Green</value>			<value>Sweet</value>			<value>Hypno's Lullaby</value>			<value>Gold SpaceWorld Demo</value>			<value>Metronome Sapphire</value>			<value>NavyBlue</value>			<value>Lightning Sapphire</value>			<value>PBR</value>			<value>Conquest</value>			<value>Channel</value>			<value>Telefang Diamond</value>			<value>Crystal 1.0LDEN</value>			<value>Detective Pikachu</value>			<value>Debug Rubin</value>			<value>Trick or Treat House</value>			<value>The Wooper Who Saved Christmas</value>			<value>Sanqui Red</value>
+		</values>
+	</pool>
+	<pool>
+		<day>7</day>
+		<name>Unusual Types</name>
+		<tag>types</tag>
+		<values>
+			<value>Bird</value>
+			<value>Illusion</value>
+			<value>Faith</value>
+			<value>Reason</value>
+			<value>Heart</value>
+			<value>Dream</value>
+			<value>Beast</value>
+			<value>Nature</value>
+			<value>Miasma</value>
+			<value>Wind</value>
+			<value>Earth</value>
+			<value>Hisou</value>
+			<value>Sound</value>
+			<value>Gas</value>
+			<value>Wood</value>
+			<value>Abnormal</value>
+			<value>Mountain</value>
+			<value>Sky</value>
+			<value>Forest</value>
+			<value>Aquatic</value>
+			<value>Desert</value>
+			<value>Grassland</value>
+			<value>Vanilla</value>
+			<value>Cherry</value>
+			<value>Strawberry</value>
+			<value>Apple</value>
+			<value>Orange</value>
+			<value>Banana</value>
+			<value>Lemon</value>
+			<value>Lime</value>
+			<value>Blueberry</value>
+			<value>Grape</value>
+			<value>Raspberry</value>
+			<value>Chocolate</value>
+			<value>Colorless</value>
+			<value>Darkness</value>
+			<value>Metal</value>
 		</values>
 	</pool>
 </pools>  

@@ -1,4 +1,8 @@
 
+function getCooldown() { 
+	return 60000;
+}
+
 function calcDexCompletion() {  
 
 	var Connect = new XMLHttpRequest();

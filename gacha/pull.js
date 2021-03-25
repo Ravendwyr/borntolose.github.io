@@ -4,55 +4,30 @@ function newPull() {
 	var currentDate = (new Date()).getTime();
 	var sinceLast = currentDate - localStorage.getItem("lastPullDate");
 	
-	if (localStorage.getItem("lastPullDate") == null || sinceLast > 6000) {
+	if (localStorage.getItem("lastPullDate") == null || sinceLast > getCooldown()) {
 		document.getElementById("pullMsgUp").innerHTML = "";
 		document.getElementById("pullMsgDown").innerHTML = "";
 		pullCharacter();
 		localStorage.setItem("lastPullDate", currentDate);
 	} else {
 		if (document.getElementById("pullImg").innerHTML == "") {
-			document.getElementById("pullMsgUp").innerHTML = "<b>Next pull possible in " + (Math.floor((60000 - sinceLast) / 1000) + 1) + " seconds.</b>";
+			document.getElementById("pullMsgUp").innerHTML = "<b>Next pull possible in " + (Math.floor((getCooldown() - sinceLast) / 1000) + 1) + " seconds.</b>";
 		} else {
-			document.getElementById("pullMsgDown").innerHTML = "<b>Next pull possible in " + (Math.floor((60000 - sinceLast) / 1000) + 1) + " seconds.</b>";
+			document.getElementById("pullMsgDown").innerHTML = "<b>Next pull possible in " + (Math.floor((getCooldown() - sinceLast) / 1000) + 1) + " seconds.</b>";
 		}
 	}
 	
 }
 
-function dayPull() {
-	
+ 
+function pullCharacter(critCode = "", critValue = "") {  
+  
 	var Connect = new XMLHttpRequest();
-	Connect.open("GET", "daypool.xml", false);
+	Connect.open("GET", "pool.xml", false);
 	Connect.setRequestHeader("Content-Type", "text/xml");
 	Connect.send(null);
 	
 	var response = Connect.responseXML;
-	var pools = response.childNodes[0];
-	
-	var critCode = pools.children[0].getElementsByTagName("tag");
-	var critValue = pools.children[0].getElementsByTagName("values");
-	
-	var currentDate = (new Date()).getTime();
-	var sinceLast = currentDate - localStorage.getItem("lastPullDate");
-	
-	if (localStorage.getItem("lastPullDate") == null || sinceLast > 000) {
-		document.getElementById("pullMsgUp").innerHTML = "";
-		document.getElementById("pullMsgDown").innerHTML = "";
-		pullCharacter(critCode, critValue);
-		localStorage.setItem("lastPullDate", currentDate);
-	} else {
-		if (document.getElementById("pullImg").innerHTML == "") {
-			document.getElementById("pullMsgUp").innerHTML = "<b>Next pull possible in " + (Math.floor((60000 - sinceLast) / 1000) + 1) + " seconds.</b>";
-		} else {
-			document.getElementById("pullMsgDown").innerHTML = "<b>Next pull possible in " + (Math.floor((60000 - sinceLast) / 1000) + 1) + " seconds.</b>";
-		}
-	}
-	
-}
-  
-function pullCharacter(critCode = "", critValue = "") {  
-  
-	var response = buildPool(critCode, critValue);
 	var charas = response.childNodes[0];
 	
 	//console.log(charas);

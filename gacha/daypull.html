@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>TPP Gacha</title>
 	<script type="text/javascript" src="utils.js"></script>
+	<script type="text/javascript" src="pool.js"></script>	
 	<script type="text/javascript" src="pull.js"></script>	
   </head>
   <body style="text-align:center">
@@ -13,8 +14,11 @@
 	<br/><br/>
 	<div id="completionRate" style="font-size:small"><script>document.write("Current completion rate: " + calcDexCompletion() + "%");</script></div>
 	<br/>
+	
+	<div id="dayPoolName" style="font-size:large"><script>document.write("Focus of the day: <b>" + currentPoolTitle() + "</b>");</script></div>
+	<br/>
 
-    <button onclick="newPull()" style="font-size:large">ROLL</button> 
+    <button onclick="dayPull()" style="font-size:large">ROLL</button> 
 	
 	<br/><br/>
 	

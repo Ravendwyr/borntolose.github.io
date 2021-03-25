@@ -15,6 +15,9 @@
 	<game>Red</game>
 	<img>s1_red_bill</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s1_firered_alice</id>
@@ -31,6 +34,9 @@
 	<game>Black</game>
 	<img>s1_black_fennel</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s1_x_lild</id>
@@ -55,6 +61,9 @@
 	<game>Red Anniversary</game>
 	<img>s2_redanni_red</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s3_crystalanni_azure</id>
@@ -63,6 +72,9 @@
 	<game>Crystal Anniversary</game>
 	<img>s3_crystalanni_azure</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s3_prism_cyan</id>
@@ -111,6 +123,9 @@
 	<game>Randomized Colosseum</game>
 	<img>s6_randocolosseum_dairyqueen</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
   </chara> 
   <chara category="trainer">
 	<id>s6_randoultramoon_anabellillie</id>
@@ -119,6 +134,9 @@
 	<game>Randomized Ultra Moon</game>
 	<img>s6_randoultramoon_anabellillie</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
   </chara> 
   <chara category="trainer">
 	<id>s6_sword_rey</id>
@@ -183,6 +201,9 @@
 	<game>Red Revisit</game>
 	<img>rev_redrevisit_john</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+	</tags>
   </chara> 
   <chara category="trainer">
 	<id>int_pbr_mysterialsim</id>
@@ -191,6 +212,9 @@
 	<game>PBR</game>
 	<img>int_pbr_mysterialsim</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
   </chara> 
   <chara category="trainer">
 	<id>int_crystalolden_jamie</id>
@@ -211,6 +235,9 @@
 		<type>Water</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fossil</tag>
+	</tags>
   </chara>  
   <chara category="pokemon">
 	<id>s1_red_birdjesus</id>
@@ -326,6 +353,9 @@
 		<type>Flying</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s3_brown_burgerkween</id>
@@ -407,6 +437,9 @@
 		<type>Water</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fossil</tag>
+	</tags>
   </chara>  
   <chara category="pokemon">
 	<id>s4_thetaemeraldex_ieadblau</id>
@@ -418,6 +451,9 @@
 		<type>Normal</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+	</tags>
   </chara>  
   <chara category="pokemon">
 	<id>s5_stormsilver_secondcat</id>
@@ -453,6 +489,9 @@
 		<type>Flying</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s5_fusedcrystal_nojob</id>
@@ -556,6 +595,9 @@
 		<type>Psychic</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>sg_sweet_vore</id>
@@ -590,6 +632,9 @@
 		<type>Normal</type>
 	</types>
     <desc>Aunque normalmente no está autorizado para participar en los combates de Pokétopia, El Huevo Malo intentó infiltrarse en la arena imitando a otros Pokémon. Si bien sus orígenes exactos son confusos, las teorías concuerdan en que fue puesto por un Glitch.</desc>
+	<tags>
+		<tag>glitch</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>int_wooperchristmas_wooper</id>
