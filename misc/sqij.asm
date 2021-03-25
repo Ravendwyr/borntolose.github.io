@@ -79,8 +79,6 @@
 90 if inkey$="1" then go to 900 (DRAW_ROOM)
 111 go to 90            
 
-
-
 900 (DRAW_ROOM) z=0     
     k=10		
     u=10                
@@ -89,8 +87,7 @@
     go to 918
 905 (SPECIALSETUPGAME) z=1    
 910 (MID_ROOM_INIT) k=5 
-                        
-                        
+
 918 paz=0               
     aq=0                
     sos=0               
@@ -98,16 +95,13 @@
     ink 1
     paper 0
 
-    
     for f=0 to 21
       print at f,0 "**************************"
     next f
 
-    
 919 for g=2 to 16
       print at g,4 "                        "
     next g
-
     
 930 .aton
     .spn=3        
@@ -175,9 +169,6 @@
 1013 (REENTRY_FROM_DRAW_SQIJ_START):
       if room=39 or room=4 or room=7 or room=14 or room=47 or room=54 then
         go to 7006 (COMPLETELY_POINTLESS_CYCLE_1)
-                    
-                    
-                    
 
 1112 if u=3 and k>=2 and o=0 then
         down=1
@@ -404,8 +395,6 @@
 3268 (UPDATE_SCORE_AND_LOOP) print at 19,20 sc
      go to 1000 (GAME_LOOP)
 
-
-
 3300 (INVENTORY_SCREEN) cls
      print at 0,10 ink 7 "inventory:"
 3302 print at 6,0 ink 7 "enertree carried " tree " bit(s)"
@@ -442,7 +431,6 @@
 5999 z=0
      go to 910 (MID_ROOM_INIT) 
 
-
 6004 (COMPLETELY_POINTLESS_CYCLE_1) go to 7000  
 
 6500 (WIN_GAME)
@@ -461,10 +449,8 @@
      cls
 6999 go to 1
 
-
 7000 (COMPLETELY_POINTLESS_CYCLE_2)
 7013 go to 1015
-
 
 7015 .aton
      if aq=1 then go to 7024 
@@ -546,7 +532,6 @@
 7070 (ENEMY_EXIT)
 7074 go to 1236 (ENEMY_REENTRY)
 
-
 8099 energy = energy - 10
 8100 if energy<=0 then go to 8900 (GAME_OVER)
 8010 print at 20,7 energy
@@ -555,7 +540,6 @@
 8104 if down=1 then down=0, go to 9883 (ANIMATE_MOVE_DOWN)
 8105 if left=1 then left=0, k=k+1, go to 9830 (ANIMATE_FLAP_RIGHT)
 8106 if right=1 then right=0, k=k-2, go to 9800 (ANIMATE_FLAP_LEFT)
-
 
 8121 (MOVE_FORWARD) if kill2=0 and k=14 then 
         print at u+1, 21 " "
@@ -610,8 +594,6 @@
      sc=sc+20           
      print at 19,0 sc
 9499 go to 9901  
-
-
 
 9500 if lo=0 then
        .spn=35
@@ -675,8 +657,7 @@
 9814 .row=u+1
 9815 .ptbl
 9816 pause 15          
-                       
-                       
+
 9817 .atof
      .spn=90           
 9818 .ptbl
@@ -710,7 +691,6 @@
 9842 k=k+1
      k=k                     
 9843 go to 1397 (CHECK_EXIT_ROOM)
-
 
 9850 (ANIMATE_MOVE_UP) if lo=0 then
        u=u-1

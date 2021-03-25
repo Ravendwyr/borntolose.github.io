@@ -2,22 +2,22 @@
 <charas>
   <chara>
 	<id>2786a8d7638153d722eb3226778bb6b0</id>
-    <code>f37b645723ddffa3f00d5d9354942c5f</code>
+    <hint>But nothing happened.</hint>
   </chara>
   <chara>
 	<id>813557642090c6d2c923ee4990073c56</id>
-    <code>5d36ead32f7a4b175cccca116cd01721</code>
+    <hint>SLOT1 SLOT2 SLOT3</hint>
   </chara>
   <chara>
 	<id>7f93cb8ebf1757c1826935df7d1202a1</id>
-    <code>e427eb477f00232a09f3d1a80b67353b</code>
+    <hint>Team Blue won the match!</hint>
   </chara>
   <chara>
 	<id>44347746a8b683b70ddcc115fd94cb7c</id>
-    <code>a473699cb7fbb26ebb5c3a4a7805892e</code>
+    <hint>#Dungeon</hint>
   </chara>
   <chara>
 	<id>e4da98f79d904d2d6d9ed07a7587a742</id>
-    <code>6fbfbb6bc28264ffe7971034da1325b9</code>
+    <hint>SPECIAL 1</hint>
   </chara>
-</charas>
+</charas> 
