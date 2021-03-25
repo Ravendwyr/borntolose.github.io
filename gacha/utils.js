@@ -30,6 +30,12 @@ function calcDexCompletion() {
 
 }
 
+function updateCompletion() {  
+
+	document.getElementById("completionRate").innerHTML = "Current completion rate: " + calcDexCompletion() + "%";
+
+}
+
 function setSeason(runName) {  
 
 	var Connect = new XMLHttpRequest();

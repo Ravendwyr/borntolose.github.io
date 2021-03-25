@@ -95,5 +95,6 @@ function eraseDex() {
 	document.getElementById("trainers").innerHTML = "";
 	document.getElementById("mons").innerHTML = "";
 	displayDex();
+	updateCompletion();
 
 }

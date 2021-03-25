@@ -65,6 +65,8 @@ function pullCharacter() {
 	
 	localStorage.setItem(id[0].textContent.toString(), "owned");
 	
+	updateCompletion();
+	
 	//console.log(localStorage);
  
 } 
