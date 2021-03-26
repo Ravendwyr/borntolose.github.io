@@ -22,6 +22,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>npc</tag>
+		<tag>villain</tag>
 	</tags>
   </chara>  
   <chara category="trainer">
@@ -46,6 +47,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>npc</tag>
+		<tag>villain</tag>
 	</tags>
   </chara>  
   <chara category="trainer">
@@ -58,6 +60,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
+		<tag>pride</tag>
 	</tags>
   </chara>  
   <chara category="trainer">
@@ -160,6 +163,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
+		<tag>pride</tag>
 	</tags>
   </chara> 
   <chara category="trainer">
@@ -172,6 +176,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>npc</tag>
+		<tag>royal</tag>
 	</tags>
   </chara> 
   <chara category="trainer">
@@ -183,6 +188,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>npc</tag>
+		<tag>pride</tag>
+		<tag>villain</tag>
 	</tags>
   </chara> 
   <chara category="trainer">
@@ -195,6 +202,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
+		<tag>royal</tag>
 	</tags>
   </chara>  
   <chara category="trainer">
@@ -220,6 +228,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
+		<tag>royal</tag>
 	</tags>
   </chara>  
   <chara category="trainer">
@@ -232,6 +241,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
+		<tag>pride</tag>
 	</tags>
   </chara>  
   <chara category="trainer">
@@ -244,6 +254,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
+		<tag>pride</tag>
 	</tags>
   </chara> 
   <chara category="trainer">
@@ -304,6 +315,7 @@
 	<tags>
 		<tag>host</tag>
 		<tag>olden</tag>
+		<tag>villain</tag>
 	</tags>
   </chara> 
   <chara category="pokemon">
@@ -379,6 +391,9 @@
 	<species>Groudon</species>
 	<truename>KENYA</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>release</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s1_black_petersparkler</id>
@@ -406,6 +421,9 @@
 	<species>Magikarp</species>
 	<truename>BABA</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>release</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s2_touhoumon_awoo</id>
@@ -465,6 +483,7 @@
 		<tag>fakemon</tag>
 		<tag>glitch</tag>
 		<tag>olden</tag>
+		<tag>villain</tag>
 	</tags>
   </chara> 
   <chara category="pokemon">
@@ -479,6 +498,9 @@
 	<species>Sylveon</species>
 	<truename>BBbkkkkk</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>royal</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s3_brown_quartz</id>
@@ -494,6 +516,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>glitch</tag>
+		<tag>release</tag>
 	</tags>
   </chara> 
   <chara category="pokemon">
@@ -508,6 +531,10 @@
 	<species>Shinx</species>
 	<truename>♀♀0♀♀♀ ::.</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>pride</tag>
+		<tag>release</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s3_sun_ribomber</id>
@@ -598,6 +625,9 @@
 	<species>Glameow</species>
 	<truename>222  ♀- s</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>pride</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s5_stormsilver_rustycat</id>
@@ -645,6 +675,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
+		<tag>release</tag>
 	</tags>
   </chara> 
   <chara category="pokemon">
@@ -659,6 +690,9 @@
 	<species>Ratticate</species>
 	<truename>JJKSS</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>royal</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s6_xg_sparkleon</id>
@@ -713,6 +747,9 @@
 	<species>Diancie</species>
 	<truename></truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>royal</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s7_vega_ox</id>
@@ -761,6 +798,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>glitch</tag>
+		<tag>villain</tag>
 	</tags>
   </chara> 
   <chara category="pokemon">
@@ -777,6 +815,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
+		<tag>villain</tag>
 	</tags>
   </chara> 
   <chara category="pokemon">

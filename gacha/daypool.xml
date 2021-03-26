@@ -19,13 +19,12 @@
 	</pool>
 	<pool>
 		<day>2</day>
-		<name>Glitches vs Fossils</name>
+		<name>Forever Lost</name>
 		<values>
-			<value tag="tags">fossil</value>
-			<value tag="tags">helix</value>
-			<value tag="tags">dome</value>
-			<value tag="tags">glitch</value>
-			<value tag="tags">olden</value>
+			<value tag="tags">release</value>
+			<value tag="name">Camilla</value>
+			<value tag="name">Slash</value>
+			<value tag="name">Uno</value>
 		</values>
 	</pool>
 	<pool>
@@ -128,6 +127,24 @@
 			<value tag="game">Ultra Sun</value>
 			<value tag="game">Randomized Ultra Moon</value>
 			<value tag="name">Fate</value>
+			<value tag="species">Alolan Rattata</value>
+			<value tag="species">Alolan Rattatac</value>
+			<value tag="species">Alolan Raichu</value>
+			<value tag="species">Alolan Sandshrew</value>
+			<value tag="species">Alolan Sandslash</value>
+			<value tag="species">Alolan Diglett</value>
+			<value tag="species">Alolan Dugtrio</value>
+			<value tag="species">Alolan Meowth</value>
+			<value tag="species">Alolan Persian</value>
+			<value tag="species">Alolan Vulpix</value>
+			<value tag="species">Alolan Ninetales</value>
+			<value tag="species">Alolan Geodude</value>
+			<value tag="species">Alolan Graveler</value>
+			<value tag="species">Alolan Golem</value>
+			<value tag="species">Alolan Grimer</value>
+			<value tag="species">Alolan Muk</value>
+			<value tag="species">Alolan Exeggutor</value>
+			<value tag="species">Alolan Marrowak</value>
 		</values>
 	</pool>
 	<pool>
@@ -139,24 +156,33 @@
 	</pool>
 	<pool>
 		<day>11</day>
-		<name>May Day</name>
+		<name>Green Greens</name>
 		<values>
-			<value tag="name">Camilla A. Slash</value>
-			<value tag="name">A-chan</value>
-			<value tag="name">Camilla</value>
-			<value tag="name">Slash</value>
-			<value tag="name">Nina</value>
-			<value tag="name">Acapella</value>
-			<value tag="name">Hannah</value>
-			<value tag="name">Envy</value>
-			<value tag="name">Fate</value>
-			<value tag="name">Nia</value>
-			<value tag="name">May</value>
-			<value tag="name">Agate</value>
-			<value tag="name">Marina</value>
-			<value tag="name">Urf</value>
-			<value tag="name">Petra</value>
-			<value tag="name">Chicka</value>
+			<value tag="types">Grass</value>
+			<value tag="types">Nature</value>
+			<value tag="types">Lime</value>
+			<value tag="types">Grassland</value>
+			<value tag="game">Bootleg Green</value>
+			<value tag="name">Edna</value>
+		</values>
+	</pool>
+	<pool>
+		<day>12</day>
+		<name>Anniversary Day</name>
+		<values>
+			<value tag="game">Red</value>
+			<value tag="game">Red Anniversary</value>
+			<value tag="game">Crystal Anniversary</value>
+			<value tag="game">Chatty Yellow</value>
+			<value tag="game">Dual Red &amp; Blue</value>
+			<value tag="game">Burning Red</value>
+			<value tag="game">Gauntlet Red</value>
+			<value tag="game">Gauntlet Crystal</value>
+			<value tag="game">Gauntlet Emerald</value>
+			<value tag="game">Gauntlet Platinum</value>
+			<value tag="game">Gauntlet Black 2</value>
+			<value tag="game">Gauntlet X</value>
+			<value tag="game">Chatty Crystal</value>
 		</values>
 	</pool>
 	<pool>
@@ -176,10 +202,151 @@
 			<value tag="tags">glitch</value>
 		</values>
 	</pool>
-	
-<!-- START TEMPORARY POOLS -->	
 	<pool>
 		<day>14</day>
+		<name>Eeveelution Addiction</name>
+		<values>
+			<value tag="species">Eevee</value>
+			<value tag="species">Vaporeon</value>
+			<value tag="species">Jolteon</value>
+			<value tag="species">Flareon</value>
+			<value tag="species">Espeon</value>
+			<value tag="species">Umbreon</value>
+			<value tag="species">Glaceon</value>
+			<value tag="species">Leafeon</value>
+			<value tag="species">Sylveon</value>
+			<value tag="name">Bill</value>
+			<value tag="name">Altareon</value>
+		</values>
+	</pool>
+	<pool>
+		<day>15</day>
+		<name>A</name>
+		<values>
+			<value tag="truename">A</value>
+			<value tag="truename">AA</value>
+			<value tag="truename">AAAAAAA</value>
+			<value tag="truename">AAAAAAAAAA</value>
+			<value tag="truename">AAAAAAaaaa</value>
+		</values>
+	</pool>
+	<pool>
+		<day>16</day>
+		<name>Into the Bootlegs</name>
+		<values>
+			<value tag="game">Vietnamese Crystal</value>
+			<value tag="game">Bootleg Green</value>
+			<value tag="game">Lightning Sapphire</value>
+			<value tag="game">Telefang Diamond</value>
+		</values>
+	</pool>
+	<pool>
+		<day>17</day>
+		<name>Soaring the Sky</name>
+		<values>
+			<value tag="types">Flying</value>
+			<value tag="types">Wind</value>
+			<value tag="types">Bird</value>
+			<value tag="types">Sky</value>
+		</values>
+	</pool>
+	<pool>
+		<day>18</day>
+		<name>Coronation Day</name>
+		<values>
+			<value tag="tag">royal</value>
+		</values>
+	</pool>
+	<pool>
+		<day>19</day>
+		<name>Doggos</name>
+		<values>
+			<value tag="name">Camilla A. Slash</value>
+			<value tag="name">A-chan</value>
+			<value tag="name">Camilla</value>
+			<value tag="name">Slash</value>
+			<value tag="name">Aoo-chan</value>
+			<value tag="species">Growlithe</value>
+			<value tag="species">Arcanine</value>
+			<value tag="species">Snubbull</value>
+			<value tag="species">Granbull</value>
+			<value tag="species">Houndour</value>
+			<value tag="species">Houndoom</value>
+			<value tag="species">Entei</value>
+			<value tag="species">Raikou</value>
+			<value tag="species">Suicune</value>
+			<value tag="species">Poochyena</value>
+			<value tag="species">Mighthyena</value>
+			<value tag="species">Electrike</value>
+			<value tag="species">Manectric</value>
+			<value tag="species">Lillipup</value>
+			<value tag="species">Herdier</value>
+			<value tag="species">Stoutland</value>
+			<value tag="species">Furfrou</value>
+			<value tag="species">Rockruff </value>
+			<value tag="species">Lycanroc</value>
+			<value tag="species">Yamper</value>
+			<value tag="species">Boltund</value>
+			<value tag="species">Zacian</value>
+			<value tag="species">Zamazenta</value>
+			<value tag="species">Momiji</value>
+		</values>
+	</pool>
+	<pool>
+		<day>20</day>
+		<name>𝕿𝖍𝖊 𝕲𝖆𝖚𝖓𝖙𝖑𝖊𝖙</name>
+		<values>
+			<value tag="game">Gauntlet Red</value>
+			<value tag="game">Gauntlet Crystal</value>
+			<value tag="game">Gauntlet Emerald</value>
+			<value tag="game">Gauntlet Platinum</value>
+			<value tag="game">Gauntlet Black 2</value>
+			<value tag="game">Gauntlet X</value>
+		</values>
+	</pool>
+	<pool>
+		<day>21</day>
+		<name>Pride Day</name>
+		<values>
+			<value tag="tags">pride</value>
+		</values>
+	</pool>
+	<pool>
+		<day>22</day>
+		<name>Rockborn</name>
+		<values>
+			<value tag="types">rock</value>
+			<value tag="tags">fossil</value>
+		</values>
+	</pool>
+	<pool>
+		<day>23</day>
+		<name>Night of the Villains</name>
+		<values>
+			<value tag="tags">villain</value>
+		</values>
+	</pool>
+	<pool>
+		<day>24</day>
+		<name>Visits &amp; Revisits</name>
+		<values>
+			<value tag="game">Red</value><value tag="game">Red Revisit</value>
+			<value tag="game">Crystal</value><value tag="game">Crystal Revisit</value>
+			<value tag="game">Emerald</value><value tag="game">Emerald Revisit</value>
+			<value tag="game">FireRed</value><value tag="game">FireRed Revisit</value>
+			<value tag="game">Black</value><value tag="game">Black Revisit</value>
+			<value tag="game">Touhoumon</value><value tag="game">Touhoumon Revisit</value>
+			<value tag="game">Burning Red</value>
+			<value tag="game">Sword</value><value tag="game">Sword - Isle of Armor</value>
+			<value tag="game">Sword</value><value tag="game">Sword - Crown Tundra</value>
+			<value tag="game">Trading Card Game</value>
+			<value tag="game">Conquest</value>
+			<value tag="game">Telefang Diamond</value>
+			<value tag="game">Trading Card Game 2</value>
+		</values>
+	</pool>
+	<pool>
+		<day>25</day>
 		<name>Glitches vs Fossils</name>
 		<values>
 			<value tag="tags">fossil</value>
@@ -190,137 +357,110 @@
 		</values>
 	</pool>
 	<pool>
-		<day>15</day>
-		<name>Randomizer Galore</name>
+		<day>26</day>
+		<name>Single-Lettered</name>
 		<values>
-			<value tag="game">FireRed</value>
-			<value tag="game">HeartGold</value>
-			<value tag="game">Alpha Sapphire</value>
-			<value tag="game">Randomized Platinum</value>
-			<value tag="game">Randomized White 2</value>
-			<value tag="game">Randomized Y</value>
-			<value tag="game">Fused Crystal</value>
-			<value tag="game">Randomized Colosseum</value>
-			<value tag="game">Randomized Ultra Moon</value>
-			<value tag="game">Metronome Sapphire</value>
-			<value tag="game">Sanqui Red</value>
+			<value tag="truename">A</value><value tag="truename">a</value>
+			<value tag="truename">B</value><value tag="truename">b</value>
+			<value tag="truename">C</value><value tag="truename">c</value>
+			<value tag="truename">D</value><value tag="truename">d</value>
+			<value tag="truename">E</value><value tag="truename">e</value>
+			<value tag="truename">F</value><value tag="truename">f</value>
+			<value tag="truename">G</value><value tag="truename">g</value>
+			<value tag="truename">H</value><value tag="truename">h</value>
+			<value tag="truename">I</value><value tag="truename">i</value>
+			<value tag="truename">J</value><value tag="truename">j</value>
+			<value tag="truename">K</value><value tag="truename">k</value>
+			<value tag="truename">L</value><value tag="truename">l</value>
+			<value tag="truename">M</value><value tag="truename">m</value>
+			<value tag="truename">N</value><value tag="truename">n</value>
+			<value tag="truename">O</value><value tag="truename">o</value>
+			<value tag="truename">P</value><value tag="truename">p</value>
+			<value tag="truename">Q</value><value tag="truename">q</value>
+			<value tag="truename">R</value><value tag="truename">r</value>
+			<value tag="truename">S</value><value tag="truename">s</value>
+			<value tag="truename">T</value><value tag="truename">t</value>
+			<value tag="truename">U</value><value tag="truename">u</value>
+			<value tag="truename">V</value><value tag="truename">v</value>
+			<value tag="truename">W</value><value tag="truename">w</value>
+			<value tag="truename">X</value><value tag="truename">x</value>
+			<value tag="truename">Y</value><value tag="truename">y</value>
+			<value tag="truename">Z</value><value tag="truename">z</value>
+			<value tag="species">Unown</value>
 		</values>
 	</pool>
 	<pool>
-		<day>16</day>
-		<name>Non-Playable Characters</name>
-		<values>
-			<value tag="tags">npc</value>
-		</values>
-	</pool>
-	<pool>
-		<day>17</day>
-		<name>Grass-Fire-Water</name>
-		<values>
-			<value tag="types">Grass</value>
-			<value tag="types">Fire</value>
-			<value tag="types">Water</value>
-		</values>
-	</pool>
-	<pool>
-		<day>18</day>
-		<name>Sidegames &amp; Intermissions</name>
-		<values>
-			<value tag="game">Vietnamese Crystal</value>
-			<value tag="game">Trading Card Game</value>
-			<value tag="game">Ultra</value>
-			<value tag="game">Dark Graystone</value>
-			<value tag="game">Ash Gray</value>
-			<value tag="game">Bootleg Green</value>
-			<value tag="game">Sweet</value>
-			<value tag="game">Hypno's Lullaby</value>
-			<value tag="game">Gold SpaceWorld Demo</value>
-			<value tag="game">Metronome Sapphire</value>
-			<value tag="game">NavyBlue</value>
-			<value tag="game">Lightning Sapphire</value>
-			<value tag="game">PBR</value>
-			<value tag="game">Conquest</value>
-			<value tag="game">Channel</value>
-			<value tag="game">Telefang Diamond</value>
-			<value tag="game">Crystal 1.0LDEN</value>
-			<value tag="game">Detective Pikachu</value>
-			<value tag="game">Debug Rubin</value>
-			<value tag="game">Trick or Treat House</value>
-			<value tag="game">The Wooper Who Saved Christmas</value>
-			<value tag="game">Sanqui Red</value>
-		</values>
-	</pool>
-	<pool>
-		<day>19</day>
-		<name>Unusual Types</name>
-		<values>
-			<value tag="types">Bird</value>
-			<value tag="types">Illusion</value>
-			<value tag="types">Faith</value>
-			<value tag="types">Reason</value>
-			<value tag="types">Heart</value>
-			<value tag="types">Dream</value>
-			<value tag="types">Beast</value>
-			<value tag="types">Nature</value>
-			<value tag="types">Miasma</value>
-			<value tag="types">Wind</value>
-			<value tag="types">Earth</value>
-			<value tag="types">Hisou</value>
-			<value tag="types">Sound</value>
-			<value tag="types">Gas</value>
-			<value tag="types">Wood</value>
-			<value tag="types">Abnormal</value>
-			<value tag="types">Mountain</value>
-			<value tag="types">Sky</value>
-			<value tag="types">Forest</value>
-			<value tag="types">Aquatic</value>
-			<value tag="types">Desert</value>
-			<value tag="types">Grassland</value>
-			<value tag="types">Vanilla</value>
-			<value tag="types">Cherry</value>
-			<value tag="types">Strawberry</value>
-			<value tag="types">Apple</value>
-			<value tag="types">Orange</value>
-			<value tag="types">Banana</value>
-			<value tag="types">Lemon</value>
-			<value tag="types">Lime</value>
-			<value tag="types">Blueberry</value>
-			<value tag="types">Grape</value>
-			<value tag="types">Raspberry</value>
-			<value tag="types">Chocolate</value>
-			<value tag="types">Colorless</value>
-			<value tag="types">Darkness</value>
-			<value tag="types">Metal</value>
-		</values>
-	</pool>
-	<pool>
-		<day>20</day>
-		<name>Helix vs Dome</name>
-		<values>
-			<value tag="tags">helix</value>
-			<value tag="tags">dome</value>
-		</values>
-	</pool>
-	<pool>
-		<day>21</day>
-		<name>Welcome to Alola</name>
+		<day>27</day>
+		<name>Time and Dimensions</name>
 		<values>
 			<value tag="game">Sun</value>
 			<value tag="game">Waning Moon</value>
+			<value tag="game">Blazed Glazed</value>
 			<value tag="game">Ultra Sun</value>
+			<value tag="game">Burning Red</value>
 			<value tag="game">Randomized Ultra Moon</value>
-			<value tag="name">Fate</value>
+			<value tag="game">The Wooper Who Saved Christmas</value>
+			<value tag="name">Doctor Hoot</value>
+			<value tag="name">Lum</value>
+			<value tag="name">Venus</value>
+			<value tag="name">Calem</value>
+			<value tag="name">Redo</value>
+			<value tag="species">Giratina</value>
+			<value tag="species">Nihilego</value>
+			<value tag="species">Buzzwole</value>
+			<value tag="species">Pheromosa</value>
+			<value tag="species">Xurkitree</value>
+			<value tag="species">Celesteela</value>
+			<value tag="species">Kartana</value>
+			<value tag="species">Guzzlord</value>
+			<value tag="species">Blacephalon</value>
+			<value tag="species">Poipole</value>
+			<value tag="species">Naganadel</value>
 		</values>
 	</pool>
 	<pool>
-		<day>22</day>
-		<name>New Species</name>
+		<day>28</day>
+		<name>RED vs BLUE</name>
 		<values>
-			<value tag="tags">fakemon</value>
+			<value tag="game">Dual Red &amp; Blue</value>
+			<value tag="game">Red</value>
+			<value tag="game">FireRed</value>
+			<value tag="game">Red Anniversary</value>
+			<value tag="game">Burning Red</value>
+			<value tag="game">Gauntlet Red</value>
+			<value tag="game">FireRed Revisit</value>
+			<value tag="game">Red Revisit</value>
+			<value tag="game">NavyBlue</value>
+			<value tag="game">Sanqui Red</value>
+			<value tag="truename">RED</value>
+			<value tag="truename">BLUE</value>
+			<value tag="types">Fire</value>
+			<value tag="types">Water</value>
+			<value tag="types">Ice</value>
+			<value tag="types">Cherry</value>
+			<value tag="types">Strawberry</value>
+			<value tag="types">Apple</value>
+			<value tag="types">Blueberry</value>
+			<value tag="types">Aquatic</value>
 		</values>
 	</pool>
 	<pool>
-		<day>23</day>
+		<day>29</day>
+		<name>Distant Lands</name>
+		<values>
+			<value tag="game">Brown</value>
+			<value tag="game">Prism</value>
+			<value tag="game">Blazed Glazed</value>
+			<value tag="game">Bronze</value>
+			<value tag="game">Flora Sky</value>
+			<value tag="game">Vega</value>
+			<value tag="game">Ultra</value>
+			<value tag="game">Sweet</value>
+			<value tag="game">NavyBlue</value>
+		</values>
+	</pool>
+	<pool>
+		<day>30</day>
 		<name>May Day</name>
 		<values>
 			<value tag="name">Camilla A. Slash</value>
@@ -339,89 +479,6 @@
 			<value tag="name">Urf</value>
 			<value tag="name">Petra</value>
 			<value tag="name">Chicka</value>
-		</values>
-	</pool>
-	<pool>
-		<day>24</day>
-		<name>First Partners</name>
-		<values>
-			<value tag="tags">starter</value>
-		</values>
-	</pool>
-	<pool>
-		<day>25</day>
-		<name>Glitches vs Fossils</name>
-		<values>
-			<value tag="tags">fossil</value>
-			<value tag="tags">helix</value>
-			<value tag="tags">dome</value>
-			<value tag="tags">glitch</value>
-			<value tag="tags">olden</value>
-		</values>
-	</pool>
-	<pool>
-		<day>26</day>
-		<name>Randomizer Galore</name>
-		<values>
-			<value tag="game">FireRed</value>
-			<value tag="game">HeartGold</value>
-			<value tag="game">Alpha Sapphire</value>
-			<value tag="game">Randomized Platinum</value>
-			<value tag="game">Randomized White 2</value>
-			<value tag="game">Randomized Y</value>
-			<value tag="game">Fused Crystal</value>
-			<value tag="game">Randomized Colosseum</value>
-			<value tag="game">Randomized Ultra Moon</value>
-			<value tag="game">Metronome Sapphire</value>
-			<value tag="game">Sanqui Red</value>
-		</values>
-	</pool>
-	<pool>
-		<day>27</day>
-		<name>Non-Playable Characters</name>
-		<values>
-			<value tag="tags">npc</value>
-		</values>
-	</pool>
-	<pool>
-		<day>28</day>
-		<name>Grass-Fire-Water</name>
-		<values>
-			<value tag="types">Grass</value>
-			<value tag="types">Fire</value>
-			<value tag="types">Water</value>
-		</values>
-	</pool>
-	<pool>
-		<day>29</day>
-		<name>Welcome to Alola</name>
-		<values>
-			<value tag="game">Sun</value>
-			<value tag="game">Waning Moon</value>
-			<value tag="game">Ultra Sun</value>
-			<value tag="game">Randomized Ultra Moon</value>
-			<value tag="name">Fate</value>
-		</values>
-	</pool>
-<!-- END TEMPORARY POOLS -->
-	
-	<pool>
-		<day>30</day>
-		<name>Anniversary Day</name>
-		<values>
-			<value tag="game">Red</value>
-			<value tag="game">Red Anniversary</value>
-			<value tag="game">Crystal Anniversary</value>
-			<value tag="game">Chatty Yellow</value>
-			<value tag="game">Dual Red &amp; Blue</value>
-			<value tag="game">Burning Red</value>
-			<value tag="game">Gauntlet Red</value>
-			<value tag="game">Gauntlet Crystal</value>
-			<value tag="game">Gauntlet Emerald</value>
-			<value tag="game">Gauntlet Platinum</value>
-			<value tag="game">Gauntlet Black 2</value>
-			<value tag="game">Gauntlet X</value>
-			<value tag="game">Chatty Crystal</value>
 		</values>
 	</pool>
 	<pool>
@@ -442,7 +499,10 @@
 		<day>0</day>
 		<name>Happy Charap!</name>
 		<values>
-			<value tag="name">El Huevo Malo</value>
+			<value tag="game">Crystal 1.OLDEN</value>
+			<value tag="game">Metronome Sapphire</value>
+			<value tag="game">Metronome Ruby</value>
+			<value tag="name">Charap</value>
 		</values>
 	</pool>
 </pools>  
