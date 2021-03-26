@@ -419,6 +419,7 @@
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>fakemon</tag>
 		<tag>glitch</tag>
 		<tag>olden</tag>
 	</tags>
@@ -482,6 +483,9 @@
 		<type>Flying</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
   </chara>  
   <chara category="pokemon">
 	<id>s4_blazedglazed_hugbug</id>
@@ -574,6 +578,9 @@
 		<type>Fire</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s6_burningred_kingjackass</id>
@@ -643,6 +650,9 @@
 		<type>Fighting</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s8_chattycrystal_peeps</id>
@@ -654,6 +664,9 @@
 		<type>Psychic</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>sg_bootleggreen_mom</id>
@@ -679,6 +692,9 @@
 		<type>Chocolate</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>rev_blackrevisit_petersparkler</id>

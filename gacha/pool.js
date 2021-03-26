@@ -6,7 +6,8 @@ function currentPoolTitle() {
 	Connect.setRequestHeader("Content-Type", "text/xml");
 	Connect.send(null);
 	
-	var day = new Date().getDay();
+	var day = new Date().getDate();
+	if (day == 1 && (new Date()).getMonth() == 3) { day = 0 };
 	var response = Connect.responseXML;
 	var pools = response.childNodes[0];
 	
@@ -27,7 +28,7 @@ function currentPoolTitle() {
 	
 }
 
-function buildPool(critCode = "", critValue = "") {
+function buildPool(critValue = "") {
 	
 	var Connect = new XMLHttpRequest();
 	Connect.open("GET", "pool.xml", false);
@@ -49,7 +50,7 @@ function buildPool(critCode = "", critValue = "") {
 			// Loop on criteria values
 			for (j = 0; j < critValue[0].children.length; j++) {
 								
-				var charaValue = currentChara.getElementsByTagName(critCode[0].textContent.toString());
+				var charaValue = currentChara.getElementsByTagName(critValue[0].children[j].getAttribute("tag"));
 				//console.log(charaValue);
 								
 				if (charaValue.length > 0) {
@@ -95,7 +96,8 @@ function dayPull() {
 	Connect.setRequestHeader("Content-Type", "text/xml");
 	Connect.send(null);
 	
-	var day = new Date().getDay();
+	var day = new Date().getDate();
+	if (day == 1 && (new Date()).getMonth() == 3) { day = 0 };
 	var response = Connect.responseXML;
 	var pools = response.childNodes[0];
 	
@@ -108,7 +110,6 @@ function dayPull() {
 		var currentDay = currentPool.getElementsByTagName("day");
 		
 		if (currentDay[0].textContent.toString() == day) { 
-			critCode = currentPool.getElementsByTagName("tag");
 			critValue = currentPool.getElementsByTagName("values"); 
 			break ; 
 		}
@@ -121,7 +122,7 @@ function dayPull() {
 	if (localStorage.getItem("lastPullDate") == null || sinceLast > getCooldown()) {
 		document.getElementById("pullMsgUp").innerHTML = "";
 		document.getElementById("pullMsgDown").innerHTML = "";
-		pullDayCharacter(critCode, critValue);
+		pullDayCharacter(critValue);
 		localStorage.setItem("lastPullDate", currentDate);
 	} else {
 		if (document.getElementById("pullImg").innerHTML == "") {
@@ -134,9 +135,9 @@ function dayPull() {
 }
 
 
-function pullDayCharacter(critCode = "", critValue = "") {  
+function pullDayCharacter(critValue = "") {  
   
-	var response = buildPool(critCode, critValue);
+	var response = buildPool(critValue);
 	var charas = response.childNodes[0];
 	
 	//console.log(charas);
