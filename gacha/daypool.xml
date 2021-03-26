@@ -294,14 +294,26 @@
 	</pool>
 	<pool>
 		<day>20</day>
-		<name>𝕿𝖍𝖊 𝕲𝖆𝖚𝖓𝖙𝖑𝖊𝖙</name>
+		<name>Gym Leader to Compete</name>
 		<values>
-			<value tag="game">Gauntlet Red</value>
-			<value tag="game">Gauntlet Crystal</value>
-			<value tag="game">Gauntlet Emerald</value>
-			<value tag="game">Gauntlet Platinum</value>
-			<value tag="game">Gauntlet Black 2</value>
-			<value tag="game">Gauntlet X</value>
+			<value tag="name">Misty</value>
+			<value tag="name">Sabrina</value>
+			<value tag="name">Artemis</value>
+			<value tag="name">Honey</value>
+			<value tag="name">Alice</value>
+			<value tag="name">Aoo-chan</value>
+			<value tag="name">Nigel</value>
+			<value tag="name">Abe</value>
+			<value tag="name">Y</value>
+			<value tag="name">Dr. Alek</value>
+			<value tag="name">Red</value>
+			<value tag="name">Urf</value>
+			<value tag="name">Dippy K.</value>
+			<value tag="name">Napoleon</value>
+			<value tag="name">Stars</value>
+			<value tag="name">Skye</value>
+			<value tag="name">Eunice</value>
+			<value tag="name">Ébnert</value>
 		</values>
 	</pool>
 	<pool>
