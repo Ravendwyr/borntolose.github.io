@@ -7,6 +7,10 @@
 	<game>Red</game>
 	<img>s1_red_red</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>helix</tag>
+		<tag>host</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s1_red_bill</id>
@@ -26,6 +30,10 @@
 	<game>FireRed</game>
 	<img>s1_firered_alice</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dome</tag>
+		<tag>host</tag>
+	</tags>
   </chara>    
   <chara category="trainer">
 	<id>s1_black_fennel</id>
@@ -45,6 +53,9 @@
 	<game>X</game>
 	<img>s1_x_lild</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s2_redanni_abe</id>
@@ -53,6 +64,10 @@
 	<game>Red Anniversary</game>
 	<img>s2_redanni_abe</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dome</tag>
+		<tag>host</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s2_redanni_red</id>
@@ -62,6 +77,7 @@
 	<img>s2_redanni_red</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>helix</tag>
 		<tag>npc</tag>
 	</tags>
   </chara>  
@@ -83,6 +99,10 @@
 	<game>Prism</game>
 	<img>s3_prism_cyan</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>olden</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s4_ultrasun_roark</id>
@@ -91,6 +111,9 @@
 	<game>Ultra Sun</game>
 	<img>s4_ultrasun_roark</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s5_dualredblue_cici</id>
@@ -99,6 +122,10 @@
 	<game>Dual Red &amp; Blue</game>
 	<img>s5_dualredblue_cici</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>helix</tag>
+		<tag>host</tag>
+	</tags>
   </chara>    
   <chara category="trainer">
 	<id>s5_dualredblue_xena</id>
@@ -107,6 +134,11 @@
 	<game>Dual Red &amp; Blue</game>
 	<img>s5_dualredblue_xena</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dome</tag>
+		<tag>glitch</tag>
+		<tag>host</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s6_voltwhite_aqua</id>
@@ -115,6 +147,9 @@
 	<game>Volt White</game>
 	<img>s6_voltwhite_aqua</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara> 
   <chara category="trainer">
 	<id>s6_randocolosseum_dairyqueen</id>
@@ -145,6 +180,9 @@
 	<game>Sword</game>
 	<img>s6_sword_rey</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s7_gauntred_redo</id>
@@ -153,6 +191,10 @@
 	<game>Gauntlet Red</game>
 	<img>s7_gauntred_redo</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>helix</tag>
+		<tag>host</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s7_gauntemerald_nia</id>
@@ -161,6 +203,9 @@
 	<game>Gauntlet Emerald</game>
 	<img>s7_gauntemerald_nia</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>s7_gauntblack2_reese</id>
@@ -169,6 +214,9 @@
 	<game>Gauntlet Black 2</game>
 	<img>s7_gauntblack2_reese</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara>  
   <chara category="trainer">
 	<id>sg_vietcrystal_baba</id>
@@ -177,6 +225,9 @@
 	<game>Vietnamese Crystal</game>
 	<img>sg_vietcrystal_baba</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara> 
   <chara category="trainer">
 	<id>sg_tcg_yugi</id>
@@ -185,6 +236,9 @@
 	<game>Trading Card Game</game>
 	<img>sg_tcg_yugi</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara> 
   <chara category="trainer">
 	<id>sg_lightsapphire_urf</id>
@@ -193,6 +247,9 @@
 	<game>Lightning Sapphire</game>
 	<img>sg_lightsapphire_urf</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara> 
   <chara category="trainer">
 	<id>rev_redrevisit_john</id>
@@ -223,6 +280,10 @@
 	<game>Crystal 1.OLDEN</game>
 	<img>int_crystalolden_jamie</img>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>olden</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s1_red_lordhelix</id>
@@ -237,6 +298,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fossil</tag>
+		<tag>helix</tag>
 	</tags>
   </chara>  
   <chara category="pokemon">
@@ -250,6 +312,9 @@
 		<type>Flying</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>helix</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s1_crystal_lazergator</id>
@@ -355,6 +420,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>glitch</tag>
+		<tag>olden</tag>
 	</tags>
   </chara> 
   <chara category="pokemon">
@@ -378,6 +444,9 @@
 		<type>Abnormal</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+	</tags>
   </chara> 
   <chara category="pokemon">
 	<id>s3_randoplatinum_moonflash</id>
@@ -439,6 +508,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fossil</tag>
+		<tag>helix</tag>
 	</tags>
   </chara>  
   <chara category="pokemon">
@@ -647,5 +717,8 @@
 		<type>Ground</type>
 	</types>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
   </chara> 
 </charas>  

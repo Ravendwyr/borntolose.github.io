@@ -23,7 +23,10 @@
 		<tag>tags</tag>
 		<values>
 			<value>fossil</value>
+			<value>helix</value>
+			<value>dome</value>
 			<value>glitch</value>
+			<value>olden</value>
 		</values>
 	</pool>
 	<pool>
@@ -46,7 +49,7 @@
 	</pool>
 	<pool>
 		<day>4</day>
-		<name>The NPCs</name>
+		<name>Non-Playable Characters</name>
 		<tag>tags</tag>
 		<values>
 			<value>npc</value>
@@ -112,6 +115,38 @@
 			<value>Colorless</value>
 			<value>Darkness</value>
 			<value>Metal</value>
+		</values>
+	</pool>
+	<pool>
+		<day>8</day>
+		<name>Helix vs Dome</name>
+		<tag>tags</tag>
+		<values>
+			<value>helix</value>
+			<value>dome</value>
+		</values>
+	</pool>
+	<pool>
+		<day>9</day>
+		<name>May Day</name>
+		<tag>name</tag>
+		<values>
+			<value>Camilla A. Slash</value>
+			<value>A-chan</value>
+			<value>Camilla</value>
+			<value>Slash</value>
+			<value>Nina</value>
+			<value>Acapella</value>
+			<value>Hannah</value>
+			<value>Envy</value>
+			<value>Fate</value>
+			<value>Nia</value>
+			<value>May</value>
+			<value>Agate</value>
+			<value>Marina</value>
+			<value>Urf</value>
+			<value>Petra</value>
+			<value>Chicka</value>
 		</values>
 	</pool>
 </pools>  
