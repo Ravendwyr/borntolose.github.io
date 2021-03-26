@@ -6,6 +6,7 @@
     <title>Original Host</title>
 	<game>Red</game>
 	<img>s1_red_red</img>
+	<truename>RED</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>helix</tag>
@@ -29,6 +30,7 @@
     <title>Leftist Nerd</title>
 	<game>FireRed</game>
 	<img>s1_firered_alice</img>
+	<truename>A</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>dome</tag>
@@ -52,6 +54,7 @@
     <title>Beautiful Facade</title>
 	<game>X</game>
 	<img>s1_x_lild</img>
+	<truename>d</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -63,6 +66,7 @@
     <title>Domist Cartographer</title>
 	<game>Red Anniversary</game>
 	<img>s2_redanni_abe</img>
+	<truename>AIIIAAB</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>dome</tag>
@@ -75,6 +79,7 @@
     <title>Dreamt Host</title>
 	<game>Red Anniversary</game>
 	<img>s2_redanni_red</img>
+	<truename>RED</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>helix</tag>
@@ -87,6 +92,7 @@
     <title>Unrivaled Rival</title>
 	<game>Crystal Anniversary</game>
 	<img>s3_crystalanni_azure</img>
+	<truename>Azure</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>npc</tag>
@@ -98,6 +104,7 @@
     <title>Innocent Powerhouse</title>
 	<game>Prism</game>
 	<img>s3_prism_cyan</img>
+	<truename>Cyan</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -110,6 +117,7 @@
     <title>Blinding Brightness</title>
 	<game>Ultra Sun</game>
 	<img>s4_ultrasun_roark</img>
+	<truename>Rrwq:</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -121,6 +129,7 @@
     <title>Orderly Scholar</title>
 	<game>Dual Red &amp; Blue</game>
 	<img>s5_dualredblue_cici</img>
+	<truename>(((</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>helix</tag>
@@ -133,6 +142,7 @@
     <title>Chaotic Madcap</title>
 	<game>Dual Red &amp; Blue</game>
 	<img>s5_dualredblue_xena</img>
+	<truename>XXWWNNπ</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>dome</tag>
@@ -146,6 +156,7 @@
     <title>Depressed Cynic</title>
 	<game>Volt White</game>
 	<img>s6_voltwhite_aqua</img>
+	<truename>AAQ</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -157,6 +168,7 @@
     <title>Dessert Girl</title>
 	<game>Randomized Colosseum</game>
 	<img>s6_randocolosseum_dairyqueen</img>
+	<truename>D QZ" 3</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>npc</tag>
@@ -179,6 +191,7 @@
     <title>Darkened Whirlingwhistler</title>
 	<game>Sword</game>
 	<img>s6_sword_rey</img>
+	<truename>:::?89977re</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -190,6 +203,7 @@
     <title>Reinstating Lookalike</title>
 	<game>Gauntlet Red</game>
 	<img>s7_gauntred_redo</img>
+	<truename>RED</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>helix</tag>
@@ -202,6 +216,7 @@
     <title>Distaff Queen</title>
 	<game>Gauntlet Emerald</game>
 	<img>s7_gauntemerald_nia</img>
+	<truename>n</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -213,6 +228,7 @@
     <title>Dressed-Up Libertine</title>
 	<game>Gauntlet Black 2</game>
 	<img>s7_gauntblack2_reese</img>
+	<truename>♀♀R</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -224,6 +240,7 @@
     <title>Depraved Lunatic</title>
 	<game>Vietnamese Crystal</game>
 	<img>sg_vietcrystal_baba</img>
+	<truename>BABA</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -235,6 +252,7 @@
     <title>King of Games</title>
 	<game>Trading Card Game</game>
 	<img>sg_tcg_yugi</img>
+	<truename>YUGI</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -246,6 +264,7 @@
     <title>Extreme Sportsgirl</title>
 	<game>Lightning Sapphire</game>
 	<img>sg_lightsapphire_urf</img>
+	<truename>URF</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -268,6 +287,7 @@
     <title>Virtual Master</title>
 	<game>PBR</game>
 	<img>int_pbr_mysterialsim</img>
+	<truename>tppsimulator</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>npc</tag>
@@ -279,6 +299,7 @@
     <title>Queen of Fools</title>
 	<game>Crystal 1.OLDEN</game>
 	<img>int_crystalolden_jamie</img>
+	<truename>QJv[</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -295,6 +316,8 @@
 		<type>Rock</type>
 		<type>Water</type>
 	</types>
+	<species>Omastar</species>
+	<truename>OMASTAR</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fossil</tag>
@@ -311,6 +334,8 @@
 		<type>Normal</type>
 		<type>Flying</type>
 	</types>
+	<species>Pidgeot</species>
+	<truename>aaabaaajss</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>helix</tag>
@@ -325,6 +350,8 @@
 	<types>
 		<type>Water</type>
 	</types>
+	<species>Feraligatr</species>
+	<truename>AAAAAtttta</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -336,6 +363,8 @@
 	<types>
 		<type>Electric</type>
 	</types>
+	<species>Shinx</species>
+	<truename>0”☀ ☀0☀☺ ☹</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -347,6 +376,8 @@
 	<types>
 		<type>Ground</type>
 	</types>
+	<species>Groudon</species>
+	<truename>KENYA</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -359,6 +390,8 @@
 		<type>Bug</type>
 		<type>Electric</type>
 	</types>
+	<species>Joltik</species>
+	<truename>~***</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -370,6 +403,8 @@
 	<types>
 		<type>Water</type>
 	</types>
+	<species>Magikarp</species>
+	<truename>BABA</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -382,6 +417,8 @@
 		<type>Beast</type>
 		<type>Steel</type>
 	</types>
+	<species>Momiji</species>
+	<truename>AUUUUABBBB</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
@@ -394,6 +431,8 @@
 		<type>Bug</type>
 		<type>Flying</type>
 	</types>
+	<species>Butterfree</species>
+	<truename>BUTTERBAE</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
@@ -405,6 +444,8 @@
 	<types>
 		<type>Fire</type>
 	</types>
+	<species>Flareon</species>
+	<truename>!!!!r</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>  
   <chara category="pokemon">
@@ -417,6 +458,8 @@
 		<type>Ghost</type>
 		<type>Flying</type>
 	</types>
+	<species>Phancero</species>
+	<truename>FFFFF</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
@@ -433,6 +476,8 @@
 	<types>
 		<type>Fairy</type>
 	</types>
+	<species>Sylveon</species>
+	<truename>BBbkkkkk</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -444,6 +489,8 @@
 	<types>
 		<type>Abnormal</type>
 	</types>
+	<species>Porygon</species>
+	<truename>PORYGON</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>glitch</tag>
@@ -458,6 +505,8 @@
 	<types>
 		<type>Grass</type>
 	</types>
+	<species>Shinx</species>
+	<truename>♀♀0♀♀♀ ::.</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -470,6 +519,8 @@
 		<type>Bug</type>
 		<type>Fairy</type>
 	</types>
+	<species>Ribombee</species>
+	<truename>Ribombe r44</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -482,6 +533,8 @@
 		<type>Normal</type>
 		<type>Flying</type>
 	</types>
+	<species>Chatot</species>
+	<truename>AAAAAAaaaa</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>starter</tag>
@@ -497,6 +550,8 @@
 		<type>Bug</type>
 		<type>Poison</type>
 	</types>
+	<species>Scolipede</species>
+	<truename>.  yz ,hgg</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>   
   <chara category="pokemon">
@@ -509,6 +564,7 @@
 		<type>Rock</type>
 		<type>Water</type>
 	</types>
+	<species>Omanyte</species>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fossil</tag>
@@ -524,6 +580,7 @@
 	<types>
 		<type>Normal</type>
 	</types>
+	<species>Decamark</species>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>glitch</tag>
@@ -538,6 +595,8 @@
 	<types>
 		<type>Normal</type>
 	</types>
+	<species>Glameow</species>
+	<truename>222  ♀- s</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -550,6 +609,8 @@
 		<type>Steel</type>
 		<type>Ground</type>
 	</types>
+	<species>Steelix</species>
+	<truename>Rusty</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -562,6 +623,8 @@
 		<type>Water</type>
 		<type>Flying</type>
 	</types>
+	<species>MissingNo.</species>
+	<truename>LLLLLLLCCC</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>glitch</tag>
@@ -577,6 +640,8 @@
 		<type>Poison</type>
 		<type>Fire</type>
 	</types>
+	<species>Nidoraquil</species>
+	<truename>NOOJJB</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
@@ -591,6 +656,8 @@
 	<types>
 		<type>Normal</type>
 	</types>
+	<species>Ratticate</species>
+	<truename>JJKSS</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -602,6 +669,8 @@
 	<types>
 		<type>Water</type>
 	</types>
+	<species>Vaporeon</species>
+	<truename>Vaporeon</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -613,6 +682,8 @@
 	<types>
 		<type>Water</type>
 	</types>
+	<species>Lumineon</species>
+	<truename>AACm   neg</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -625,6 +696,8 @@
 		<type>Water</type>
 		<type>Flying</type>
 	</types>
+	<species>Ducklett</species>
+	<truename>dfuucck</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -637,6 +710,8 @@
 		<type>Rock</type>
 		<type>Fairy</type>
 	</types>
+	<species>Diancie</species>
+	<truename></truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
   <chara category="pokemon">
@@ -649,6 +724,8 @@
 		<type>Electric</type>
 		<type>Fighting</type>
 	</types>
+	<species>Machu</species>
+	<truename>A  Oxxwqw</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
@@ -663,6 +740,8 @@
 	<types>
 		<type>Psychic</type>
 	</types>
+	<species>Unown</species>
+	<truename>PPPPss</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>starter</tag>
@@ -677,6 +756,8 @@
 	<types>
 		<type>Psychic</type>
 	</types>
+	<species>Mewtwo</species>
+	<truename>MOM</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>glitch</tag>
@@ -691,6 +772,8 @@
 	<types>
 		<type>Chocolate</type>
 	</types>
+	<species>Cottonbun</species>
+	<truename>VORE</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
@@ -706,6 +789,8 @@
 		<type>Bug</type>
 		<type>Electric</type>
 	</types>
+	<species>Galvantula</species>
+	<truename>~***</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>
   <chara category="pokemon">
@@ -717,6 +802,7 @@
 	<types>
 		<type>Normal</type>
 	</types>
+	<species>Bad Egg</species>
     <desc>Aunque normalmente no está autorizado para participar en los combates de Pokétopia, El Huevo Malo intentó infiltrarse en la arena imitando a otros Pokémon. Si bien sus orígenes exactos son confusos, las teorías concuerdan en que fue puesto por un Glitch.</desc>
 	<tags>
 		<tag>glitch</tag>
@@ -732,6 +818,8 @@
 		<type>Water</type>
 		<type>Ground</type>
 	</types>
+	<species>Wooper</species>
+	<truename>GMMTMT</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
