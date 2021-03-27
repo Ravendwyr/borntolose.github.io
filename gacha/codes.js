@@ -16,6 +16,9 @@ function checkCode() {
 		var code = currentCode.getElementsByTagName("code");
 		
 		if (code[0].textContent.toString() == CryptoJS.MD5(input).toString()) { id = currentCode.getElementsByTagName("id"); break ; }
+		console.log(code[0].textContent.toString());
+		console.log(CryptoJS.MD5(input).toString());
+		
 	}
 	
 	if (id == null) {

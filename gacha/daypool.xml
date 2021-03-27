@@ -199,6 +199,7 @@
 			<value tag="game">Trick or Treat House</value>
 			<value tag="game">Hypno's Lullaby</value>
 			<value tag="type">Ghost</value>
+			<value tag="type">Dark</value>
 			<value tag="tags">glitch</value>
 		</values>
 	</pool>
@@ -298,6 +299,8 @@
 		<values>
 			<value tag="name">Misty</value>
 			<value tag="name">Sabrina</value>
+			<value tag="name">Samantha</value>
+			<value tag="name">Wattson</value>
 			<value tag="name">Artemis</value>
 			<value tag="name">Honey</value>
 			<value tag="name">Alice</value>
@@ -352,6 +355,7 @@
 			<value tag="game">Sword</value><value tag="game">Sword - Isle of Armor</value>
 			<value tag="game">Sword</value><value tag="game">Sword - Crown Tundra</value>
 			<value tag="game">Trading Card Game</value>
+			<value tag="game">Metronome Sapphire</value>
 			<value tag="game">Conquest</value>
 			<value tag="game">Telefang Diamond</value>
 			<value tag="game">Trading Card Game 2</value>
@@ -416,7 +420,9 @@
 			<value tag="name">Lum</value>
 			<value tag="name">Venus</value>
 			<value tag="name">Calem</value>
+			<value tag="name">Ébnert</value>
 			<value tag="name">Redo</value>
+			<value tag="name">Bet-Boy</value>
 			<value tag="species">Giratina</value>
 			<value tag="species">Nihilego</value>
 			<value tag="species">Buzzwole</value>

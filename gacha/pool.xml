@@ -12,7 +12,20 @@
 		<tag>helix</tag>
 		<tag>host</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
+  <chara category="trainer">
+	<id>s1_red_sabrina</id>
+    <name>Sabrina</name>
+    <title>Psychic Prodigy</title>
+	<game>Red</game>
+	<img>s1_red_sabrina</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
+  </chara> 
+  
   <chara category="trainer">
 	<id>s1_red_bill</id>
     <name>Bill</name>
@@ -24,7 +37,8 @@
 		<tag>npc</tag>
 		<tag>villain</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s1_firered_alice</id>
     <name>Alice</name>
@@ -37,7 +51,8 @@
 		<tag>dome</tag>
 		<tag>host</tag>
 	</tags>
-  </chara>    
+  </chara> 
+   
   <chara category="trainer">
 	<id>s1_black_fennel</id>
     <name>Fennel</name>
@@ -49,7 +64,8 @@
 		<tag>npc</tag>
 		<tag>villain</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s1_x_lild</id>
     <name>Lil'D</name>
@@ -62,7 +78,8 @@
 		<tag>host</tag>
 		<tag>pride</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s2_redanni_abe</id>
     <name>Abe</name>
@@ -75,7 +92,8 @@
 		<tag>dome</tag>
 		<tag>host</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s2_redanni_red</id>
     <name>Red</name>
@@ -88,7 +106,21 @@
 		<tag>helix</tag>
 		<tag>npc</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
+  <chara category="trainer">
+	<id>s2_alphasapphire_nina</id>
+    <name>Nina</name>
+    <title>Beat-Dropping Agent</title>
+	<game>Alpha Sapphire</game>
+	<img>s2_alphasapphire_nina</img>
+	<truename>!!!0999   qq</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s3_crystalanni_azure</id>
     <name>Azure</name>
@@ -100,7 +132,8 @@
 	<tags>
 		<tag>npc</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s3_prism_cyan</id>
     <name>Cyan</name>
@@ -113,7 +146,34 @@
 		<tag>host</tag>
 		<tag>olden</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
+  <chara category="trainer">
+	<id>s3_sun_lillie</id>
+    <name>Lillie</name>
+    <title>Pure Love Interest</title>
+	<game>Sun</game>
+	<img>s3_sun_lillie</img>
+	<truename>Cyan</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
+  </chara> 
+ 
+  <chara category="trainer">
+	<id>s4_chattyyellow_xman</id>
+    <name>X-Man</name>
+    <title>Robotic Vessel</title>
+	<game>Chatty Yellow</game>
+	<img>s4_chattyyellow_xman</img>
+	<truename>×µ(?</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s4_ultrasun_roark</id>
     <name>Roark</name>
@@ -125,7 +185,8 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s5_dualredblue_cici</id>
     <name>Cici</name>
@@ -138,7 +199,8 @@
 		<tag>helix</tag>
 		<tag>host</tag>
 	</tags>
-  </chara>    
+  </chara> 
+   
   <chara category="trainer">
 	<id>s5_dualredblue_xena</id>
     <name>Xena</name>
@@ -152,7 +214,8 @@
 		<tag>glitch</tag>
 		<tag>host</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s6_voltwhite_aqua</id>
     <name>Aqua</name>
@@ -166,6 +229,7 @@
 		<tag>pride</tag>
 	</tags>
   </chara> 
+
   <chara category="trainer">
 	<id>s6_randocolosseum_dairyqueen</id>
     <name>Dairy Queen</name>
@@ -179,6 +243,7 @@
 		<tag>royal</tag>
 	</tags>
   </chara> 
+
   <chara category="trainer">
 	<id>s6_randoultramoon_anabellillie</id>
     <name>Anabel Lillie</name>
@@ -192,6 +257,7 @@
 		<tag>villain</tag>
 	</tags>
   </chara> 
+
   <chara category="trainer">
 	<id>s6_sword_rey</id>
     <name>Rey</name>
@@ -204,7 +270,8 @@
 		<tag>host</tag>
 		<tag>royal</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s7_gauntred_redo</id>
     <name>Redo</name>
@@ -217,7 +284,8 @@
 		<tag>helix</tag>
 		<tag>host</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s7_gauntemerald_nia</id>
     <name>Nia</name>
@@ -230,7 +298,8 @@
 		<tag>host</tag>
 		<tag>royal</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s7_gauntblack2_reese</id>
     <name>Reese</name>
@@ -243,7 +312,21 @@
 		<tag>host</tag>
 		<tag>pride</tag>
 	</tags>
-  </chara>  
+  </chara> 
+  
+  <chara category="trainer">
+	<id>s7_risingruby_may</id>
+    <name>May</name>
+    <title>Yandere Assassin</title>
+	<game>Rising Ruby</game>
+	<img>s7_risingruby_may</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+		<tag>villain</tag>
+	</tags>
+  </chara> 
+ 
   <chara category="trainer">
 	<id>sg_vietcrystal_baba</id>
     <name>Baba</name>
@@ -257,6 +340,7 @@
 		<tag>pride</tag>
 	</tags>
   </chara> 
+
   <chara category="trainer">
 	<id>sg_tcg_yugi</id>
     <name>Yugi</name>
@@ -269,6 +353,7 @@
 		<tag>host</tag>
 	</tags>
   </chara> 
+
   <chara category="trainer">
 	<id>sg_lightsapphire_urf</id>
     <name>Urf</name>
@@ -281,6 +366,7 @@
 		<tag>host</tag>
 	</tags>
   </chara> 
+
   <chara category="trainer">
 	<id>rev_redrevisit_john</id>
     <name>John</name>
@@ -292,6 +378,7 @@
 		<tag>glitch</tag>
 	</tags>
   </chara> 
+
   <chara category="trainer">
 	<id>int_pbr_mysterialsim</id>
     <name>Mysterial Sim</name>
@@ -304,6 +391,7 @@
 		<tag>npc</tag>
 	</tags>
   </chara> 
+
   <chara category="trainer">
 	<id>int_crystalolden_jamie</id>
     <name>Jamie</name>
@@ -318,6 +406,7 @@
 		<tag>villain</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s1_red_lordhelix</id>
     <name>Lord Helix</name>
@@ -335,7 +424,8 @@
 		<tag>fossil</tag>
 		<tag>helix</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="pokemon">
 	<id>s1_red_birdjesus</id>
     <name>Bird Jesus</name>
@@ -353,6 +443,7 @@
 		<tag>helix</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s1_crystal_lazergator</id>
     <name>Lazergator</name>
@@ -366,6 +457,7 @@
 	<truename>AAAAAtttta</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
+
   <chara category="pokemon">
 	<id>s1_platinum_sunshine</id>
     <name>Sunshine</name>
@@ -379,6 +471,7 @@
 	<truename>0”☀ ☀0☀☺ ☹</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
+
   <chara category="pokemon">
 	<id>s1_heartgold_kenya</id>
     <name>Kenya</name>
@@ -395,6 +488,7 @@
 		<tag>release</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s1_black_petersparkler</id>
     <name>Peter Sparkler</name>
@@ -409,6 +503,7 @@
 	<truename>~***</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
+
   <chara category="pokemon">
 	<id>s2_redanni_baba</id>
     <name>Baba</name>
@@ -425,6 +520,26 @@
 		<tag>release</tag>
 	</tags>
   </chara> 
+
+  <chara category="pokemon">
+	<id>s2_touhoumon_sanae</id>
+    <name>Lady Sanae</name>
+    <title>Ascended Lady</title>
+	<game>Touhoumon</game>
+	<img>s2_touhoumon_sanae</img>
+	<types>
+		<type>Faith</type>
+		<type>Wind</type>
+	</types>
+	<species>Sanae</species>
+	<truename>Sanae</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+		<tag>fakemon</tag>
+	</tags>
+  </chara> 
+ 
   <chara category="pokemon">
 	<id>s2_touhoumon_awoo</id>
     <name>Awoo</name>
@@ -438,7 +553,29 @@
 	<species>Momiji</species>
 	<truename>AUUUUABBBB</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
-  </chara>  
+	<tags>
+		<tag>fakemon</tag>
+	</tags>
+  </chara> 
+ 
+  <chara category="pokemon">
+	<id>s2_moemon_effie</id>
+    <name>Effie the White</name>
+    <title>Albino Flame</title>
+	<game>Moemon</game>
+	<img>s2_moemon_effie</img>
+	<types>
+		<type>Fire</type>
+		<type>Flying</type>
+	</types>
+	<species>Charizard</species>
+	<truename>FFF  </truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
+  </chara> 
+ 
   <chara category="pokemon">
 	<id>s2_moemon_butterbae</id>
     <name>Butterbae</name>
@@ -452,7 +589,8 @@
 	<species>Butterfree</species>
 	<truename>BUTTERBAE</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
-  </chara>  
+  </chara> 
+ 
   <chara category="pokemon">
 	<id>s2_alphasapphire_lampeon</id>
     <name>Lampeon</name>
@@ -465,7 +603,8 @@
 	<species>Flareon</species>
 	<truename>!!!!r</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
-  </chara>  
+  </chara> 
+ 
   <chara category="pokemon">
 	<id>s3_crystalanni_oldenbird</id>
     <name>OLDEN Bird</name>
@@ -486,6 +625,7 @@
 		<tag>villain</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s3_brown_burgerkween</id>
     <name>Burger Kween</name>
@@ -502,6 +642,7 @@
 		<tag>royal</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s3_brown_quartz</id>
     <name>Quartz</name>
@@ -519,6 +660,7 @@
 		<tag>release</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s3_randoplatinum_moonflash</id>
     <name>Moonflash</name>
@@ -536,6 +678,7 @@
 		<tag>release</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s3_sun_ribomber</id>
     <name>Ribomber</name>
@@ -550,6 +693,7 @@
 	<truename>Ribombe r44</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
+
   <chara category="pokemon">
 	<id>s4_chattyyellow_iaqo</id>
     <name>Iaqo</name>
@@ -566,7 +710,8 @@
 	<tags>
 		<tag>starter</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
   <chara category="pokemon">
 	<id>s4_blazedglazed_hugbug</id>
     <name>Hugbug</name>
@@ -580,7 +725,8 @@
 	<species>Scolipede</species>
 	<truename>.  yz ,hgg</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
-  </chara>   
+  </chara> 
+  
   <chara category="pokemon">
 	<id>s4_randowhite2_turbohelix</id>
     <name>Turbo Helix</name>
@@ -597,7 +743,23 @@
 		<tag>fossil</tag>
 		<tag>helix</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
+  <chara category="pokemon">
+	<id>s4_pyrite_sadneton</id>
+    <name>Sadneton</name>
+    <title>Crying Machine</title>
+	<game>Pyrite</game>
+	<img>s4_pyrite_sadneton</img>
+	<types>
+		<type>Electric</type>
+		<type>Steel</type>
+	</types>
+	<species>Magneton</species>
+	<truename>::::;n;;π-</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+ 
   <chara category="pokemon">
 	<id>s4_thetaemeraldex_ieadblau</id>
     <name>Ï ËdBLÁü</name>
@@ -612,7 +774,26 @@
 	<tags>
 		<tag>glitch</tag>
 	</tags>
-  </chara>  
+  </chara> 
+ 
+  <chara category="pokemon">
+	<id>s4_ultrasun_genderghastly</id>
+    <name>Gender Ghastly</name>
+    <title>Gaseous Fluid</title>
+	<game>Ultra Sun</game>
+	<img>s4_ultrasun_genderghastly</img>
+	<types>
+		<type>Ghost</type>
+		<type>Poison</type>
+	</types>
+	<species>Ghastly</species>
+	<truename>♀♂♀♀ ♂♂♀ ♀ ♀</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>pride</tag>
+	</tags>
+  </chara> 
+ 
   <chara category="pokemon">
 	<id>s5_stormsilver_secondcat</id>
     <name>Second Cat</name>
@@ -629,6 +810,7 @@
 		<tag>pride</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s5_stormsilver_rustycat</id>
     <name>Rusty Cat</name>
@@ -643,6 +825,7 @@
 	<truename>Rusty</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
+
   <chara category="pokemon">
 	<id>s5_bronze_lucci</id>
     <name>Lucci</name>
@@ -660,6 +843,21 @@
 		<tag>glitch</tag>
 	</tags>
   </chara> 
+
+  <chara category="pokemon">
+	<id>s5_randoy_wishmecha</id>
+    <name>Wishmecha Shikatsu-000</name>
+    <title>Deathly Robosuit</title>
+	<game>Randomized Y</game>
+	<img>s5_randoy_wishmecha</img>
+	<types>
+		<type>Steel</type>
+	</types>
+	<species>Registeel</species>
+	<truename>!!000</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+
   <chara category="pokemon">
 	<id>s5_fusedcrystal_nojob</id>
     <name>No Job</name>
@@ -678,6 +876,7 @@
 		<tag>release</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s6_burningred_kingjackass</id>
     <name>King Jackass</name>
@@ -694,6 +893,21 @@
 		<tag>royal</tag>
 	</tags>
   </chara> 
+  
+  <chara category="pokemon">
+	<id>s6_voltwhite_lilliequaz</id>
+    <name>Lillie Quaz</name>
+    <title>Cosmic Flowering</title>
+	<game>Volt White</game>
+	<img>s6_voltwhite_lilliequaz</img>
+	<types>
+		<type>Grass</type>
+	</types>
+	<species>Lilligant</species>
+	<truename>Petililqz</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+
   <chara category="pokemon">
 	<id>s6_xg_sparkleon</id>
     <name>Sparkleon</name>
@@ -707,6 +921,22 @@
 	<truename>Vaporeon</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
+  
+  <chara category="pokemon">
+	<id>s6_sword_lorddrakefish</id>
+    <name>Lord DrakeFish</name>
+    <title>Lord of Combination</title>
+	<game>Sword</game>
+	<img>s6_sword_lorddrakefish</img>
+	<types>
+		<type>Water</type>
+		<type>Dragon</type>
+	</types>
+	<species>Dracovish</species>
+	<truename>For TPP :)</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+
   <chara category="pokemon">
 	<id>s7_gauntplatinum_elitefish</id>
     <name>Elite Fish</name>
@@ -720,6 +950,7 @@
 	<truename>AACm   neg</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
+
   <chara category="pokemon">
 	<id>s7_gauntx_fucklett</id>
     <name>Fucklett</name>
@@ -734,6 +965,7 @@
 	<truename>dfuucck</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
+
   <chara category="pokemon">
 	<id>s7_risingruby_hearts</id>
     <name>Hearts</name>
@@ -751,6 +983,7 @@
 		<tag>royal</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s7_vega_ox</id>
     <name>Ox</name>
@@ -768,6 +1001,7 @@
 		<tag>fakemon</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>s8_chattycrystal_peeps</id>
     <name>Peeps</name>
@@ -784,6 +1018,25 @@
 		<tag>starter</tag>
 	</tags>
   </chara> 
+
+  <chara category="pokemon">
+	<id>sg_ultra_lull</id>
+    <name>Lull</name>
+    <title>Uncanny Hybrid</title>
+	<game>Ultra</game>
+	<img>sg_ultra_lull</img>
+	<types>
+		<type>Water</type>
+	</types>
+	<species>Blastoise</species>
+	<truename>LUL</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+		<tag>starter</tag>
+	</tags>
+  </chara> 
+
   <chara category="pokemon">
 	<id>sg_bootleggreen_mom</id>
     <name>Mom</name>
@@ -801,6 +1054,7 @@
 		<tag>villain</tag>
 	</tags>
   </chara> 
+
   <chara category="pokemon">
 	<id>sg_sweet_vore</id>
     <name>Vore</name>
@@ -818,6 +1072,25 @@
 		<tag>villain</tag>
 	</tags>
   </chara> 
+
+  <chara category="pokemon">
+	<id>sg_navyblue_honk</id>
+    <name>HoNK</name>
+    <title>Foul Waterfowl</title>
+	<game>NavyBlue</game>
+	<img>sg_navyblue_honk</img>
+	<types>
+		<type>Water</type>
+	</types>
+	<species>Agoose</species>
+	<truename>HoNK</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+		<tag>starter</tag>
+	</tags>
+  </chara> 
+
   <chara category="pokemon">
 	<id>rev_blackrevisit_petersparkler</id>
     <name>Peter Sparkler</name>
@@ -832,6 +1105,7 @@
 	<truename>~***</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>
+  
   <chara category="pokemon">
 	<id>int_pbr_elhuevomalo</id>
     <name>El Huevo Malo</name>
@@ -847,6 +1121,25 @@
 		<tag>glitch</tag>
 	</tags>
   </chara> 
+  
+  <chara category="pokemon">
+	<id>int_telefangdiamond_domesday</id>
+    <name>Domesday</name>
+    <title>Hellbent Weapon</title>
+	<game>Telefang Diamond</game>
+	<img>int_telefangdiamond_domesday</img>
+	<types>
+		<type>Mountain</type>
+	</types>
+	<species>Doomsday</species>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dome</tag>
+		<tag>fakemon</tag>
+		<tag>villain</tag>
+	</tags>
+  </chara> 
+
   <chara category="pokemon">
 	<id>int_wooperchristmas_wooper</id>
     <name>The Wooper Who Saved Christmas</name>
@@ -864,4 +1157,5 @@
 		<tag>host</tag>
 	</tags>
   </chara> 
+
 </charas>  
