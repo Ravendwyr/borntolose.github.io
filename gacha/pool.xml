@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <charas>
+
+<!-- SEASON 1 -->
+
   <chara category="trainer">
 	<id>s1_red_red</id>
     <name>Red</name>
@@ -23,6 +26,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>npc</tag>
+		<tag>pride</tag>
 	</tags>
   </chara> 
   
@@ -40,6 +44,19 @@
   </chara> 
  
   <chara category="trainer">
+	<id>s1_emerald_achan</id>
+    <name>A-chan</name>
+    <title>Anarchist Anima</title>
+	<game>Emerald</game>
+	<img>s1_emerald_achan</img>
+	<truename>A</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+  </chara> 
+   
+  <chara category="trainer">
 	<id>s1_firered_alice</id>
     <name>Alice</name>
     <title>Leftist Nerd</title>
@@ -53,6 +70,21 @@
 	</tags>
   </chara> 
    
+  <chara category="trainer">
+	<id>s1_heartgold_aoochan</id>
+    <name>Aoo-chan</name>
+    <title>Friendly Lycanthrope</title>
+	<game>HeartGold</game>
+	<img>s1_heartgold_aoochan</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>helix</tag>
+		<tag>host</tag>
+		<tag>glitch</tag>
+		<tag>pride</tag>
+	</tags>
+  </chara> 
+ 
   <chara category="trainer">
 	<id>s1_black_fennel</id>
     <name>Fennel</name>
@@ -79,6 +111,8 @@
 		<tag>pride</tag>
 	</tags>
   </chara> 
+ 
+<!-- SEASON 2 -->
  
   <chara category="trainer">
 	<id>s2_redanni_abe</id>
@@ -154,10 +188,22 @@
     <title>Pure Love Interest</title>
 	<game>Sun</game>
 	<img>s3_sun_lillie</img>
-	<truename>Cyan</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>npc</tag>
+	</tags>
+  </chara> 
+ 
+  <chara category="trainer">
+	<id>s3_waningmoon_devin</id>
+    <name>Devin</name>
+    <title>Hyperactive Ornithophile</title>
+	<game>Waning Moon</game>
+	<img>s3_waningmoon_devin</img>
+	<truename>d76o6yttr??</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
 	</tags>
   </chara> 
  
@@ -212,6 +258,32 @@
 	<tags>
 		<tag>dome</tag>
 		<tag>glitch</tag>
+		<tag>host</tag>
+	</tags>
+  </chara> 
+ 
+  <chara category="trainer">
+	<id>s5_florasky_hannah</id>
+    <name>Hannah</name>
+    <title>Overconfident Tritanope</title>
+	<game>Flora Sky</game>
+	<img>s5_florasky_hannah</img>
+	<truename>..hnv</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+  </chara> 
+ 
+  <chara category="trainer">
+	<id>s5_florasky_envy</id>
+    <name>Envy</name>
+    <title>Colorblind Ninja</title>
+	<game>Flora Sky</game>
+	<img>s5_florasky_envy</img>
+	<truename>..hnv</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
 		<tag>host</tag>
 	</tags>
   </chara> 
@@ -407,6 +479,8 @@
 	</tags>
   </chara> 
 
+<!-- SEASON 1 -->
+
   <chara category="pokemon">
 	<id>s1_red_lordhelix</id>
     <name>Lord Helix</name>
@@ -459,6 +533,21 @@
   </chara> 
 
   <chara category="pokemon">
+	<id>s1_crystal_doctorhoot</id>
+    <name>Doctor Hoot</name>
+    <title>Time-Traveling Therapist</title>
+	<game>Crystal</game>
+	<img>s1_crystal_doctorhoot</img>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<species>Hoothoot</species>
+	<truename>HOOTHOOT</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+
+  <chara category="pokemon">
 	<id>s1_platinum_sunshine</id>
     <name>Sunshine</name>
     <title>Sunny Little One</title>
@@ -503,6 +592,22 @@
 	<truename>~***</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
+
+  <chara category="pokemon">
+	<id>s1_black2_lorddrive</id>
+    <name>Lord Drive</name>
+    <title>Lord of Imbalance</title>
+	<game>Black 2</game>
+	<img>s1_black2_lorddrive</img>
+	<types>
+		<type>Bug</type>
+		<type>Steel</type>
+	</types>
+	<species>Genesect</species>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+
+<!-- SEASON 2 -->
 
   <chara category="pokemon">
 	<id>s2_redanni_baba</id>
@@ -845,6 +950,23 @@
   </chara> 
 
   <chara category="pokemon">
+	<id>s5_bronze_emptyleader</id>
+    <name>Empty Leader</name>
+    <title>Zeroth Unknown</title>
+	<game>Bronze</game>
+	<img>s5_bronze_emptyleader</img>
+	<types>
+		<type>Fairy</type>
+		<type>Fairy</type>
+	</types>
+	<truename>9999</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+	</tags>
+  </chara> 
+
+  <chara category="pokemon">
 	<id>s5_randoy_wishmecha</id>
     <name>Wishmecha Shikatsu-000</name>
     <title>Deathly Robosuit</title>
@@ -937,6 +1059,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
 
+<!-- SEASON 7 -->
+
   <chara category="pokemon">
 	<id>s7_gauntplatinum_elitefish</id>
     <name>Elite Fish</name>
@@ -948,6 +1072,20 @@
 	</types>
 	<species>Lumineon</species>
 	<truename>AACm   neg</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+  </chara> 
+
+  <chara category="pokemon">
+	<id>s7_gauntblack2_pepsiman</id>
+    <name>Pepsiman</name>
+    <title>Aluminium Mascot</title>
+	<game>Gauntlet Black 2</game>
+	<img>s7_gauntblack2_pepsiman</img>
+	<types>
+		<type>Normal</type>
+	</types>
+	<species>Porygon-Z</species>
+	<truename>APSEPIEMG</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
 
@@ -1071,6 +1209,20 @@
 		<tag>fakemon</tag>
 		<tag>villain</tag>
 	</tags>
+  </chara> 
+
+  <chara category="pokemon">
+	<id>sg_metrosapphire_meltan</id>
+    <name>Uultan</name>
+    <title>Elusive Closure</title>
+	<game>Metronome Sapphire</game>
+	<img>sg_metrosapphire_meltan</img>
+	<types>
+		<type>Steel</type>
+	</types>
+	<species>Meltan</species>
+	<truename>UUUUU</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
 
   <chara category="pokemon">
