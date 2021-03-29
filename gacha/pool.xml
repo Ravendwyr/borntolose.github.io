@@ -24,7 +24,7 @@
     <title>Psychic Prodigy</title>
 	<game>Red</game>
 	<img>s1_red_sabrina</img>
-    <desc>Sabrina has had psychic abilities since her childhood, allowing her to hear the Voices guiding the Hosts who visit her. She became a close friend of Alice, and used her own experience of mastering her powers to help her soon-to-be girlfriend Aoo-chan quell her lycanthropy, and to teach Fifer how to tame Lucci.</desc>
+    <desc>Sabrina was gifted with psychic abilities ever since her childhood, allowing her to hear the Voices guiding the Hosts who visit her. She became a close friend of Alice, and used her own experience of mastering her powers to help her soon-to-be girlfriend Aoo-chan quell her lycanthropy, and to teach Fifer how to properly tame Lucci.</desc>
 	<tags>
 		<tag>npc</tag>
 		<tag>pride</tag>
@@ -67,7 +67,7 @@
 	<game>FireRed</game>
 	<img>s1_firered_alice</img>
 	<truename>A</truename>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>As a biologist with a smart and curious nature, Alice took great interest in documenting the species born from Kanto's randomization. Despite being a Dome adept and Bill's daughter, Alice opposed her father's actions, and made the painful choice to stand against him. She is also a fervent commewnist, and played a major part in the rise of Meow Zedong's movement.</desc>
 	<tags>
 		<tag>dome</tag>
 		<tag>host</tag>
@@ -430,7 +430,7 @@
     <title>Yandere Assassin</title>
 	<game>Rising Ruby</game>
 	<img>s7_risingruby_may</img>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>Having lost her heart for Ébnert, May was devastated to find out he was dating Lisia; as he stepped outside the Hall of Fame, she coldly welcomed him back, right before assassinating him. The timeline was reset over and over, but led to the same outcome every time, until Ébnert was eventually sent several years back into the past.</desc>
 	<tags>
 		<tag>npc</tag>
 		<tag>villain</tag>
@@ -617,7 +617,7 @@
   <chara category="pokemon">
 	<id>s1_heartgold_kenya</id>
     <name>Kenya</name>
-    <title>Legendary Mailman</title>
+    <title>Legendary Mailmon</title>
 	<game>HeartGold</game>
 	<img>s1_heartgold_kenya</img>
 	<types>
@@ -625,7 +625,7 @@
 	</types>
 	<species>Groudon</species>
 	<truename>KENYA</truename>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>Delivering mail is Kenya's sacred mission, and no force in the world can stop him from accomplishing it. He traveled alongside Aoo-chan for a while, but ultimately had to depart to carry on his duty. His path crossed that of several other Hosts, such as Cly and Artemis, and his name became a legacy beared by the mail-carriers who succeeded him.</desc>
 	<tags>
 		<tag>release</tag>
 	</tags>
@@ -840,7 +840,7 @@
 	</types>
 	<species>Shinx</species>
 	<truename>♀♀0♀♀♀ ::.</truename>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>Moonflash is part of a nocturnal species unable to stand bright lights, and as such was rendered blind by her own Flash attack. Although bashful, she wears her blue and pink scarf with pride. Her presence on the team caused a schism among the Voices who left her inside the PC, then abandoned her for good once she evolved.</desc>
 	<tags>
 		<tag>pride</tag>
 		<tag>release</tag>
@@ -1292,7 +1292,7 @@
 	</types>
 	<species>Cottonbun</species>
 	<truename>VORE</truename>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>Vore was born from an Egg laid by Chocobun, the ruler of Sweet Land, but takes more after his cruel aunt Dark Chocobun. His monstrous appetite and taste for candy make him eager to devour the entirety of the region and its inhabitants, but his puny size makes it so that he is not actually much of a threat.</desc>
 	<tags>
 		<tag>fakemon</tag>
 		<tag>villain</tag>
