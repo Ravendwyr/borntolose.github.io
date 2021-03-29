@@ -54,6 +54,7 @@ function showDexEntry(charaId) {
 	var game = currentChara.getElementsByTagName("game");
 	var img = currentChara.getElementsByTagName("img");
 	var desc = currentChara.getElementsByTagName("desc");
+	var credits = currentChara.getElementsByTagName("credits");
 	
 	if (localStorage.getItem(charaId) == "owned") {
 		document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png">';
@@ -62,6 +63,7 @@ function showDexEntry(charaId) {
 		document.getElementById("dexGame").innerHTML = setSeason(game[0].textContent.toString());
 		document.getElementById("dexTypes").innerHTML = "";
 		document.getElementById("dexText").innerHTML = desc[0].textContent.toString();
+		document.getElementById("dexCredits").innerHTML = '<a href="' + credits[0].textContent.toString() + '">Image source</a>';
 	} else {
 		document.getElementById("dexImage").innerHTML = '<img src="shadows/' + img[0].textContent.toString() + '.png">';
 		document.getElementById("dexName").innerHTML = "<b>???</b>";

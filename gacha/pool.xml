@@ -15,6 +15,7 @@
 		<tag>helix</tag>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -23,11 +24,12 @@
     <title>Psychic Prodigy</title>
 	<game>Red</game>
 	<img>s1_red_sabrina</img>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>Sabrina has had psychic abilities since her childhood, allowing her to hear the Voices guiding the Hosts who visit her. She became a close friend of Alice, and used her own experience of mastering her powers to help her soon-to-be girlfriend Aoo-chan quell her lycanthropy, and to teach Fifer how to tame Lucci.</desc>
 	<tags>
 		<tag>npc</tag>
 		<tag>pride</tag>
 	</tags>
+	<credits></credits>
   </chara> 
   
   <chara category="trainer">
@@ -41,6 +43,7 @@
 		<tag>npc</tag>
 		<tag>villain</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -54,6 +57,7 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
    
   <chara category="trainer">
@@ -68,6 +72,7 @@
 		<tag>dome</tag>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
    
   <chara category="trainer">
@@ -83,6 +88,7 @@
 		<tag>glitch</tag>
 		<tag>pride</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -96,6 +102,7 @@
 		<tag>npc</tag>
 		<tag>villain</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -110,6 +117,7 @@
 		<tag>host</tag>
 		<tag>pride</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
 <!-- SEASON 2 -->
@@ -126,6 +134,7 @@
 		<tag>dome</tag>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -140,6 +149,7 @@
 		<tag>helix</tag>
 		<tag>npc</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -153,7 +163,10 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
+ 
+<!-- SEASON 3 -->
  
   <chara category="trainer">
 	<id>s3_crystalanni_azure</id>
@@ -166,6 +179,7 @@
 	<tags>
 		<tag>npc</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -180,6 +194,7 @@
 		<tag>host</tag>
 		<tag>olden</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -192,6 +207,7 @@
 	<tags>
 		<tag>npc</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -205,8 +221,11 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
+<!-- SEASON 4 --> 
+
   <chara category="trainer">
 	<id>s4_chattyyellow_xman</id>
     <name>X-Man</name>
@@ -218,6 +237,7 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -231,8 +251,11 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
- 
+
+<!-- SEASON 5 -->
+
   <chara category="trainer">
 	<id>s5_dualredblue_cici</id>
     <name>Cici</name>
@@ -245,6 +268,7 @@
 		<tag>helix</tag>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
    
   <chara category="trainer">
@@ -260,6 +284,7 @@
 		<tag>glitch</tag>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -273,6 +298,7 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -286,8 +312,11 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
- 
+
+<!-- SEASON 6 -->
+
   <chara category="trainer">
 	<id>s6_voltwhite_aqua</id>
     <name>Aqua</name>
@@ -300,6 +329,7 @@
 		<tag>host</tag>
 		<tag>pride</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="trainer">
@@ -314,6 +344,7 @@
 		<tag>npc</tag>
 		<tag>royal</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="trainer">
@@ -328,6 +359,7 @@
 		<tag>pride</tag>
 		<tag>villain</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="trainer">
@@ -342,8 +374,11 @@
 		<tag>host</tag>
 		<tag>royal</tag>
 	</tags>
+	<credits></credits>
   </chara> 
- 
+
+<!-- SEASON 7 -->
+
   <chara category="trainer">
 	<id>s7_gauntred_redo</id>
     <name>Redo</name>
@@ -356,6 +391,7 @@
 		<tag>helix</tag>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -370,6 +406,7 @@
 		<tag>host</tag>
 		<tag>royal</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="trainer">
@@ -384,6 +421,7 @@
 		<tag>host</tag>
 		<tag>pride</tag>
 	</tags>
+	<credits></credits>
   </chara> 
   
   <chara category="trainer">
@@ -397,8 +435,11 @@
 		<tag>npc</tag>
 		<tag>villain</tag>
 	</tags>
+	<credits></credits>
   </chara> 
- 
+
+<!-- SIDEGAMES -->
+
   <chara category="trainer">
 	<id>sg_vietcrystal_baba</id>
     <name>Baba</name>
@@ -411,6 +452,7 @@
 		<tag>host</tag>
 		<tag>pride</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="trainer">
@@ -424,6 +466,7 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="trainer">
@@ -437,7 +480,10 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
+
+<!-- REVISITS -->
 
   <chara category="trainer">
 	<id>rev_redrevisit_john</id>
@@ -449,7 +495,10 @@
 	<tags>
 		<tag>glitch</tag>
 	</tags>
+	<credits></credits>
   </chara> 
+
+<!-- INTERMISSIONS -->
 
   <chara category="trainer">
 	<id>int_pbr_mysterialsim</id>
@@ -462,6 +511,7 @@
 	<tags>
 		<tag>npc</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="trainer">
@@ -477,6 +527,7 @@
 		<tag>olden</tag>
 		<tag>villain</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
 <!-- SEASON 1 -->
@@ -498,6 +549,7 @@
 		<tag>fossil</tag>
 		<tag>helix</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="pokemon">
@@ -516,6 +568,7 @@
 	<tags>
 		<tag>helix</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -576,6 +629,7 @@
 	<tags>
 		<tag>release</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -624,6 +678,7 @@
 	<tags>
 		<tag>release</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -643,6 +698,7 @@
 		<tag>starter</tag>
 		<tag>fakemon</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="pokemon">
@@ -661,6 +717,7 @@
 	<tags>
 		<tag>fakemon</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="pokemon">
@@ -679,6 +736,7 @@
 	<tags>
 		<tag>starter</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="pokemon">
@@ -710,6 +768,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
  
+<!-- SEASON 3 -->
+ 
   <chara category="pokemon">
 	<id>s3_crystalanni_oldenbird</id>
     <name>OLDEN Bird</name>
@@ -729,6 +789,7 @@
 		<tag>olden</tag>
 		<tag>villain</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -746,6 +807,7 @@
 	<tags>
 		<tag>royal</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -764,6 +826,7 @@
 		<tag>glitch</tag>
 		<tag>release</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -782,6 +845,7 @@
 		<tag>pride</tag>
 		<tag>release</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -799,6 +863,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara> 
 
+<!-- SEASON 4 -->
+
   <chara category="pokemon">
 	<id>s4_chattyyellow_iaqo</id>
     <name>Iaqo</name>
@@ -815,6 +881,7 @@
 	<tags>
 		<tag>starter</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="pokemon">
@@ -848,6 +915,7 @@
 		<tag>fossil</tag>
 		<tag>helix</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="pokemon">
@@ -879,6 +947,7 @@
 	<tags>
 		<tag>glitch</tag>
 	</tags>
+	<credits></credits>
   </chara> 
  
   <chara category="pokemon">
@@ -897,8 +966,11 @@
 	<tags>
 		<tag>pride</tag>
 	</tags>
+	<credits></credits>
   </chara> 
- 
+
+<!-- SEASON 5 -->
+
   <chara category="pokemon">
 	<id>s5_stormsilver_secondcat</id>
     <name>Second Cat</name>
@@ -914,6 +986,7 @@
 	<tags>
 		<tag>pride</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -947,6 +1020,7 @@
 	<tags>
 		<tag>glitch</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -964,6 +1038,7 @@
 	<tags>
 		<tag>glitch</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -997,7 +1072,10 @@
 		<tag>fakemon</tag>
 		<tag>release</tag>
 	</tags>
+	<credits></credits>
   </chara> 
+
+<!-- SEASON 6 -->
 
   <chara category="pokemon">
 	<id>s6_burningred_kingjackass</id>
@@ -1014,6 +1092,7 @@
 	<tags>
 		<tag>royal</tag>
 	</tags>
+	<credits></credits>
   </chara> 
   
   <chara category="pokemon">
@@ -1120,6 +1199,7 @@
 	<tags>
 		<tag>royal</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -1138,7 +1218,10 @@
 	<tags>
 		<tag>fakemon</tag>
 	</tags>
+	<credits></credits>
   </chara> 
+
+<!-- SEASON 8 -->
 
   <chara category="pokemon">
 	<id>s8_chattycrystal_peeps</id>
@@ -1155,7 +1238,10 @@
 	<tags>
 		<tag>starter</tag>
 	</tags>
+	<credits></credits>
   </chara> 
+
+<!-- SIDEGAMES -->
 
   <chara category="pokemon">
 	<id>sg_ultra_lull</id>
@@ -1173,6 +1259,7 @@
 		<tag>fakemon</tag>
 		<tag>starter</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -1191,6 +1278,7 @@
 		<tag>glitch</tag>
 		<tag>villain</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -1209,6 +1297,7 @@
 		<tag>fakemon</tag>
 		<tag>villain</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -1241,7 +1330,10 @@
 		<tag>fakemon</tag>
 		<tag>starter</tag>
 	</tags>
+	<credits></credits>
   </chara> 
+
+<!-- REVISITS -->
 
   <chara category="pokemon">
 	<id>rev_blackrevisit_petersparkler</id>
@@ -1258,6 +1350,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
   </chara>
   
+<!-- INTERMISSIONS -->  
+
   <chara category="pokemon">
 	<id>int_pbr_elhuevomalo</id>
     <name>El Huevo Malo</name>
@@ -1272,6 +1366,7 @@
 	<tags>
 		<tag>glitch</tag>
 	</tags>
+	<credits></credits>
   </chara> 
   
   <chara category="pokemon">
@@ -1290,6 +1385,7 @@
 		<tag>fakemon</tag>
 		<tag>villain</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
   <chara category="pokemon">
@@ -1308,6 +1404,7 @@
 	<tags>
 		<tag>host</tag>
 	</tags>
+	<credits></credits>
   </chara> 
 
 </charas>  
