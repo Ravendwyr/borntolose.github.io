@@ -412,7 +412,7 @@
   <chara category="trainer">
 	<id>s7_gauntblack2_reese</id>
     <name>Reese</name>
-    <title>Dressed-Up Libertine</title>
+    <title>Dressed-Up Sybarite</title>
 	<game>Gauntlet Black 2</game>
 	<img>s7_gauntblack2_reese</img>
 	<truename>♀♀R</truename>
@@ -857,6 +857,23 @@
   </chara> 
 
   <chara category="pokemon">
+	<id>s3_randoplatinum_tvsatan</id>
+    <name>TV Satan</name>
+    <title>Vengeful Broadcast</title>
+	<game>Randomized Platinum</game>
+	<img>s3_randoplatinum_tvsatan</img>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<species>Giratina</species>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>villain</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/59952p/twitch_randomized_platinum_dex/</credits>
+  </chara> 
+
+  <chara category="pokemon">
 	<id>s3_sun_ribomber</id>
     <name>Ribomber</name>
     <title>Bursting Miracle</title>
@@ -1109,6 +1126,27 @@
   </chara> 
   
   <chara category="pokemon">
+	<id>s6_burningred_mololoetta</id>
+    <name>Mololoetta</name>
+    <title>Beyonder Melody</title>
+	<game>Burning Red</game>
+	<img>s6_burningred_mololoetta</img>
+	<types>
+		<type>Normal</type>
+		<type>Psychic</type>
+	</types>
+	<species>Meloetta</species>
+	<truename>MOlOoetta</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+		<tag>olden</tag>
+		<tag>villain</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/e0e604/twitch_burning_red_dex/</credits>
+  </chara> 
+  
+  <chara category="pokemon">
 	<id>s6_voltwhite_lilliequaz</id>
     <name>Lillie Quaz</name>
     <title>Cosmic Flowering</title>
@@ -1260,6 +1298,23 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/lnp42c/peeps_mahou_shoujo_kiki/</credits>
   </chara> 
 
+  <chara category="pokemon">
+	<id>s8_chattycrystal_shoelax</id>
+    <name>Shoelax</name>
+    <title>Shod Roadblock</title>
+	<game>Chatty Crystal</game>
+	<img>s8_chattycrystal_shoelax</img>
+	<types>
+		<type>Normal</type>
+	</types>
+	<species>Snorlax</species>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
+	<credits>https://www.spriters-resource.com/ds_dsi/pokemondiamondpearl/sheet/18618/</credits>
+  </chara> 
+
 <!-- SIDEGAMES -->
 
   <chara category="pokemon">
@@ -1369,6 +1424,46 @@
 	<truename>~***</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7fbqkr/twitch_pok%C3%A9dex_project_1476_entries/</credits>
+  </chara>
+  
+  <chara category="pokemon">
+	<id>rev_touhoumonrevisit_frogsanae</id>
+    <name>Frog Sanae</name>
+    <title>Lady of Frogs</title>
+	<game>Touhoumon Revisit</game>
+	<img>rev_touhoumonrevisit_frogsanae</img>
+	<types>
+		<type>Faith</type>
+		<type>Water</type>
+	</types>
+	<species>ASanae</species>
+	<truename>ASanae</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+		<tag>stater</tag>
+	</tags>
+	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/touhoumon-large.png</credits>
+  </chara>
+  
+  <chara category="pokemon">
+	<id>rev_touhoumonrevisit_sneksanae</id>
+    <name>Snek Sanae</name>
+    <title>Lady of Sneks</title>
+	<game>Touhoumon Revisit</game>
+	<img>rev_touhoumonrevisit_sneksanae</img>
+	<types>
+		<type>Faith</type>
+		<type>Nature</type>
+	</types>
+	<species>TSanae</species>
+	<truename>TSanae</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+		<tag>stater</tag>
+	</tags>
+	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/touhoumon-large.png</credits>
   </chara>
   
 <!-- INTERMISSIONS -->  
