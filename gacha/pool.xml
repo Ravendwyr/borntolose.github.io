@@ -76,6 +76,19 @@
   </chara> 
    
   <chara category="trainer">
+	<id>s1_firered_samantha</id>
+    <name>Samantha</name>
+    <title>Normal Leader</title>
+	<game>FireRed</game>
+	<img>s1_firered_samantha</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/23isga/a_preview_of_sabrinas_sprite_will_add_to_my_imgur/</credits>
+  </chara> 
+   
+  <chara category="trainer">
 	<id>s1_heartgold_aoochan</id>
     <name>Aoo-chan</name>
     <title>Friendly Lycanthrope</title>
@@ -241,6 +254,20 @@
   </chara> 
  
   <chara category="trainer">
+	<id>s4_blazedglazed_honey</id>
+    <name>Honey</name>
+    <title>Sliding Sweetheart</title>
+	<game>Blazed Glazed</game>
+	<img>s4_blazedglazed_honey</img>
+	<truename>AHUNIgg</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.deviantart.com/megaman-omega/art/Ahuni-Our-adorably-sweet-protagonist-frames-673932635</credits>
+  </chara> 
+ 
+  <chara category="trainer">
 	<id>s4_ultrasun_roark</id>
     <name>Roark</name>
     <title>Blinding Brightness</title>
@@ -285,6 +312,20 @@
 		<tag>host</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7xfytx/xena_winipek_cesar_cesis_cee_cee_brackets_sprites/</credits>
+  </chara> 
+ 
+  <chara category="trainer">
+	<id>s5_bronze_edna</id>
+    <name>Edna</name>
+    <title>Green-Clad Ledgekeeper</title>
+	<game>Bronze</game>
+	<img>s5_bronze_edna</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+		<tag>npc</tag>
+	</tags>
+	<credits>https://bulbapedia.bulbagarden.net/wiki/Picnicker_%28Trainer_class%29#Sprites</credits>
   </chara> 
  
   <chara category="trainer">
@@ -412,9 +453,24 @@
   <chara category="trainer">
 	<id>s7_gauntblack2_reese</id>
     <name>Reese</name>
-    <title>Dressed-Up Sybarite</title>
+    <title>Carefree Libertine</title>
 	<game>Gauntlet Black 2</game>
 	<img>s7_gauntblack2_reese</img>
+	<truename>♀♀R</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>pride</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/g4c56y/reese_the_super_pokestar/</credits>
+  </chara> 
+  
+  <chara category="trainer">
+	<id>s7_gauntblack2_champreese</id>
+    <name>Reese</name>
+    <title>Dressed-Up Sybarite</title>
+	<game>Gauntlet Black 2</game>
+	<img>s7_gauntblack2_champreese</img>
 	<truename>♀♀R</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
@@ -466,6 +522,23 @@
 	<tags>
 		<tag>host</tag>
 		<tag>royal</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/3xq7en/meet_yugi/</credits>
+  </chara> 
+
+  <chara category="trainer">
+	<id>sg_bootleggreen_larry</id>
+    <name>Larry</name>
+    <title>Sociopathic Glitchmancer</title>
+	<game>Bootleg Green</game>
+	<img>sg_bootleggreen_larry</img>
+	<truename>LARRY</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+		<tag>host</tag>
+		<tag>olden</tag>
+		<tag>villain</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/3xq7en/meet_yugi/</credits>
   </chara> 
@@ -670,6 +743,27 @@
 <!-- SEASON 2 -->
 
   <chara category="pokemon">
+	<id>s2_redanni_leechking</id>
+    <name>Leech King</name>
+    <title>Archangel of Dome</title>
+	<game>Red Anniversary</game>
+	<img>s2_redanni_leechking</img>
+	<types>
+		<type>Bug</type>
+		<type>Grass</type>
+	</types>
+	<species>Parasect</species>
+	<truename>-?</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dome</tag>
+		<tag>release</tag>
+		<tag>royal</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4p20v9/twitch_pok%C3%A9dex_anniversary_red/</credits>
+  </chara> 
+
+  <chara category="pokemon">
 	<id>s2_redanni_baba</id>
     <name>Baba</name>
     <title>Burning Water</title>
@@ -778,6 +872,25 @@
  
 <!-- SEASON 3 -->
  
+  <chara category="pokemon">
+	<id>s3_crystalanni_sunflowey</id>
+    <name>Sunflowey</name>
+    <title>Friendly Flower</title>
+	<game>Crystal Anniversary</game>
+	<img>s3_crystalanni_sunflowey</img>
+	<types>
+		<type>Grass</type>
+	</types>
+	<species>Sunflora</species>
+	<truename>KLCCMMMMNN</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>release</tag>
+		<tag>villain</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4vlopb/twitch_anniversary_crystal_dex/</credits>
+  </chara> 
+
   <chara category="pokemon">
 	<id>s3_crystalanni_oldenbird</id>
     <name>OLDEN Bird</name>
@@ -962,6 +1075,24 @@
   </chara> 
  
   <chara category="pokemon">
+	<id>s4_thetaemeraldex_screameon</id>
+    <name>Screameon</name>
+    <title>Devourer of Fear</title>
+	<game>Theta Emerald EX</game>
+	<img>s4_thetaemeraldex_screameon</img>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<species>Sylveon</species>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>glitch</tag>
+		<tag>olden</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7wa8bs/twitch_theta_emerald_pok%C3%A9dex/</credits>
+  </chara> 
+ 
+  <chara category="pokemon">
 	<id>s4_thetaemeraldex_ieadblau</id>
     <name>Ï ËdBLÁü</name>
     <title>Unknown</title>
@@ -1031,6 +1162,21 @@
 	<truename>Rusty</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/8ddw82/rusty_steelix/</credits>
+  </chara> 
+
+  <chara category="pokemon">
+	<id>s5_stormsilver_unidentified</id>
+    <name>Unidentified</name>
+    <title>Unseen Unknown</title>
+	<game>Storm Silver</game>
+	<img>s5_stormsilver_unidentified</img>
+	<types>
+		<type>Normal</type>
+	</types>
+	<species>DPBox</species>
+	<truename></truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/8ocqim/twitch_pok%C3%A9dex_project_1781_entries_before_the/</credits>
   </chara> 
 
   <chara category="pokemon">
@@ -1162,6 +1308,25 @@
   </chara> 
 
   <chara category="pokemon">
+	<id>s6_randocolosseum_rc001</id>
+    <name>RC001</name>
+    <title>Rainbow of Shadows</title>
+	<game>Randomized Colosseum</game>
+	<img>s6_randocolosseum_rc001</img>
+	<types>
+		<type>Fire</type>
+		<type>Flying</type>
+	</types>
+	<species>Ho-Oh</species>
+	<truename>Ho-Oh</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>villain</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/c0dqbp/spriterecolor_rc001_shadow_yolo/</credits>
+  </chara> 
+  
+  <chara category="pokemon">
 	<id>s6_xg_sparkleon</id>
     <name>Sparkleon</name>
     <title>Neon Glitter</title>
@@ -1173,6 +1338,9 @@
 	<species>Vaporeon</species>
 	<truename>Vaporeon</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/cfjp4f/%EF%BD%94%EF%BD%88%EF%BD%85_%EF%BD%81%EF%BD%8C%EF%BD%8C%EF%BD%93%EF%BD%94%EF%BD%81%EF%BD%92%EF%BD%93/</credits>
   </chara> 
   
@@ -1189,6 +1357,9 @@
 	<species>Dracovish</species>
 	<truename>For TPP :)</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fossil</tag>
+	</tags>
 	<credits>https://www.pokecommunity.com/showthread.php?t=368703</credits>
   </chara> 
 
