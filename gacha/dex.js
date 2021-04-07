@@ -93,10 +93,20 @@ function showDexEntry(charaId) {
 
 function eraseDex() {  
 
-	localStorage.clear();
-	document.getElementById("trainers").innerHTML = "";
-	document.getElementById("mons").innerHTML = "";
-	displayDex();
-	updateCompletion();
+	if (confirm("Are you sure you want to reset your entire GachaDex?")) {
+		
+		localStorage.clear();
+		document.getElementById("trainers").innerHTML = "";
+		document.getElementById("mons").innerHTML = "";
+		displayDex();
+		updateCompletion();
+		
+		document.getElementById("dexImage").innerHTML = '<img src="sprites/unknown.png">';
+		document.getElementById("dexName").innerHTML = "<b>???</b>";
+		document.getElementById("dexTitle").innerHTML = "<small>???</small>";
+		document.getElementById("dexGame").innerHTML = setSeason("???");
+		document.getElementById("dexTypes").innerHTML = "";
+		document.getElementById("dexText").innerHTML = "??????????";
+	}
 
 }
