@@ -72,3 +72,13 @@ function setSeason(runName) {
 	return "<i style=\"color:" + color + "\">" + runName + "</i>";
 
 }
+
+function displayMsg(msgCode) { 
+	switch (msgCode) {
+		case "disclaimer":
+			alert("The information presented in the GachaDex is based on headcanons specifically handpicked by its author. Henceforth, the GachaDex does not claim to represent the headcanons of all or most of the TPP community.");
+			break;
+		default:
+			alert("Printer Error 2");
+	}
+}
