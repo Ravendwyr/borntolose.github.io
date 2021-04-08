@@ -99,7 +99,7 @@ function randomFailMsg() {
 					"Codes are a complex topic, Tim.",
 					"Nope, there's only trash here.",
 					"This code's use is forbidden in the Orre region.",
-					"<img src='misc/TriHard.png'>",
+					"<img src='misc/tppTeiHard.png'>",
 					"The miracle never happen.",
 					"Fine, I'll look after <a style='color:black' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>GHASTLY</a> for a while. Come see me in a while.",
 					"<div style='color:red'>An exception occurred</div>Processor:&nbsp; ARM11 (core 0)<br>Exception type:&nbsp; data abort<br>Fault status:&nbsp; Translation - Section<br>Current process:&nbsp; kujira-2 (0004000000055E00)"];
