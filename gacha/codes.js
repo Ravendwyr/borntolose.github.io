@@ -16,8 +16,8 @@ function checkCode() {
 		var code = currentCode.getElementsByTagName("code");
 		
 		if (code[0].textContent.toString() == CryptoJS.MD5(input).toString()) { id = currentCode.getElementsByTagName("id"); break ; }
-		console.log(code[0].textContent.toString());
-		console.log(CryptoJS.MD5(input).toString());
+		//console.log(code[0].textContent.toString());
+		//console.log(CryptoJS.MD5(input).toString());
 		
 	}
 	
@@ -26,7 +26,7 @@ function checkCode() {
 		document.getElementById("pullName").innerHTML = "";
 		document.getElementById("pullGame").innerHTML = "";
 		document.getElementById("pullType").innerHTML = "";
-		document.getElementById("errorMsg").innerHTML = "<b>But nothing happened.</b>";
+		document.getElementById("errorMsg").innerHTML = "<b>" + randomFailMsg() + "</b>";
 	} else {
 		document.getElementById("errorMsg").innerHTML = "";
 		pullChara(id);
@@ -79,4 +79,36 @@ function pullChara(idMD5) {
 	localStorage.setItem(id[0].textContent.toString(), "owned");
 	
 	//console.log(localStorage);
+}
+
+function randomFailMsg() {
+	
+	var msgArray = ["But nothing happened.",
+					"CODE FALLED BORT",
+					"Printer Error 2",
+					"This is so sad, M4 play <a style='color:black' href='https://www.youtube.com/watch?v=zmcpSyxdX5A'>Born to Lose</a>.",
+					"The situation is a bit of a stalemate.",
+					"An error has occurred.<br> Hold down the POWER Button to turn off the power, then turn it on and try again.<br> For help, visit twitch.tv/twitchplayspokemon.",
+					"Silly hacker!",
+					"oh no!",
+					"Hello, we got a problem, we can't finish the dex because this page is stuck at Dewfon and we don't have a secret code, is it possible to make something for putting us back please ? Like the list of hints ? Thanks for your reading.",
+					"⠠⠚⠑⠃⠁⠊⠞⠑⠙",
+					"#NeverLucky",
+					"Now is not the time to use that.",
+					"BOOOOOOOOO",
+					"Codes are a complex topic, Tim.",
+					"Nope, there's only trash here.",
+					"This code's use is forbidden in the Orre region.",
+					"<img src='misc/TriHard.png'>",
+					"The miracle never happen.",
+					"Fine, I'll look after <a style='color:black' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>GHASTLY</a> for a while. Come see me in a while.",
+					"<div style='color:red'>An exception occurred</div>Processor:&nbsp; ARM11 (core 0)<br>Exception type:&nbsp; data abort<br>Fault status:&nbsp; Translation - Section<br>Current process:&nbsp; kujira-2 (0004000000055E00)"];
+	var randomNum = Math.floor(Math.random() * msgArray.length);
+	
+	if (Math.floor(Math.random() * 5) > 1) {
+		return msgArray[0];
+	} else {
+		return msgArray[randomNum];
+	}
+	
 }
