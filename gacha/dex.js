@@ -119,5 +119,5 @@ function displayDiscl() {
 		document.getElementById("dexGame").innerHTML = "";
 		document.getElementById("dexTypes").innerHTML = "";
 		document.getElementById("dexText").innerHTML = "The information presented in the GachaDex is based on headcanons specifically handpicked by its author. Henceforth, the GachaDex does not claim to represent the headcanons of all or most of the TPP community. The author of the GachaDex encourages everyone to conduct their own exploration of TPP content and respects any headcanons differing from their own.";
-		document.getElementById("dexCredits").innerHTML = '???';
+		document.getElementById("dexCredits").innerHTML = "";
 }
