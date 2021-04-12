@@ -4,7 +4,7 @@ function getCooldown() {
 }
 
 function getLongCooldown() { 
-	return 86400000;
+	return 43200000;
 }
 
 function calcDexCompletion() {  

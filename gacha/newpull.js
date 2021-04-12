@@ -1,16 +1,24 @@
 
 function checkCompleted() {
-	if (calcDexCompletion() == 100) {
+	if (calcDexCompletion() >= 100.0 || calcDexCompletion() <= 0.0) {
 		document.getElementById("rollButton").innerHTML = "<button onclick='completedMsg()' style='font-size:large'>ROLL</button>";
 	}
 }
 
 function completedMsg() {
-	if (document.getElementById("pullImg").innerHTML == "") {
-			document.getElementById("pullMsgUp").innerHTML = "<b>Your GachaDex is already complete!</b>";
-		} else {
-			document.getElementById("pullMsgDown").innerHTML = "<b>Your GachaDex is already complete!</b>";
-		}
+	if (calcDexCompletion() >= 100.0) {
+		if (document.getElementById("pullImg").innerHTML == "") {
+				document.getElementById("pullMsgUp").innerHTML = "<b>Your GachaDex is already complete!</b>";
+			} else {
+				document.getElementById("pullMsgDown").innerHTML = "<b>Your GachaDex is already complete!</b>";
+			}
+	} else if (calcDexCompletion() <= 0.0) {
+		if (document.getElementById("pullImg").innerHTML == "") {
+				document.getElementById("pullMsgUp").innerHTML = "<b>How about trying for a random pull first?</b>";
+			} else {
+				document.getElementById("pullMsgDown").innerHTML = "<b>How about trying for a random pull first?</b>";
+			}
+	}
 }
 
 function buildPool() {
