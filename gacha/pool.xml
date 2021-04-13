@@ -3,6 +3,8 @@
 
 <!-- SEASON 1 -->
 
+<!-- - Red - -->
+
   <chara category="trainer">
 	<id>s1_red_red</id>
     <name>Red</name>
@@ -45,7 +47,11 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/252a2b/tpp_sprites/</credits>
   </chara> 
- 
+
+<!-- - Crystal - -->
+  
+<!-- - Emerald - -->
+
   <chara category="trainer">
 	<id>s1_emerald_achan</id>
     <name>A-chan</name>
@@ -59,6 +65,8 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4k5ic0/the_hosts_of_the_voices_season_3a/</credits>
   </chara> 
+   
+<!-- - FireRed - -->
    
   <chara category="trainer">
 	<id>s1_firered_alice</id>
@@ -88,6 +96,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/23isga/a_preview_of_sabrinas_sprite_will_add_to_my_imgur/</credits>
   </chara> 
    
+<!-- - Platinum - -->
+   
+<!-- - HeartGold - -->
+   
   <chara category="trainer">
 	<id>s1_heartgold_aoochan</id>
     <name>Aoo-chan</name>
@@ -104,6 +116,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/37a6t7/the_hosts_of_the_voices/</credits>
   </chara> 
  
+<!-- - Black - -->
+ 
   <chara category="trainer">
 	<id>s1_black_fennel</id>
     <name>Fennel</name>
@@ -117,6 +131,10 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/2vlkvb/tpp_sprite_sheet/coit6sk/</credits>
   </chara> 
+ 
+<!-- - Black 2 - -->
+  
+<!-- - X - -->
  
   <chara category="trainer">
 	<id>s1_x_lild</id>
@@ -133,7 +151,12 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/37a6t7/the_hosts_of_the_voices/</credits>
   </chara> 
  
+<!-- - Omega Ruby - -->
+ 
+ 
 <!-- SEASON 2 -->
+
+<!-- - Red Anniversary - -->
  
   <chara category="trainer">
 	<id>s2_redanni_abe</id>
@@ -165,6 +188,12 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/2vlkvb/tpp_sprite_sheet/</credits>
   </chara> 
  
+<!-- - Touhoumon - -->
+
+<!-- - Moemon - -->
+
+<!-- - Alpha Sapphire - -->
+ 
   <chara category="trainer">
 	<id>s2_alphasapphire_nina</id>
     <name>Nina</name>
@@ -179,7 +208,14 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/9f3lfh/hosts_of_the_voices_before_the_sky/</credits>
   </chara> 
  
+<!-- - Colosseum - -->
+ 
+<!-- - XD - -->
+ 
+
 <!-- SEASON 3 -->
+
+<!-- - Crystal Anniversary - -->
  
   <chara category="trainer">
 	<id>s3_crystalanni_azure</id>
@@ -194,6 +230,12 @@
 	</tags>
 	<credits>https://www.deviantart.com/megaman-omega/art/Twitch-Plays-Pokemon-Azure-Frames-638664948</credits>
   </chara> 
+ 
+<!-- - Brown - -->
+
+<!-- - Randomized Platinum - -->
+
+<!-- - Prism - -->
  
   <chara category="trainer">
 	<id>s3_prism_cyan</id>
@@ -210,6 +252,8 @@
 	<credits>https://www.deviantart.com/megaman-omega/art/Cyan-Our-shy-and-demure-protagonist-Frames-639422366</credits>
   </chara> 
  
+<!-- - Sun - -->
+ 
   <chara category="trainer">
 	<id>s3_sun_lillie</id>
     <name>Lillie</name>
@@ -222,6 +266,8 @@
 	</tags>
 	<credits>https://www.pokecommunity.com/showthread.php?p=9523755#post9523755</credits>
   </chara> 
+
+<!-- - Waning Moon - -->
  
   <chara category="trainer">
 	<id>s3_waningmoon_devin</id>
@@ -237,7 +283,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5qo9dy/the_hosts_of_the_voices_before_season_4/</credits>
   </chara> 
  
+
 <!-- SEASON 4 --> 
+
+<!-- - Chatty Yellow - -->
 
   <chara category="trainer">
 	<id>s4_chattyyellow_xman</id>
@@ -253,6 +302,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5w92xx/the_hosts_of_the_voices_after_the_4th_anniversary/</credits>
   </chara> 
  
+<!-- - Blazed Glazed - -->
+ 
   <chara category="trainer">
 	<id>s4_blazedglazed_honey</id>
     <name>Honey</name>
@@ -266,6 +317,14 @@
 	</tags>
 	<credits>https://www.deviantart.com/megaman-omega/art/Ahuni-Our-adorably-sweet-protagonist-frames-673932635</credits>
   </chara> 
+ 
+<!-- - Randomized White 2 - -->
+
+<!-- - Pyrite - -->
+
+<!-- - Theta Emerald EX - -->
+
+<!-- - Ultra Sun - -->
  
   <chara category="trainer">
 	<id>s4_ultrasun_roark</id>
@@ -281,7 +340,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7g24ka/rorick_rotor_roark_rowans_sprites/</credits>
   </chara> 
 
+
 <!-- SEASON 5 -->
+
+<!-- - Duel Red & Blue - -->
 
   <chara category="trainer">
 	<id>s5_dualredblue_cici</id>
@@ -314,6 +376,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7xfytx/xena_winipek_cesar_cesis_cee_cee_brackets_sprites/</credits>
   </chara> 
  
+<!-- - Storm Silver - -->
+
+<!-- - Bronze - -->
+ 
   <chara category="trainer">
 	<id>s5_bronze_edna</id>
     <name>Edna</name>
@@ -327,6 +393,10 @@
 	</tags>
 	<credits>https://bulbapedia.bulbagarden.net/wiki/Picnicker_%28Trainer_class%29#Sprites</credits>
   </chara> 
+ 
+<!-- - Randomized Y - -->
+
+<!-- - Flora Sky - -->
  
   <chara category="trainer">
 	<id>s5_florasky_hannah</id>
@@ -356,7 +426,12 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/9pkxol/hannah_the_ninja_master/</credits>
   </chara> 
 
+<!-- - Fused Crystal - -->
+
+
 <!-- SEASON 6 -->
+
+<!-- - Burning Red - -->
 
   <chara category="trainer">
 	<id>s6_voltwhite_aqua</id>
@@ -373,6 +448,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/beur93/aqua_kuehl_the_lonely/</credits>
   </chara> 
 
+<!-- - Volt White - -->
+
+<!-- - Randomized Colosseum - -->
+
   <chara category="trainer">
 	<id>s6_randocolosseum_dairyqueen</id>
     <name>Dairy Queen</name>
@@ -387,6 +466,12 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/c6he53/the_new_heroes_of_orre/</credits>
   </chara> 
+
+<!-- - XG - -->
+
+<!-- - TriHard Emerald - -->
+
+<!-- - Randomized Ultra Moon - -->
 
   <chara category="trainer">
 	<id>s6_randoultramoon_anabellillie</id>
@@ -403,6 +488,8 @@
 	<credits>https://www.deviantart.com/mid117/art/Pokemon-Sun-and-Moon-Lillie-Trainer-Sprite-647549847</credits>
   </chara> 
 
+<!-- - Sword - -->
+
   <chara category="trainer">
 	<id>s6_sword_rey</id>
     <name>Rey</name>
@@ -418,7 +505,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/e1c95e/rey_collins_the_girl_with_rainbow_eyes/</credits>
   </chara> 
 
+
 <!-- SEASON 7 -->
+
+<!-- - Gauntlet Red - -->
 
   <chara category="trainer">
 	<id>s7_gauntred_redo</id>
@@ -435,6 +525,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/f84tx7/the_gauntlet_hall_of_fame_16/</credits>
   </chara> 
  
+<!-- - Gauntlet Crystal - -->
+
+<!-- - Gauntlet Emerald - -->
+ 
   <chara category="trainer">
 	<id>s7_gauntemerald_nia</id>
     <name>Nia</name>
@@ -449,6 +543,10 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/fnbjl0/the_gauntlet_hall_of_fame_36/</credits>
   </chara> 
+ 
+<!-- - Gauntlet Platinum - -->
+
+<!-- - Gauntlet Black 2 - -->
  
   <chara category="trainer">
 	<id>s7_gauntblack2_reese</id>
@@ -479,7 +577,13 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/g7lnio/the_gauntlet_hall_of_fame_56/</credits>
   </chara> 
-  
+
+<!-- - Gauntlet X - -->
+
+<!-- - Sirius - -->
+
+<!-- - Rising Ruby - -->
+
   <chara category="trainer">
 	<id>s7_risingruby_may</id>
     <name>May</name>
@@ -494,7 +598,19 @@
 	<credits>https://www.deviantart.com/trainersplash/art/Pokemon-ORAS-May-Sprite-606305108</credits>
   </chara> 
 
+<!-- - Vega - -->
+
+
+<!-- SEASON 8 -->
+
+<!-- - Chatty Crystal - -->
+
+<!-- - Renegade Platinum - -->
+
+
 <!-- SIDEGAMES -->
+
+<!-- - Vietnamese Crystal - -->
 
   <chara category="trainer">
 	<id>sg_vietcrystal_baba</id>
@@ -510,6 +626,8 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/6tdqij/the_hosts_of_the_voices_4th_midseason/</credits>
   </chara> 
+  
+<!-- - Trading Card Game - -->
 
   <chara category="trainer">
 	<id>sg_tcg_yugi</id>
@@ -525,6 +643,14 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/3xq7en/meet_yugi/</credits>
   </chara> 
+
+<!-- - Ultra - -->
+ 
+<!-- - Dark Graystone - -->
+ 
+<!-- - Ash Gray - -->
+ 
+<!-- - Bootleg Green - -->
 
   <chara category="trainer">
 	<id>sg_bootleggreen_larry</id>
@@ -543,6 +669,18 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/3xq7en/meet_yugi/</credits>
   </chara> 
 
+<!-- - Sweet - -->
+ 
+<!-- - Hypno's Lullaby - -->
+ 
+<!-- - Gold SpaceWorld Demo - -->
+ 
+<!-- - Metronome Sapphire - -->
+
+<!-- - NavyBlue - -->
+  
+<!-- - Lightning Sapphire - -->
+
   <chara category="trainer">
 	<id>sg_lightsapphire_urf</id>
     <name>Urf</name>
@@ -557,7 +695,16 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/gl1f3g/urfs_up/</credits>
   </chara> 
 
+
 <!-- REVISITS -->
+
+<!-- - FireRed Revisit - -->
+
+<!-- - Emerald Revisit - -->
+
+<!-- - Crystal Revisit - -->
+
+<!-- - Red Revisit - -->
 
   <chara category="trainer">
 	<id>rev_redrevisit_john</id>
@@ -571,8 +718,19 @@
 	</tags>
 	<credits>https://bulbapedia.bulbagarden.net/wiki/Ace_Trainer_%28Trainer_class%29#In_the_core_series</credits>
   </chara> 
+  
+<!-- - Black Revisit - -->
+
+<!-- - Touhoumon Revisit - -->
+
+<!-- - Sword - Isle of Armor - -->
+
+<!-- - Sword - Crown Tundra - -->
+
 
 <!-- INTERMISSIONS -->
+
+<!-- - PBR - -->
 
   <chara category="trainer">
 	<id>int_pbr_mysterialsim</id>
@@ -587,6 +745,10 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/c1kebi/the_hosts_of_the_voices_before_the_next_generation/</credits>
   </chara> 
+
+<!-- - Telefang Diamond - -->
+
+<!-- - Crystal 1.OLDEN - -->
 
   <chara category="trainer">
 	<id>int_crystalolden_jamie</id>
@@ -604,7 +766,12 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4e7ehd/jamie_of_bracket_queen_of_april_fools/</credits>
   </chara> 
 
+<!-- - The Wooper Who Saved Christmas - -->
+
+
 <!-- SEASON 1 -->
+
+<!-- - Red - -->
 
   <chara category="pokemon">
 	<id>s1_red_lordhelix</id>
@@ -625,7 +792,7 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/252a2b/tpp_sprites/</credits>
   </chara> 
- 
+
   <chara category="pokemon">
 	<id>s1_red_birdjesus</id>
     <name>Bird Jesus</name>
@@ -644,6 +811,8 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/20iaxx/i_made_it_anybody_want_to_use_these_sprites/</credits>
   </chara> 
+
+<!-- - Crystal - -->
 
   <chara category="pokemon">
 	<id>s1_crystal_lazergator</id>
@@ -676,6 +845,12 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/izwzg3/yall_seemed_to_like_my_first_sprite_sheet_so/</credits>
   </chara> 
 
+<!-- - Emerald - -->
+
+<!-- - FireRed - -->
+
+<!-- - Platinum - -->
+
   <chara category="pokemon">
 	<id>s1_platinum_sunshine</id>
     <name>Sunshine</name>
@@ -690,6 +865,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/j0h8wo/okay_last_one_for_today_here_we_have_platinum/</credits>
   </chara> 
+
+<!-- - HeartGold - -->
 
   <chara category="pokemon">
 	<id>s1_heartgold_kenya</id>
@@ -709,6 +886,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/j0ekgn/how_about_we_just_finish_off_the_bill_saga_this/</credits>
   </chara> 
 
+<!-- - Black - -->
+
   <chara category="pokemon">
 	<id>s1_black_petersparkler</id>
     <name>Peter Sparkler</name>
@@ -725,6 +904,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/2ajg6l/twitch_pokedex_400_entries_raw_in_celebration_of/</credits>
   </chara> 
 
+<!-- - Black 2 - -->
+
   <chara category="pokemon">
 	<id>s1_black2_lorddrive</id>
     <name>Lord Drive</name>
@@ -740,7 +921,14 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/2cgogm/twitch_pokedex_460_entries/</credits>
   </chara> 
 
+<!-- - X - -->
+ 
+<!-- - Omega Ruby - -->
+
+
 <!-- SEASON 2 -->
+
+<!-- - Red Anniversary - -->
 
   <chara category="pokemon">
 	<id>s2_redanni_leechking</id>
@@ -781,6 +969,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/j3jmz0/by_semipopular_demand_heres_anniversary_red/</credits>
   </chara> 
 
+<!-- - Touhoumon - -->
+
   <chara category="pokemon">
 	<id>s2_touhoumon_sanae</id>
     <name>Lady Sanae</name>
@@ -820,6 +1010,8 @@
 	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/touhoumon-large.png</credits>
   </chara> 
  
+<!-- - Moemon - -->
+
   <chara category="pokemon">
 	<id>s2_moemon_effie</id>
     <name>Effie the White</name>
@@ -855,6 +1047,8 @@
 	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/moemon-large.png</credits>
   </chara> 
  
+<!-- - Alpha Sapphire - -->
+
   <chara category="pokemon">
 	<id>s2_alphasapphire_lampeon</id>
     <name>Lampeon</name>
@@ -870,8 +1064,15 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4ru8rv/twitch_pok%C3%A9dex_alpha_sapphire/</credits>
   </chara> 
  
-<!-- SEASON 3 -->
+<!-- - Colosseum - -->
  
+<!-- - XD - -->
+
+ 
+<!-- SEASON 3 -->
+
+<!-- - Crystal Anniversary - -->
+
   <chara category="pokemon">
 	<id>s3_crystalanni_sunflowey</id>
     <name>Sunflowey</name>
@@ -913,6 +1114,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5fv670/twitch_prism_pok%C3%A9dex/</credits>
   </chara> 
 
+<!-- - Brown - -->
+
   <chara category="pokemon">
 	<id>s3_brown_burgerkween</id>
     <name>Burger Kween</name>
@@ -950,6 +1153,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4wdglb/twitch_brown_dex/</credits>
   </chara> 
 
+<!-- - Randomized Platinum - -->
+
   <chara category="pokemon">
 	<id>s3_randoplatinum_moonflash</id>
     <name>Moonflash</name>
@@ -986,6 +1191,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/59952p/twitch_randomized_platinum_dex/</credits>
   </chara> 
 
+<!-- - Prism - -->
+ 
+<!-- - Sun - -->
+
   <chara category="pokemon">
 	<id>s3_sun_ribomber</id>
     <name>Ribomber</name>
@@ -1002,7 +1211,12 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5hb302/twitch_sun_rotomdex/</credits>
   </chara> 
 
+<!-- - Waning Moon - -->
+
+
 <!-- SEASON 4 -->
+
+<!-- - Chatty Yellow - -->
 
   <chara category="pokemon">
 	<id>s4_chattyyellow_iaqo</id>
@@ -1023,6 +1237,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5yvoei/twitch_chatty_yellow_dex/</credits>
   </chara> 
  
+<!-- - Blazed Glazed - -->
+
   <chara category="pokemon">
 	<id>s4_blazedglazed_hugbug</id>
     <name>Hugbug</name>
@@ -1038,6 +1254,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/66fk6k/hall_of_fame_blazed_glazed_congratulation_ahuni/</credits>
   </chara> 
+  
+<!-- - Randomized White 2 - -->
   
   <chara category="pokemon">
 	<id>s4_randowhite2_turbohelix</id>
@@ -1058,6 +1276,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/6fpin6/when_science_goes_too_far/</credits>
   </chara> 
  
+<!-- - Pyrite - -->
+
   <chara category="pokemon">
 	<id>s4_pyrite_sadneton</id>
     <name>Sadneton</name>
@@ -1073,6 +1293,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7uw3uz/twitch_pyrite_pok%C3%A9dex/</credits>
   </chara> 
+ 
+<!-- - Theta Emerald EX - -->
  
   <chara category="pokemon">
 	<id>s4_thetaemeraldex_screameon</id>
@@ -1109,6 +1331,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7wa8bs/twitch_theta_emerald_pok%C3%A9dex/</credits>
   </chara> 
  
+<!-- - Ultra Sun - -->
+ 
   <chara category="pokemon">
 	<id>s4_ultrasun_genderghastly</id>
     <name>Gender Ghastly</name>
@@ -1128,7 +1352,12 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7x3xdo/twitch_ultra_sun_rotom_dex/</credits>
   </chara> 
 
+
 <!-- SEASON 5 -->
+
+<!-- - Duel Red & Blue - -->
+ 
+<!-- - Storm Silver - -->
 
   <chara category="pokemon">
 	<id>s5_stormsilver_secondcat</id>
@@ -1179,6 +1408,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/8ocqim/twitch_pok%C3%A9dex_project_1781_entries_before_the/</credits>
   </chara> 
 
+<!-- - Bronze - -->
+
   <chara category="pokemon">
 	<id>s5_bronze_lucci</id>
     <name>Lucci</name>
@@ -1216,6 +1447,8 @@
 	<credits>https://www.spriters-resource.com/game_boy_advance/pokemonrubysapphire/sheet/28884/</credits>
   </chara> 
 
+<!-- - Randomized Y - -->
+
   <chara category="pokemon">
 	<id>s5_randoy_wishmecha</id>
     <name>Wishmecha Shikatsu-000</name>
@@ -1230,6 +1463,10 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/9dz6az/twitch_pok%C3%A9dex_project_1874_entries/</credits>
   </chara> 
+
+<!-- - Flora Sky - -->
+
+<!-- - Fused Crystal - -->
 
   <chara category="pokemon">
 	<id>s5_fusedcrystal_nojob</id>
@@ -1251,7 +1488,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/al9cqu/twitch_fused_crystal_pok%C3%A9dex/</credits>
   </chara> 
 
+
 <!-- SEASON 6 -->
+
+<!-- - Burning Red - -->
 
   <chara category="pokemon">
 	<id>s6_burningred_kingjackass</id>
@@ -1292,6 +1532,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/e0e604/twitch_burning_red_dex/</credits>
   </chara> 
   
+<!-- - Volt White - -->
+  
   <chara category="pokemon">
 	<id>s6_voltwhite_lilliequaz</id>
     <name>Lillie Quaz</name>
@@ -1306,6 +1548,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/c5srdr/hall_of_fame_volt_white/</credits>
   </chara> 
+
+<!-- - Randomized Colosseum - -->
 
   <chara category="pokemon">
 	<id>s6_randocolosseum_rc001</id>
@@ -1325,7 +1569,9 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/c0dqbp/spriterecolor_rc001_shadow_yolo/</credits>
   </chara> 
-  
+
+<!-- - XG - -->
+
   <chara category="pokemon">
 	<id>s6_xg_sparkleon</id>
     <name>Sparkleon</name>
@@ -1343,6 +1589,12 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/cfjp4f/%EF%BD%94%EF%BD%88%EF%BD%85_%EF%BD%81%EF%BD%8C%EF%BD%8C%EF%BD%93%EF%BD%94%EF%BD%81%EF%BD%92%EF%BD%93/</credits>
   </chara> 
+  
+<!-- - TriHard Emerald - -->
+
+<!-- - Randomized Ultra Moon - -->
+
+<!-- - Sword - -->
   
   <chara category="pokemon">
 	<id>s6_sword_lorddrakefish</id>
@@ -1363,7 +1615,16 @@
 	<credits>https://www.pokecommunity.com/showthread.php?t=368703</credits>
   </chara> 
 
+
 <!-- SEASON 7 -->
+
+<!-- - Gauntlet Red - -->
+ 
+<!-- - Gauntlet Crystal - -->
+
+<!-- - Gauntlet Emerald - -->
+ 
+<!-- - Gauntlet Platinum - -->
 
   <chara category="pokemon">
 	<id>s7_gauntplatinum_elitefish</id>
@@ -1380,6 +1641,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/fyaqga/the_gauntlet_hall_of_fame_46/</credits>
   </chara> 
 
+<!-- - Gauntlet Black 2 - -->
+
   <chara category="pokemon">
 	<id>s7_gauntblack2_pepsiman</id>
     <name>Pepsiman</name>
@@ -1394,6 +1657,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/g7lnio/the_gauntlet_hall_of_fame_56/</credits>
   </chara> 
+  
+<!-- - Gauntlet X - -->
 
   <chara category="pokemon">
 	<id>s7_gauntx_fucklett</id>
@@ -1410,6 +1675,10 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/gl9b85/the_gauntlet_hall_of_fame_66/</credits>
   </chara> 
+
+<!-- - Sirius - -->
+
+<!-- - Rising Ruby - -->
 
   <chara category="pokemon">
 	<id>s7_risingruby_hearts</id>
@@ -1430,6 +1699,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/if6h9z/hall_of_fame_rising_ruby/</credits>
   </chara> 
 
+<!-- - Vega - -->
+
   <chara category="pokemon">
 	<id>s7_vega_ox</id>
     <name>Ox</name>
@@ -1449,7 +1720,10 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/kkycxk/hall_of_fame_vega/</credits>
   </chara> 
 
+
 <!-- SEASON 8 -->
+
+<!-- - Chatty Crystal - -->
 
   <chara category="pokemon">
 	<id>s8_chattycrystal_peeps</id>
@@ -1486,7 +1760,16 @@
 	<credits>https://www.spriters-resource.com/ds_dsi/pokemondiamondpearl/sheet/18618/</credits>
   </chara> 
 
+<!-- - Renegade Platinum - -->
+
+
 <!-- SIDEGAMES -->
+
+<!-- - Vietnamese Crystal - -->
+  
+<!-- - Trading Card Game - -->
+
+<!-- - Ultra - -->
 
   <chara category="pokemon">
 	<id>sg_ultra_lull</id>
@@ -1507,6 +1790,12 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/568gkg/the_ultra_crew_so_far_v_30/</credits>
   </chara> 
 
+<!-- - Dark Graystone - -->
+ 
+<!-- - Ash Gray - -->
+ 
+<!-- - Bootleg Green - -->
+
   <chara category="pokemon">
 	<id>sg_bootleggreen_mom</id>
     <name>Mom</name>
@@ -1525,6 +1814,8 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/86islb/green_batch_of_sprites_2/</credits>
   </chara> 
+
+<!-- - Sweet - -->
 
   <chara category="pokemon">
 	<id>sg_sweet_vore</id>
@@ -1545,6 +1836,12 @@
 	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/candyland-large.png</credits>
   </chara> 
 
+<!-- - Hypno's Lullaby - -->
+ 
+<!-- - Gold SpaceWorld Demo - -->
+ 
+<!-- - Metronome Sapphire - -->
+
   <chara category="pokemon">
 	<id>sg_metrosapphire_meltan</id>
     <name>Uultan</name>
@@ -1559,6 +1856,8 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.pokecommunity.com/showthread.php?t=368703</credits>
   </chara> 
+
+<!-- - NavyBlue - -->
 
   <chara category="pokemon">
 	<id>sg_navyblue_honk</id>
@@ -1579,7 +1878,20 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/f1unfs/navy_blue_sprites_v40/</credits>
   </chara> 
 
+<!-- - Lightning Sapphire - -->
+
+
 <!-- REVISITS -->
+
+<!-- - FireRed Revisit - -->
+
+<!-- - Emerald Revisit - -->
+
+<!-- - Crystal Revisit - -->
+
+<!-- - Red Revisit - -->
+  
+<!-- - Black Revisit - -->
 
   <chara category="pokemon">
 	<id>rev_blackrevisit_petersparkler</id>
@@ -1596,7 +1908,9 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7fbqkr/twitch_pok%C3%A9dex_project_1476_entries/</credits>
   </chara>
-  
+
+<!-- - Touhoumon Revisit - -->
+
   <chara category="pokemon">
 	<id>rev_touhoumonrevisit_frogsanae</id>
     <name>Frog Sanae</name>
@@ -1637,7 +1951,14 @@
 	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/touhoumon-large.png</credits>
   </chara>
   
+<!-- - Sword - Isle of Armor - -->
+
+<!-- - Sword - Crown Tundra - -->
+  
+  
 <!-- INTERMISSIONS -->  
+
+<!-- - PBR - -->
 
   <chara category="pokemon">
 	<id>int_pbr_elhuevomalo</id>
@@ -1655,6 +1976,8 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/btj117/meanwhile_in_pok%C3%A9topia/</credits>
   </chara> 
+  
+<!-- - Telefang Diamond - -->
   
   <chara category="pokemon">
 	<id>int_telefangdiamond_domesday</id>
@@ -1674,6 +1997,10 @@
 	</tags>
 	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/telefang/denjuu-large.gif</credits>
   </chara> 
+
+<!-- - Crystal 1.OLDEN - -->
+
+<!-- - The Wooper Who Saved Christmas - -->
 
   <chara category="pokemon">
 	<id>int_wooperchristmas_wooper</id>
