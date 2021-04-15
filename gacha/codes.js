@@ -10,6 +10,15 @@ function checkCode() {
 	var codes = response.childNodes[0];
 	var input = document.getElementById("secretCode").value;
 	var id = null;
+	
+	if (input == "") {
+		document.getElementById("pullImg").innerHTML = "";
+		document.getElementById("pullName").innerHTML = "";
+		document.getElementById("pullGame").innerHTML = "";
+		document.getElementById("pullType").innerHTML = "";
+		document.getElementById("errorMsg").innerHTML = "<b>...</b>";
+		return 0;
+	}
 
 	for (i = 0; i < codes.children.length; i++) {
 		var currentCode = codes.children[i];
