@@ -1134,10 +1134,49 @@
 	<species>Flareon</species>
 	<truename>!!!!r</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4ru8rv/twitch_pok%C3%A9dex_alpha_sapphire/</credits>
   </chara> 
  
 <!-- - Colosseum - -->
+ 
+  <chara category="pokemon">
+	<id>s2_colosseum_nacho</id>
+    <name>Nacho</name>
+    <title>Forgiving Ally</title>
+	<game>Colosseum</game>
+	<img>s2_colosseum_nacho</img>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<species>Espeon</species>
+	<truename>ABLLLVVVVV</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/3r9npu/rui_insisted_in_taking_a_commemorative_picture/</credits>
+  </chara> 
+  
+  <chara category="pokemon">
+	<id>s2_colosseum_taco</id>
+    <name>Taco</name>
+    <title>Vicious Scumbag</title>
+	<game>Colosseum</game>
+	<img>s2_colosseum_taco</img>
+	<types>
+		<type>Dark</type>
+	</types>
+	<species>Umbreon</species>
+	<truename>Umbreon</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/3r9npu/rui_insisted_in_taking_a_commemorative_picture/</credits>
+  </chara> 
  
 <!-- - XD - -->
 
@@ -1912,6 +1951,21 @@
 <!-- - Hypno's Lullaby - -->
  
 <!-- - Gold SpaceWorld Demo - -->
+
+  <chara category="pokemon">
+	<id>sg_goldspaceworld_betagirafarigateb</id>
+    <name>Beta Girafarig Ateb</name>
+    <title>Extinct Curse</title>
+	<game>Gold SpaceWorld Demo</game>
+	<img>sg_goldspaceworld_betagirafarigateb</img>
+	<types>
+		<type>Dark</type>
+		<type>Normal</type>
+	</types>
+	<species>Kirinriki</species>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/9392g7/twitch_inter_dex_5/</credits>
+  </chara> 
  
 <!-- - Metronome Sapphire - -->
 
