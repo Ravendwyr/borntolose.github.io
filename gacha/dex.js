@@ -113,7 +113,7 @@ function eraseDex() {
 }
 
 function displayDiscl() { 
-		document.getElementById("dexImage").innerHTML = '<img src="sprites/s8_chattycrystal_peeps.png">';
+		document.getElementById("dexImage").innerHTML = '<img src="sprites/disclaimer.png">';
 		document.getElementById("dexName").innerHTML = "";
 		document.getElementById("dexTitle").innerHTML = "";
 		document.getElementById("dexGame").innerHTML = "";

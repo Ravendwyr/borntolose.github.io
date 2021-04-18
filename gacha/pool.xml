@@ -50,6 +50,20 @@
 
 <!-- - Crystal - -->
   
+  <chara category="trainer">
+	<id>s1_crystal_joey</id>
+    <name>Joey</name>
+    <title>Youngster</title>
+	<game>Crystal</game>
+	<img>s1_crystal_joey</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+		<tag>pride</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/252a2b/tpp_sprites/</credits>
+  </chara>  
+  
 <!-- - Emerald - -->
 
   <chara category="trainer">
@@ -62,6 +76,35 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4k5ic0/the_hosts_of_the_voices_season_3a/</credits>
+  </chara> 
+   
+  <chara category="trainer">
+	<id>s1_emerald_camilla</id>
+    <name>Camilla</name>
+    <title>Kind Persona</title>
+	<game>Emerald</game>
+	<img>s1_emerald_camilla</img>
+	<truename>CAMILA</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4k5ic0/the_hosts_of_the_voices_season_3a/</credits>
+  </chara> 
+   
+  <chara category="trainer">
+	<id>s1_emerald_slash</id>
+    <name>Slash</name>
+    <title>Bloodthirsty Ego</title>
+	<game>Emerald</game>
+	<img>s1_emerald_slash</img>
+	<truename>/</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>villain</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4k5ic0/the_hosts_of_the_voices_season_3a/</credits>
   </chara> 
@@ -471,6 +514,20 @@
 
 <!-- - TriHard Emerald - -->
 
+  <chara category="trainer">
+	<id>s6_trihardemerald_fate</id>
+    <name>Fate</name>
+    <title>Disgruntled Teenager</title>
+	<game>TriHard Emerald</game>
+	<img>s6_trihardemerald_fate</img>
+	<truename>F48</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/cr0nin/sleepy_chiky_sleeping_chicken_and_sleeping/</credits>
+  </chara> 
+  
 <!-- - Randomized Ultra Moon - -->
 
   <chara category="trainer">
@@ -719,6 +776,8 @@
 	<credits>https://bulbapedia.bulbagarden.net/wiki/Ace_Trainer_%28Trainer_class%29#In_the_core_series</credits>
   </chara> 
   
+<!-- - Vietnamese Crystal Revisit - -->
+
 <!-- - Black Revisit - -->
 
 <!-- - Touhoumon Revisit - -->
@@ -764,6 +823,20 @@
 		<tag>villain</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4e7ehd/jamie_of_bracket_queen_of_april_fools/</credits>
+  </chara> 
+  
+  <chara category="trainer">
+	<id>int_debugrubin_petra</id>
+    <name>Petra</name>
+    <title>Enchanted Lifebringer</title>
+	<game>Debug Rubin</game>
+	<img>int_debugrubin_petra</img>
+	<truename>PETRA</truename>
+    <desc>Petra ist ein junges Mädchen aus dem Internationalen Archipel Hoenn, das sich plötzlich mit magischen, realitätsverändernden Kräften wiederfand. Diese benutzte sie unschuldig, um die Siegeshalle zu betreten, Pokemonfreunde zu machen und sich ein eigenes Fahrrad zu beschaffen.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/cofjn3/petra_scharlachrot_the_arcane_cyclist/</credits>
   </chara> 
 
 <!-- - The Wooper Who Saved Christmas - -->
@@ -1131,7 +1204,7 @@
 	<tags>
 		<tag>royal</tag>
 	</tags>
-	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4wdglb/twitch_brown_dex/</credits>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4vhfp6/compilation_of_sprites_prerandomized_platinum/</credits>
   </chara> 
 
   <chara category="pokemon">
@@ -1890,6 +1963,8 @@
 <!-- - Crystal Revisit - -->
 
 <!-- - Red Revisit - -->
+
+<!-- - Vietnamese Crystal Revisit - -->
   
 <!-- - Black Revisit - -->
 
