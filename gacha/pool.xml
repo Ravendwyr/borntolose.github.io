@@ -664,6 +664,19 @@
 
 <!-- - Renegade Platinum - -->
 
+  <chara category="trainer">
+	<id>s8_renegadeplatinum_karma</id>
+    <name>Karma</name>
+    <title>Clockwork Scribbler</title>
+	<game>Renegade Platinum</game>
+	<img>s8_renegadeplatinum_karma</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/mr8l1r/kristopher_von_karma_the_clockwork_poketch/</credits>
+  </chara> 
+  
 
 <!-- SIDEGAMES -->
 
@@ -847,6 +860,25 @@
 <!-- SEASON 1 -->
 
 <!-- - Red - -->
+
+  <chara category="pokemon">
+	<id>s1_red_abby</id>
+    <name>Abby</name>
+    <title>First Companion</title>
+	<game>Red</game>
+	<img>s1_red_abby</img>
+	<types>
+		<type>Fire</type>
+	</types>
+	<species>Charmeleon</species>
+	<truename>ABBBBBBK(</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>release</tag>
+		<tag>starter</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/izur5u/first_post_subpar_sprites_more_to_come/</credits>
+  </chara> 
 
   <chara category="pokemon">
 	<id>s1_red_lordhelix</id>
@@ -1744,6 +1776,25 @@
 	<credits>https://www.pokecommunity.com/showthread.php?t=368703</credits>
   </chara> 
 
+  <chara category="pokemon">
+	<id>s6_sword_lorddinofish</id>
+    <name>Lord DinoFish</name>
+    <title>Lord of Separation</title>
+	<game>Sword</game>
+	<img>s6_sword_lorddinofish</img>
+	<types>
+		<type>Water</type>
+		<type>Ice</type>
+	</types>
+	<species>Arctovish</species>
+	<truename>11111b</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fossil</tag>
+	</tags>
+	<credits>https://www.pokecommunity.com/showthread.php?t=368703</credits>
+  </chara> 
+
 
 <!-- SEASON 7 -->
 
@@ -1982,7 +2033,7 @@
 	<tags>
 		<tag>starter</tag>
 	</tags>
-	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/86islb/green_batch_of_sprites_2/</credits>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/9392g7/twitch_inter_dex_5/</credits>
   </chara> 
 
 <!-- - Gold SpaceWorld Demo - -->
