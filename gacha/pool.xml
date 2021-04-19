@@ -1350,6 +1350,21 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5yvoei/twitch_chatty_yellow_dex/</credits>
   </chara> 
+  
+  <chara category="pokemon">
+	<id>s4_chattyyellow_tppsimulator</id>
+    <name>tppsimulator</name>
+    <title>Virtual Voice</title>
+	<game>Chatty Yellow</game>
+	<img>s4_chattyyellow_tppsimulator</img>
+	<types>
+		<type>Normal</type>
+	</types>
+	<species>Porygon-Z</species>
+	<truename>tppsimulator</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.spriters-resource.com/ds_dsi/pokemonblackwhite/sheet/35598/</credits>
+  </chara> 
  
 <!-- - Blazed Glazed - -->
 
@@ -1951,7 +1966,25 @@
   </chara> 
 
 <!-- - Hypno's Lullaby - -->
- 
+
+  <chara category="pokemon">
+	<id>sg_hypnoslullaby_zero</id>
+    <name>Zero</name>
+    <title>Nightmarish Spirit</title>
+	<game>Hypno's Lullaby</game>
+	<img>sg_hypnoslullaby_zero</img>
+	<types>
+		<type>Fire</type>
+	</types>
+	<species>Vulpix</species>
+	<truename>0</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/86islb/green_batch_of_sprites_2/</credits>
+  </chara> 
+
 <!-- - Gold SpaceWorld Demo - -->
 
   <chara category="pokemon">
