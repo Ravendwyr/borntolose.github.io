@@ -824,6 +824,8 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4e7ehd/jamie_of_bracket_queen_of_april_fools/</credits>
   </chara> 
+
+<!-- - Debug Rubin - -->
   
   <chara category="trainer">
 	<id>int_debugrubin_petra</id>
@@ -1418,7 +1420,7 @@
 		<type>Fairy</type>
 	</types>
 	<species>Sylveon</species>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>Screameon's dreadful appearance is the result of his possession by the fiendish Ham-Ham known as Spats, though he also seems to have ties to OLDEN. While not malevolent in nature, he does feed off the fear of others, and relishes in their screams of terror. He and Burger Kween have formed a close relationship; most would agree that she is the most ruthless of the two.</desc>
 	<tags>
 		<tag>glitch</tag>
 		<tag>olden</tag>
@@ -2128,6 +2130,8 @@
   </chara> 
 
 <!-- - Crystal 1.OLDEN - -->
+
+<!-- - Debug Rubin - -->
 
 <!-- - The Wooper Who Saved Christmas - -->
 
