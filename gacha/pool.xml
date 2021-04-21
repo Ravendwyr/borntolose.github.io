@@ -278,6 +278,20 @@
 
 <!-- - Randomized Platinum - -->
 
+  <chara category="trainer">
+	<id>s3_randoplatinum_jasmine</id>
+    <name>Jasmine</name>
+    <title>Omnipresent Artisan</title>
+	<game>Randomized Platinum</game>
+	<img>s3_randoplatinum_jasmine</img>
+	<truename>Jasmine</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
+	<credits>https://www.spriters-resource.com/fullview/48033/</credits>
+  </chara> 
+
 <!-- - Prism - -->
  
   <chara category="trainer">
@@ -955,6 +969,22 @@
 <!-- - Emerald - -->
 
 <!-- - FireRed - -->
+
+  <chara category="pokemon">
+	<id>s1_firered_lordariadome</id>
+    <name>Lord Ariadome</name>
+    <title>Alterlord of Democracy</title>
+	<game>FireRed</game>
+	<img>s1_firered_lordariadome</img>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<species>Ariados</species>
+	<truename>Lwweekjjje</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/252a2b/tpp_sprites/</credits>
+  </chara> 
 
 <!-- - Platinum - -->
 
