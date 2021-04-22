@@ -947,6 +947,9 @@
 	<species>Feraligatr</species>
 	<truename>AAAAAtttta</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/20g2e2/will_this_team_overthrow_the_ancient_god/</credits>
   </chara> 
 
@@ -983,6 +986,10 @@
 	<species>Ariados</species>
 	<truename>Lwweekjjje</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dome</tag>
+		<tag>fossil</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/252a2b/tpp_sprites/</credits>
   </chara> 
 
