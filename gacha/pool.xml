@@ -656,6 +656,20 @@
 <!-- - Rising Ruby - -->
 
   <chara category="trainer">
+	<id>s7_risingruby_ebnert</id>
+    <name>Ébnert</name>
+    <title>Royal Weeb</title>
+	<game>Rising Ruby</game>
+	<img>s7_risingruby_ebnert</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>royal</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/if6h9z/hall_of_fame_rising_ruby/</credits>
+  </chara> 
+  
+  <chara category="trainer">
 	<id>s7_risingruby_may</id>
     <name>May</name>
     <title>Yandere Assassin</title>
@@ -1062,6 +1076,11 @@
 	</types>
 	<species>Genesect</species>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dome</tag>
+		<tag>fossil</tag>
+		<tag>villain</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/2cgogm/twitch_pokedex_460_entries/</credits>
   </chara> 
 
@@ -1069,6 +1088,21 @@
  
 <!-- - Omega Ruby - -->
 
+  <chara category="pokemon">
+	<id>s1_omegaruby_lloyd</id>
+    <name>Lloyd</name>
+    <title>Suspicious Lens</title>
+	<game>Omega Ruby</game>
+	<img>s1_omegaruby_lloyd</img>
+	<types>
+		<type>Steel</type>
+		<type>Psychic</type>
+	</types>
+	<species>Beldum</species>
+	<truename>Beldum</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4o6ije/twitch_pok%C3%A9dex_omega_ruby/</credits>
+  </chara> 
 
 <!-- SEASON 2 -->
 
@@ -1836,6 +1870,22 @@
 <!-- SEASON 7 -->
 
 <!-- - Gauntlet Red - -->
+
+  <chara category="pokemon">
+	<id>s7_gauntred_blank</id>
+    <name>Blank</name>
+    <title>Faceless Flower</title>
+	<game>Gauntlet Red</game>
+	<img>s7_gauntred_blank</img>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<species>Vileplume</species>
+	<truename>----</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/f84tx7/the_gauntlet_hall_of_fame_16/</credits>
+  </chara>
  
 <!-- - Gauntlet Crystal - -->
 
@@ -1894,6 +1944,25 @@
   </chara> 
 
 <!-- - Sirius - -->
+
+  <chara category="pokemon">
+	<id>s7_sirius_abdee</id>
+    <name>Abdee</name>
+    <title>Brave Brazier</title>
+	<game>Sirius</game>
+	<img>s7_sirius_abdee</img>
+	<types>
+		<type>Fire</type>
+		<type>Dragon</type>
+	</types>
+	<species>Solarisen</species>
+	<truename>AABBDDEE</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/hw945m/hall_of_fame_sirius/</credits>
+  </chara> 
 
 <!-- - Rising Ruby - -->
 
