@@ -56,8 +56,14 @@ function showDexEntry(charaId) {
 	var desc = currentChara.getElementsByTagName("desc");
 	var credits = currentChara.getElementsByTagName("credits");
 	
+	var alt = currentChara.getElementsByTagName("species");
+	
 	if (localStorage.getItem(charaId) == "owned") {
-		document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png">';
+		if (alt.length > 0) {
+			document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png" alt="' + alt[0].textContent.toString() + '">';
+		} else {
+			document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png">';
+		}
 		document.getElementById("dexName").innerHTML = "<b>" + name[0].textContent.toString() + "</b>";
 		document.getElementById("dexTitle").innerHTML = "<small>" + title[0].textContent.toString() + "</small>";
 		document.getElementById("dexGame").innerHTML = setSeason(game[0].textContent.toString());
