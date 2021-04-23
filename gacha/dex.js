@@ -60,7 +60,7 @@ function showDexEntry(charaId) {
 	
 	if (localStorage.getItem(charaId) == "owned") {
 		if (alt.length > 0) {
-			document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png" alt="' + alt[0].textContent.toString() + '">';
+			document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png" title="' + alt[0].textContent.toString() + '">';
 		} else {
 			document.getElementById("dexImage").innerHTML = '<img src="sprites/' + img[0].textContent.toString() + '.png">';
 		}
