@@ -724,6 +724,21 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/6tdqij/the_hosts_of_the_voices_4th_midseason/</credits>
   </chara> 
+
+  <chara category="trainer">
+	<id>sg_vietcrystal_sho</id>
+    <name>Sorcerer Sho</name>
+    <title>Mystery in Red</title>
+	<game>Vietnamese Crystal</game>
+	<img>sg_vietcrystal_sho</img>
+	<truename>SHO</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+		<tag>villain</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/2vlkvb/tpp_sprite_sheet/</credits>
+  </chara> 
   
 <!-- - Trading Card Game - -->
 
@@ -861,6 +876,7 @@
 	<tags>
 		<tag>host</tag>
 		<tag>olden</tag>
+		<tag>royal</tag>
 		<tag>villain</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4e7ehd/jamie_of_bracket_queen_of_april_fools/</credits>
@@ -880,6 +896,22 @@
 		<tag>host</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/cofjn3/petra_scharlachrot_the_arcane_cyclist/</credits>
+  </chara> 
+
+<!-- - Trick or Treat House - -->
+
+  <chara category="trainer">
+	<id>int_trickortreathouse_chicka</id>
+    <name>Chicka</name>
+    <title>Autumnal Torchick</title>
+	<game>Trick or Treat House</game>
+	<img>int_trickortreathouse_chicka</img>
+	<truename>AA</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.deviantart.com/dmn666/art/May-Black-and-White-Sprite-256062717</credits>
   </chara> 
 
 <!-- - The Wooper Who Saved Christmas - -->
@@ -947,6 +979,46 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/20iaxx/i_made_it_anybody_want_to_use_these_sprites/</credits>
   </chara> 
 
+  <chara category="pokemon">
+	<id>s1_red_lorddome</id>
+    <name>Lord Dome</name>
+    <title>Lord of Democracy</title>
+	<game>Red</game>
+	<img>s1_red_lorddome</img>
+	<types>
+		<type>Rock</type>
+		<type>Water</type>
+	</types>
+	<species>Kabutops</species>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fossil</tag>
+		<tag>dome</tag>
+		<tag>villain</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/2vlkvb/tpp_sprite_sheet/</credits>
+  </chara> 
+
+  <chara category="pokemon">
+	<id>s1_red_falseprophet</id>
+    <name>False Prophet</name>
+    <title>Prophet of Dome</title>
+	<game>Red</game>
+	<img>s1_red_falseprophet</img>
+	<types>
+		<type>Fire</type>
+	</types>
+	<species>Flareon</species>
+	<truename>FLAREON</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dome</tag>
+		<tag>release</tag>
+		<tag>villain</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/izur5u/first_post_subpar_sprites_more_to_come/</credits>
+  </chara> 
+
 <!-- - Crystal - -->
 
   <chara category="pokemon">
@@ -984,6 +1056,21 @@
   </chara> 
 
 <!-- - Emerald - -->
+
+  <chara category="pokemon">
+	<id>s1_emerald_m4</id>
+    <name>M4</name>
+    <title>Steamrolling Soldier</title>
+	<game>Emerald</game>
+	<img>s1_emerald_m4</img>
+	<types>
+		<type>Water</type>
+	</types>
+	<species>Azumarill</species>
+	<truename>M ---/'/'4</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4m0b49/twitch_pok%C3%A9dex_emerald/</credits>
+  </chara> 
 
 <!-- - FireRed - -->
 
@@ -1643,6 +1730,25 @@
 <!-- - Bronze - -->
 
   <chara category="pokemon">
+	<id>s5_bronze_winnie</id>
+    <name>Winnie the Chu</name>
+    <title>Childhood Friend</title>
+	<game>Bronze</game>
+	<img>s5_bronze_winnie</img>
+	<types>
+		<type>Electric</type>
+	</types>
+	<species>Pikachu</species>
+	<truename>//.Wnne;π</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>starter</tag>
+		<tag>release</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/8uwux5/twitch_bronze_pok%C3%A9dex/</credits>
+  </chara>
+
+  <chara category="pokemon">
 	<id>s5_bronze_lucci</id>
     <name>Lucci</name>
     <title>Friendly Glitch</title>
@@ -1825,6 +1931,25 @@
 <!-- - TriHard Emerald - -->
 
 <!-- - Randomized Ultra Moon - -->
+
+  <chara category="pokemon">
+	<id>s6_randoultramoon_frostypumpkin</id>
+    <name>Frosty the Pumpkin</name>
+    <title>Wintery Nightmare</title>
+	<game>Randomized Ultra Moon</game>
+	<img>s6_randoultramoon_frostypumpkin</img>
+	<types>
+		<type>Ghost</type>
+		<type>Grass</type>
+	</types>
+	<species>Gourgeist</species>
+	<truename>AAbbbbbbbbbb</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>release</tag>
+	</tags>
+	<credits>https://www.pokecommunity.com/showthread.php?t=314422</credits>
+  </chara> 
 
 <!-- - Sword - -->
   
@@ -2040,14 +2165,26 @@
 	</types>
 	<species>Snorlax</species>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
-	<tags>
-		<tag>starter</tag>
-	</tags>
 	<credits>https://www.spriters-resource.com/ds_dsi/pokemondiamondpearl/sheet/18618/</credits>
   </chara> 
 
 <!-- - Renegade Platinum - -->
 
+  <chara category="pokemon">
+	<id>s8_renegadeplatinum_stepbug</id>
+    <name>Step Bug</name>
+    <title>Luminous Faeriesaur</title>
+	<game>Renegade Platinum</game>
+	<img>s8_renegadeplatinum_stepbug</img>
+	<types>
+		<type>Grass</type>
+		<type>Fairy</type>
+	</types>
+	<species>Meganium</species>
+	<truename>STPPBWG</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/mt7jjt/step_bug_the_illumina_meganium/</credits>
+  </chara> 
 
 <!-- SIDEGAMES -->
 
@@ -2297,7 +2434,28 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/btj117/meanwhile_in_pok%C3%A9topia/</credits>
   </chara> 
-  
+
+<!-- - Conquest - -->
+
+  <chara category="pokemon">
+	<id>int_conquest_kappareon</id>
+    <name>Kappareon</name>
+    <title>True Prophet</title>
+	<game>Conquest</game>
+	<img>int_conquest_kappareon</img>
+	<types>
+		<type>Water</type>
+	</types>
+	<species>Vaporeon</species>
+	<truename>Vaporeon</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>helix</tag>
+		<tag>starter</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/lzy70p/absolutely_foolproof/</credits>
+  </chara> 
+
 <!-- - Telefang Diamond - -->
   
   <chara category="pokemon">
@@ -2316,12 +2474,14 @@
 		<tag>fakemon</tag>
 		<tag>villain</tag>
 	</tags>
-	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/telefang/denjuu-large.gif</credits>
+	<credits>https://www.deviantart.com/racieb/art/Telefang-1-Sprite-Revamp-Project-379126211</credits>
   </chara> 
 
 <!-- - Crystal 1.OLDEN - -->
 
 <!-- - Debug Rubin - -->
+
+<!-- - Trick or Treat House - -->
 
 <!-- - The Wooper Who Saved Christmas - -->
 
