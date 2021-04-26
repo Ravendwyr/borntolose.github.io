@@ -38,6 +38,8 @@ function buildPool(critValue = "") {
 	var response = Connect.responseXML;
 	var subResponse = "<charas>";
 	var charas = response.childNodes[0];
+	
+	var inPool = new Array();
 		
 	if (critValue.length > 0) {
 		
@@ -58,8 +60,9 @@ function buildPool(critValue = "") {
 						
 						// Loop on character values
 						for (k = 0; k < charaValue[0].children.length; k++) {
-							if (charaValue[0].children[k].textContent.toString() == critValue[0].children[j].textContent.toString()) {
-								subResponse += currentChara.outerHTML;
+							if (charaValue[0].children[k].textContent.toString() == critValue[0].children[j].textContent.toString() && !inPool.includes(currentChara.getElementsByTagName("id"))) {
+									inPool.push(currentChara.getElementsByTagName("id"));
+									subResponse += currentChara.outerHTML;
 							}
 						}
 						
@@ -68,7 +71,8 @@ function buildPool(critValue = "") {
 						//console.log(charaValue[0].textContent.toString());
 						//console.log(critValue[0].children[j].textContent.toString());
 						
-						if (charaValue[0].textContent.toString() == critValue[0].children[j].textContent.toString()) {
+						if (charaValue[0].textContent.toString() == critValue[0].children[j].textContent.toString() && !inPool.includes(currentChara.getElementsByTagName("id"))) {
+								inPool.push(currentChara.getElementsByTagName("id"));
 								subResponse += currentChara.outerHTML;
 						}
 						
