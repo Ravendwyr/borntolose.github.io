@@ -106,6 +106,7 @@
 	<runs>
 		<run>Chatty Crystal</run>
 		<run>Renegade Platinum</run>
+		<run>Red/Green/Blue Race</run>
 	</runs>
   </season> 
   <season>
@@ -132,10 +133,11 @@
     <name>Revisits</name>
 	<color>#A50021</color>
 	<runs>
-		<run>Red Revisit</run>
-		<run>Crystal Revisit</run>
-		<run>Emerald Revisit</run>
 		<run>FireRed Revisit</run>
+		<run>Emerald Revisit</run>
+		<run>Crystal Revisit</run>
+		<run>Red Revisit</run>
+		<run>Vietnamese Crystal Revisit</run>
 		<run>Black Revisit</run>
 		<run>Touhoumon Revisit</run>
 		<run>Sword - Isle of Armor</run>
