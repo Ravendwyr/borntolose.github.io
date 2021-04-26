@@ -1497,6 +1497,24 @@
 
 <!-- - Prism - -->
  
+  <chara category="pokemon">
+	<id>s3_prism_fifi</id>
+    <name>Fifi</name>
+    <title>Miracle of Dome</title>
+	<game>Prism</game>
+	<img>s3_prism_fifi</img>
+	<types>
+		<type>Fire</type>
+	</types>
+	<species>Ninetales</species>
+	<truename>FFFEEEF</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dome</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5fv670/twitch_prism_pok%C3%A9dex/</credits>
+  </chara> 
+ 
 <!-- - Sun - -->
 
   <chara category="pokemon">
@@ -2051,6 +2069,22 @@
   </chara> 
   
 <!-- - Gauntlet X - -->
+
+  <chara category="pokemon">
+	<id>s7_gauntx_amepure</id>
+    <name>Âme Pure</name>
+    <title>Lord of Friendship</title>
+	<game>Gauntlet X</game>
+	<img>s7_gauntx_amepure</img>
+	<types>
+		<type>Rock</type>
+		<type>Ice</type>
+	</types>
+	<species>Aurorus</species>
+	<truename>Amééépura2</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/gl9b85/the_gauntlet_hall_of_fame_66/</credits>
+  </chara> 
 
   <chara category="pokemon">
 	<id>s7_gauntx_fucklett</id>
