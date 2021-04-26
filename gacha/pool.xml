@@ -2083,6 +2083,9 @@
 	<species>Aurorus</species>
 	<truename>Amééépura2</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fossil</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/gl9b85/the_gauntlet_hall_of_fame_66/</credits>
   </chara> 
 
