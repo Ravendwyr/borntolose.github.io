@@ -92,9 +92,10 @@ function pullChara(idMD5) {
 
 function randomFailMsg() {
 	
-	var msgArray = ["But nothing happened.",
+	var msgArray = [
+					"But nothing happened.",
 					"CODE FALLED BORT",
-					"Printer Error 2",
+					"Printer Error 2<br><br>Check the Game Boy Printer manual.<br>Press B to cancel.",
 					"This is so sad, M4 play <a style='color:black' href='https://www.youtube.com/watch?v=zmcpSyxdX5A'>Born to Lose</a>.",
 					"The situation is a bit of a stalemate.",
 					"An error has occurred.<br> Hold down the POWER Button to turn off the power, then turn it on and try again.<br> For help, visit twitch.tv/twitchplayspokemon.",
@@ -107,11 +108,22 @@ function randomFailMsg() {
 					"BOOOOOOOOO",
 					"Codes are a complex topic, Tim.",
 					"Nope, there's only trash here.",
+					"Today's password! Let me think... It's " + ["ିпᔿ฿ܿ", "⨿ⴿⴿᴿ∿", "☿ਿ␿Կᨿ", "ᬿि࠿⸿┿", "⠿ሿဿܿⴿ", "ᐿℿ᤿ిĿ", "∿ⰿؿ̿⬿", "ి᤿ؿिܿ", "ؿᔿ〿ିؿ", "ȿ⸿ⴿ☿࠿"][Math.floor(Math.random()*10)] + "! Don't forget it!",
 					"This code's use is forbidden in the Orre region.",
 					"<img src='misc/tppTeiHard.png'>",
 					"The miracle never happen.",
-					"Fine, I'll look after <a style='color:black' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>GASTLY</a> for a while. Come see me in a while.",
-					"<div style='color:red'>An exception occurred</div>Processor:&nbsp; ARM11 (core 0)<br>Exception type:&nbsp; data abort<br>Fault status:&nbsp; Translation - Section<br>Current process:&nbsp; kujira-2 (0004000000055E00)"];
+					"Fine, I'll look after <a style='color:black' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>GASTLY</a> for a while.",
+					"BULLET GIVEN BY BET-BOY",
+					"Were you expecting something else?",
+					"Are ya stupid?",
+					"Not even a nibble...",
+					"<div style='color:red'>An exception occurred</div>Processor:&nbsp; ARM11 (core 0)<br>Exception type:&nbsp; data abort<br>Fault status:&nbsp; Translation - Section<br>Current process:&nbsp; kujira-2 (0004000000055E00)",
+					"DISCONNECTED FROM HOST",
+					"This code contains inappropriate text.",
+					"unsupported command: " + document.getElementById("secretCode").value.toLowerCase().replace(/ +/g, ""),
+					"<style>body {background-image: url('misc/olden.png'); background-repeat:no-repeat; background-position:center;}</style>",
+					"<i>If you can read this, i didn't accidentally destroy the database</i>"
+					];
 	var randomNum = Math.floor(Math.random() * msgArray.length);
 	
 	if (Math.floor(Math.random() * 5) > 1) {
