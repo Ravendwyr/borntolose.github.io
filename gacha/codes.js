@@ -108,7 +108,7 @@ function randomFailMsg() {
 					"BOOOOOOOOO",
 					"Codes are a complex topic, Tim.",
 					"Nope, there's only trash here.",
-					"Today's password! Let me think... It's " + ["ିпᔿ฿ܿ", "⨿ⴿⴿᴿ∿", "☿ਿ␿Կᨿ", "ᬿि࠿⸿┿", "⠿ሿဿܿⴿ", "ᐿℿ᤿ిĿ", "∿ⰿؿ̿⬿", "ి᤿ؿिܿ", "ؿᔿ〿ିؿ", "ȿ⸿ⴿ☿࠿"][Math.floor(Math.random()*10)] + "! Don't forget it!",
+					"Today's password! Let me think... It's <span onmouseover=\"this.innerHTML='&nbsp;？？？？？'\">" + ["ିпᔿ฿ܿ", "⨿ⴿⴿᴿ∿", "☿ਿ␿Կᨿ", "ᬿि࠿⸿┿", "⠿ሿဿܿⴿ", "ᐿℿ᤿ిĿ", "∿ⰿؿ̿⬿", "ి᤿ؿिܿ", "ؿᔿ〿ିؿ", "ȿ⸿ⴿ☿࠿"][Math.floor(Math.random()*10)] + "</span>! Don't forget it!",
 					"This code's use is forbidden in the Orre region.",
 					"<img src='misc/tppTeiHard.png'>",
 					"The miracle never happen.",
