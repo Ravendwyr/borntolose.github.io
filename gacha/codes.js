@@ -11,6 +11,7 @@ function checkCode() {
 	var input = document.getElementById("secretCode").value;
 	var id = null;
 	
+	checkKane(input);
 	if (input == "") {
 		document.getElementById("pullImg").innerHTML = "";
 		document.getElementById("pullName").innerHTML = "";
@@ -88,6 +89,19 @@ function pullChara(idMD5) {
 	localStorage.setItem(id[0].textContent.toString(), "owned");
 	
 	//console.log(localStorage);
+}
+
+function checkKane(input) {
+	
+	if (input.toLowerCase().replace(/ +/g, "") == "yugnatsucks") {
+		document.getElementsByTagName("body")[0].outerHTML = "<body style='background-color:darkgray'></body>";
+		setInterval(function() { 
+			array = ["&nbsp;&nbsp;&nbsp;", "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;", "<b>", "<i>", "<br>", "<span style='color:red'>", "<span style='font-size:large'>", "<span style='background-color:red'>", "<span style='font-size:small'>", "<a style='color:darkred' href='javascript:alert(\"Darn, jist an error message\")'>"]
+			document.getElementsByTagName("body")[0].innerHTML += array[Math.floor(Math.random()*10)] + array[Math.floor(Math.random()*10)] + array[Math.floor(Math.random()*10)] + "Darn, jist an error message "; 
+		}, 100);
+		return 0;
+	}	
+	
 }
 
 function randomFailMsg() {
