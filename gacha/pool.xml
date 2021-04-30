@@ -411,6 +411,7 @@
 	<truename>(((</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>dome</tag>
 		<tag>helix</tag>
 		<tag>host</tag>
 	</tags>
@@ -428,6 +429,7 @@
 	<tags>
 		<tag>dome</tag>
 		<tag>glitch</tag>
+		<tag>helix</tag>
 		<tag>host</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7xfytx/xena_winipek_cesar_cesis_cee_cee_brackets_sprites/</credits>
