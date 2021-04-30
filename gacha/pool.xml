@@ -1910,7 +1910,7 @@
   <chara category="pokemon">
 	<id>s6_randocolosseum_rc001</id>
     <name>RC001</name>
-    <title>Rainbow of Shadows</title>
+    <title>Iridescent Shadow</title>
 	<game>Randomized Colosseum</game>
 	<img>s6_randocolosseum_rc001</img>
 	<types>
@@ -1993,7 +1993,7 @@
   <chara category="pokemon">
 	<id>s6_sword_lorddinofish</id>
     <name>Lord DinoFish</name>
-    <title>Lord of Separation</title>
+    <title>Lord of Conversion</title>
 	<game>Sword</game>
 	<img>s6_sword_lorddinofish</img>
 	<types>
