@@ -1,4 +1,11 @@
 
+function getDayId() {
+	var day = new Date().getDate();
+	if (day == 1 && (new Date()).getMonth() == 3) { day = 'S0104' };
+	return day;
+}
+
+
 function currentPoolTitle() {
 	
 	var Connect = new XMLHttpRequest();
@@ -6,8 +13,7 @@ function currentPoolTitle() {
 	Connect.setRequestHeader("Content-Type", "text/xml");
 	Connect.send(null);
 	
-	var day = new Date().getDate();
-	if (day == 1 && (new Date()).getMonth() == 3) { day = 0 };
+	var day = getDayId();
 	var response = Connect.responseXML;
 	var pools = response.childNodes[0];
 	
@@ -100,8 +106,7 @@ function dayPull() {
 	Connect.setRequestHeader("Content-Type", "text/xml");
 	Connect.send(null);
 	
-	var day = new Date().getDate();
-	if (day == 1 && (new Date()).getMonth() == 3) { day = 0 };
+	var day = getDayId();
 	var response = Connect.responseXML;
 	var pools = response.childNodes[0];
 	

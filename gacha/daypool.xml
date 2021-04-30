@@ -65,6 +65,7 @@
 		<name>Sidegames &amp; Intermissions</name>
 		<values>
 			<value tag="game">Vietnamese Crystal</value>			<value tag="game">Trading Card Game</value>			<value tag="game">Ultra</value>			<value tag="game">Dark Graystone</value>			<value tag="game">Ash Gray</value>			<value tag="game">Bootleg Green</value>			<value tag="game">Sweet</value>			<value tag="game">Hypno's Lullaby</value>			<value tag="game">Gold SpaceWorld Demo</value>			<value tag="game">Metronome Sapphire</value>			<value tag="game">NavyBlue</value>			<value tag="game">Lightning Sapphire</value>			<value tag="game">PBR</value>			<value tag="game">Conquest</value>			<value tag="game">Channel</value>			<value tag="game">Telefang Diamond</value>			<value tag="game">Crystal 1.0LDEN</value>			<value tag="game">Detective Pikachu</value>			<value tag="game">Debug Rubin</value>			<value tag="game">Trick or Treat House</value>			<value tag="game">The Wooper Who Saved Christmas</value>			<value tag="game">Sanqui Red</value>
+			<value tag="game">AFD Roulette</value>
 		</values>
 	</pool>
 	<pool>
@@ -72,6 +73,7 @@
 		<name>Unusual Types</name>
 		<values>
 			<value tag="types">Bird</value>
+			<value tag="types">Unknown</value>
 			<value tag="types">Illusion</value>
 			<value tag="types">Faith</value>
 			<value tag="types">Reason</value>
@@ -300,6 +302,7 @@
 			<value tag="name">Misty</value>
 			<value tag="name">Sabrina</value>
 			<value tag="name">Samantha</value>
+			<value tag="name">Jasmine</value>
 			<value tag="name">Wattson</value>
 			<value tag="name">Artemis</value>
 			<value tag="name">Honey</value>
@@ -422,6 +425,7 @@
 			<value tag="name">Calem</value>
 			<value tag="name">Ébnert</value>
 			<value tag="name">Redo</value>
+			<value tag="name">Kiki</value>
 			<value tag="name">Bet-Boy</value>
 			<value tag="species">Unown</value>
 			<value tag="species">Giratina</value>
@@ -447,20 +451,21 @@
 			<value tag="game">Red Anniversary</value>
 			<value tag="game">Burning Red</value>
 			<value tag="game">Gauntlet Red</value>
+			<value tag="game">Red-Green-Blue Race</value>
 			<value tag="game">FireRed Revisit</value>
 			<value tag="game">Red Revisit</value>
 			<value tag="game">NavyBlue</value>
 			<value tag="game">Sanqui Red</value>
 			<value tag="truename">RED</value>
 			<value tag="truename">BLUE</value>
-			<value tag="types">Fire</value>
+			<!--value tag="types">Fire</value>
 			<value tag="types">Water</value>
 			<value tag="types">Ice</value>
 			<value tag="types">Cherry</value>
 			<value tag="types">Strawberry</value>
 			<value tag="types">Apple</value>
 			<value tag="types">Blueberry</value>
-			<value tag="types">Aquatic</value>
+			<value tag="types">Aquatic</value-->
 		</values>
 	</pool>
 	<pool>
@@ -490,7 +495,6 @@
 			<value tag="name">Acapella</value>
 			<value tag="name">Hannah</value>
 			<value tag="name">Envy</value>
-			<value tag="name">Fate</value>
 			<value tag="name">Nia</value>
 			<value tag="name">May</value>
 			<value tag="name">Agate</value>
@@ -514,13 +518,17 @@
 			<value tag="name">Sho</value>
 		</values>
 	</pool>
+	
+<!-- SPECIAL POOLS -->
+
 	<pool>
-		<day>0</day>
+		<day>S0104</day>
 		<name>Happy Charap!</name>
 		<values>
 			<value tag="game">Crystal 1.OLDEN</value>
 			<value tag="game">Metronome Sapphire</value>
 			<value tag="game">Metronome Ruby</value>
+			<value tag="game">AFD Roulette</value>
 			<value tag="name">Charap</value>
 		</values>
 	</pool>
