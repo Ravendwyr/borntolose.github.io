@@ -51,6 +51,21 @@
 <!-- - Crystal - -->
   
   <chara category="trainer">
+	<id>s1_crystal_aj</id>
+    <name>AJ</name>
+    <title>Slayer of Gods</title>
+	<game>Crystal</game>
+	<img>s1_crystal_aj</img>
+	<truename>AJDNNW</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>pride</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/252a2b/tpp_sprites/</credits>
+  </chara> 
+  
+  <chara category="trainer">
 	<id>s1_crystal_joey</id>
     <name>Joey</name>
     <title>Youngster</title>
@@ -455,6 +470,20 @@
  
 <!-- - Randomized Y - -->
 
+  <chara category="trainer">
+	<id>s5_randoy_drsycamore</id>
+    <name>Dr. Sycamore</name>
+    <title>Flaring Scientist</title>
+	<game>Randomized Y</game>
+	<img>s5_randoy_drsycamore</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+		<tag>villain</tag>
+	</tags>
+	<credits>https://www.deviantart.com/similation/art/Professor-Sycamore-837339018</credits>
+  </chara>
+
 <!-- - Flora Sky - -->
  
   <chara category="trainer">
@@ -692,6 +721,19 @@
 
 <!-- - Chatty Crystal - -->
 
+  <chara category="trainer">
+	<id>s8_chattycrystal_kiki</id>
+    <name>Kiki</name>
+    <title>Foul-Mouthed Streamer</title>
+	<game>Chatty Crystal</game>
+	<img>s8_chattycrystal_kiki</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/lnp42c/peeps_mahou_shoujo_kiki/</credits>
+  </chara> 
+
 <!-- - Renegade Platinum - -->
 
   <chara category="trainer">
@@ -810,6 +852,20 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/gl1f3g/urfs_up/</credits>
   </chara> 
 
+  <chara category="trainer">
+	<id>sg_lightsapphire_fighterurf</id>
+    <name>Urf</name>
+    <title>Union Fighter</title>
+	<game>Lightning Sapphire</game>
+	<img>sg_lightsapphire_fighterurf</img>
+	<truename>URF</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/km98b8/hall_of_fame_lightning_sapphire/</credits>
+  </chara> 
+
 
 <!-- REVISITS -->
 
@@ -912,6 +968,21 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
+	</tags>
+	<credits>https://www.deviantart.com/dmn666/art/May-Black-and-White-Sprite-256062717</credits>
+  </chara> 
+
+  <chara category="trainer">
+	<id>int_trickortreathouse_bbs</id>
+    <name>BBS</name>
+    <title>Autumnal Treekid</title>
+	<game>Trick or Treat House</game>
+	<img>int_trickortreathouse_bbs</img>
+	<truename>BBS   M</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>pride</tag>
 	</tags>
 	<credits>https://www.deviantart.com/dmn666/art/May-Black-and-White-Sprite-256062717</credits>
   </chara> 
