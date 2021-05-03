@@ -51,6 +51,21 @@
 <!-- - Crystal - -->
   
   <chara category="trainer">
+	<id>s1_crystal_aj</id>
+    <name>AJ</name>
+    <title>Slayer of Gods</title>
+	<game>Crystal</game>
+	<img>s1_crystal_aj</img>
+	<truename>AJDNNW</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>pride</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/252a2b/tpp_sprites/</credits>
+  </chara> 
+  
+  <chara category="trainer">
 	<id>s1_crystal_joey</id>
     <name>Joey</name>
     <title>Youngster</title>
@@ -455,6 +470,20 @@
  
 <!-- - Randomized Y - -->
 
+  <chara category="trainer">
+	<id>s5_randoy_drsycamore</id>
+    <name>Dr. Sycamore</name>
+    <title>Flaring Scientist</title>
+	<game>Randomized Y</game>
+	<img>s5_randoy_drsycamore</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+		<tag>villain</tag>
+	</tags>
+	<credits>https://www.deviantart.com/similation/art/Professor-Sycamore-837339018</credits>
+  </chara>
+
 <!-- - Flora Sky - -->
  
   <chara category="trainer">
@@ -692,6 +721,19 @@
 
 <!-- - Chatty Crystal - -->
 
+  <chara category="trainer">
+	<id>s8_chattycrystal_kiki</id>
+    <name>Kiki</name>
+    <title>Foul-Mouthed Streamer</title>
+	<game>Chatty Crystal</game>
+	<img>s8_chattycrystal_kiki</img>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/lnp42c/peeps_mahou_shoujo_kiki/</credits>
+  </chara> 
+
 <!-- - Renegade Platinum - -->
 
   <chara category="trainer">
@@ -810,6 +852,20 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/gl1f3g/urfs_up/</credits>
   </chara> 
 
+  <chara category="trainer">
+	<id>sg_lightsapphire_fighterurf</id>
+    <name>Urf</name>
+    <title>Union Fighter</title>
+	<game>Lightning Sapphire</game>
+	<img>sg_lightsapphire_fighterurf</img>
+	<truename>URF</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/km98b8/hall_of_fame_lightning_sapphire/</credits>
+  </chara> 
+
 
 <!-- REVISITS -->
 
@@ -912,6 +968,21 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
+	</tags>
+	<credits>https://www.deviantart.com/dmn666/art/May-Black-and-White-Sprite-256062717</credits>
+  </chara> 
+
+  <chara category="trainer">
+	<id>int_trickortreathouse_bbs</id>
+    <name>BBS</name>
+    <title>Autumnal Treekid</title>
+	<game>Trick or Treat House</game>
+	<img>int_trickortreathouse_bbs</img>
+	<truename>BBS   M</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>pride</tag>
 	</tags>
 	<credits>https://www.deviantart.com/dmn666/art/May-Black-and-White-Sprite-256062717</credits>
   </chara> 
@@ -1374,6 +1445,21 @@
  
 <!-- - XD - -->
 
+  <chara category="pokemon">
+	<id>s2_xd_cd</id>
+    <name>CD</name>
+    <title>Reality Bomb</title>
+	<game>XD</game>
+	<img>s2_xd_cd</img>
+	<types>
+		<type>Ground</type>
+		<type>Psychic</type>
+	</types>
+	<species>Baltoy</species>
+	<truename>cDddDDDDDD</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4ua3ls/twitch_xd_pda/</credits>
+  </chara> 
  
 <!-- SEASON 3 -->
 
@@ -1516,7 +1602,23 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5fv670/twitch_prism_pok%C3%A9dex/</credits>
   </chara> 
- 
+  
+  <chara category="pokemon">
+	<id>s3_prism_phlegm</id>
+    <name>Phlegm</name>
+    <title>Fluorescent Chemical</title>
+	<game>Prism</game>
+	<img>s3_prism_phlegm</img>
+	<types>
+		<type>Poison</type>
+		<type>Gas</type>
+	</types>
+	<species>Koffing</species>
+	<truename>ZQQQQPhgh</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5fv670/twitch_prism_pok%C3%A9dex/</credits>
+  </chara> 
+  
 <!-- - Sun - -->
 
   <chara category="pokemon">
@@ -1846,6 +1948,24 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/al9cqu/twitch_fused_crystal_pok%C3%A9dex/</credits>
   </chara> 
 
+  <chara category="pokemon">
+	<id>s5_fusedcrystal_tess</id>
+    <name>Tess</name>
+    <title>Moody Triplet</title>
+	<game>Fused Crystal</game>
+	<img>s5_fusedcrystal_tess</img>
+	<types>
+		<type>Flying</type>
+		<type>Normal</type>
+	</types>
+	<species>Noctdrio</species>
+	<truename>T  SS     </truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/al9cqu/twitch_fused_crystal_pok%C3%A9dex/</credits>
+  </chara> 
 
 <!-- SEASON 6 -->
 
@@ -1948,6 +2068,22 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/cfjp4f/%EF%BD%94%EF%BD%88%EF%BD%85_%EF%BD%81%EF%BD%8C%EF%BD%8C%EF%BD%93%EF%BD%94%EF%BD%81%EF%BD%92%EF%BD%93/</credits>
   </chara> 
   
+  <chara category="pokemon">
+	<id>s6_xg_ab</id>
+    <name>AB-</name>
+    <title>Hammy Bloodbender</title>
+	<game>XG</game>
+	<img>s6_xg_ab</img>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<species>Swampert</species>
+	<truename>AB-</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/cfjp4f/%EF%BD%94%EF%BD%88%EF%BD%85_%EF%BD%81%EF%BD%8C%EF%BD%8C%EF%BD%93%EF%BD%94%EF%BD%81%EF%BD%92%EF%BD%93/</credits>
+  </chara>   
+  
 <!-- - TriHard Emerald - -->
 
 <!-- - Randomized Ultra Moon - -->
@@ -2033,6 +2169,21 @@
   </chara>
  
 <!-- - Gauntlet Crystal - -->
+
+  <chara category="pokemon">
+	<id>s7_gauntcrystal_justin</id>
+    <name>Justin</name>
+    <title>Arrow of Justice</title>
+	<game>Gauntlet Crystal</game>
+	<img>s7_gauntcrystal_justin</img>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<species>Machamp</species>
+	<truename>JJJJSSS??S</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/ff5jp1/the_gauntlet_hall_of_fame_26/</credits>
+  </chara>
 
 <!-- - Gauntlet Emerald - -->
  
