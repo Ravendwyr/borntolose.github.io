@@ -1256,15 +1256,13 @@
   </chara> 
 
 <!-- - X - -->
- 
-<!-- - Omega Ruby - -->
 
   <chara category="pokemon">
-	<id>s1_omegaruby_lloyd</id>
+	<id>s1_x_lloyd</id>
     <name>Lloyd</name>
     <title>Suspicious Lens</title>
-	<game>Omega Ruby</game>
-	<img>s1_omegaruby_lloyd</img>
+	<game>X</game>
+	<img>s1_x_lloyd</img>
 	<types>
 		<type>Steel</type>
 		<type>Psychic</type>
@@ -1274,6 +1272,9 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4o6ije/twitch_pok%C3%A9dex_omega_ruby/</credits>
   </chara> 
+  
+<!-- - Omega Ruby - -->
+
 
 <!-- SEASON 2 -->
 
