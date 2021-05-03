@@ -492,6 +492,8 @@
 
 <!-- - Burning Red - -->
 
+<!-- - Volt White - -->
+
   <chara category="trainer">
 	<id>s6_voltwhite_aqua</id>
     <name>Aqua</name>
@@ -506,9 +508,7 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/beur93/aqua_kuehl_the_lonely/</credits>
   </chara> 
-
-<!-- - Volt White - -->
-
+  
 <!-- - Randomized Colosseum - -->
 
   <chara category="trainer">
