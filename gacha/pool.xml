@@ -240,6 +240,7 @@
 	<truename>RED</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>dream</tag>
 		<tag>helix</tag>
 		<tag>npc</tag>
 	</tags>
@@ -369,6 +370,7 @@
 	<truename>×µ(?</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>artificial</tag>
 		<tag>host</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5w92xx/the_hosts_of_the_voices_after_the_4th_anniversary/</credits>
@@ -1029,6 +1031,7 @@
 	<tags>
 		<tag>fossil</tag>
 		<tag>helix</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/252a2b/tpp_sprites/</credits>
   </chara> 
@@ -1048,6 +1051,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>helix</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/20iaxx/i_made_it_anybody_want_to_use_these_sprites/</credits>
   </chara> 
@@ -1107,6 +1111,7 @@
 	<truename>AAAAAtttta</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>hof</tag>
 		<tag>starter</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/20g2e2/will_this_team_overthrow_the_ancient_god/</credits>
@@ -1142,6 +1147,9 @@
 	<species>Azumarill</species>
 	<truename>M ---/'/'4</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4m0b49/twitch_pok%C3%A9dex_emerald/</credits>
   </chara> 
 
@@ -1181,6 +1189,9 @@
 	<species>Shinx</species>
 	<truename>0”☀ ☀0☀☺ ☹</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/j0h8wo/okay_last_one_for_today_here_we_have_platinum/</credits>
   </chara> 
 
@@ -1283,6 +1294,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>dome</tag>
+		<tag>hof</tag>
 		<tag>release</tag>
 		<tag>royal</tag>
 	</tags>
@@ -1323,8 +1335,9 @@
 	<truename>Sanae</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
-		<tag>starter</tag>
 		<tag>fakemon</tag>
+		<tag>hof</tag>
+		<tag>starter</tag>
 	</tags>
 	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/touhoumon-large.png</credits>
   </chara> 
@@ -1344,6 +1357,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/touhoumon-large.png</credits>
   </chara> 
@@ -1365,6 +1379,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>starter</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/3dw11w/twitch_pok%C3%A9dex_project_793_entries/</credits>
   </chara> 
@@ -1382,6 +1397,9 @@
 	<species>Butterfree</species>
 	<truename>BUTTERBAE</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/moemon-large.png</credits>
   </chara> 
  
@@ -1521,6 +1539,7 @@
 	<truename>BBbkkkkk</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>hof</tag>
 		<tag>royal</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/4vhfp6/compilation_of_sprites_prerandomized_platinum/</credits>
@@ -1539,6 +1558,7 @@
 	<truename>PORYGON</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>artificial</tag>
 		<tag>glitch</tag>
 		<tag>release</tag>
 	</tags>
@@ -1599,6 +1619,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>dome</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5fv670/twitch_prism_pok%C3%A9dex/</credits>
   </chara> 
@@ -1634,6 +1655,9 @@
 	<species>Ribombee</species>
 	<truename>Ribombe r44</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5hb302/twitch_sun_rotomdex/</credits>
   </chara> 
 
@@ -1659,6 +1683,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>starter</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5yvoei/twitch_chatty_yellow_dex/</credits>
   </chara> 
@@ -1675,6 +1700,9 @@
 	<species>Porygon-Z</species>
 	<truename>tppsimulator</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>artificial</tag>
+	</tags>
 	<credits>https://www.spriters-resource.com/ds_dsi/pokemonblackwhite/sheet/35598/</credits>
   </chara> 
  
@@ -1693,6 +1721,9 @@
 	<species>Scolipede</species>
 	<truename>.  yz ,hgg</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/66fk6k/hall_of_fame_blazed_glazed_congratulation_ahuni/</credits>
   </chara> 
   
@@ -1732,6 +1763,9 @@
 	<species>Magneton</species>
 	<truename>::::;n;;π-</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7uw3uz/twitch_pyrite_pok%C3%A9dex/</credits>
   </chara> 
  
@@ -1864,8 +1898,9 @@
 	<truename>//.Wnne;π</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
-		<tag>starter</tag>
+		<tag>dream</tag>
 		<tag>release</tag>
+		<tag>starter</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/8uwux5/twitch_bronze_pok%C3%A9dex/</credits>
   </chara>
@@ -1885,6 +1920,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>glitch</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/8uwux5/twitch_bronze_pok%C3%A9dex/</credits>
   </chara> 
@@ -1921,6 +1957,9 @@
 	<species>Registeel</species>
 	<truename>!!000</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>artificial</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/9dz6az/twitch_pok%C3%A9dex_project_1874_entries/</credits>
   </chara> 
 
@@ -1928,6 +1967,26 @@
 
 <!-- - Fused Crystal - -->
 
+  <chara category="pokemon">
+	<id>s5_fusedcrystal_tess</id>
+    <name>Tess</name>
+    <title>Moody Triplet</title>
+	<game>Fused Crystal</game>
+	<img>s5_fusedcrystal_tess</img>
+	<types>
+		<type>Flying</type>
+		<type>Normal</type>
+	</types>
+	<species>Noctdrio</species>
+	<truename>T  SS     </truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+		<tag>hof</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/al9cqu/twitch_fused_crystal_pok%C3%A9dex/</credits>
+  </chara> 
+  
   <chara category="pokemon">
 	<id>s5_fusedcrystal_nojob</id>
     <name>No Job</name>
@@ -1948,24 +2007,6 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/al9cqu/twitch_fused_crystal_pok%C3%A9dex/</credits>
   </chara> 
 
-  <chara category="pokemon">
-	<id>s5_fusedcrystal_tess</id>
-    <name>Tess</name>
-    <title>Moody Triplet</title>
-	<game>Fused Crystal</game>
-	<img>s5_fusedcrystal_tess</img>
-	<types>
-		<type>Flying</type>
-		<type>Normal</type>
-	</types>
-	<species>Noctdrio</species>
-	<truename>T  SS     </truename>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
-	<tags>
-		<tag>fakemon</tag>
-	</tags>
-	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/al9cqu/twitch_fused_crystal_pok%C3%A9dex/</credits>
-  </chara> 
 
 <!-- SEASON 6 -->
 
@@ -1984,6 +2025,7 @@
 	<truename>JJKSS</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>hof</tag>
 		<tag>royal</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/e0e604/twitch_burning_red_dex/</credits>
@@ -2024,6 +2066,9 @@
 	<species>Lilligant</species>
 	<truename>Petililqz</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/c5srdr/hall_of_fame_volt_white/</credits>
   </chara> 
 
@@ -2042,6 +2087,9 @@
 	<species>Ho-Oh</species>
 	<truename>Ho-Oh</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>artificial</tag>
+	</tags>
 	<tags>
 		<tag>villain</tag>
 	</tags>
@@ -2165,6 +2213,9 @@
 	<species>Vileplume</species>
 	<truename>----</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/f84tx7/the_gauntlet_hall_of_fame_16/</credits>
   </chara>
  
@@ -2182,6 +2233,9 @@
 	<species>Machamp</species>
 	<truename>JJJJSSS??S</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/ff5jp1/the_gauntlet_hall_of_fame_26/</credits>
   </chara>
 
@@ -2201,6 +2255,9 @@
 	<species>Lumineon</species>
 	<truename>AACm   neg</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/fyaqga/the_gauntlet_hall_of_fame_46/</credits>
   </chara> 
 
@@ -2218,6 +2275,10 @@
 	<species>Porygon-Z</species>
 	<truename>APSEPIEMG</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>artificial</tag>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/g7lnio/the_gauntlet_hall_of_fame_56/</credits>
   </chara> 
   
@@ -2238,6 +2299,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fossil</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/gl9b85/the_gauntlet_hall_of_fame_66/</credits>
   </chara> 
@@ -2255,6 +2317,9 @@
 	<species>Ducklett</species>
 	<truename>dfuucck</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/gl9b85/the_gauntlet_hall_of_fame_66/</credits>
   </chara> 
 
@@ -2275,6 +2340,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/hw945m/hall_of_fame_sirius/</credits>
   </chara> 
@@ -2295,6 +2361,7 @@
 	<truename></truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>hof</tag>
 		<tag>royal</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/if6h9z/hall_of_fame_rising_ruby/</credits>
@@ -2317,6 +2384,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
+		<tag>hof</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/kkycxk/hall_of_fame_vega/</credits>
   </chara> 
@@ -2339,6 +2407,7 @@
 	<truename>PPPPss</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>hof</tag>
 		<tag>starter</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/lnp42c/peeps_mahou_shoujo_kiki/</credits>
@@ -2373,6 +2442,9 @@
 	<species>Meganium</species>
 	<truename>STPPBWG</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/mt7jjt/step_bug_the_illumina_meganium/</credits>
   </chara> 
 
@@ -2398,6 +2470,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
+		<tag>hof</tag>
 		<tag>starter</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/568gkg/the_ultra_crew_so_far_v_30/</credits>
@@ -2422,7 +2495,9 @@
 	<truename>MOM</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>artificial</tag>
 		<tag>glitch</tag>
+		<tag>hof</tag>
 		<tag>villain</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/86islb/green_batch_of_sprites_2/</credits>
@@ -2464,6 +2539,7 @@
 	<truename>0</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
+		<tag>dream</tag>
 		<tag>starter</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/9392g7/twitch_inter_dex_5/</credits>
@@ -2554,6 +2630,9 @@
 	<species>Galvantula</species>
 	<truename>~***</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>hof</tag>
+	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7fbqkr/twitch_pok%C3%A9dex_project_1476_entries/</credits>
   </chara>
 
@@ -2594,6 +2673,7 @@
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fakemon</tag>
+		<tag>hof</tag>
 		<tag>stater</tag>
 	</tags>
 	<credits>https://github.com/thatswhatyouget/tpp-progress/blob/gh-pages/img/touhoumon-large.png</credits>
