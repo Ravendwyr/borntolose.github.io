@@ -15,7 +15,8 @@
 
 	<br/><br/>
 	
-	<table id="dexArea" style="height:300px; width:80%; border:double; ">
+	
+	<table id="dexArea" style="height:300px; width:80%; border:double; position:fixed; z-index:99; background-color:white;">
 		
 		<tr>
 		
@@ -41,8 +42,10 @@
 	</table>
 	</div>
 	
+	<div id="spacer" style="height:300px; width:80%;"></div>
+	
 	<br/>
-	<div id="completionRate" style="font-size:small"><script>document.write("Current completion rate: " + calcDexCompletion() + "%");</script></div>
+	<div id="completionRate" style="font-size:small; top:300px;"><script>document.write("Current completion rate: " + calcDexCompletion() + "%");</script></div>
 	<br/><br/>
 	
 	<b>Trainers</b><br/>
@@ -54,6 +57,7 @@
 	<br/><br/>
 	
 	<button onclick="eraseDex()" style="font-size:large">Reset all data (!)</button> 
-		  
+	
+		
   </body>
 </html>
