@@ -729,11 +729,26 @@
     <title>Foul-Mouthed Streamer</title>
 	<game>Chatty Crystal</game>
 	<img>s8_chattycrystal_kiki</img>
+	<truename>KKKB</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/lnp42c/peeps_mahou_shoujo_kiki/</credits>
+  </chara> 
+
+  <chara category="trainer">
+	<id>s8_chattycrystal_marina</id>
+    <name>Marina</name>
+    <title>Dreamt Metronome</title>
+	<game>Chatty Crystal</game>
+	<img>s8_chattycrystal_marina</img>
+	<truename>MARINA</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dream</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/c1kebi/the_hosts_of_the_voices_before_the_next_generation/</credits>
   </chara> 
 
 <!-- - Renegade Platinum - -->
@@ -744,6 +759,7 @@
     <title>Clockwork Scribbler</title>
 	<game>Renegade Platinum</game>
 	<img>s8_renegadeplatinum_karma</img>
+	<truename>Kr </truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>host</tag>
@@ -806,7 +822,22 @@
 <!-- - Ultra - -->
  
 <!-- - Dark Graystone - -->
- 
+
+   <chara category="trainer">
+	<id>sg_darkgraystone_tppsim</id>
+    <name>TPPSIM</name>
+    <title>Virtual Host</title>
+	<game>Dark Graystone</game>
+	<img>sg_darkgraystone_tppsim</img>
+	<truename>TPPSIM</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>artificial</tag>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/5w92xx/the_hosts_of_the_voices_after_the_4th_anniversary/</credits>
+  </chara> 
+  
 <!-- - Ash Gray - -->
  
 <!-- - Bootleg Green - -->
@@ -990,6 +1021,8 @@
   </chara> 
 
 <!-- - The Wooper Who Saved Christmas - -->
+
+<!-- - AFD Roulette - -->
 
 
 <!-- SEASON 1 -->
@@ -1275,7 +1308,21 @@
   
 <!-- - Omega Ruby - -->
 
-
+  <chara category="pokemon">
+	<id>s1_omegaruby_whismurthefifth</id>
+    <name>Whismur the Fifth</name>
+    <title>Booming Heir</title>
+	<game>Omega Ruby</game>
+	<img>s1_omegaruby_whismurthefifth</img>
+	<types>
+		<type>Normal</type>
+	</types>
+	<species>Exploud</species>
+	<truename>Whismur  v</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/252a2b/tpp_sprites/</credits>
+  </chara> 
+  
 <!-- SEASON 2 -->
 
 <!-- - Red Anniversary - -->
@@ -2262,6 +2309,22 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/fyaqga/the_gauntlet_hall_of_fame_46/</credits>
   </chara> 
 
+  <chara category="pokemon">
+	<id>s7_gauntplatinum_charap</id>
+    <name>Charap</name>
+    <title>New Holiday</title>
+	<game>Gauntlet Platinum</game>
+	<img>s7_gauntplatinum_charap</img>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<species>Chatot</species>
+	<truename>CHARAP</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.spriters-resource.com/custom_edited/pokemoncustoms/sheet/25065/</credits>
+  </chara> 
+
 <!-- - Gauntlet Black 2 - -->
 
   <chara category="pokemon">
@@ -2773,6 +2836,27 @@
 		<tag>host</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/lzy70p/absolutely_foolproof/</credits>
+  </chara> 
+
+<!-- - AFD Roulette - -->
+
+  <chara category="pokemon">
+	<id>int_afdroulette_decaf</id>
+    <name>Decaf</name>
+    <title>Bitter Muse</title>
+	<game>AFD Roulette</game>
+	<img>int_afdroulette_decaf</img>
+	<types>
+		<type>Fire</type>
+	</types>
+	<species>Vulpix</species>
+	<truename>DCAA.FFFDD</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>dream</tag>
+		<tag>starter</tag>
+	</tags>
+	<credits>https://www.spriters-resource.com/fullview/35310/</credits>
   </chara> 
 
 </charas>  
