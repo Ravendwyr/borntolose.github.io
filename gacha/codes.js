@@ -136,7 +136,8 @@ function randomFailMsg() {
 					"This code contains inappropriate text.",
 					"unsupported command: " + document.getElementById("secretCode").value.toLowerCase().replace(/ +/g, ""),
 					"<style>body {background-image: url('misc/olden.png'); background-repeat:no-repeat; background-position:center;}</style>",
-					"<i>If you can read this, i didn't accidentally destroy the database</i>"
+					"<i>If you can read this, i didn't accidentally destroy the database</i>",
+					"</b><b>C</b>ome to<b>8</b> ERROR.<b>"
 					];
 	var randomNum = Math.floor(Math.random() * msgArray.length);
 	
