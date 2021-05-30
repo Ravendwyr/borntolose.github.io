@@ -266,6 +266,20 @@
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/9f3lfh/hosts_of_the_voices_before_the_sky/</credits>
   </chara> 
+  
+  <chara category="trainer">
+	<id>s2_alphasapphire_valerie</id>
+    <name>Valerie</name>
+    <title>Bullied Preschooler</title>
+	<game>Alpha Sapphire</game>
+	<img>s2_alphasapphire_valerie</img>
+	<truename>Valerie</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>npc</tag>
+	</tags>
+	<credits>https://www.deviantart.com/kinectedwires/art/Sprite-Hex-Maniac-516177397</credits>
+  </chara> 
  
 <!-- - Colosseum - -->
  
@@ -393,6 +407,20 @@
   </chara> 
  
 <!-- - Randomized White 2 - -->
+
+  <chara category="trainer">
+	<id>s4_randowhite2_dralek</id>
+    <name>Dr. Alek</name>
+    <title>Hippocratic Epidemiologist</title>
+	<game>Randomized White 2</game>
+	<img>s4_randowhite2_dralek</img>
+	<truename>AAAALK'</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+	</tags>
+	<credits>https://www.deviantart.com/megaman-omega/art/Twitch-Plays-Pokemon-Dr-Alek-Frames-684519662</credits>
+  </chara> 
 
 <!-- - Pyrite - -->
 
@@ -899,6 +927,8 @@
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/km98b8/hall_of_fame_lightning_sapphire/</credits>
   </chara> 
 
+<!-- - DBZ: Team Training - -->
+
 
 <!-- REVISITS -->
 
@@ -1019,6 +1049,24 @@
 	</tags>
 	<credits>https://www.deviantart.com/dmn666/art/May-Black-and-White-Sprite-256062717</credits>
   </chara> 
+
+<!-- - Art Academy - -->
+
+  <chara category="trainer">
+	<id>int_artacademy_tpp5head</id>
+    <name>TPP5Head</name>
+    <title>Avant-Garde Painter</title>
+	<game>Art Academy</game>
+	<img>int_artacademy_tpp5head</img>
+	<truename>tpp5head</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>host</tag>
+		<tag>pride</tag>
+	</tags>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/i65fgv/great_inspirational_art/</credits>
+  </chara> 
+  
 
 <!-- - The Wooper Who Saved Christmas - -->
 
@@ -1788,12 +1836,29 @@
 		<type>Water</type>
 	</types>
 	<species>Omanyte</species>
+	<truename>Omanyte</truename>
     <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
 	<tags>
 		<tag>fossil</tag>
 		<tag>helix</tag>
 	</tags>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/6fpin6/when_science_goes_too_far/</credits>
+  </chara>  
+  
+  <chara category="pokemon">
+	<id>s4_randowhite2_ghostfish</id>
+    <name>Ghost Fish</name>
+    <title>Lingering Grudge</title>
+	<game>Randomized White 2</game>
+	<img>s4_randowhite2_ghostfish</img>
+	<types>
+		<type>Water</type>
+		<type>Electric</type>
+	</types>
+	<species>Chinchou</species>
+	<truename>Chinchou</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/7uc49d/twitch_randomized_white_2_pok%C3%A9dex/</credits>
   </chara> 
  
 <!-- - Pyrite - -->
@@ -2666,6 +2731,27 @@
 
 <!-- - Lightning Sapphire - -->
 
+<!-- - DBZ: Team Training - -->
+
+  <chara category="pokemon">
+	<id>sg_dbzteamtraining_dad</id>
+    <name>Dad</name>
+    <title>Grand Fighter</title>
+	<game>Dragon Ball Z: Team Training</game>
+	<img>sg_dbzteamtraining_dad</img>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<species>Gohan</species>
+	<truename>Dad</truename>
+    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+	<tags>
+		<tag>fakemon</tag>
+		<tag>starter</tag>
+	</tags>
+	<credits>https://dragon-ball-z-team-training.fandom.com/wiki/Gohan</credits>
+  </chara> 
+
 
 <!-- REVISITS -->
 
@@ -2816,6 +2902,8 @@
 <!-- - Debug Rubin - -->
 
 <!-- - Trick or Treat House - -->
+
+<!-- - Art Academy - -->
 
 <!-- - The Wooper Who Saved Christmas - -->
 

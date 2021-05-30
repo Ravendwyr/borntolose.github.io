@@ -106,7 +106,9 @@
 	<runs>
 		<run>Chatty Crystal</run>
 		<run>Renegade Platinum</run>
-		<run>Red/Green/Blue Race</run>
+		<run>RGB Race - Green</run>
+		<run>RGB Race - Blue</run>
+		<run>RGB Race - Red</run>
 	</runs>
   </season> 
   <season>
@@ -126,6 +128,7 @@
 		<run>Metronome Sapphire</run>
 		<run>NavyBlue</run>
 		<run>Lightning Sapphire</run>
+		<run>Dragon Ball Z: Team Training</run>
 	</runs>
   </season> 
   <season>
