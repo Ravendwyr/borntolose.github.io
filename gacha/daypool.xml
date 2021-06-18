@@ -257,42 +257,18 @@
 		<day>18</day>
 		<name>Coronation Day</name>
 		<values>
-			<value tag="tag">royal</value>
+			<value tag="tags">royal</value>
 		</values>
 	</pool>
 	<pool>
 		<day>19</day>
-		<name>Doggos</name>
+		<name>Dreams are my reality ~♪</name>
 		<values>
-			<value tag="name">Camilla A. Slash</value>
-			<value tag="name">A-chan</value>
-			<value tag="name">Camilla</value>
-			<value tag="name">Slash</value>
-			<value tag="name">Aoo-chan</value>
-			<value tag="species">Growlithe</value>
-			<value tag="species">Arcanine</value>
-			<value tag="species">Snubbull</value>
-			<value tag="species">Granbull</value>
-			<value tag="species">Houndour</value>
-			<value tag="species">Houndoom</value>
-			<value tag="species">Entei</value>
-			<value tag="species">Raikou</value>
-			<value tag="species">Suicune</value>
-			<value tag="species">Poochyena</value>
-			<value tag="species">Mighthyena</value>
-			<value tag="species">Electrike</value>
-			<value tag="species">Manectric</value>
-			<value tag="species">Lillipup</value>
-			<value tag="species">Herdier</value>
-			<value tag="species">Stoutland</value>
-			<value tag="species">Furfrou</value>
-			<value tag="species">Rockruff </value>
-			<value tag="species">Lycanroc</value>
-			<value tag="species">Yamper</value>
-			<value tag="species">Boltund</value>
-			<value tag="species">Zacian</value>
-			<value tag="species">Zamazenta</value>
-			<value tag="species">Momiji</value>
+			<value tag="name">Fennel</value>
+			<value tag="species">Munna</value>
+			<value tag="species">Musharna</value>
+			<value tag="types">Dream</value>
+			<value tag="tags">dream</value>
 		</values>
 	</pool>
 	<pool>
@@ -532,4 +508,42 @@
 			<value tag="name">Charap</value>
 		</values>
 	</pool>
+	
+<!-- UNUSED POOLS -->	
+	<pool>
+		<day>X01</day>
+		<name>Doggos</name>
+		<values>
+			<value tag="name">Camilla A. Slash</value>
+			<value tag="name">A-chan</value>
+			<value tag="name">Camilla</value>
+			<value tag="name">Slash</value>
+			<value tag="name">Aoo-chan</value>
+			<value tag="species">Growlithe</value>
+			<value tag="species">Arcanine</value>
+			<value tag="species">Snubbull</value>
+			<value tag="species">Granbull</value>
+			<value tag="species">Houndour</value>
+			<value tag="species">Houndoom</value>
+			<value tag="species">Entei</value>
+			<value tag="species">Raikou</value>
+			<value tag="species">Suicune</value>
+			<value tag="species">Poochyena</value>
+			<value tag="species">Mighthyena</value>
+			<value tag="species">Electrike</value>
+			<value tag="species">Manectric</value>
+			<value tag="species">Lillipup</value>
+			<value tag="species">Herdier</value>
+			<value tag="species">Stoutland</value>
+			<value tag="species">Furfrou</value>
+			<value tag="species">Rockruff </value>
+			<value tag="species">Lycanroc</value>
+			<value tag="species">Yamper</value>
+			<value tag="species">Boltund</value>
+			<value tag="species">Zacian</value>
+			<value tag="species">Zamazenta</value>
+			<value tag="species">Momiji</value>
+		</values>
+	</pool>
+	
 </pools>  
