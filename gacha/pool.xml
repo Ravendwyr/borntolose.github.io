@@ -1201,7 +1201,7 @@
   <chara category="pokemon">
 	<id>s1_crystal_doctorhoot</id>
     <name>Doctor Hoot</name>
-    <title>Time-Traveling Therapist</title>
+    <title>Traveling Therapist</title>
 	<game>Crystal</game>
 	<img>s1_crystal_doctorhoot</img>
 	<types>
@@ -1210,7 +1210,7 @@
 	</types>
 	<species>Hoothoot</species>
 	<truename>HOOTHOOT</truename>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>Dr. Hoot and his wife are wandering psychologists, who initially joined AJ as observers in order to study his unusual behaviour. The doctor eventually turned his attention to the rest of the team, trying to help them through the many personal issues they seemed to face, and notably helped Brian learn to value who he was over who others wanted him to be.</desc>
 	<credits>https://www.reddit.com/r/twitchplayspokemon/comments/izwzg3/yall_seemed_to_like_my_first_sprite_sheet_so/</credits>
   </chara> 
 
@@ -1450,7 +1450,8 @@
 	</types>
 	<species>Momiji</species>
 	<truename>AUUUUABBBB</truename>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>Awoo is the dimensional counterpart of Butterbae. She has a violent and impulsive temper, which she often directs towards cutting wood, sometimes for entire hours. When it was suspected that a spy had infiltrated the party, she confronted both Chun-Li and Chauzu, even stabbing the former in the eye. She later became the anchor of a literally explosive news bulletin.
+</desc>
 	<tags>
 		<tag>fakemon</tag>
 		<tag>hof</tag>
@@ -1492,7 +1493,7 @@
 	</types>
 	<species>Butterfree</species>
 	<truename>BUTTERBAE</truename>
-    <desc>This is a newly discovered character. They are currently under investigation. No information is available at this time.</desc>
+    <desc>Butterbae is the dimensional counterpart of Awoo. As a renowned Teach TV idol, she is known for her great kindness and unmatched beauty. Athena and her teammates, having become fans of her through repeated binge-watching, were determined to recruit her. She proved far from defenseless thanks to her psychic powers and her versatile proficiency with status effects.</desc>
 	<tags>
 		<tag>hof</tag>
 	</tags>
