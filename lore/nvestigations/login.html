@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="Cache-Control" content="no-cache" />
+		<link rel="stylesheet" href="style.css" />
+		<title>ACCESS RESTRICTED</title>
+		<script type="text/javascript" src="login.js"></script>	
+		<script type="text/javascript" src="md5.js"></script>
+	</head>
+	
+	<body style="text-align:center">
+		
+		<br><br>
+		
+		<div style="font-size:x-large"><b>[ACCESS RESTRICTED]</b></div>
+		
+		<br><br>
+		
+		<input type="password" id="inputPwd"/>
+				
+		<br><br>
+		
+		<button onclick="checkPwd()" style="font-size:large">Login</button> 
+				
+		<div id="errorArea" style="display:none;">
+			<br><br>
+			<b>INCORRECT PASSWORD</b>
+			<br><br>
+			<a href="javascript:pwdHint();" style="font-size:small;">Password forgotten?</a>
+			<br><br>
+			<div id="pwdHint" style="font-size:small;"></div>
+		</div>
+		
+	</body>
+</html>
