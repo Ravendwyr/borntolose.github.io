@@ -9,3 +9,8 @@ a:link
 {
     color: lightgreen;
 }
+
+a:visited
+{
+    color: lightgreen;
+}
