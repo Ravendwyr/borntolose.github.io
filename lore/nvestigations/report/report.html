@@ -5,14 +5,33 @@
 		<meta http-equiv="Cache-Control" content="no-cache" />
 		<link rel="stylesheet" href="../style.css" />
 		<title>SECTION: INVESTIGATION_REPORT</title>
+		<script type="text/javascript" src="../utils.js"></script>	
 	</head>
 	
 	<body>
+	
+		<br><br>
+	
+		<div id="reportHeader">
+			<a href="javascript:dispNotes('hostNotes');">[host.arch]</a>
+			<a href="javascript:dispNotes('alliesNotes');">[allies.arch]</a>
+		</div>
 			
-		<div id="reportArea">
-			<br><br>
-			<i>Section upload in progress...</i>
-			<br><br>
+		<br><br>
+			
+		<div id="allNotes">
+		
+			<div id="defaultNotes" style="">
+				
+			</div>
+			
+			<div id="hostNotes" style="display:none;">
+				<i>Section upload in progress...</i>
+			</div>
+			
+			<div id="alliesNotes" style="display:none;">
+				<i>Section upload in progress...</i>
+			</div>
 		</div>
 		
 	</body>

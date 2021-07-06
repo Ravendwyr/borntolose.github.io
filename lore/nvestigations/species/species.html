@@ -5,14 +5,33 @@
 		<meta http-equiv="Cache-Control" content="no-cache" />
 		<link rel="stylesheet" href="../style.css" />
 		<title>SECTION: SPECIES_OBSERVATIONS</title>
+		<script type="text/javascript" src="../utils.js"></script>	
 	</head>
 	
 	<body>
+	
+		<br><br>
 			
-		<div id="speciesArea">
-			<br><br>
-			<i>Section upload in progress...</i>
-			<br><br>
+		<div id="speciesHeader">
+			<a href="javascript:dispNotes('speciesNotes');">[species.arch]</a>
+			<a href="javascript:dispNotes('pantheonNotes');">[pantheon.arch]</a>
+		</div>
+		
+		<br><br>
+		
+		<div id="allNotes">
+		
+			<div id="defaultNotes" style="">
+				
+			</div>
+			
+			<div id="speciesNotes" style="display:none;">
+				<i>Section upload in progress...</i>
+			</div>
+			
+			<div id="pantheonNotes" style="display:none;">
+				<i>Section upload in progress...</i>
+			</div>
 		</div>
 		
 	</body>
