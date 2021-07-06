@@ -1,4 +1,16 @@
 
+function addListener() {  
+
+	var input = document.getElementById("inputPwd");
+
+	input.addEventListener("keyup", function(event) {
+	
+	  if (event.keyCode === 13) {
+		document.getElementById("inputBtn").click();
+	  }
+	});
+}
+
 function pwdHint() {  
 
 	var hint = "n******h*******g******";

@@ -10,7 +10,7 @@
 		<script type="text/javascript" src="md5.js"></script>
 	</head>
 	
-	<body style="text-align:center">
+	<body style="text-align:center" onload="addListener()">
 		
 		<br><br>
 		
@@ -22,7 +22,7 @@
 				
 		<br><br>
 		
-		<button onclick="checkPwd()" style="font-size:large">Login</button> 
+		<button onclick="checkPwd()" id="inputBtn" style="font-size:large">Login</button> 
 				
 		<div id="errorArea" style="display:none;">
 			<br><br>
