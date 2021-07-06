@@ -1,4 +1,7 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+
 body
 {
     background-color: black;
@@ -13,4 +16,33 @@ a:link
 a:visited
 {
     color: lightgreen;
+}
+
+.print
+{
+	font-family: 'Kalam', cursive;
+}
+
+.script
+{
+	font-family: 'Nothing You Could Do', cursive;
+}
+
+.inBorder
+{
+	margin-left:20px; 
+	margin-top:20px; 
+	margin-right:20px;
+	margin-bottom:20px;
+	display:inline-block;
+}
+
+.border
+{
+	margin-left:10px; 
+	margin-top:10px; 
+	margin-right:10px;
+	margin-bottom:10px;
+	border:double;
+	display:inline-block;
 }
