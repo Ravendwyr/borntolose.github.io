@@ -3,35 +3,36 @@
 
 	<head>
 		<meta charset="UTF-8">
-		<meta http-equiv="Cache-Control" content="no-cache" />
+		<!--Huh?--><meta http-equiv="Cache-Control" content="no-cache" />
 		<link rel="stylesheet" href="style.css" />
-		<title>ACCESS RESTRICTED</title>
+		<title>ACCESS RESTRICTED</title>	<!--I used my pro hacking skills to skip the password-->
 		<script type="text/javascript" src="login.js"></script>	
 		<script type="text/javascript" src="md5.js"></script>
 	</head>
 	
-	<body style="text-align:center" onload="addListener()">
+	<body style="text-align:center" onload="addListener()">		<!--I tried TriHard and it didn’t work-->
 		
+		<!--how is OLDEN not the password-->
 		<br><br>
 		
 		<div style="font-size:x-large"><b>[ACCESS RESTRICTED]</b></div>
 		
-		<br><br>
+		<br><br>	<!--It's asking for a password-->
 		
 		<input type="password" id="inputPwd"/>
-				
+		<!--what’s the password?-->		
 		<br><br>
 		
 		<button onclick="checkPwd()" id="inputBtn" style="font-size:large">Login</button> 
 				
-		<div id="errorArea" style="display:none;">
+		<div id="errorArea" style="display:none;">			<!--oh no... I'm too stupid to figure out the puzzle-->
 			<br><br>
 			<b>INCORRECT PASSWORD</b>
-			<br><br>
+			<br>	<!--turns out you don't even need the password-->		<br>
 			<a href="javascript:pwdHint();" style="font-size:small;">Password forgotten?</a>
 			<br><br>
 			<div id="pwdHint" style="font-size:small;"></div>
 		</div>
-		
-	</body>
+	
+<!--the url and the hint did it for me-->	</body>
 </html>
