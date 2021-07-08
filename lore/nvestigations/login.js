@@ -29,7 +29,7 @@ function checkPwd() {
 	var input = document.getElementById("inputPwd").value;
 	
 	if (CryptoJS.MD5(input).toString() == pass) {
-		window.location.href = "./index.html";
+		window.location.href = "./menu.html";
 	} else {
 		document.getElementById("errorArea").style = "";
 		document.getElementById("inputPwd").value = "";
