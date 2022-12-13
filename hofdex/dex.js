@@ -63,7 +63,7 @@ function getEmblem(emblem){
 function clearAll(dexType){
 	
 	if (dexType == "fakemon") {
-		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto"];
+		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto", "as-hoenn"];
 	} else {
 		regions = ["kanto", "johto", "hoenn", "sinnoh"/*, "unova", "kalos", "alola", "galar", "hisui", "paldea"*/];
 	}

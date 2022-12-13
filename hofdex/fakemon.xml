@@ -481,7 +481,7 @@
 	</status>
   </mon> 
 
-<!-- NONE -->
+<!-- GLITCHES -->
 
   <mon region="none" final="true">
 	<num>0000</num>
@@ -567,5 +567,932 @@
 	</status>
   </mon> 
   
+<!-- METEORIC HOENN -->
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0001</num>
+    <name>Nimbleaf</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0002</num>
+    <name>Leafrond</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0003</num>
+    <name>Syleafid</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0004</num>
+    <name>Peyero</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0005</num>
+    <name>Infiris</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0006</num>
+    <name>Astignite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0007</num>
+    <name>Liquiput</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0008</num>
+    <name>Hydrush</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0009</num>
+    <name>Correncid</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0010</num>
+    <name>Takuni</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0011</num>
+    <name>Percussoon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0024</num>
+    <name>Cupricorn</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0025</num>
+    <name>Hornikel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0026</num>
+    <name>Goabalt</name>
+	<runs>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0027</num>
+    <name>Cuppa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0028</num>
+    <name>Kapwondo</name>
+	<runs>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0036</num>
+    <name>Dorfin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0037</num>
+    <name>Darca</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0051</num>
+    <name>Glachild</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0052</num>
+    <name>Frozaiden</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0053</num>
+    <name>Aurostice</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0054</num>
+    <name>Lunabitt</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0055</num>
+    <name>Liepus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0062</num>
+    <name>Rollder</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0063</num>
+    <name>Rotillo</name>
+	<runs>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0064</num>
+    <name>Toxroach</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0065</num>
+    <name>Cocrogue</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0068</num>
+    <name>Tentyrant</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0071</num>
+    <name>Sphericoil</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0072</num>
+    <name>Willisp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0073</num>
+    <name>Wisplode</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0074</num>
+    <name>Plasmox</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0075</num>
+    <name>Blitzune</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0083</num>
+    <name>Baizeast</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0084</num>
+    <name>Mintch</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0085</num>
+    <name>Blakjak</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0086</num>
+    <name>Maneko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0087</num>
+    <name>Bakeko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0096</num>
+    <name>Clotaku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0097</num>
+    <name>Ajarimus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0098</num>
+    <name>Jarmit</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0099</num>
+    <name>Hantama</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0100</num>
+    <name>Spelven</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0110</num>
+    <name>Jamberree</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0111</num>
+    <name>Strawna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0115</num>
+    <name>Mornwing</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0116</num>
+    <name>Guldawn</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0117</num>
+    <name>Solarisen</name>
+	<runs>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0122</num>
+    <name>Dizasol</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0124</num>
+    <name>Folifarig</name>
+	<runs>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0127</num>
+    <name>Snalo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0128</num>
+    <name>Serplant</name>
+	<runs>
+		<run>Vega</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0129</num>
+    <name>Velvelt</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0130</num>
+    <name>Grissly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0134</num>
+    <name>Machu</name>
+	<runs>
+		<run>Vega</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0144</num>
+    <name>Psycolt</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0145</num>
+    <name>Kinegasus</name>
+	<runs>
+		<run>Vega</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0146</num>
+    <name>Yunesis</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0147</num>
+    <name>Lephan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0148</num>
+    <name>Ganerth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0149</num>
+    <name>Rynos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0150</num>
+    <name>Feroceros</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0154</num>
+    <name>Violo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0155</num>
+    <name>Rumpet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0156</num>
+    <name>Pianon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0165</num>
+    <name>Yucarlia</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0166</num>
+    <name>Necrosia</name>
+	<runs>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0172</num>
+    <name>Stellith</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0177</num>
+    <name>Kirgicia</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0178</num>
+    <name>Ptervus</name>
+	<runs>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0179</num>
+    <name>Pteriarch</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0180</num>
+    <name>Grindon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0181</num>
+    <name>Scimitooth</name>
+	<runs>
+		<run>Vega</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0182</num>
+    <name>Tyranos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0183</num>
+    <name>Pressie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0187</num>
+    <name>Laquagon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="false">
+	<num>SIR-0188</num>
+    <name>Dragune</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0189</num>
+    <name>Nostratos</name>
+	<runs>
+		<run>Vega</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0193</num>
+    <name>Lylapse</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0193</num>
+    <name>Ganimede</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0193</num>
+    <name>Nemea</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0201</num>
+    <name>Aldina</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="as-hoenn" final="true">
+	<num>SIR-0202</num>
+    <name>Asphere</name>
+	<runs>
+		<run>Vega</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
 
 </mons>
