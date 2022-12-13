@@ -62,7 +62,7 @@ function getEmblem(emblem){
 
 function clearAll(){
 	
-	regions = ["kanto"/*, "johto", "hoenn", "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea"*/];
+	regions = ["kanto", "johto"/*, "hoenn", "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea"*/];
 	
 	for (i = 0; i < regions.length; i++) {
 		document.getElementById(regions[i]).innerHTML = "";
