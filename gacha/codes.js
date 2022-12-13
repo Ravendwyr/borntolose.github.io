@@ -138,7 +138,8 @@ function randomFailMsg() {
 					"<style>body {background-image: url('misc/olden.png'); background-repeat:no-repeat; background-position:center;}</style>",
 					"<i>If you can read this, i didn't accidentally destroy the database</i>",
 					"</b><b>C</b>ome to<b>8</b> ERROR.<b>",
-					"PLEASE DON'T NOT ASK FOR NEXT BETA RELEASE<br>I GET TIRE OF<br>WORKING ON IT ALL TIME.<br>NOBODY LETS PLAY LAST VERSION!!!.<br>SO FUCK THIS. I'MM NOT FINNISH IT BECAUSE NOBODY CARE!!!!<br>YOU ALL ARE MOTHERFUCK AND I TAKE SHIT ON YOURE HACKING FORUM<br>FUCK.<br>YOU."
+					"PLEASE DON'T NOT ASK FOR NEXT BETA RELEASE<br>I GET TIRE OF<br>WORKING ON IT ALL TIME.<br>NOBODY LETS PLAY LAST VERSION!!!.<br>SO FUCK THIS. I'MM NOT FINNISH IT BECAUSE NOBODY CARE!!!!<br>YOU ALL ARE MOTHERFUCK AND I TAKE SHIT ON YOURE HACKING FORUM<br>FUCK.<br>YOU.",
+					"This code can’t be used. It’s recommended that this code is forgotten. Once forgotten, this code can’t be remembered."
 					];
 	var randomNum = Math.floor(Math.random() * msgArray.length);
 	

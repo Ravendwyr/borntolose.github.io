@@ -1,0 +1,2315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mons>
+
+<!-- KANTO -->
+
+  <mon region="kanto" final="false">
+	<num>0001</num>
+    <name>Bulbasaur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0002</num>
+    <name>Ivysaur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">  
+	<num>0003</num>
+    <name>Venusaur</name>
+	<runs>
+		<run>Crystal Anniversary</run>
+		<run>Brown</run>
+		<run>Chatty Yellow</run>
+		<run>Dual Blue</run>
+		<run>Metronome Sapphire</run>
+		<run>RGB Green</run>
+		<run>Charity Dual Blue - Testing</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0004</num>
+    <name>Charmander</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0005</num>
+    <name>Charmeleon</name>
+	<runs>
+		<run>Sword Revisit - Isle of Armor</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0006</num>
+    <name>Charizard</name>
+	<runs>
+		<run>X</run>
+		<run>Moemon</run>
+		<run>Dual Red</run>
+		<run>Burning Red</run>
+		<run>Randomized Ultra Moon</run>
+		<run>Sword Revisit - Crown Tundra</run>
+		<run>Randomized Black 2</run>
+		<run>Charity Dual Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0007</num>
+    <name>Squirtle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0008</num>
+    <name>Wartortle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0009</num>
+    <name>Blastoise</name>
+	<runs>
+		<run>FireRed</run>
+		<run>FireRed Revisit</run>
+		<run>Ultra</run>
+		<run>Randomized White 2</run>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0010</num>
+    <name>Caterpie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0011</num>
+    <name>Metapod</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="true">
+	<num>0012</num>
+    <name>Butterfree</name>
+	<runs>
+		<run>Moemon</run>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0013</num>
+    <name>Weedle</name>
+	<runs>
+		<run>Debug Rubin</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0014</num>
+    <name>Kakuna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="true">
+	<num>0015</num>
+    <name>Beedrill</name>
+	<runs>
+		<run>Brown</run>
+		<run>Dual Red</run>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="kanto" final="false">
+	<num>0016</num>
+    <name>Pidgey</name>
+	<runs>
+		<run>Vietnamese Crystal</run>
+		<run>Vietnamese Crystal Revisit</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="kanto" final="false">
+	<num>0017</num>
+    <name>Pidgeotto</name>
+	<runs>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="kanto" final="true">
+	<num>0018</num>
+    <name>Pidgeot</name>
+	<runs>
+		<run>Red</run>
+		<run>Crystal</run>
+		<run>Moemon</run>
+		<run>Crystal Revisit</run>
+		<run>Bronze</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+        
+  <mon region="kanto" final="false">
+	<num>0019</num>
+    <name>Rattata</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+                
+  <mon region="kanto" final="false">
+	<num>0019-A</num>
+    <name>Rattata</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+        
+  <mon region="kanto" final="true">
+	<num>0020</num>
+    <name>Raticate</name>
+	<runs>
+		<run>Crystal</run>
+		<run>Crystal Revisit</run>
+		<run>Burning Red</run>
+		<run>Burning Red Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+          
+  <mon region="kanto" final="true">
+	<num>0020-A</num>
+    <name>Raticate</name>
+	<runs>
+		<run>Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+            
+  <mon region="kanto" final="false">
+	<num>0021</num>
+    <name>Spearow</name>
+	<runs>
+		<run>RGB Green</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+            
+  <mon region="kanto" final="true">
+	<num>0022</num>
+    <name>Fearow</name>
+	<runs>
+		<run>Sun</run>
+		<run>Charity Dual Blue - Testing</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+              
+  <mon region="kanto" final="false">
+	<num>0023</num>
+    <name>Ekans</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+              
+  <mon region="kanto" final="true">
+	<num>0024</num>
+    <name>Arbok</name>
+	<runs>
+		<run>Dual Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0025</num>
+    <name>Pikachu</name>
+	<runs>
+		<run>Brilliant Diamond</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="true">
+	<num>0025</num>
+    <name>Raichu</name>
+	<runs>
+		<run>Chatty Yellow</run>
+		<run>Dual Red</run>
+		<run>Charity Dual Blue - Testing</run>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="kanto" final="true">
+	<num>0025-A</num>
+    <name>Raichu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0027</num>
+    <name>Sandshrew</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0027-A</num>
+    <name>Sandshrew</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0028</num>
+    <name>Sandslash</name>
+	<runs>
+		<run>FireRed</run>
+		<run>FireRed Revisit</run>
+		<run>Randomized Platinum</run>
+		<run>Charity Dual Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="true">
+	<num>0028-A</num>
+    <name>Sandslash</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0029</num>
+    <name>Nidoran♀</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="kanto" final="false">
+	<num>0030</num>
+    <name>Nidorina</name>
+	<runs>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+        
+  <mon region="kanto" final="true">
+	<num>0031</num>
+    <name>Nidoqueen</name>
+	<runs>
+		<run>Dual Red</run>
+		<run>Charity Dual Blue - Testing</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+        
+  <mon region="kanto" final="false">
+	<num>0032</num>
+    <name>Nidoran♂</name>
+	<runs>
+		<run>Debug Rubin</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+        
+  <mon region="kanto" final="false">
+	<num>0033</num>
+    <name>Nidorino</name>
+	<runs>
+		<run>The Wooper Who Saved Christmas</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+        
+  <mon region="kanto" final="true">
+	<num>0034</num>
+    <name>Nidoking</name>
+	<runs>
+		<run>Red</run>
+		<run>Dual Red</run>
+		<run>Charity Dual Blue</run>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0035</num>
+    <name>Clefairy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0036</num>
+    <name>Clefable</name>
+	<runs>
+		<run>Dual Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0037</num>
+    <name>Vulpix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="kanto" final="false">
+	<num>0037-A</num>
+    <name>Vulpix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="true">
+	<num>0038</num>
+    <name>Ninetales</name>
+	<runs>
+		<run>Prism</run>
+		<run>Charity Dual Blue - Testing</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="kanto" final="true">
+	<num>0038-A</num>
+    <name>Ninetales</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0039</num>
+    <name>Jigglypuff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0040</num>
+    <name>Wigglytuff</name>
+	<runs>
+		<run>Alpha Sapphire</run>
+		<run>Chatty Yellow</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0041</num>
+    <name>Zubat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="true">
+	<num>0042</num>
+    <name>Golbat</name>
+	<runs>
+		<run>Platinum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0043</num>
+    <name>Oddish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0044</num>
+    <name>Gloom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0045</num>
+    <name>Vileplume</name>
+	<runs>
+		<run>Emerald</run>
+		<run>Gauntlet Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0046</num>
+    <name>Paras</name>
+	<runs>
+		<run>Ultra</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0047</num>
+    <name>Parasect</name>
+	<runs>
+		<run>Red Anniversary</run>
+		<run>The Wooper Who Saved Christmas</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0048</num>
+    <name>Venonat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0049</num>
+    <name>Venomoth</name>
+	<runs>
+		<run>Red</run>
+		<run>Red Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0050</num>
+    <name>Diglett</name>
+	<runs>
+		<run>The Wooper Who Saved Christmas</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0050-A</num>
+    <name>Diglett</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0051</num>
+    <name>Dugtrio</name>
+	<runs>
+		<run>Moemon</run>
+		<run>Brown</run>
+		<run>Chatty Yellow</run>
+		<run>Dual Red</run>
+		<run>RGB Green</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="true">
+	<num>0051-A</num>
+    <name>Dugtrio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0052</num>
+    <name>Meowth</name>
+	<runs>
+		<run>RGB Green</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0052-A</num>
+    <name>Meowth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0052-G</num>
+    <name>Meowth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0053</num>
+    <name>Persian</name>
+	<runs>
+		<run>Dual Blue</run>
+		<run>Randomized Colosseum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="true">
+	<num>0053-A</num>
+    <name>Persian</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0054</num>
+    <name>Psyduck</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0055</num>
+    <name>Golduck</name>
+	<runs>
+		<run>Brown</run>
+		<run>Legends Arceus</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0056</num>
+    <name>Mankey</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0057</num>
+    <name>Primeape</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0058</num>
+    <name>Growlithe</name>
+	<runs>
+		<run>Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0058-Hi</num>
+    <name>Growlithe</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0059</num>
+    <name>Arcanine</name>
+	<runs>
+		<run>Bronze</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0059-Hi</num>
+    <name>Arcanine</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0060</num>
+    <name>Poliwag</name>
+	<runs>
+		<run>Vietnamese Crystal</run>
+		<run>Vietnamese Crystal Revisit</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0061</num>
+    <name>Poliwhirl</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0062</num>
+    <name>Poliwrath</name>
+	<runs>
+		<run>Gauntlet Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0063</num>
+    <name>Abra</name>
+	<runs>
+		<run>The Wooper Who Saved Christmas</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0064</num>
+    <name>Kadabra</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0065</num>
+    <name>Alakazam</name>
+	<runs>
+		<run>Red Anniversary</run>
+		<run>Dual Blue</run>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0066</num>
+    <name>Machop</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0067</num>
+    <name>Machoke</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0068</num>
+    <name>Machamp</name>
+	<runs>
+		<run>Gauntlet Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0069</num>
+    <name>Bellsprout</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0070</num>
+    <name>Weepinbell</name>
+	<runs>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0071</num>
+    <name>Victreebel</name>
+	<runs>
+		<run>Red Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0072</num>
+    <name>Tentacool</name>
+	<runs>
+		<run>TriHard Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0073</num>
+    <name>Tentacruel</name>
+	<runs>
+		<run>Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0074</num>
+    <name>Racaillou</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0074-A</num>
+    <name>Racaillou</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0075</num>
+    <name>Graveler</name>
+	<runs>
+		<run>Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0075-A</num>
+    <name>Graveler</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0076</num>
+    <name>Golem</name>
+	<runs>
+		<run>Brown</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0076-A</num>
+    <name>Golem</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0077</num>
+    <name>Ponyta</name>
+	<runs>
+		<run>Randomized Platinum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0077-G</num>
+    <name>Ponyta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0078</num>
+    <name>Rapidash</name>
+	<runs>
+		<run>Gauntlet Red</run>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0078-G</num>
+    <name>Rapidash</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0079</num>
+    <name>Slowpoke</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0079-G</num>
+    <name>Slowpoke</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0080</num>
+    <name>Slowbro</name>
+	<runs>
+		<run>Red Anniversary</run>
+		<run>Randomized TriHard Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0080-G</num>
+    <name>Slowbro</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0081</num>
+    <name>Magnemite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0082</num>
+    <name>Magneton</name>
+	<runs>
+		<run>Pyrite</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0083</num>
+    <name>Farfetch'd</name>
+	<runs>
+		<run>Storm Silver</run>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0083-G</num>
+    <name>Farfetch'd</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0084</num>
+    <name>Doduo</name>
+	<runs>
+		<run>The Wooper Who Saved Christmas</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0085</num>
+    <name>Dodrio</name>
+	<runs>
+		<run>Gauntlet Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0086</num>
+    <name>Seel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0087</num>
+    <name>Dewgong</name>
+	<runs>
+		<run>Pyrite</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0088</num>
+    <name>Grimer</name>
+	<runs>
+		<run>The Wooper Who Saved Christmas</run>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0088-A</num>
+    <name>Grimer</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0089</num>
+    <name>Muk</name>
+	<runs>
+		<run>Red Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0089-A</num>
+    <name>Muk</name>
+	<runs>
+		<run>Ultra Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0090</num>
+    <name>Shellder</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0091</num>
+    <name>Cloyster</name>
+	<runs>
+		<run>Red Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0092</num>
+    <name>Gastly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="kanto" final="false">
+	<num>0093</num>
+    <name>Haunter</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0094</num>
+    <name>Gengar</name>
+	<runs>
+		<run>Metronome Sapphire</run>
+		<run>RGB Green</run>
+		<run>Dual Sanqui Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0095</num>
+    <name>Onix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0096</num>
+    <name>Drowzee</name>
+	<runs>
+		<run>The Wooper Who Saved Christmas</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0097</num>
+    <name>Hypno</name>
+	<runs>
+		<run>Randomized Colosseum</run>
+		<run>Charity Dual Blue - Testing</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0098</num>
+    <name>Krabby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0099</num>
+    <name>Kingler</name>
+	<runs>
+		<run>Randomized Platinum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0100</num>
+    <name>Voltorb</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="false">
+	<num>0100-Hi</num>
+    <name>Voltorb</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="kanto" final="true">
+	<num>0101</num>
+    <name>Electrode</name>
+	<runs>
+		<run>Gauntlet Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0101-Hi</num>
+    <name>Electrode</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0102</num>
+    <name>Exeggcute</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0103</num>
+    <name>Exeggutor</name>
+	<runs>
+		<run>Pyrite</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0103-A</num>
+    <name>Exeggutor</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0104</num>
+    <name>Cubone</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0105</num>
+    <name>Marowak</name>
+	<runs>
+		<run>Randomized Black</run>
+		<run>Dual Sanqui Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0105-A</num>
+    <name>Marowak</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0106</num>
+    <name>Hitmonlee</name>
+	<runs>
+		<run>Burning Red</run>
+		<run>Burning Red Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0107</num>
+    <name>Hitmonchan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0108</num>
+    <name>Lickitung</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0109</num>
+    <name>Koffing</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0110</num>
+    <name>Weezing</name>
+	<runs>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0110-G</num>
+    <name>Weezing</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0111</num>
+    <name>Rhyhorn</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0112</num>
+    <name>Rhydon</name>
+	<runs>
+		<run>Gauntlet Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0113</num>
+    <name>Chansey</name>
+	<runs>
+		<run>Burning Red</run>
+		<run>Spaceworld Gold Reforged Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0114</num>
+    <name>Tangela</name>
+	<runs>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0115</num>
+    <name>Kangaskhan</name>
+	<runs>
+		<run>Charity Dual Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0116</num>
+    <name>Horsea</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0117</num>
+    <name>Seadra</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0118</num>
+    <name>Goldeen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0119</num>
+    <name>Seaking</name>
+	<runs>
+		<run>Charity Dual Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0120</num>
+    <name>Staryu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0121</num>
+    <name>Starmie</name>
+	<runs>
+		<run>Burning Red</run>
+		<run>Burning Red Revisit</run>
+		<run>Brilliant Diamond</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0122</num>
+    <name>Mr. Mime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0122-G</num>
+    <name>Mr. Mime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0123</num>
+    <name>Scyther</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0124</num>
+    <name>Jynx</name>
+	<runs>
+		<run>Charity Dual Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0125</num>
+    <name>Electabuzz</name>
+	<runs>
+		<run>Moemon</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0126</num>
+    <name>Magmar</name>
+	<runs>
+		<run>Pyrite</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0127</num>
+    <name>Pinsir</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0128</num>
+    <name>Tauros</name>
+	<runs>
+		<run>Dual Red</run>
+		<run>Randomized Black 2</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0128-Pa</num>
+    <name>Tauros</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0129</num>
+    <name>Magikarp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0130</num>
+    <name>Gyarados</name>
+	<runs>
+		<run>Vietnamese Crystal</run>
+		<run>Vietnamese Crystal Revisit</run>
+		<run>Chatty Yellow</run>
+		<run>Burning Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0131</num>
+    <name>Lapras</name>
+	<runs>
+		<run>Red</run>
+		<run>X</run>
+		<run>Dual Blue</run>
+		<run>Randomized Y</run>
+		<run>RGB Green</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0132</num>
+    <name>Ditto</name>
+	<runs>
+		<run>Randomized Chatty Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0133</num>
+    <name>Eevee</name>
+	<runs>
+		<run>Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0134</num>
+    <name>Vaporeon</name>
+	<runs>
+		<run>Moemon</run>
+		<run>Bootleg Green</run>
+		<run>Bronze</run>
+		<run>XG</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0135</num>
+    <name>Jolteon</name>
+	<runs>
+		<run>Crystal Anniversary</run>
+		<run>Bootleg Green</run>
+		<run>Randomized TriHard Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0136</num>
+    <name>Flareon</name>
+	<runs>
+		<run>Platinum</run>
+		<run>Bootleg Green</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0137</num>
+    <name>Porygon</name>
+	<runs>
+		<run>Charity Dual Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0138</num>
+    <name>Omanyte</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0139</num>
+    <name>Omastar</name>
+	<runs>
+		<run>Red</run>
+		<run>HeartGold</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0140</num>
+    <name>Kabuto</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0141</num>
+    <name>Kabutops</name>
+	<runs>
+		<run>Red Anniversary</run>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0142</num>
+    <name>Aerodactyl</name>
+	<runs>
+		<run>Crystal Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0143</num>
+    <name>Snorlax</name>
+	<runs>
+		<run>Brilliant Diamond</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0144</num>
+    <name>Articuno</name>
+	<runs>
+		<run>Randomized White 2</run>
+		<run>Randomized Black</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0144-G</num>
+    <name>Articuno</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0145</num>
+    <name>Zapdos</name>
+	<runs>
+		<run>Red</run>
+		<run>Red Anniversary</run>
+		<run>Ultra</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0145-G</num>
+    <name>Zapdos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0146</num>
+    <name>Moltres</name>
+	<runs>
+		<run>Randomized Chatty Crystal</run>
+		<run>Randomized TriHard Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0146-G</num>
+    <name>Moltres</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0147</num>
+    <name>Dratini</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0148</num>
+    <name>Dragonair</name>
+	<runs>
+		<run>Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0149</num>
+    <name>Dragonite</name>
+	<runs>
+		<run>Crystal</run>
+		<run>Crystal Revisit</run>
+		<run>Red Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0150</num>
+    <name>Mewtwo</name>
+	<runs>
+		<run>Ultra</run>
+		<run>Bootleg Green</run>
+		<run>Burning Red Revisit</run>
+		<run>Randomized Sanqui Red</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0151</num>
+    <name>Mew</name>
+	<runs>
+		<run>FireRed</run>
+		<run>FireRed Revisit</run>
+		<run>Metronome Sapphire</run>
+		<run>Sword</run>
+		<run>Dual Sanqui Red</run>
+		<run>Charity Dual Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+<!-- JOHTO -->
+
+  <mon region="johto" final="true">
+	<num>0202</num>
+    <name>Wobbuffet</name>
+	<runs>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="johto" final="true">
+	<num>0208</num>
+    <name>Steelix</name>
+	<runs>
+		<run>Crystal</run>
+		<run>Crystal Revisit</run>
+		<run>Gauntlet Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+<!-- HOENN -->
+
+  <mon region="hoenn" final="false">
+	<num>0252</num>
+    <name>Treecko</name>
+	<runs>
+		<run>Debug Rubin</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0385</num>
+    <name>Jirachi</name>
+	<runs>
+		<run>Debug Rubin</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+  
+<!-- UNOVA -->
+
+  <mon region="unova" final="true">
+	<num>0643</num>
+    <name>Reshiram </name>
+	<runs>
+		<run>Volt White</run>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="unova" final="true">
+	<num>0644</num>
+    <name>Zekrom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>none</rank>
+		<emblem>none</emblem>
+	</status>
+  </mon> 
+
+</mons>
