@@ -3511,6 +3511,1591 @@
 	</status>
   </mon> 
 
+  <mon region="hoenn" final="false">
+	<num>0253</num>
+    <name>Grovyle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0254</num>
+    <name>Sceptile</name>
+	<runs>
+		<run>Black 2</run>
+		<run>XG</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0255</num>
+    <name>Torchic</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0256</num>
+    <name>Combusken</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0257</num>
+    <name>Blaziken</name>
+	<runs>
+		<run>XG</run>
+		<run>TriHard Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0258</num>
+    <name>Mudkip</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0259</num>
+    <name>Marshtomp</name>
+	<runs>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0260</num>
+    <name>Swampert</name>
+	<runs>
+		<run>XG</run>
+		<run>Sword Revisit - Crown Tundra</run>
+		<run>Lightning Sapphire</run>
+		<run>Sapphire</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0261</num>
+    <name>Poochyena</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+  
+  <mon region="hoenn" final="true">
+	<num>0262</num>
+    <name>Mightyena</name>
+	<runs>
+		<run>Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="hoenn" final="false">
+	<num>0263</num>
+    <name>Zigzagoon</name>
+	<runs>
+		<run>Debug Rubin</run>
+		<run>Lightning Sapphire</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="hoenn" final="false">
+	<num>0263-G</num>
+    <name>Zigzagoon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+      
+  <mon region="hoenn" final="true">
+	<num>0264</num>
+    <name>Linoone</name>
+	<runs>
+		<run>Omega Ruby</run>
+		<run>Flora Sky</run>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="hoenn" final="false">
+	<num>0264-G</num>
+    <name>Linoone</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+    
+  <mon region="hoenn" final="false">
+	<num>0265</num>
+    <name>Wurmple</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0266</num>
+    <name>Silcoon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+          
+  <mon region="hoenn" final="true">
+	<num>0267</num>
+    <name>Beautifly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0268</num>
+    <name>Cascoon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+          
+  <mon region="hoenn" final="true">
+	<num>0269</num>
+    <name>Dustox</name>
+	<runs>
+		<run>Gauntlet Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="hoenn" final="false">
+	<num>0270</num>
+    <name>Lotad</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0271</num>
+    <name>Lombre</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+          
+  <mon region="hoenn" final="true">
+	<num>0272</num>
+    <name>Ludicolo</name>
+	<runs>
+		<run>Randomized Y</run>
+		<run>Chatty Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="hoenn" final="false">
+	<num>0273</num>
+    <name>Seedot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0274</num>
+    <name>Nuzleaf</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+          
+  <mon region="hoenn" final="true">
+	<num>0275</num>
+    <name>Shiftry</name>
+	<runs>
+		<run>XD</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+  <mon region="hoenn" final="false">
+	<num>0276</num>
+    <name>Taillow</name>
+	<runs>
+		<run>Randomized Colosseum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+      
+  <mon region="hoenn" final="true">
+	<num>0277</num>
+    <name>Swellow</name>
+	<runs>
+		<run>Sapphire</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+      
+  <mon region="hoenn" final="false">
+	<num>0278</num>
+    <name>Wingull</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+      
+  <mon region="hoenn" final="true">
+	<num>0279</num>
+    <name>Pelipper</name>
+	<runs>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+    
+  <mon region="hoenn" final="false">
+	<num>0280</num>
+    <name>Ralts</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+            
+  <mon region="hoenn" final="false">
+	<num>0281</num>
+    <name>Kirlia</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+        
+  <mon region="hoenn" final="true">
+	<num>0282</num>
+    <name>Gardevoir</name>
+	<runs>
+		<run>Prism</run>
+		<run>Sword Revisit - Isle of Armor</run>
+		<run>Sword Revisit - Crown Tundra</run>
+		<run>Brilliant Diamond</run>
+		<run>Dual Sanqui Blue</run>
+		<run>Sapphire</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+    
+  <mon region="hoenn" final="false">
+	<num>0283</num>
+    <name>Surskit</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+      
+  <mon region="hoenn" final="true">
+	<num>0284</num>
+    <name>Masquerain</name>
+	<runs>
+		<run>FireRed</run>
+		<run>FireRed Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+          
+  <mon region="hoenn" final="false">
+	<num>0285</num>
+    <name>Shroomish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+      
+  <mon region="hoenn" final="true">
+	<num>0286</num>
+    <name>Breloom</name>
+	<runs>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0287</num>
+    <name>Slakoth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0288</num>
+    <name>Vigoroth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0289</num>
+    <name>Slaking</name>
+	<runs>
+		<run>FireRed</run>
+		<run>FireRed Revisit</run>
+		<run>Randomized Colosseum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0290</num>
+    <name>Nincada</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0291</num>
+    <name>Ninjask</name>
+	<runs>
+		<run>Sapphire</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0292</num>
+    <name>Shedinja</name>
+	<runs>
+		<run>Flora Sky</run>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0293</num>
+    <name>Whismur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0294</num>
+    <name>Loudred</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0295</num>
+    <name>Exploud</name>
+	<runs>
+		<run>Omega Ruby</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0296</num>
+    <name>Makuhita</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0297</num>
+    <name>Hariyama</name>
+	<runs>
+		<run>Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0298</num>
+    <name>Azurill</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0299</num>
+    <name>Nosepass</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0300</num>
+    <name>Skitty</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0301</num>
+    <name>Delcatty</name>
+	<runs>
+		<run>Rising Ruby</run>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0302</num>
+    <name>Sableye</name>
+	<runs>
+		<run>Gauntlet Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0303</num>
+    <name>Mawile</name>
+	<runs>
+		<run>Randomized Black 2</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0304</num>
+    <name>Aron</name>
+	<runs>
+		<run>Lightning Sapphire</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0305</num>
+    <name>Lairon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0306</num>
+    <name>Aggron</name>
+	<runs>
+		<run>Gauntlet Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0307</num>
+    <name>Meditite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0308</num>
+    <name>Medicham</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0309</num>
+    <name>Electrike</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0310</num>
+    <name>Manectric</name>
+	<runs>
+		<run>Omega Ruby</run>
+		<run>TriHard Emerald</run>
+		<run>Sapphire</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0311</num>
+    <name>Plusle</name>
+	<runs>
+		<run>Randomized Platinum</run>
+		<run>Grand Colosseum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0312</num>
+    <name>Minun</name>
+	<runs>
+		<run>Omega Ruby</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0313</num>
+    <name>Volbeat</name>
+	<runs>
+		<run>Metronome Sapphire</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0314</num>
+    <name>Illumise</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0315</num>
+    <name>Roselia</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0316</num>
+    <name>Gulpin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0317</num>
+    <name>Swalot</name>
+	<runs>
+		<run>XD</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0318</num>
+    <name>Carvanha</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0319</num>
+    <name>Sharpedo</name>
+	<runs>
+		<run>XD</run>
+		<run>Dual Sanqui Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0320</num>
+    <name>Wailmer</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0321</num>
+    <name>Wailord</name>
+	<runs>
+		<run>TriHard Emerald</run>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0322</num>
+    <name>Numel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0323</num>
+    <name>Camerupt</name>
+	<runs>
+		<run>Gauntlet Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0324</num>
+    <name>Torkoal</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0325</num>
+    <name>Spoink</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0326</num>
+    <name>Grumpig</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0327</num>
+    <name>Spinda</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0328</num>
+    <name>Trapinch</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0329</num>
+    <name>Vibrava</name>
+	<runs>
+		<run>HeartGold</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0330</num>
+    <name>Flygon</name>
+	<runs>
+		<run>TriHard Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0331</num>
+    <name>Cacnea</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0332</num>
+    <name>Cacturne</name>
+	<runs>
+		<run>Alpha Sapphire</run>
+		<run>Brilliant Diamond</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0333</num>
+    <name>Swablu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0334</num>
+    <name>Altaria</name>
+	<runs>
+		<run>FireRed</run>
+		<run>FireRed Revisit</run>
+		<run>Gauntlet Platinum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0335</num>
+    <name>Zangoose</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0336</num>
+    <name>Seviper</name>
+	<runs>
+		<run>XG Remix</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0337</num>
+    <name>Lunatone</name>
+	<runs>
+		<run>Randomized Black 2</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0338</num>
+    <name>Solrock</name>
+	<runs>
+		<run>Ultra</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0339</num>
+    <name>Barboach</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0340</num>
+    <name>Whiscash</name>
+	<runs>
+		<run>Gauntlet Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0341</num>
+    <name>Corphish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0342</num>
+    <name>Crawdaunt</name>
+	<runs>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0343</num>
+    <name>Baltoy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0344</num>
+    <name>Claydol</name>
+	<runs>
+		<run>XD</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0345</num>
+    <name>Lileep</name>
+	<runs>
+		<run>Lightning Sapphire</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0346</num>
+    <name>Cradily</name>
+	<runs>
+		<run>Rising Ruby</run>
+		<run>Sword Revisit - Crown Tundra</run>
+		<run>XG Remix</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0347</num>
+    <name>Anorith</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0348</num>
+    <name>Armaldo</name>
+	<runs>
+		<run>Sword Revisit - Crown Tundra</run>
+		<run>Sapphire</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0349</num>
+    <name>Feebas</name>
+	<runs>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0350</num>
+    <name>Milotic</name>
+	<runs>
+		<run>Gauntlet Black 2</run>
+		<run>Randomized Chatty Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0351</num>
+    <name>Castform</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0352</num>
+    <name>Kecleon</name>
+	<runs>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0353</num>
+    <name>Shuppet</name>
+	<runs>
+		<run>Ultra</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0354</num>
+    <name>Banette</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="hoenn" final="false">
+	<num>0355</num>
+    <name>Duskull</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0356</num>
+    <name>Dusclops</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="hoenn" final="true">
+	<num>0357</num>
+    <name>Tropius</name>
+	<runs>
+		<run>Lightning Sapphire</run>
+		<run>Grand Colosseum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0358</num>
+    <name>Chimecho</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0359</num>
+    <name>Absol</name>
+	<runs>
+		<run>X</run>
+		<run>Randomized White 2</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0360</num>
+    <name>Wynaut</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0361</num>
+    <name>Snorunt</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0362</num>
+    <name>Glalie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0363</num>
+    <name>Spheal</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0364</num>
+    <name>Sealeo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0365</num>
+    <name>Walrein</name>
+	<runs>
+		<run>XD</run>
+		<run>Randomized Colosseum</run>
+		<run>Randomized Ultra Moon</run>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0366</num>
+    <name>Clamperl</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0367</num>
+    <name>Huntail</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0368</num>
+    <name>Gorebyss</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0369</num>
+    <name>Relicanth</name>
+	<runs>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0370</num>
+    <name>Luvdisc</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0371</num>
+    <name>Bagon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0372</num>
+    <name>Shelgon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0373</num>
+    <name>Salamence</name>
+	<runs>
+		<run>Blazed Glazed</run>
+		<run>XG</run>
+		<run>Randomized Black 2</run>
+		<run>Randomized Chatty Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>374</num>
+    <name>Beldum</name>
+	<runs>
+		<run>Randomized Colosseum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0375</num>
+    <name>Metang</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0376</num>
+    <name>Metagross</name>
+	<runs>
+		<run>XG</run>
+		<run>Renegade Platinum</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0377</num>
+    <name>Regirock</name>
+	<runs>
+		<run>Sword Revisit - Crown Tundra</run>
+		<run>Blazing Emerald</run>
+		<run>Dual Sanqui Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0378</num>
+    <name>Regice</name>
+	<runs>
+		<run>TriHard Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0379</num>
+    <name>Registeel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0380</num>
+    <name>Latias</name>
+	<runs>
+		<run>Randomized TriHard Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0381</num>
+    <name>Latios</name>
+	<runs>
+		<run>Omega Ruby</run>
+		<run>Debug Rubin</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0382</num>
+    <name>Kyogre</name>
+	<runs>
+		<run>Randomized White 2</run>
+		<run>Lightning Sapphire</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0383</num>
+    <name>Groudon</name>
+	<runs>
+		<run>Metronome Sapphire</run>
+		<run>Sirius</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0384</num>
+    <name>Rayquaza</name>
+	<runs>
+		<run>Omega Ruby</run>
+		<run>Alpha Sapphire</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
   <mon region="hoenn" final="true">
 	<num>0385</num>
     <name>Jirachi</name>
@@ -3522,7 +5107,18 @@
 		<emblem></emblem>
 	</status>
   </mon> 
-  
+
+  <mon region="hoenn" final="true">
+	<num>0386</num>
+    <name>Deoxys</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
 <!-- UNOVA -->
 
   <mon region="unova" final="true">

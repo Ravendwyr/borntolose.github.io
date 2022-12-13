@@ -19,11 +19,11 @@ function displayDex(nfe=true) {
 		
 			color = backgroundFromRank(firstToString(currentMon, "rank"));
 			
-			star = getEmblem(firstToString(currentMon, "emblem"));
+			star = '<div style="text-align:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
 			
-			img = '<img src="national/' + firstToString(currentMon, "num") + '.png" style="margin:2px">';
+			img = '<img src="national/' + firstToString(currentMon, "num") + '.png" height="64px">';
 			
-			document.getElementById(currentMon.getAttribute("region")).innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b><br><br>' + img + '<br><br><p style="text-align:right;">' + star + '</p></td>';
+			document.getElementById(currentMon.getAttribute("region")).innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + star + '</td>';
 			
 		}
 			
@@ -62,7 +62,7 @@ function getEmblem(emblem){
 
 function clearAll(){
 	
-	regions = ["kanto", "johto"/*, "hoenn", "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea"*/];
+	regions = ["kanto", "johto", "hoenn"/*, "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea"*/];
 	
 	for (i = 0; i < regions.length; i++) {
 		document.getElementById(regions[i]).innerHTML = "";
