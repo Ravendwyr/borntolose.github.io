@@ -1,15 +1,15 @@
 
-function displayDex(nfe=true) {  
+function displayDex(dexType, nfe=true) {  
   
 	var Connect = new XMLHttpRequest();
-	Connect.open("GET", "national.xml", false);
+	Connect.open("GET", dexType + ".xml", false);
 	Connect.setRequestHeader("Content-Type", "text/xml");
 	Connect.send(null);
 
 	var response = Connect.responseXML;
 	var mons = response.childNodes[0];
 	
-	clearAll()
+	clearAll(dexType);
 	
 	for (i = 0; i < mons.children.length; i++) {
 		
@@ -21,7 +21,7 @@ function displayDex(nfe=true) {
 			
 			star = '<div style="text-align:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
 			
-			img = '<img src="national/' + firstToString(currentMon, "num") + '.png" height="64px">';
+			img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px">';
 			
 			document.getElementById(currentMon.getAttribute("region")).innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + star + '</td>';
 			
@@ -60,9 +60,15 @@ function getEmblem(emblem){
 
 }
 
-function clearAll(){
+function clearAll(dexType){
 	
-	regions = ["kanto", "johto", "hoenn"/*, "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea"*/];
+	if (dexType == "fakemon") {
+		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto"];
+	} else {
+		regions = ["kanto", "johto", "hoenn"/*, "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea"*/];
+	}
+	
+	console.log(regions);
 	
 	for (i = 0; i < regions.length; i++) {
 		document.getElementById(regions[i]).innerHTML = "";

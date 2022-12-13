@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mons>
+
+<!-- KANTO -->
+
+  <mon region="kanto" final="false">
+	<num>0048-BLZ</num>
+    <name>Venonat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0067-STA</num>
+    <name>Machoke</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0068-STA</num>
+    <name>Machamp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0072-BLZ</num>
+    <name>Tentacool</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0073-BLZ</num>
+    <name>Tentacruel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0085-BLZ</num>
+    <name>Dodrio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0086-BLZ</num>
+    <name>Seel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0087-BLZ</num>
+    <name>Dewgong</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0095-BLZ</num>
+    <name>Onix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0100-STA</num>
+    <name>Voltorb</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0101-STA</num>
+    <name>Electrode</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0114-BLZ</num>
+    <name>Tangela</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0127-BLZ</num>
+    <name>Pinsir</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- JOHTO -->
+
+  <mon region="johto" final="false">
+	<num>0170-BLZ</num>
+    <name>Chinchou</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0171-BLZ</num>
+    <name>Lanturn</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0206-BLZ</num>
+    <name>Dunsparce</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0211-BLZ</num>
+    <name>Qwilfish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0213-BLZ</num>
+    <name>Shuckle</name>
+	<runs>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0216-BLZ</num>
+    <name>Teddiursa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0216-XGR</num>
+    <name>Teddiursa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0217-BLZ</num>
+    <name>Ursaring</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0217-XGR</num>
+    <name>Ursaring</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0227-BLZ</num>
+    <name>Skarmory</name>
+	<runs>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+  
+<!-- HOENN -->
+
+  <mon region="hoenn" final="true">
+	<num>0336-STA</num>
+    <name>Seviper</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+  
+<!-- SINNOH -->
+
+  <mon region="sinnoh" final="true">
+	<num>0465-BLZ</num>
+    <name>Tangrowth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="sinnoh" final="true">
+	<num>0486-BLZ</num>
+    <name>Regigigas</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- UNOVA -->
+
+  <mon region="unova" final="true">
+	<num>0556-BLZ</num>
+    <name>Maractus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0577-BLZ</num>
+    <name>Solosis</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0578-BLZ</num>
+    <name>Duosion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0579-BLZ</num>
+    <name>Reuniclus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0587-BLZ</num>
+    <name>Emolga</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0602-BLZ</num>
+    <name>Tynamo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0603-BLZ</num>
+    <name>Eelektrik</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0604-BLZ</num>
+    <name>Eelektross</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0624-BLZ</num>
+    <name>Pawniard</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0625-BLZ</num>
+    <name>Bisharp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- KALOS -->
+
+  <mon region="kalos" final="false">
+	<num>0704-BLZ</num>
+    <name>Goomy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- ALOLA -->
+
+  <mon region="alola" final="false">
+	<num>0747-BLZ</num>
+    <name>Mareanie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0748-BLZ</num>
+    <name>Toxapex</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- GALAR -->
+
+  <mon region="galar" final="false">
+	<num>0885-BLZ</num>
+    <name>Dreepy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0886-BLZ</num>
+    <name>Drakloak</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0887-BLZ</num>
+    <name>Dragapult</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- NONE -->
+
+  <mon region="none" final="true">
+	<num>0000</num>
+    <name>MissingNo.</name>
+	<runs>
+		<run>Bronze</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+  
+<!-- NALJO -->
+
+  <mon region="naljo" final="true">
+	<num>PRI-0239</num>
+    <name>Phancero</name>
+	<runs>
+		<run>Prism</run>
+		<run>Burning Red Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+  
+  <mon region="naljo" final="true">
+	<num>PRI-0250</num>
+    <name>Varaneous</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+    
+  <mon region="naljo" final="true">
+	<num>PRI-0251</num>
+    <name>Raiwato</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+    
+  <mon region="naljo" final="true">
+	<num>PRI-0252</num>
+    <name>Fambaco</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+    
+  <mon region="naljo" final="true">
+	<num>PRI-0253</num>
+    <name>Libabeel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- KOHTO -->
+
+  <mon region="kohto" final="true">
+	<num>BRZ-0206</num>
+    <name>Pumbloom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+  
+
+</mons>
