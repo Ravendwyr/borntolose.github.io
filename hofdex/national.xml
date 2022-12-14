@@ -6363,8 +6363,1789 @@
 <!-- UNOVA -->
 
   <mon region="unova" final="true">
+	<num>0494</num>
+    <name>Victini</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0495</num>
+    <name>Snivy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0496</num>
+    <name>Servine</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0497</num>
+    <name>Serperior</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0498</num>
+    <name>Tepig</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0499</num>
+    <name>Pignite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0500</num>
+    <name>Emboar</name>
+	<runs>
+		<run>Black 2</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0501</num>
+    <name>Oshawott</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0502</num>
+    <name>Dewott</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0503</num>
+    <name>Samurott</name>
+	<runs>
+		<run>Blazed Glazed</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0503-Hi</num>
+    <name>Samurott</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0504</num>
+    <name>Patrat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0505</num>
+    <name>Watchog</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0506</num>
+    <name>Lillipup</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0507</num>
+    <name>Herdier</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0508</num>
+    <name>Stoutland</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0509</num>
+    <name>Purrloin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0510</num>
+    <name>Liepard</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0511</num>
+    <name>Pansage</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0512</num>
+    <name>Simisage</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0513</num>
+    <name>Pansear</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0514</num>
+    <name>Simisear</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0515</num>
+    <name>Panpour</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0516</num>
+    <name>Simipour</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0517</num>
+    <name>Munna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0518</num>
+    <name>Musharna</name>
+	<runs>
+		<run>Volt White</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0519</num>
+    <name>Pidove</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0520</num>
+    <name>Tranquill</name>
+	<runs>
+		<run>Black</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0521</num>
+    <name>Unfezant</name>
+	<runs>
+		<run>Black 2</run>
+		<run>Black Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0522</num>
+    <name>Blitzle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0523</num>
+    <name>Zebstrika</name>
+	<runs>
+		<run>Black</run>
+		<run>Black Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0524</num>
+    <name>Roggenrola</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0525</num>
+    <name>Boldore</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0526</num>
+    <name>Gigalith</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0527</num>
+    <name>Woobat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0528</num>
+    <name>Swoobat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0529</num>
+    <name>Drilbur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0530</num>
+    <name>Excadrill</name>
+	<runs>
+		<run>Volt White</run>
+		<run>Rising Ruby</run>
+		<run>Sword Revisit - Crown Tundra</run>
+		<run>Randomized Chatty Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0531</num>
+    <name>Audino</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0532</num>
+    <name>Timburr</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0533</num>
+    <name>Gurdurr</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0534</num>
+    <name>Conkeldurr</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0535</num>
+    <name>Tympole</name>
+	<runs>
+		<run>Black</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0536</num>
+    <name>Palpitoad</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0537</num>
+    <name>Seismitoad</name>
+	<runs>
+		<run>Waning Moon</run>
+		<run>Black Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0538</num>
+    <name>Throh</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0539</num>
+    <name>Sawk</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0540</num>
+    <name>Sewaddle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0541</num>
+    <name>Swadloon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0542</num>
+    <name>Leavanny</name>
+	<runs>
+		<run>Black 2</run>
+		<run>Randomized Ultra Moon</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0543</num>
+    <name>Venipede</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0544</num>
+    <name>Whirlipede</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0545</num>
+    <name>Scolipede</name>
+	<runs>
+		<run>Blazed Glazed</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0546</num>
+    <name>Cottonee</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0547</num>
+    <name>Whimsicott</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0548</num>
+    <name>Petilil</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0549</num>
+    <name>Lilligant</name>
+	<runs>
+		<run>Volt White</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0549-Hi</num>
+    <name>Lilligant</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0550</num>
+    <name>Basculin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0551</num>
+    <name>Sandile</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0552</num>
+    <name>Krokorok</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0553</num>
+    <name>Krookodile</name>
+	<runs>
+		<run>Gauntlet Black 2</run>
+		<run>Sword Revisit - Isle of Armor</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0554</num>
+    <name>Darumaka</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0554-G</num>
+    <name>Darumaka</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0555</num>
+    <name>Darmanitan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0555-G</num>
+    <name>Darmanitan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0556</num>
+    <name>Maractus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0557</num>
+    <name>Dwebble</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0558</num>
+    <name>Crustle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0559</num>
+    <name>Scraggy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0560</num>
+    <name>Scrafty</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0561</num>
+    <name>Sigilyph</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0562</num>
+    <name>Yamask</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0562-G</num>
+    <name>Yamask</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0563</num>
+    <name>Cofagrigus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0564</num>
+    <name>Tirtouga</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0565</num>
+    <name>Carracosta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0566</num>
+    <name>Archen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0567</num>
+    <name>Archeops</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0568</num>
+    <name>Trubbish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0569</num>
+    <name>Garbodor</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0570</num>
+    <name>Zorua</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0570-G</num>
+    <name>Zorua</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0571</num>
+    <name>Zoroark</name>
+	<runs>
+		<run>Black 2</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0571-G</num>
+    <name>Zoroark</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0572</num>
+    <name>Minccino</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0573</num>
+    <name>Cinccino</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0574</num>
+    <name>Gothita</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0575</num>
+    <name>Gothorita</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0576</num>
+    <name>Gothitelle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0577</num>
+    <name>Solosis</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0578</num>
+    <name>Duosion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0579</num>
+    <name>Reuniclus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0580</num>
+    <name>Ducklett</name>
+	<runs>
+		<run>Gauntlet X</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0581</num>
+    <name>Swanna</name>
+	<runs>
+		<run>Waning Moon</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0582</num>
+    <name>Vanillite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0583</num>
+    <name>Vanillish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0584</num>
+    <name>Vanilluxe</name>
+	<runs>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0585</num>
+    <name>Deerling</name>
+	<runs>
+		<run>Black</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0586</num>
+    <name>Sawsbuck</name>
+	<runs>
+		<run>Black Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0587</num>
+    <name>Emolga</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0588</num>
+    <name>Karrablast</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0589</num>
+    <name>Escavalier</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0590</num>
+    <name>Foongus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0591</num>
+    <name>Amoonguss</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0592</num>
+    <name>Frillish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0593</num>
+    <name>Jellicent</name>
+	<runs>
+		<run>Alpha Sapphire</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0594</num>
+    <name>Alomomola</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0595</num>
+    <name>Joltik</name>
+	<runs>
+		<run>Black</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0596</num>
+    <name>Galvantula</name>
+	<runs>
+		<run>Black Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0597</num>
+    <name>Ferroseed</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0598</num>
+    <name>Ferrothorn</name>
+	<runs>
+		<run>Randomized Black</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0599</num>
+    <name>Klink</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0600</num>
+    <name>Klang</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0601</num>
+    <name>Klinklang</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0602</num>
+    <name>Tynamo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0603</num>
+    <name>Eelektrik</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0604</num>
+    <name>Eelektross</name>
+	<runs>
+		<run>Gauntlet Black 2</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0605</num>
+    <name>Elgyem</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0606</num>
+    <name>Beheeyem</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0607</num>
+    <name>Litwick</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0608</num>
+    <name>Lampent</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0609</num>
+    <name>Chandelure</name>
+	<runs>
+		<run>Theta Emerald EX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0610</num>
+    <name>Axew</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0611</num>
+    <name>Fraxure</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0612</num>
+    <name>Haxorus</name>
+	<runs>
+		<run>Volt White</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0613</num>
+    <name>Cubchoo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0614</num>
+    <name>Beartic</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0615</num>
+    <name>Cryogonal</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0616</num>
+    <name>Shelmet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0617</num>
+    <name>Accelgor</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0618</num>
+    <name>Stunfisk</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0618-G</num>
+    <name>Stunfisk</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0619</num>
+    <name>Mienfoo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0620</num>
+    <name>Mienshao</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0621</num>
+    <name>Druddigon</name>
+	<runs>
+		<run>Black</run>
+		<run>Black Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0622</num>
+    <name>Golett</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0623</num>
+    <name>Golurk</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0624</num>
+    <name>Pawniard</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0625</num>
+    <name>Bisharp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0626</num>
+    <name>Bouffalant</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0627</num>
+    <name>Rufflet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0628</num>
+    <name>Braviary</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0628-G</num>
+    <name>Braviary</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0629</num>
+    <name>Vullaby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0630</num>
+    <name>Mandibuzz</name>
+	<runs>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0631</num>
+    <name>Heatmor</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0632</num>
+    <name>Durant</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0633</num>
+    <name>Deino</name>
+	<runs>
+		<run>Sword Revisit - Isle of Armor</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0634</num>
+    <name>Zweilous</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0635</num>
+    <name>Hydreigon</name>
+	<runs>
+		<run>Randomized Y</run>
+		<run>Randomized Ultra Moon</run>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="false">
+	<num>0636</num>
+    <name>Larvesta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0637</num>
+    <name>Volcarona</name>
+	<runs>
+		<run>Randomized Y</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0638</num>
+    <name>Cobalion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0639</num>
+    <name>Terrakion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0640</num>
+    <name>Virizion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0641</num>
+    <name>Tornadus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0642</num>
+    <name>Thundurus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
 	<num>0643</num>
-    <name>Reshiram </name>
+    <name>Reshiram</name>
 	<runs>
 		<run>Volt White</run>
 		<run>Dual Sanqui Blue</run>
@@ -6374,7 +8155,7 @@
 		<emblem>inter</emblem>
 	</status>
   </mon> 
-  
+
   <mon region="unova" final="true">
 	<num>0644</num>
     <name>Zekrom</name>
@@ -6383,6 +8164,66 @@
 	<status>
 		<rank></rank>
 		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0645</num>
+    <name>Landorus</name>
+	<runs>
+		<run>Gauntlet Black 2</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0646</num>
+    <name>Kyurem</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0647</num>
+    <name>Keldeo</name>
+	<runs>
+		<run>Randomized Black</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0648</num>
+    <name>Meloetta</name>
+	<runs>
+		<run>Randomized Black 2</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="unova" final="true">
+	<num>0649</num>
+    <name>Genesect</name>
+	<runs>
+		<run>Rising Ruby</run>
+		<run>Randomized Black</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
