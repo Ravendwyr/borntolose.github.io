@@ -8975,6 +8975,17 @@
 	</status>
   </mon> 
 
+  <mon region="kalos" final="true">
+	<num>0713-Hi</num>
+    <name>Avalugg</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
   <mon region="kalos" final="false">
 	<num>0714</num>
     <name>Noibat</name>
