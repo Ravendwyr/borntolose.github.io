@@ -213,6 +213,7 @@
     <name>Pidgeotto</name>
 	<runs>
 		<run>Charity Dual Red</run>
+		<run>Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -946,9 +947,10 @@
 	<num>0064</num>
     <name>Kadabra</name>
 	<runs>
+		<run>Star</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1225,9 +1227,10 @@
 	<num>0081</num>
     <name>Magnemite</name>
 	<runs>
+		<run>Silver</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1296,9 +1299,10 @@
 	<num>0086</num>
     <name>Seel</name>
 	<runs>
+		<run>Silver</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1308,6 +1312,7 @@
     <name>Dewgong</name>
 	<runs>
 		<run>Pyrite</run>
+		<run>Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1728,9 +1733,10 @@
 	<num>0116</num>
     <name>Horsea</name>
 	<runs>
+		<run>Silver</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1787,6 +1793,7 @@
 		<run>Burning Red</run>
 		<run>Burning Red Revisit</run>
 		<run>Brilliant Diamond</run>
+		<run>Brilliant Diamond Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2456,6 +2463,7 @@
 	<runs>
 		<run>Brown</run>
 		<run>Blazing Emerald</run>
+		<run>Brilliant Diamond Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4636,6 +4644,7 @@
 		<run>Rising Ruby</run>
 		<run>Sword Revisit - Crown Tundra</run>
 		<run>XG Remix</run>
+		<run>Star</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4953,6 +4962,7 @@
 		<run>XG</run>
 		<run>Randomized Black 2</run>
 		<run>Randomized Chatty Crystal</run>
+		<run>Brilliant Diamond Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4976,9 +4986,10 @@
 	<num>0375</num>
     <name>Metang</name>
 	<runs>
+		<run>Star</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -5594,6 +5605,7 @@
     <name>Buneary</name>
 	<runs>
 		<run>Sword Revisit - Isle of Armor</run>
+		<run>Brilliant Diamond Revisit</run>
 	</runs>
 	<status>
 		<rank>inter</rank>
@@ -5804,6 +5816,7 @@
 		<run>Randomized Ultra Moon</run>
 		<run>Randomized Black</run>
 		<run>Brilliant Diamond</run>
+		<run>Brilliant Diamond Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7561,6 +7574,7 @@
     <name>Jellicent</name>
 	<runs>
 		<run>Alpha Sapphire</run>
+		<run>Star</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8716,6 +8730,7 @@
     <name>Clawitzer</name>
 	<runs>
 		<run>Gauntlet X</run>
+		<run>Star</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8854,9 +8869,10 @@
 	<num>0705</num>
     <name>Sliggoo</name>
 	<runs>
+		<run>Star</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -9087,5 +9103,20 @@
 <!-- HISUI -->
 
 <!-- PALDEA -->
+
+<!-- OTHER -->
+
+  <mon region="other" final="false">
+	<num>----</num>
+    <name>Egg</name>
+	<runs>
+		<run>Brilliant Diamond Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
 
 </mons>
