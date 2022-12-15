@@ -1495,4 +1495,1086 @@
 	</status>
   </mon> 
 
+<!-- TOHOAK -->
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0161</num>
+    <name>Basille</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0162</num>
+    <name>Basield</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0163</num>
+    <name>Basilux</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0164</num>
+    <name>Patroleo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0165</num>
+    <name>Gardleon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0166</num>
+    <name>Royalert</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0167</num>
+    <name>Katuna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0168</num>
+    <name>Maelstream</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0169</num>
+    <name>Skelachone</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0170</num>
+    <name>Cheshile</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0171</num>
+    <name>Cheshess</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0172</num>
+    <name>Chessire</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0173</num>
+    <name>Rivird</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0174</num>
+    <name>Mingola</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0176</num>
+    <name>Pachirikku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0177</num>
+    <name>Pumpkid</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0178</num>
+    <name>Wikkin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0180</num>
+    <name>Lunabain</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0182</num>
+    <name>Liedoro</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0186</num>
+    <name>Rougella</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0189</num>
+    <name>Tanuking</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0190</num>
+    <name>Switza</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0191</num>
+    <name>Shivermin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0192</num>
+    <name>Nymphrost</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0194</num>
+    <name>Conductot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0200</num>
+    <name>Ledybulk</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0202</num>
+    <name>Bisos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0207</num>
+    <name>Planite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0208</num>
+    <name>Modra</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0209</num>
+    <name>Komoragon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0215</num>
+    <name>Lilynary</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0216</num>
+    <name>Kaminary</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0217</num>
+    <name>Grieflame</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0218</num>
+    <name>Scorment</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0219</num>
+    <name>Rubball</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0220</num>
+    <name>Phantonate</name>
+	<runs>
+		<run>Vega</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0221</num>
+    <name>Strawick</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0222</num>
+    <name>Strawicked</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0233</num>
+    <name>Puffume</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0234</num>
+    <name>Turblimp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0235</num>
+    <name>Yolkid</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0236</num>
+    <name>Corenom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0237</num>
+    <name>Coropper</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0238</num>
+    <name>Coruda</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0239</num>
+    <name>Coraga</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0240</num>
+    <name>Lizzle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0241</num>
+    <name>Drizzlob</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0242</num>
+    <name>Droudrop</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0243</num>
+    <name>Droudrum</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0244</num>
+    <name>Clouff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0245</num>
+    <name>Cloubus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0246</num>
+    <name>Dvaarak</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0251</num>
+    <name>Doodloo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0252</num>
+    <name>Billserk</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0254</num>
+    <name>Sableater</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0256</num>
+    <name>Jawile</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0260</num>
+    <name>Pinchor</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0263</num>
+    <name>Adnokana</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0266</num>
+    <name>Cheauking</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0276</num>
+    <name>Guppyre</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0277</num>
+    <name>Diaduna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0279</num>
+    <name>Relicore</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0280</num>
+    <name>Fujinel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0281</num>
+    <name>Sabrinel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0282</num>
+    <name>Smalmon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0283</num>
+    <name>Trojalmon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0284</num>
+    <name>Punchild</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0285</num>
+    <name>Combound</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0286</num>
+    <name>Wombaton</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0295</num>
+    <name>Sandrill</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0296</num>
+    <name>Yulfoe</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0299</num>
+    <name>Narwhail</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0305</num>
+    <name>Glamarde</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0306</num>
+    <name>Sealkie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0307</num>
+    <name>Selody</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0308</num>
+    <name>Rooten</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0309</num>
+    <name>Rudebarb</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0310</num>
+    <name>Dislichen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0311</num>
+    <name>Lumoss</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0313</num>
+    <name>Combant</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0314</num>
+    <name>Arincess</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0322</num>
+    <name>Ranconette</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0329</num>
+    <name>Carnivice</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0338</num>
+    <name>Valentide</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0341</num>
+    <name>Shretainer</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0342</num>
+    <name>Samushrai</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0348</num>
+    <name>Ambilade</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0349</num>
+    <name>Mandiblade</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0350</num>
+    <name>Mercenade</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0351</num>
+    <name>Terubim</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0360</num>
+    <name>Blizentork</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0362</num>
+    <name>Galavagos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0364</num>
+    <name>Auldsparce</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0366</num>
+    <name>R'duckulus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0376</num>
+    <name>Roytsar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0377</num>
+    <name>Gatanoia</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="false">
+	<num>VEG-0378</num>
+    <name>Lukewran</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="tohoak" final="true">
+	<num>VEG-0385</num>
+    <name>Almaria</name>
+	<runs>
+		<run>Vega</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
 </mons>

@@ -3662,6 +3662,7 @@
 		<run>Omega Ruby</run>
 		<run>Flora Sky</run>
 		<run>Dual Sanqui Blue</run>
+		<run>Star</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8226,5 +8227,854 @@
 		<emblem>main</emblem>
 	</status>
   </mon> 
+
+<!-- KALOS -->
+
+  <mon region="kalos" final="false">
+	<num>0650</num>
+    <name>Chespin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0651</num>
+    <name>Quilladin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0652</num>
+    <name>Chesnaught</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0653</num>
+    <name>Fennekin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0654</num>
+    <name>Braixen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0655</num>
+    <name>Delphox</name>
+	<runs>
+		<run>Star</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0656</num>
+    <name>Froakie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0657</num>
+    <name>Frogadier</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0658</num>
+    <name>Greninja</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0659</num>
+    <name>Bunnelby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0660</num>
+    <name>Diggersby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0661</num>
+    <name>Fletchling</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0662</num>
+    <name>Fletchinder</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0663</num>
+    <name>Talonflame</name>
+	<runs>
+		<run>Sword Revisit - Isle of Armor</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0664</num>
+    <name>Scatterbug</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0665</num>
+    <name>Spewpa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0666</num>
+    <name>Vivillon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0667</num>
+    <name>Litleo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0668</num>
+    <name>Pyroar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0669</num>
+    <name>Flabébé</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0670</num>
+    <name>Floette</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0671</num>
+    <name>Florges</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0672</num>
+    <name>Skiddo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0673</num>
+    <name>Gogoat</name>
+	<runs>
+		<run>Theta Emerald EX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0674</num>
+    <name>Pancham</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0675</num>
+    <name>Pangoro</name>
+	<runs>
+		<run>Theta Emerald EX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0676</num>
+    <name>Furfrou</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0677</num>
+    <name>Espurr</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0678</num>
+    <name>Meowstic</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0679</num>
+    <name>Honedge</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0680</num>
+    <name>Doublade</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0681</num>
+    <name>Aegislash</name>
+	<runs>
+		<run>X</run>
+		<run>Theta Emerald EX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0682</num>
+    <name>Spritzee</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0683</num>
+    <name>Aromatisse</name>
+	<runs>
+		<run>Randomized Ultra Moon</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0684</num>
+    <name>Swirlix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0685</num>
+    <name>Slurpuff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0686</num>
+    <name>Inkay</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0687</num>
+    <name>Malamar</name>
+	<runs>
+		<run>Theta Emerald EX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0688</num>
+    <name>Binacle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0689</num>
+    <name>Barbaracle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0690</num>
+    <name>Skrelp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0691</num>
+    <name>Dragalge</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0692</num>
+    <name>Clauncher</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0693</num>
+    <name>Clawitzer</name>
+	<runs>
+		<run>Gauntlet X</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0694</num>
+    <name>Helioptile</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0695</num>
+    <name>Heliolisk</name>
+	<runs>
+		<run>Gauntlet X</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0696</num>
+    <name>Tyrunt</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0697</num>
+    <name>Tyrantrum</name>
+	<runs>
+		<run>Sword Revisit - Crown Tundra</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0698</num>
+    <name>Amaura</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0699</num>
+    <name>Aurorus</name>
+	<runs>
+		<run>Gauntlet X</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0700</num>
+    <name>Sylveon</name>
+	<runs>
+		<run>Brown</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0701</num>
+    <name>Hawlucha</name>
+	<runs>
+		<run>X</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0702</num>
+    <name>Dedenne</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0703</num>
+    <name>Carbink</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0704</num>
+    <name>Goomy</name>
+	<runs>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0705</num>
+    <name>Sliggoo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0705-Hi</num>
+    <name>Sliggoo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0706</num>
+    <name>Goodra</name>
+	<runs>
+		<run>Gauntlet X</run>
+		<run>Chatty Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0706-Hi</num>
+    <name>Goodra</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0707</num>
+    <name>Klefki</name>
+	<runs>
+		<run>Sword Revisit - Isle of Armor</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0708</num>
+    <name>Phantump</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0709</num>
+    <name>Trevenant</name>
+	<runs>
+		<run>Ultra Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0710</num>
+    <name>Pumpkaboo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0711</num>
+    <name>Gourgeist</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0712</num>
+    <name>Bergmite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0713</num>
+    <name>Avalugg</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="false">
+	<num>0714</num>
+    <name>Noibat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0715</num>
+    <name>Noivern</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0716</num>
+    <name>Xerneas</name>
+	<runs>
+		<run>X</run>
+		<run>Dual Sanqui Blue</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0717</num>
+    <name>Yveltal</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0718</num>
+    <name>Zygarde</name>
+	<runs>
+		<run>Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0719</num>
+    <name>Diancie</name>
+	<runs>
+		<run>Rising Ruby</run>
+		<run>Sword Revisit - Crown Tundra</run>
+		<run>Dual Sanqui Red</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0720</num>
+    <name>Hoopa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kalos" final="true">
+	<num>0721</num>
+    <name>Volcanion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- ALOLA -->
+
+<!-- GALAR -->
+
+<!-- HISUI -->
+
+<!-- PALDEA -->
 
 </mons>
