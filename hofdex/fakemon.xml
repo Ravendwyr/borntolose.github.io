@@ -2577,4 +2577,173 @@
 	</status>
   </mon>
 
+<!-- BLAZING HOENN -->
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0010</num>
+    <name>Oreon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0082</num>
+    <name>Muramoth </name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0083</num>
+    <name>Lucemoth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0112</num>
+    <name>Drilladin</name>
+	<runs>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0137</num>
+    <name>Drasparath</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0146</num>
+    <name>Mallar'ki</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0204</num>
+    <name>Silviper</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0206</num>
+    <name>Zangaro</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0247</num>
+    <name>Goolossal</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0284</num>
+    <name>Chrysalix</name>
+	<runs>
+		<run>Blazing Emerald</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0332</num>
+    <name>Slingray</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0340</num>
+    <name>Bawlfrog</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0365</num>
+    <name>Crawb</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0387</num>
+    <name>Vitellion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="blz-hoenn" final="true">
+	<num>BLZ-0392</num>
+    <name>Metunn</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
 </mons>
