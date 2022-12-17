@@ -2746,4 +2746,772 @@
 	</status>
   </mon>
 
+<!-- NIHON -->
+
+  <mon region="nihon" final="false">
+	<num>SWG-0153</num>
+    <name>Petamole</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0155</num>
+    <name>Cubburn</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0156</num>
+    <name>Flambear</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0157</num>
+    <name>Bruinus</name>
+	<runs>
+		<run>SpaceWorld Gold Reforged</run>
+		<run>SpaceWorld Gold Reforged Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0158</num>
+    <name>Palssio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0159</num>
+    <name>Pressio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0160</num>
+    <name>Donmarin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0161</num>
+    <name>Burgela</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0162</num>
+    <name>Jungela</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0164</num>
+    <name>Bootboot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0166</num>
+    <name>Tripstar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0168</num>
+    <name>Tuhedd</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0170</num>
+    <name>Kotora</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0171</num>
+    <name>Raitora</name>
+	<runs>
+		<run>SpaceWorld Gold Reforged</run>
+		<run>SpaceWorld Gold Reforged Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0172</num>
+    <name>Pichunk</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0173</num>
+    <name>Cleffey</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0176</num>
+    <name>Kolta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0184</num>
+    <name>Grenmar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0185</num>
+    <name>Bellignan</name>
+	<runs>
+		<run>SpaceWorld Gold Reforged Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0186</num>
+    <name>Polirana</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0187</num>
+    <name>Haneko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0188</num>
+    <name>Poponeko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0189</num>
+    <name>Wataneko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0190</num>
+    <name>Primatail</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0191</num>
+    <name>Orfry</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0193</num>
+    <name>Molambino</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0194</num>
+    <name>Angore</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0195</num>
+    <name>Lurreel</name>
+	<runs>
+		<run>SpaceWorld Gold Reforged</run>
+		<run>SpaceWorld Gold Reforged Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0198</num>
+    <name>Magikrow</name>
+	<runs>
+		<run>SpaceWorld Gold Reforged</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0200</num>
+    <name>Vulpiii</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0202</num>
+    <name>Bipulla</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0203</num>
+    <name>Kirinirik</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0204</num>
+    <name>Disturban</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0205</num>
+    <name>Smujj</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0206</num>
+    <name>Paraspor</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0207</num>
+    <name>Mimmeo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0211</num>
+    <name>Plucks</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0212</num>
+    <name>Tearor</name>
+	<runs>
+		<run>SpaceWorld Gold Reforged Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0213</num>
+    <name>Moibelle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0214</num>
+    <name>Belledam</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0215</num>
+    <name>Bitachi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0217</num>
+    <name>Kazappelin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0218</num>
+    <name>Coinpur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0219</num>
+    <name>Madame</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0220</num>
+    <name>Stromen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0221</num>
+    <name>Phandarin</name>
+	<runs>
+		<run>SpaceWorld Gold Reforged</run>
+		<run>SpaceWorld Gold Reforged Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0222</num>
+    <name>Pupperon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0224</num>
+    <name>Octotank</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0225</num>
+    <name>Pengift</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0226</num>
+    <name>Rayleep</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0230</num>
+    <name>Higedora</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0233</num>
+    <name>Donpongon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0234</num>
+    <name>Baririna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0236</num>
+    <name>Begonger</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0237</num>
+    <name>Hitmonba</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0238</num>
+    <name>Besito</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0239</num>
+    <name>Elebabe</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0240</num>
+    <name>Magbrat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0241</num>
+    <name>Dodaerie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0243</num>
+    <name>Rai</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0244</num>
+    <name>En</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0245</num>
+    <name>Sui</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="false">
+	<num>SWG-0246</num>
+    <name>Warfurs</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0247</num>
+    <name>Wearlycan</name>
+	<runs>
+		<run>SpaceWorld Gold Reforged</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0248</num>
+    <name>Lickilord</name>
+	<runs>
+		<run></run>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0249</num>
+    <name>Jubiley</name>
+	<runs>
+		<run>SpaceWorld Gold Reforged Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="nihon" final="true">
+	<num>SWG-0253</num>
+    <name>Amarille</name>
+	<runs>
+		<run></run>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+<!-- ORRE REMIX -->
+
+<!-- ULTRA ALOLA -->
+
+<!-- FUSED JOHTO -->
+
+<!-- SWEET LAND -->
+
+<!-- SOLANA -->
+
+<!-- GENSOKYO -->
+
+<!-- DRAGON LAND -->
+
 </mons>
