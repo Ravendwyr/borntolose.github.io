@@ -9098,6 +9098,997 @@
 
 <!-- ALOLA -->
 
+  <mon region="alola" final="false">
+	<num>0722</num>
+    <name>Rowlet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0723</num>
+    <name>Dartrix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0724</num>
+    <name>Decidueye</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0724-Hi</num>
+    <name>Decidueye</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0725</num>
+    <name>Litten</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0726</num>
+    <name>Torracat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0727</num>
+    <name>Incineroar</name>
+	<runs>
+		<run>Waning Moon</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0728</num>
+    <name>Popplio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0729</num>
+    <name>Brionne</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0730</num>
+    <name>Primarina</name>
+	<runs>
+		<run>Ultra Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0731</num>
+    <name>Pikipek</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0732</num>
+    <name>Trumbeak</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0733</num>
+    <name>Toucannon</name>
+	<runs>
+		<run>Waning Moon</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0734</num>
+    <name>Yungoos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0735</num>
+    <name>Gumshoos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0736</num>
+    <name>Grubbin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0737</num>
+    <name>Charjabug</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0738</num>
+    <name>Vikavolt</name>
+	<runs>
+		<run>Ultra Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0739</num>
+    <name>Crabrawler</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0740</num>
+    <name>Crabominable</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0741</num>
+    <name>Oricorio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0742</num>
+    <name>Cutiefly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0743</num>
+    <name>Ribombee</name>
+	<runs>
+		<run>Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0744</num>
+    <name>Rockruff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0745</num>
+    <name>Lycanroc</name>
+	<runs>
+		<run>Ultra Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0746</num>
+    <name>Wishiwashi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0747</num>
+    <name>Mareanie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0748</num>
+    <name>Toxapex</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0749</num>
+    <name>Mudbray</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0750</num>
+    <name>Mudsdale</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0751</num>
+    <name>Dewpider</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0752</num>
+    <name>Araquanid</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0753</num>
+    <name>Fomantis</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0754</num>
+    <name>Lurantis</name>
+	<runs>
+		<run>Star</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0755</num>
+    <name>Morelull</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0756</num>
+    <name>Shiinotic</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0757</num>
+    <name>Salandit</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0758</num>
+    <name>Salazzle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0759</num>
+    <name>Stufful</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0760</num>
+    <name>Bewear</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0761</num>
+    <name>Bounsweet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0762</num>
+    <name>Steenee</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0763</num>
+    <name>Tsareena</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0764</num>
+    <name>Comfey</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0765</num>
+    <name>Oranguru</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0766</num>
+    <name>Passimian</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0767</num>
+    <name>Wimpod</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0768</num>
+    <name>Golisopod</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0769</num>
+    <name>Sandygast</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0770</num>
+    <name>Palossand</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0771</num>
+    <name>Pyukumuku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0772</num>
+    <name>Type: Null</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0773</num>
+    <name>Silvally</name>
+	<runs>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0774</num>
+    <name>Minior</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0775</num>
+    <name>Komala</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0776</num>
+    <name>Turtonator</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0777</num>
+    <name>Togedemaru</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0778</num>
+    <name>Mimikyu</name>
+	<runs>
+		<run>Star</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0779</num>
+    <name>Bruxish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0780</num>
+    <name>Drampa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0781</num>
+    <name>Dhelmise</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0782</num>
+    <name>Jangmo-o</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0783</num>
+    <name>Hakamo-o</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0784</num>
+    <name>Kommo-o</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0785</num>
+    <name>Tapu Koko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0786</num>
+    <name>Tapu Lele</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0787</num>
+    <name>Tapu Bulu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0788</num>
+    <name>Tapu Fini</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0789</num>
+    <name>Cosmog</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0790</num>
+    <name>Cosmoem</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0791</num>
+    <name>Solgaleo</name>
+	<runs>
+		<run>Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0792</num>
+    <name>Lunala</name>
+	<runs>
+		<run>Waning Moon</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0793</num>
+    <name>Nihilego</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0794</num>
+    <name>Buzzwole</name>
+	<runs>
+		<run>Sun</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0795</num>
+    <name>Pheromosa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0796</num>
+    <name>Xurkitree</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0797</num>
+    <name>Celesteela</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0798</num>
+    <name>Kartana</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0799</num>
+    <name>Guzzlord</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0800</num>
+    <name>Necrozma</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0801</num>
+    <name>Magearna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0802</num>
+    <name>Marshadow</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0803</num>
+    <name>Poipole</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0804</num>
+    <name>Naganadel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0805</num>
+    <name>Stakataka</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0806</num>
+    <name>Blacephalon</name>
+	<runs>
+		<run>Star</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0807</num>
+    <name>Zeraora</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="false">
+	<num>0808</num>
+    <name>Meltan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="alola" final="true">
+	<num>0809</num>
+    <name>Melmetal</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
 <!-- GALAR -->
 
 <!-- HISUI -->

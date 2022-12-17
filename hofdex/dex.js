@@ -65,7 +65,7 @@ function clearAll(dexType){
 	if (dexType == "fakemon") {
 		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto", "as-hoenn", "tohoak", "blz-hoenn"];
 	} else {
-		regions = ["kanto", "johto", "hoenn", "sinnoh", "unova", "kalos", /*"alola", "galar", "hisui", "paldea"*/ "other"];
+		regions = ["kanto", "johto", "hoenn", "sinnoh", "unova", "kalos", "alola", /*"galar", "hisui", "paldea"*/ "other"];
 	}
 	
 	console.log(regions);
