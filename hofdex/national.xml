@@ -10091,7 +10091,1077 @@
 
 <!-- GALAR -->
 
+  <mon region="galar" final="false">
+	<num>0810</num>
+    <name>Grookey</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0811</num>
+    <name>Thwackey</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0812</num>
+    <name>Rillaboom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0813</num>
+    <name>Scorbunny</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0814</num>
+    <name>Raboot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0815</num>
+    <name>Cinderace</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0816</num>
+    <name>Sobble</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0817</num>
+    <name>Drizzile</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0818</num>
+    <name>Inteleon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0819</num>
+    <name>Skwovet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0820</num>
+    <name>Greedent</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0821</num>
+    <name>Rookidee</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0822</num>
+    <name>Corvisquire</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0823</num>
+    <name>Corviknight</name>
+	<runs>
+		<run>Sword Revisit - Isle of Armor</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0824</num>
+    <name>Blipbug</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0825</num>
+    <name>Dottler</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0826</num>
+    <name>Orbeetle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0827</num>
+    <name>Nickit</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0828</num>
+    <name>Thievul</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0829</num>
+    <name>Gossifleur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0830</num>
+    <name>Eldegoss</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0831</num>
+    <name>Wooloo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0832</num>
+    <name>Dubwool</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0833</num>
+    <name>Chewtle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0834</num>
+    <name>Drednaw</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0835</num>
+    <name>Yamper</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0836</num>
+    <name>Boltund</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0837</num>
+    <name>Rolycoly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0838</num>
+    <name>Carkol</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0839</num>
+    <name>Coalossal</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0840</num>
+    <name>Applin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0841</num>
+    <name>Flapple</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0842</num>
+    <name>Appletun</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0843</num>
+    <name>Silicobra</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0844</num>
+    <name>Sandaconda</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0845</num>
+    <name>Cramorant</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0846</num>
+    <name>Arrokuda</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0847</num>
+    <name>Barraskewda</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0848</num>
+    <name>Toxel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0849</num>
+    <name>Toxtricity</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0850</num>
+    <name>Sizzlipede</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0851</num>
+    <name>Centiskorch</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0852</num>
+    <name>Clobbopus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0853</num>
+    <name>Grapploct</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0854</num>
+    <name>Sinistea</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0855</num>
+    <name>Polteageist</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0856</num>
+    <name>Hatenna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0857</num>
+    <name>Hattrem</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0858</num>
+    <name>Hatterene</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0859</num>
+    <name>Impidimp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0860</num>
+    <name>Morgrem</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0861</num>
+    <name>Grimmsnarl</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0862</num>
+    <name>Obstagoon</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0863</num>
+    <name>Perrserker</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0864</num>
+    <name>Cursola</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0865</num>
+    <name>Sirfetch'd</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0866</num>
+    <name>Mr. Rime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0867</num>
+    <name>Runerigus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0868</num>
+    <name>Milcery</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0869</num>
+    <name>Alcremie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0870</num>
+    <name>Falinks</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0871</num>
+    <name>Pincurchin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0872</num>
+    <name>Snom</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0873</num>
+    <name>Frosmoth</name>
+	<runs>
+		<run>Scarlet</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0874</num>
+    <name>Stonjourner</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0875</num>
+    <name>Eiscue</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0876</num>
+    <name>Indeedee</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0877</num>
+    <name>Morpeko</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0878</num>
+    <name>Cufant</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0879</num>
+    <name>Copperajah</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0880</num>
+    <name>Dracozolt</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0881</num>
+    <name>Arctozolt</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0882</num>
+    <name>Dracovish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0883</num>
+    <name>Arctovish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0884</num>
+    <name>Duraludon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0884</num>
+    <name>Dreepy</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0884</num>
+    <name>Drakloak</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0884</num>
+    <name>Dragapult</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0888</num>
+    <name>Zacian</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0889</num>
+    <name>Zamazenta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0890</num>
+    <name>Eternatus</name>
+	<runs>
+		<run>Sword</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="false">
+	<num>0891</num>
+    <name>Kubfu</name>
+	<runs>
+		<run>Sword Revisit - Isle of Armor</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0892</num>
+    <name>Urshifu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0893</num>
+    <name>Zarude</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0894</num>
+    <name>Regieleki</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0895</num>
+    <name>Regidrago</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0896</num>
+    <name>Glastrier</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0897</num>
+    <name>Spectrier</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="galar" final="true">
+	<num>0898</num>
+    <name>Calyrex</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
 <!-- HISUI -->
+
+  <mon region="hisui" final="true">
+	<num>0899</num>
+    <name>Wyrdeer</name>
+	<runs>
+		<run>Legends Arceus</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hisui" final="true">
+	<num>0900</num>
+    <name>Kleavor</name>
+	<runs>
+		<run>Legends Arceus</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="hisui" final="true">
+	<num>0901</num>
+    <name>Ursaluna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hisui" final="true">
+	<num>0902</num>
+    <name>Basculegion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hisui" final="true">
+	<num>0903</num>
+    <name>Sneasler</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hisui" final="true">
+	<num>0904</num>
+    <name>Overqwil</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hisui" final="true">
+	<num>0905</num>
+    <name>Enamorus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
 
 <!-- PALDEA -->
 
