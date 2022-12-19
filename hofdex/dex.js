@@ -21,7 +21,9 @@ function displayDex(dexType, nfe=true) {
 			
 			star = '<div style="text-align:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
 			
-			img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px">';
+			tooltip = buildRunList(currentMon);
+			
+			img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px" title="' + tooltip +'">';
 			
 			document.getElementById(currentMon.getAttribute("region")).innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + star + '</td>';
 			
@@ -34,7 +36,7 @@ function displayDex(dexType, nfe=true) {
 
 function firstToString(element, tag){
 	
-	return element.getElementsByTagName(tag)[0].textContent.toString()
+	return element.getElementsByTagName(tag)[0].textContent.toString();
 	
 }
 
@@ -58,6 +60,18 @@ function getEmblem(emblem){
 		default: return "";
 	}
 
+}
+
+function buildRunList(mon){
+	
+	tooltip = "";
+	
+	for (t = 0; t < mon.getElementsByTagName("run").length; t++) {
+				tooltip += mon.getElementsByTagName("run")[t].textContent.toString() + "\n";
+			}
+	
+	return tooltip;
+	
 }
 
 function clearAll(dexType){
