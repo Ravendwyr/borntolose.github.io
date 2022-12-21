@@ -3492,7 +3492,6 @@
 	<num>SWG-0253</num>
     <name>Amarille</name>
 	<runs>
-		<run></run>
 	</runs>
 	<status>
 		<rank></rank>
@@ -3500,15 +3499,957 @@
 	</status>
   </mon>
 
-<!-- ORRE REMIX -->
+<!-- REMIXED ORRE -->
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0013</num>
+    <name>Metarnace</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0014</num>
+    <name>Avermence</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0024</num>
+    <name>Eelbok</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0025</num>
+    <name>Hikarichu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0026</num>
+    <name>Raikarichu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0027</num>
+    <name>Nutskull</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0028</num>
+    <name>Pineskull</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0029</num>
+    <name>Winteroth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0062</num>
+    <name>Portawrath</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0066</num>
+    <name>Polychop</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0067</num>
+    <name>Waricotta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0068</num>
+    <name>Clayunculi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0072</num>
+    <name>Octosmic</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0073</num>
+    <name>Jethulu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0080</num>
+    <name>Opaspell</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0084</num>
+    <name>Experiduo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0085</num>
+    <name>Researtrio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0087</num>
+    <name>Rubbuoy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0098</num>
+    <name>Anchorab</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0099</num>
+    <name>Anchclaw</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0122</num>
+    <name>Rubberime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0130</num>
+    <name>Xinlong</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0131</num>
+    <name>Nesopeal</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0132</num>
+    <name>Eevee?</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0134</num>
+    <name>Chloreon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0135</num>
+    <name>Spikeon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0136</num>
+    <name>Shrubeon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0149</num>
+    <name>Dragomage</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0154</num>
+    <name>Galactunia</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0160</num>
+    <name>Goldile</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0169</num>
+    <name>Darkbat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0178</num>
+    <name>Totatatum</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0184</num>
+    <name>Jumpmarill</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0194</num>
+    <name>Bogxolotl</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0195</num>
+    <name>Nesswamp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0196</num>
+    <name>Frosteon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0197</num>
+    <name>Spectreon</name>
+	<runs>
+		<run>XG Remix</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0199</num>
+    <name>Opalhat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0208</num>
+    <name>Rhinesteel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0266</num>
+    <name>Volticepod</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0276</num>
+    <name>Tailglow</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0277</num>
+    <name>Photeagle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0278</num>
+    <name>Wingbuzz</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0279</num>
+    <name>Pelistorm</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0313</num>
+    <name>Voltbeat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0314</num>
+    <name>Illumice</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0317</num>
+    <name>Swalstar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0320</num>
+    <name>Hazumi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0321</num>
+    <name>Kairikami</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0322</num>
+    <name>Bathel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0323</num>
+    <name>Oncamesen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0330</num>
+    <name>Laborigon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0335</num>
+    <name>Zapgoose</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0337</num>
+    <name>Lunagate</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0338</num>
+    <name>Solagate</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0347</num>
+    <name>Amberith</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0348</num>
+    <name>Amberdillo</name>
+	<runs>
+		<run>XG Remix</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0356</num>
+    <name>Blaclops</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="false">
+	<num>XGR-0361</num>
+    <name>Shivertz</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0362</num>
+    <name>Quarcier</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0373</num>
+    <name>Olympace</name>
+	<runs>
+		<run>XG Remix</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0389</num>
+    <name>Fakeon X1</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0390</num>
+    <name>Fakeon X2</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0391</num>
+    <name>Fakeon X3</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0392</num>
+    <name>Fakeon X4</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0393</num>
+    <name>Fakeon X5</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0394</num>
+    <name>RoboKyogre</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="xgr-orre" final="true">
+	<num>XGR-0395</num>
+    <name>RoboGroudn</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
 
 <!-- ULTRA ALOLA -->
+
+  <mon region="u-alola" final="false">
+	<num>STA-0163</num>
+    <name>U-Rowlet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="false">
+	<num>STA-0164</num>
+    <name>U-Dartrix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="false">
+	<num>STA-0165</num>
+    <name>U-Litten</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="false">
+	<num>STA-0166</num>
+    <name>U-Torracat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="false">
+	<num>STA-0167</num>
+    <name>U-Popplio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="false">
+	<num>STA-0168</num>
+    <name>U-Brionne</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0170</num>
+    <name>U-Decidueye</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0190</num>
+    <name>U-Incineroar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0195</num>
+    <name>Tentaquil</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0198</num>
+    <name>UB-Solar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0206</num>
+    <name>Spookeon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0209</num>
+    <name>U-Primarina</name>
+	<runs>
+		<run>Star</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0225</num>
+    <name>Splatooneon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0341</num>
+    <name>Wariocorio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0342</num>
+    <name>Harambe</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0370</num>
+    <name>UB-Lunar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0800</num>
+    <name>UB-Queen</name>
+	<runs>
+		<run>Star</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
 
 <!-- FUSED JOHTO -->
 
 <!-- SWEET LAND -->
 
 <!-- SOLANA -->
+
+<!-- LARMOG -->
 
 <!-- GENSOKYO -->
 

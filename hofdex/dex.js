@@ -77,9 +77,9 @@ function buildRunList(mon){
 function clearAll(dexType){
 	
 	if (dexType == "fakemon") {
-		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto", "as-hoenn", "tohoak", "blz-hoenn", "nihon"];
+		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto", "as-hoenn", "tohoak", "blz-hoenn", "nihon", "xgr-orre", "u-alola", "fus-johto", "sweetland", "solana", "larmog", "gensokyo", "dragonland"];
 	} else {
-		regions = ["kanto", "johto", "hoenn", "sinnoh", "unova", "kalos", "alola", "galar", "hisui", /*"paldea"*/ "other"];
+		regions = ["kanto", "johto", "hoenn", "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea", "other"];
 	}
 	
 	console.log(regions);

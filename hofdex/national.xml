@@ -304,6 +304,7 @@
 	<runs>
 		<run>Sun</run>
 		<run>Charity Dual Blue - Testing</run>
+		<run>Yellow</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -339,6 +340,7 @@
     <name>Pikachu</name>
 	<runs>
 		<run>Brilliant Diamond</run>
+		<run>Yellow</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -842,10 +844,11 @@
 	<num>0057</num>
     <name>Primeape</name>
 	<runs>
+		<run>Yellow</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>side</rank>
+		<emblem>side</emblem>
 	</status>
   </mon> 
   
@@ -1055,6 +1058,7 @@
     <name>Tentacruel</name>
 	<runs>
 		<run>Emerald</run>
+		<run>Yellow</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1805,10 +1809,11 @@
 	<num>0122</num>
     <name>Mr. Mime</name>
 	<runs>
+		<run>Yellow</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>side</rank>
+		<emblem>side</emblem>
 	</status>
   </mon> 
 
@@ -2090,10 +2095,11 @@
     <name>Snorlax</name>
 	<runs>
 		<run>Brilliant Diamond</run>
+		<run>Yellow</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>side</emblem>
 	</status>
   </mon> 
 
@@ -2103,6 +2109,7 @@
 	<runs>
 		<run>Randomized White 2</run>
 		<run>Randomized Black</run>
+		<run>Yellow</run>
 	</runs>
 	<status>
 		<rank>main</rank>
