@@ -2592,7 +2592,7 @@
 
   <mon region="blz-hoenn" final="true">
 	<num>BLZ-0082</num>
-    <name>Muramoth </name>
+    <name>Muramoth</name>
 	<runs>
 	</runs>
 	<status>
@@ -2628,10 +2628,11 @@
 	<num>BLZ-0137</num>
     <name>Drasparath</name>
 	<runs>
+		<run>Blazing Emerald Runback</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>side</rank>
+		<emblem>side</emblem>
 	</status>
   </mon>
 
@@ -2639,10 +2640,11 @@
 	<num>BLZ-0146</num>
     <name>Mallar'ki</name>
 	<runs>
+		<run>Blazing Emerald Runback</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>side</rank>
+		<emblem>side</emblem>
 	</status>
   </mon>
 
@@ -2650,10 +2652,11 @@
 	<num>BLZ-0204</num>
     <name>Silviper</name>
 	<runs>
+		<run>Blazing Emerald Runback</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>side</rank>
+		<emblem>side</emblem>
 	</status>
   </mon>
 
@@ -2661,10 +2664,11 @@
 	<num>BLZ-0206</num>
     <name>Zangaro</name>
 	<runs>
+		<run>Blazing Emerald Runback</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>side</rank>
+		<emblem>side</emblem>
 	</status>
   </mon>
 
@@ -6107,6 +6111,592 @@
   </mon>
 
 <!-- SWEET LAND -->
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0001</num>
+    <name>Brownisaur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0002</num>
+    <name>Chocosaur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0003</num>
+    <name>Fudgasaur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0004</num>
+    <name>Strawander</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0005</num>
+    <name>Straweleon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0006</num>
+    <name>Strawizard</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0007</num>
+    <name>Squirpie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0008</num>
+    <name>Tartortle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0009</num>
+    <name>Piestoise</name>
+	<runs>
+		<run>Sweet</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0010</num>
+    <name>Cottonat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0011</num>
+    <name>Cottomoth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0012</num>
+    <name>Spinacake</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0013</num>
+    <name>Ariacake</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0014</num>
+    <name>Cookietot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0015</num>
+    <name>Cookietune</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0016</num>
+    <name>Chocowool</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0017</num>
+    <name>Chocofluff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0018</num>
+    <name>Candaros</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0019</num>
+    <name>Rattatart</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0020</num>
+    <name>Raticake</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0021</num>
+    <name>Mintret</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0022</num>
+    <name>Furmint</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0023</num>
+    <name>Sherzel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0024</num>
+    <name>Bertzel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0025</num>
+    <name>Popsichu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0026</num>
+    <name>Raicicle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0027</num>
+    <name>Migum</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0028</num>
+    <name>Goman</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0029</num>
+    <name>Tortewig</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0030</num>
+    <name>Meringle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0031</num>
+    <name>Torteringe</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0032</num>
+    <name>Banvy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0033</num>
+    <name>Banvine</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0034</num>
+    <name>Banperior</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0035</num>
+    <name>Teana</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0036</num>
+    <name>Teacakes</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0037</num>
+    <name>Grapom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0038</num>
+    <name>Grapipom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0039</num>
+    <name>Creampuff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0040</num>
+    <name>Creamtuff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0041</num>
+    <name>Doslug</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0042</num>
+    <name>Slugnut</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0043</num>
+    <name>Licorita</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0044</num>
+    <name>Leaforice</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0045</num>
+    <name>Liganium</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0046</num>
+    <name>Pawnsour</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0047</num>
+    <name>Bisour</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0048</num>
+    <name>Gummiursa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0049</num>
+    <name>Gummaring</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0050</num>
+    <name>Bananaby</name>
+	<runs>
+		<run>Sweet</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0051</num>
+    <name>Bananibuzz</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0052</num>
+    <name>Meowffin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0053</num>
+    <name>Cupcat</name>
+	<runs>
+		<run>Sweet</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon>
 
 <!-- SOLANA -->
 

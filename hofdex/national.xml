@@ -513,6 +513,7 @@
     <name>Clefable</name>
 	<runs>
 		<run>Dual Blue</run>
+		<run>Blazing Emerald Runback</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2792,6 +2793,7 @@
 	<runs>
 		<run>Colosseum</run>
 		<run>Randomized Platinum</run>
+		<run>Blazing Emerald Runback</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11184,6 +11186,360 @@
   </mon> 
 
 <!-- PALDEA -->
+
+  <mon region="paldea" final="false">
+	<num>0906</num>
+    <name>Sprigatito</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0907</num>
+    <name>Floragato</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0908</num>
+    <name>Meowscarada</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0907</num>
+    <name>Fuecoco</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0908</num>
+    <name>Crocalor</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0909</num>
+    <name>Skeledirge</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0912</num>
+    <name>Quaxly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0913</num>
+    <name>Quaxwell</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0914</num>
+    <name>Quaquaval</name>
+	<runs>
+		<run>Scarlet</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0915</num>
+    <name>Lechonk</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0916</num>
+    <name>Oinkologne</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0917</num>
+    <name>Tarountula</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0918</num>
+    <name>Spidops</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0919</num>
+    <name>Nymble</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0920</num>
+    <name>Lokix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0921</num>
+    <name>Pawmi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0922</num>
+    <name>Pawmo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0923</num>
+    <name>Pawmot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0924</num>
+    <name>Tandemaus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0925</num>
+    <name>Maushold</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0926</num>
+    <name>Fidough</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0927</num>
+    <name>Dachsbun</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0928</num>
+    <name>Smoliv</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0929</num>
+    <name>Dolliv</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0930</num>
+    <name>Arboliva</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0931</num>
+    <name>Squawkabilly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0932</num>
+    <name>Nacli</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0933</num>
+    <name>Naclstack</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0934</num>
+    <name>Garganacl</name>
+	<runs>
+		<run>Scarlet</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="false">
+	<num>0935</num>
+    <name>Charcadet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0936</num>
+    <name>Armarouge</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>0937</num>
+    <name>Ceruledge</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
 
 <!-- OTHER -->
 
