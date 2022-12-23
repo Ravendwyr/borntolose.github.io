@@ -1,5 +1,5 @@
 
-function displayDex(dexType, nfe=true) {  
+function displayDex(dexType) {  
   
 	var Connect = new XMLHttpRequest();
 	Connect.open("GET", dexType + ".xml", false);
@@ -14,8 +14,16 @@ function displayDex(dexType, nfe=true) {
 	for (i = 0; i < mons.children.length; i++) {
 		
 		var currentMon = mons.children[i];
-				
-		if (nfe || currentMon.getAttribute("final") == "true") {
+		
+		nfe = document.getElementById("showNFE").value;
+		
+		hofed = document.getElementById("showHoFed").value;
+		
+		nohofed = document.getElementById("showNoHoFed").value;
+		
+		if ((nfe == "show" || currentMon.getAttribute("final") == "true")
+			&& (hofed == "show" || firstToString(currentMon, "rank") == "")
+			&& (nohofed == "show" || firstToString(currentMon, "rank") != "")) {
 		
 			color = backgroundFromRank(firstToString(currentMon, "rank"));
 			
@@ -31,7 +39,25 @@ function displayDex(dexType, nfe=true) {
 			
 	}
 	
+	nothingToDisplay(dexType);
  
+}
+
+function clickButton(dexType, id, text){
+	
+	button = document.getElementById(id);
+	
+	if (button.value == "show"){
+		button.value = "hide";
+		button.textContent = "Show " + text;
+		
+	} else {
+		button.value = "show";	
+		button.textContent = "Hide " + text;
+	}
+	
+	displayDex(dexType);
+	
 }
 
 function firstToString(element, tag){
@@ -82,10 +108,24 @@ function clearAll(dexType){
 		regions = ["kanto", "johto", "hoenn", "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea", "other"];
 	}
 	
-	console.log(regions);
-	
 	for (i = 0; i < regions.length; i++) {
 		document.getElementById(regions[i]).innerHTML = "";
+	}
+	
+}
+
+function nothingToDisplay(dexType){
+	
+	if (dexType == "fakemon") {
+		regions = ["none", "kanto", "johto", "hoenn", "sinnoh", "sinnoh", "unova", "kalos", "alola", "galar", "naljo", "kohto", "as-hoenn", "tohoak", "blz-hoenn", "nihon", "xgr-orre", "u-alola", "fus-johto", "sweetland", "solana", "larmog", "gensokyo", "dragonland"];
+	} else {
+		regions = ["kanto", "johto", "hoenn", "sinnoh", "unova", "kalos", "alola", "galar", "hisui", "paldea", "other"];
+	}
+	
+	for (i = 0; i < regions.length; i++) {
+		if (document.getElementById(regions[i]).innerHTML == ""){
+			document.getElementById(regions[i]).innerHTML = "<i>Nothing to display.</i>";
+		}
 	}
 	
 }

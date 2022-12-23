@@ -11,8 +11,9 @@
   
 	<a href="fakemon.html" style="font-size:small; float:right">[Fakemon Dex]</a>
   
-	<button onclick="displayDex('national', true)" style="font-size:large">Show All</button> 
-	<button onclick="displayDex('national', false)" style="font-size:large">Exclude NFE</button> 
+	<button id="showNFE" value="show" onclick="clickButton('national', 'showNFE', 'NFE')" style="font-size:large">Hide NFE</button> 
+	<button id="showHoFed" value="show" onclick="clickButton('national', 'showHoFed', 'HoF\'d')" style="font-size:large">Hide HoF'd</button> 
+	<button id="showNoHoFed" value="show" onclick="clickButton('national', 'showNoHoFed', 'Non-HoF\'d')" style="font-size:large">Hide Non-HoF'd</button> 
 	
 	<br><br>
 	
