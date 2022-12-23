@@ -349,7 +349,7 @@
   </mon> 
     
   <mon region="kanto" final="true">
-	<num>0025</num>
+	<num>0026</num>
     <name>Raichu</name>
 	<runs>
 		<run>Chatty Yellow</run>
@@ -364,7 +364,7 @@
   </mon> 
       
   <mon region="kanto" final="true">
-	<num>0025-A</num>
+	<num>0026-A</num>
     <name>Raichu</name>
 	<runs>
 	</runs>
@@ -6159,6 +6159,19 @@
 	<runs>
 		<run>Gauntlet Black 2</run>
 		<run>Sword Revisit - Isle of Armor</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon> 
+
+  <mon region="sinnoh" final="true">
+	<num>0475</num>
+    <name>Gallade</name>
+	<runs>
+		<run>Randomized Y</run>
+		<run>Flora Sky</run>
 	</runs>
 	<status>
 		<rank>main</rank>

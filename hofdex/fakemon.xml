@@ -4445,9 +4445,1706 @@
 
 <!-- FUSED JOHTO -->
 
+  <mon region="fus-johto" final="false">
+	<num>FUS-0001</num>
+    <name>Bulboran</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0002</num>
+    <name>Ivysorino</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0003</num>
+    <name>Venusoking</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0004</num>
+    <name>Charabra</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0005</num>
+    <name>Chardabra</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0006</num>
+    <name>Charazam</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0007</num>
+    <name>Squiroppip</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0008</num>
+    <name>Wartploom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0009</num>
+    <name>Blastluff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0010</num>
+    <name>Catereffa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0011</num>
+    <name>Metafairy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0012</num>
+    <name>Butterable</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0013</num>
+    <name>Weedybuff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0014</num>
+    <name>Kakunypuff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0015</num>
+    <name>Beedytuff</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0016</num>
+    <name>Pidgodile</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0017</num>
+    <name>Pidgeonaw</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0018</num>
+    <name>Pidgegatr</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0019</num>
+    <name>Ratlett</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0020</num>
+    <name>Ratitrio</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0021</num>
+    <name>Spearimer</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0022</num>
+    <name>Fearmuk</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0023</num>
+    <name>Ekancute</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0024</num>
+    <name>Arbutor</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0025</num>
+    <name>Pikakuna</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0026</num>
+    <name>Raidrill</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0027</num>
+    <name>Sandaras</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0028</num>
+    <name>Sandasect</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0029</num>
+    <name>Nidoraquil</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0030</num>
+    <name>Nidorilava</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0031</num>
+    <name>Nidquosion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0032</num>
+    <name>Nidorasaur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0033</num>
+    <name>Nidorysaur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0034</num>
+    <name>Nidusaur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0035</num>
+    <name>Cleffapod</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0036</num>
+    <name>Cleffree</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0037</num>
+    <name>Vulpub</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0038</num>
+    <name>Nineswine</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0039</num>
+    <name>Jiggachu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0040</num>
+    <name>Wiggaichu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0041</num>
+    <name>Zubawag</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0042</num>
+    <name>Golwhirl</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0043</num>
+    <name>Oddbat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0044</num>
+    <name>Gloombat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0045</num>
+    <name>Vilebat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0046</num>
+    <name>Paransey</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0047</num>
+    <name>Parissey</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0048</num>
+    <name>Venonelder</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0049</num>
+    <name>Venoyster</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0050</num>
+    <name>Digvee</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0051</num>
+    <name>Dugoreon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0052</num>
+    <name>Meowabby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0053</num>
+    <name>Peringler</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0054</num>
+    <name>Psydooper</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0055</num>
+    <name>Goldsire</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0056</num>
+    <name>Mankowzee</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0057</num>
+    <name>Primypno</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0058</num>
+    <name>Growlulpix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0059</num>
+    <name>Arcatales</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0060</num>
+    <name>Poliwastly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0061</num>
+    <name>Poliwunter</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0062</num>
+    <name>Poliwengar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0063</num>
+    <name>Abratini</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0064</num>
+    <name>Kadabonair</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0065</num>
+    <name>Alakonite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0066</num>
+    <name>Machareep</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0067</num>
+    <name>Machaaffy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0068</num>
+    <name>Macharos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0069</num>
+    <name>Bellsander</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0070</num>
+    <name>Weepeleon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0071</num>
+    <name>Victizard</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0072</num>
+    <name>Tentekans</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0073</num>
+    <name>Tentarbok</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0074</num>
+    <name>Geoditar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0075</num>
+    <name>Gravitar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0076</num>
+    <name>Golemnitar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0077</num>
+    <name>Ponygon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0078</num>
+    <name>Rapidgon2</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0079</num>
+    <name>Slowbuto</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0080</num>
+    <name>Slowbutops</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0081</num>
+    <name>Magnearow</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0082</num>
+    <name>Magnarow</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0083</num>
+    <name>Farfeparce</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0084</num>
+    <name>Dodagby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0085</num>
+    <name>Dodragmar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0086</num>
+    <name>Seelther</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0087</num>
+    <name>Dewgizor</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0088</num>
+    <name>Grimyduck</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0089</num>
+    <name>Mukduck</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0090</num>
+    <name>Shelyhorn</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0091</num>
+    <name>Cloydon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0092</num>
+    <name>Gastachop</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0093</num>
+    <name>Hauntchoke</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0094</num>
+    <name>Gengchamp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0095</num>
+    <name>Onixtret</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0096</num>
+    <name>Drowzacool</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0097</num>
+    <name>Hypnocruel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0098</num>
+    <name>Krabogue</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0099</num>
+    <name>Kingtop</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0100</num>
+    <name>Voltogepi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0101</num>
+    <name>Electetic</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0102</num>
+    <name>Exeggyta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0103</num>
+    <name>Exeggidash</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0104</num>
+    <name>Cubonkern</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0105</num>
+    <name>Maroflora</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0106</num>
+    <name>Hitlossom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0107</num>
+    <name>Hitmeon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0108</num>
+    <name>Lickiwoodo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0109</num>
+    <name>Koffonat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0110</num>
+    <name>Weezomoth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0111</num>
+    <name>Rhyhonix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0112</num>
+    <name>Rhydeelix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0113</num>
+    <name>Chanbull</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0114</num>
+    <name>Tangekrow</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0115</num>
+    <name>Kangatine</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0116</num>
+    <name>Horsodude</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0117</num>
+    <name>Seadravelr</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0118</num>
+    <name>Goldatu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0119</num>
+    <name>Seakatu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0120</num>
+    <name>Starikarp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0121</num>
+    <name>Starmados</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0122</num>
+    <name>Mr.Tank</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0123</num>
+    <name>Scythemite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0124</num>
+    <name>Jyiados</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0125</num>
+    <name>Eledian</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0126</num>
+    <name>Magmastar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0127</num>
+    <name>Pinsicross</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0128</num>
+    <name>Taurantler</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0129</num>
+    <name>Magikursa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0130</num>
+    <name>Gyararing</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0131</num>
+    <name>Lapralee</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0132</num>
+    <name>Dittopom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0133</num>
+    <name>Eevdour</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0134</num>
+    <name>Vapordoom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0135</num>
+    <name>Jolteckle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0136</num>
+    <name>Flarelax</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0137</num>
+    <name>Porydeen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0138</num>
+    <name>Omapoke</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0139</num>
+    <name>Omabro</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0140</num>
+    <name>Kabutoraid</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0141</num>
+    <name>Kabutilery</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0142</num>
+    <name>Aeroskhan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0143</num>
+    <name>Snoractyl</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0144</num>
+    <name>Artikou</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0145</num>
+    <name>Zapdugia</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0146</num>
+    <name>Molebi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0147</num>
+    <name>Dratsprout</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0148</num>
+    <name>Draginbell</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0149</num>
+    <name>Drageebel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0150</num>
+    <name>Mewmew</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0151</num>
+    <name>Mewicuno</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
 <!-- SWEET LAND -->
 
 <!-- SOLANA -->
+
+  <mon region="solana" final="true">
+	<num>STS-0003</num>
+    <name>WentSpheal</name>
+	<runs>
+		<run>Spheal Team Six</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="solana" final="true">
+	<num>STS-0310</num>
+    <name>DumbSpheal</name>
+	<runs>
+		<run>Spheal Team Six</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="solana" final="true">
+	<num>STS-0363</num>
+    <name>CoolSpheal</name>
+	<runs>
+		<run>Spheal Team Six</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
 
 <!-- LARMOG -->
 
