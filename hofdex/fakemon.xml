@@ -6110,6 +6110,1101 @@
 	</status>
   </mon>
 
+  <mon region="fus-johto" final="false">
+	<num>FUS-0152</num>
+    <name>Chiquirtle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0153</num>
+    <name>Baytortle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0154</num>
+    <name>Megastoise</name>
+	<runs>
+		<run>Fused Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0155</num>
+    <name>Cyndorsea</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0156</num>
+    <name>Quileadra</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0157</num>
+    <name>Typhingdra</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0158</num>
+    <name>Totodidgey</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0159</num>
+    <name>Crocotto</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0160</num>
+    <name>Feralgeot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0161</num>
+    <name>Sentubone</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0162</num>
+    <name>Furowak</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0163</num>
+    <name>Hootduo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0164</num>
+    <name>Noctdrio</name>
+	<runs>
+		<run>Fused Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0165</num>
+    <name>Ledylithe</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0166</num>
+    <name>Ledianine</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0167</num>
+    <name>Spinshrew</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0168</num>
+    <name>Ariaslash</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0169</num>
+    <name>Crowrath</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0170</num>
+    <name>Chintata</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0171</num>
+    <name>Lanticate</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0172</num>
+    <name>Picheedle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0173</num>
+    <name>Clefferpie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0174</num>
+    <name>Igglichu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0175</num>
+    <name>Togekey</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0176</num>
+    <name>Togetape</name>
+	<runs>
+		<run>Fused Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0177</num>
+    <name>Natarill</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0178</num>
+    <name>Xatumarill</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0179</num>
+    <name>Maroran</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0180</num>
+    <name>Flaaforina</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0181</num>
+    <name>Amphaqueen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0182</num>
+    <name>Bellochan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0183</num>
+    <name>Marillugma</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0184</num>
+    <name>Azumargo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0185</num>
+    <name>Sudoditto</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0186</num>
+    <name>Polifarig</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0187</num>
+    <name>Hopporita</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0188</num>
+    <name>Skipleef</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0189</num>
+    <name>Jumpanium</name>
+	<runs>
+		<run>Fused Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0190</num>
+    <name>Aipotch'd</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0191</num>
+    <name>Sunkeowth</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0192</num>
+    <name>Sunfersian</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0193</num>
+    <name>Yanmasola</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0194</num>
+    <name>Woochum</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0195</num>
+    <name>Quagynx</name>
+	<runs>
+		<run>Fused Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0196</num>
+    <name>Espbreon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0197</num>
+    <name>Umbros</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0198</num>
+    <name>Murfish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0199</num>
+    <name>Slowmory</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0200</num>
+    <name>Mismime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0202</num>
+    <name>Wobburgle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0203</num>
+    <name>Slowols</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0204</num>
+    <name>Pinehoot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0205</num>
+    <name>Forretowl</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0206</num>
+    <name>Dunligar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0207</num>
+    <name>Gligela</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0208</num>
+    <name>Steelurret</name>
+	<runs>
+		<run>Fused Crystal</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0209</num>
+    <name>Snuborb</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0210</num>
+    <name>Grantrode</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0211</num>
+    <name>Qweasel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0212</num>
+    <name>Scizeton</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0213</num>
+    <name>Shunsir</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0214</num>
+    <name>Herapras</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0215</num>
+    <name>Snobbuffet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0216</num>
+    <name>Teddikid</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0217</num>
+    <name>Ursabuzz</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0218</num>
+    <name>Slugeco</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0219</num>
+    <name>Magtress</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0220</num>
+    <name>Swinpy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0221</num>
+    <name>Pilosphan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0222</num>
+    <name>Corsibird</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0223</num>
+    <name>Remorchou</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0224</num>
+    <name>Octurn</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0225</num>
+    <name>Delitung</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0226</num>
+    <name>Mantoed</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0227</num>
+    <name>Skareavus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0228</num>
+    <name>Houndyu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0229</num>
+    <name>Houndmie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0230</num>
+    <name>Kingolem</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0231</num>
+    <name>Pheel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0232</num>
+    <name>Dongong</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0233</num>
+    <name>Poryking</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0234</num>
+    <name>Stanteon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0235</num>
+    <name>Smearma</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0236</num>
+    <name>Tyroffing</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0237</num>
+    <name>Hitmeezing</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0238</num>
+    <name>Smoocharak</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0239</num>
+    <name>Elekidyba</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0240</num>
+    <name>Magbyte</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0241</num>
+    <name>Milareon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0242</num>
+    <name>Blissbull</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0243</num>
+    <name>Rai-Oh</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0244</num>
+    <name>Entres</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0245</num>
+    <name>Suitwo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0246</num>
+    <name>Larvish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="false">
+	<num>FUS-0247</num>
+    <name>Pupitoom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0248</num>
+    <name>Tyraplume</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0249</num>
+    <name>Lugitei</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0250</num>
+    <name>Ho-cune</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="fus-johto" final="true">
+	<num>FUS-0251</num>
+    <name>Celedos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
 <!-- SWEET LAND -->
 
   <mon region="sweetland" final="false">
@@ -6695,6 +7790,1087 @@
 	<status>
 		<rank>side</rank>
 		<emblem>side</emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0054</num>
+    <name>Pieduck</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0055</num>
+    <name>Golpie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0056</num>
+    <name>Applin</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0057</num>
+    <name>Swalapple</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0058</num>
+    <name>Peepow</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0059</num>
+    <name>Swellpeep</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0060</num>
+    <name>Cinnawag</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0061</num>
+    <name>Cinnawhirl</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0062</num>
+    <name>Cinnawrath</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0063</num>
+    <name>Chocolite</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0064</num>
+    <name>Chocolish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0065</num>
+    <name>Icesundae</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0066</num>
+    <name>Frubat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0067</num>
+    <name>Golberry</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0068</num>
+    <name>Croberry</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0069</num>
+    <name>Oshacone</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0070</num>
+    <name>Dewice</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0071</num>
+    <name>Samurcone</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0072</num>
+    <name>Icefish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0073</num>
+    <name>Cweamicent</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0074</num>
+    <name>Parfwit</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0075</num>
+    <name>Parfure</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0076</num>
+    <name>Parfelure</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0077</num>
+    <name>Cornet</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0078</num>
+    <name>Pumpkinete</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0079</num>
+    <name>Snotree</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0080</num>
+    <name>Cantree</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0081</num>
+    <name>Slugnana</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0082</num>
+    <name>Bananos</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0083</num>
+    <name>Mawnana</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0084</num>
+    <name>Buttercup</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0085</num>
+    <name>Lillicake</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0086</num>
+    <name>Airloon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0087</num>
+    <name>Airblim</name>
+	<runs>
+		<run>Sweet</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0088</num>
+    <name>Gumble</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0089</num>
+    <name>Gumballer</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0090</num>
+    <name>Gumchoo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0091</num>
+    <name>Gumtic</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0092</num>
+    <name>Malts</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0093</num>
+    <name>Kirlicake</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0094</num>
+    <name>Velvevoir</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0095</num>
+    <name>Candix</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0096</num>
+    <name>Cottgrape</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0097</num>
+    <name>Whimsiwine</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0098</num>
+    <name>Macaloon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0099</num>
+    <name>Monsieur</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0100</num>
+    <name>Caratorb</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0101</num>
+    <name>Caratrode</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0102</num>
+    <name>Limeshroom</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0103</num>
+    <name>Shroompie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0104</num>
+    <name>Cupop</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0105</num>
+    <name>Lolliwak</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0106</num>
+    <name>Lipsynx</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0107</num>
+    <name>Heartgrape</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0108</num>
+    <name>Tortoal</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0109</num>
+    <name>Eggby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0110</num>
+    <name>Egglove</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0111</num>
+    <name>Lolliplup</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0112</num>
+    <name>Prinprince</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0113</num>
+    <name>Emposh</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0114</num>
+    <name>Flangoose</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0115</num>
+    <name>Kangascake</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0116</num>
+    <name>Lickichef</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0117</num>
+    <name>Berochef</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0118</num>
+    <name>Chocorose</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0119</num>
+    <name>Lempras</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0120</num>
+    <name>Mediblue</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0121</num>
+    <name>Mediberry</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0122</num>
+    <name>Lemdrop</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0123</num>
+    <name>Panfisk</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0124</num>
+    <name>Emolpie</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0125</num>
+    <name>Chocotank</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0126</num>
+    <name>Polyorange</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0127</num>
+    <name>Pinekle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0128</num>
+    <name>Tropanana</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0129</num>
+    <name>Berrierd</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0130</num>
+    <name>Qwilapple</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0131</num>
+    <name>Vinegla</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0132</num>
+    <name>Pudding</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0133</num>
+    <name>Cupvee</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0134</num>
+    <name>Vapeareon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0135</num>
+    <name>Plumbreon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0136</num>
+    <name>Beigeon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0137</num>
+    <name>Candino</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0138</num>
+    <name>Mintanyte</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0139</num>
+    <name>Mintastar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0140</num>
+    <name>Lemeod</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0141</num>
+    <name>Odmelon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0142</num>
+    <name>Mousse</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0143</num>
+    <name>Smorelax</name>
+	<runs>
+		<run>Sweet</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0144</num>
+    <name>Icebox</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0145</num>
+    <name>Manalime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0146</num>
+    <name>Cryorange</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0147</num>
+    <name>Reginger</name>
+	<runs>
+		<run>Sweet</run>
+	</runs>
+	<status>
+		<rank>side</rank>
+		<emblem>side</emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="false">
+	<num>SWT-0148</num>
+    <name>Cottonbun</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0149</num>
+    <name>Chocobun</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0150</num>
+    <name>Twoberry</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sweetland" final="true">
+	<num>SWT-0151</num>
+    <name>Mewberry</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
 	</status>
   </mon>
 
