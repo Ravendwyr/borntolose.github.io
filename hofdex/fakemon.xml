@@ -15,28 +15,6 @@
   </mon> 
 
   <mon region="kanto" final="false">
-	<num>0067-STA</num>
-    <name>Machoke</name>
-	<runs>
-	</runs>
-	<status>
-		<rank></rank>
-		<emblem></emblem>
-	</status>
-  </mon> 
-
-  <mon region="kanto" final="true">
-	<num>0068-STA</num>
-    <name>Machamp</name>
-	<runs>
-	</runs>
-	<status>
-		<rank></rank>
-		<emblem></emblem>
-	</status>
-  </mon> 
-
-  <mon region="kanto" final="false">
 	<num>0072-BLZ</num>
     <name>Tentacool</name>
 	<runs>
@@ -171,6 +149,17 @@
   </mon> 
 
   <mon region="johto" final="false">
+	<num>0200-STA</num>
+    <name>Misdreavus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
 	<num>0206-BLZ</num>
     <name>Dunsparce</name>
 	<runs>
@@ -274,6 +263,17 @@
   </mon> 
   
 <!-- SINNOH -->
+
+  <mon region="sinnoh" final="true">
+	<num>0429-STA</num>
+    <name>Mismagius</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
 
   <mon region="sinnoh" final="true">
 	<num>0465-BLZ</num>
@@ -4427,6 +4427,50 @@
   <mon region="u-alola" final="true">
 	<num>STA-0370</num>
     <name>UB-Lunar</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="false">
+	<num>STA-0568</num>
+    <name>U-Machoke</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0569</num>
+    <name>U-Machamp</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0791</num>
+    <name>U-Solgaleo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="u-alola" final="true">
+	<num>STA-0792</num>
+    <name>U-Lunala</name>
 	<runs>
 	</runs>
 	<status>
