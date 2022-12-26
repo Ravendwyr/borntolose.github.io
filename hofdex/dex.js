@@ -69,10 +69,10 @@ function firstToString(element, tag){
 function backgroundFromRank(rank){
 	
 	switch (rank) {
-		case "main" : return "#7FFCBD"; break;
-		case "side" : return "#B1F4FB"; break;
-		case "inter" : return "#FEF9B2"; break;
-		default: return "#FFFFFF";
+		case "main" : return "#058E49"; break;
+		case "side" : return "#0BACBD"; break;
+		case "inter" : return "#908603"; break;
+		default: return "";
 	}
 
 }
