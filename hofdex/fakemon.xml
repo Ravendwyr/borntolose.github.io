@@ -13490,10 +13490,11 @@
 	<num>DBZ-0058</num>
     <name>C-13</name>
 	<runs>
+		<run>DBZ Team Training Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon>
 
