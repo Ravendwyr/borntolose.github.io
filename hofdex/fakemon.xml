@@ -9827,9 +9827,273 @@
 	</status>
   </mon>
 
+  <mon region="larmog" final="false">
+	<num>NVB-0110</num>
+    <name>Comel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0111</num>
+    <name>Doble</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
   <mon region="larmog" final="true">
-	<num></num>
-    <name>(...)</name>
+	<num>NVB-0112</num>
+    <name>Quadel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0113</num>
+    <name>Frosbug</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0114</num>
+    <name>Frezpider</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0115</num>
+    <name>Swoodle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0116</num>
+    <name>Sweeish</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0117</num>
+    <name>Mubrik</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0118</num>
+    <name>Dubrik</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0119</num>
+    <name>Quadbrik</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0129</num>
+    <name>Sapling</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0130</num>
+    <name>Budling</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0131</num>
+    <name>Vinling</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0134</num>
+    <name>Seescot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0135</num>
+    <name>Thorniul</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0136</num>
+    <name>Rosul</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0138</num>
+    <name>Yodelle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0139</num>
+    <name>Yurnelle</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0140</num>
+    <name>Dactillo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0141</num>
+    <name>Dinopolis</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0152</num>
+    <name>Rohfists</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0153</num>
+    <name>Azufoot</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0169</num>
+    <name>Scarscrat</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0382</num>
+    <name>Darkolys</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0383</num>
+    <name>Brighteus</name>
 	<runs>
 	</runs>
 	<status>
@@ -11500,8 +11764,1089 @@
   </mon>
 
   <mon region="gensokyo" final="true">
-	<num></num>
-    <name>(...)</name>
+	<num>THM-0152</num>
+    <name>Akyuu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0153</num>
+    <name>Genji</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0154</num>
+    <name>Tori</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0155</num>
+    <name>CElly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0156</num>
+    <name>CElly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0157</num>
+    <name>Elly</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0158</num>
+    <name>COrange</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0159</num>
+    <name>Orange</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0160</num>
+    <name>Youki</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0161</num>
+    <name>CChiyuri</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0162</num>
+    <name>Chiyuri</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0163</num>
+    <name>CYumemi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0164</num>
+    <name>Yumemi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0165</num>
+    <name>CEllen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0166</num>
+    <name>Ellen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0167</num>
+    <name>CKazami</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0168</num>
+    <name>Kazami</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0169</num>
+    <name>CMeira</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0170</num>
+    <name>Meira</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0171</num>
+    <name>CSara</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0172</num>
+    <name>Sara</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0173</num>
+    <name>CLouise</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0174</num>
+    <name>Louise</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0175</num>
+    <name>CAlice-K</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0176</num>
+    <name>Alice-K</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0177</num>
+    <name>CKana</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0178</num>
+    <name>Kana</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0179</num>
+    <name>CHakurei</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0180</num>
+    <name>Hakurei</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0181</num>
+    <name>CKirisame</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0182</num>
+    <name>Kirisame</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0183</num>
+    <name>CKotohime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0184</num>
+    <name>Kotohime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0185</num>
+    <name>CYumeko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0186</num>
+    <name>Yumeko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0187</num>
+    <name>CShinki</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0188</num>
+    <name>Shinki</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0189</num>
+    <name>Mimi-chan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0190</num>
+    <name>Ruukoto</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0191</num>
+    <name>CRika</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0192</num>
+    <name>Rika</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0193</num>
+    <name>CMugetsu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0194</num>
+    <name>Mugetsu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0195</num>
+    <name>CGengetsu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0196</num>
+    <name>Gengetsu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0197</num>
+    <name>CKurumi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0198</num>
+    <name>Kurumi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0199</num>
+    <name>CRikako</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0200</num>
+    <name>Rikako</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0201</num>
+    <name>Rinnosuke</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0202</num>
+    <name>CYuki</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0203</num>
+    <name>Yuki</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0204</num>
+    <name>CMai</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0205</num>
+    <name>Mai</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0243</num>
+    <name>Shingyoku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0249</num>
+    <name>Elis</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0250</num>
+    <name>Mima</name>
+	<runs>
+		<run>Touhoumon</run>
+		<run>Touhoumon Revisit</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0251</num>
+    <name>Isami</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0292</num>
+    <name>Zombie-F</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0334</num>
+    <name>CShingyoku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0335</num>
+    <name>CKikuri</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0336</num>
+    <name>CMima</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0337</num>
+    <name>CKongala</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0338</num>
+    <name>CYuugen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0339</num>
+    <name>CElis</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0340</num>
+    <name>CSariel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0349</num>
+    <name>AkiSisters</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0351</num>
+    <name>Fairy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0352</num>
+    <name>Tensoku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0353</num>
+    <name>SSariel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0356</num>
+    <name>CKasen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0357</num>
+    <name>Kasen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0358</num>
+    <name>CVIVIT</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0359</num>
+    <name>VIVIT</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0360</num>
+    <name>A-VIVIT</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0361</num>
+    <name>CKyouko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0362</num>
+    <name>CMiyako</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0363</num>
+    <name>CSeiga</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0364</num>
+    <name>CTojiko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0365</num>
+    <name>CFuto</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0366</num>
+    <name>CMiko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0367</num>
+    <name>CMamizou</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0380</num>
+    <name>Marisa-Ex</name>
+	<runs>
+		<run>Touhoumon Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0381</num>
+    <name>Alice-B</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0382</num>
+    <name>CTenma</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0383</num>
+    <name>Tenma</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0384</num>
+    <name>CSendai</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0385</num>
+    <name>Sendai</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0386</num>
+    <name>Ayakashi</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0387</num>
+    <name>Kyouko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0388</num>
+    <name>Miyako</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0389</num>
+    <name>Seiga</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0390</num>
+    <name>Tojiko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0391</num>
+    <name>Futo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0392</num>
+    <name>Miko</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0393</num>
+    <name>Mamizou</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0394</num>
+    <name>Prismriver</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0395</num>
+    <name>MP-Suika</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0397</num>
+    <name>Tensoku-G</name>
 	<runs>
 	</runs>
 	<status>
@@ -12837,9 +14182,884 @@
 	</status>
   </mon>
 
+  <mon region="dragonland" final="false">
+	<num>DBZ-0121</num>
+    <name>Gt Goku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0122</num>
+    <name>SSJGT Goku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0123</num>
+    <name>SSJ3GTGoku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0124</num>
+    <name>Uub</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
   <mon region="dragonland" final="true">
-	<num></num>
-    <name>(...)</name>
+	<num>DBZ-0125</num>
+    <name>Super Uub</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0126</num>
+    <name>Ledgic</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0127</num>
+    <name>Luud</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0128</num>
+    <name>Sigma</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0129</num>
+    <name>Rild</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0130</num>
+    <name>Mega Rild</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0131</num>
+    <name>Metal Rild</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0132</num>
+    <name>Baby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0133</num>
+    <name>BabyVegeta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0134</num>
+    <name>G-Ape Baby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0135</num>
+    <name>Super C-17</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0136</num>
+    <name>SSJ4 Goku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0137</num>
+    <name>SS4 Vegeta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0138</num>
+    <name>SS4 Gogeta</name>
+	<runs>
+		<run>DBZ Team Training Revisit Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0139</num>
+    <name>Su Shenron</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0140</num>
+    <name>Sanshenron</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0141</num>
+    <name>Li Shenron</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0142</num>
+    <name>SSG Goku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0143</num>
+    <name>SSB Goku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0144</num>
+    <name>Ultra Goku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0145</num>
+    <name>Mui Goku</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0146</num>
+    <name>SSG Gohan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0147</num>
+    <name>SSB Gohan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0148</num>
+    <name>SSG Vegeta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0149</num>
+    <name>SSB Vegeta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0150</num>
+    <name>SSBEVegeta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0151</num>
+    <name>SSB Vegeto</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0152</num>
+    <name>SSB Gogeta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0153</num>
+    <name>G-Frieza</name>
+	<runs>
+		<run>DBZ Team Training Revisit</run>
+		<run>DBZ Team Training Revisit Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0154</num>
+    <name>G-Cooler</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0155</num>
+    <name>Commeson</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0156</num>
+    <name>SSR Trunks</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0157</num>
+    <name>Black</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0158</num>
+    <name>SSR Black</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0159</num>
+    <name>Zamasu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0160</num>
+    <name>M-Zamasu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0161</num>
+    <name>Botamo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0162</num>
+    <name>Magetta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0163</num>
+    <name>Frost</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0164</num>
+    <name>Frost 2</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0165</num>
+    <name>Frost 3</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0166</num>
+    <name>Hit</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0167</num>
+    <name>Cabba</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0168</num>
+    <name>SSJ Cabba</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0169</num>
+    <name>SSJ2 Cabba</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0170</num>
+    <name>Caulifla</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0171</num>
+    <name>SSJ Clfla</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0172</num>
+    <name>SSJ2 Clfla</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0173</num>
+    <name>Kale</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0174</num>
+    <name>Brsk Kale</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0175</num>
+    <name>MBSK Kale</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0176</num>
+    <name>Kefla</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0177</num>
+    <name>MBSK Kefla</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0178</num>
+    <name>Jimizu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0179</num>
+    <name>Damon</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0180</num>
+    <name>Basil</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0181</num>
+    <name>Lavender</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0182</num>
+    <name>Bergamo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0183</num>
+    <name>Dyspo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0184</num>
+    <name>Toppo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0185</num>
+    <name>Hakaitoppo</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0186</num>
+    <name>Jiren</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0187</num>
+    <name>LB Jiren</name>
+	<runs>
+		<run>DBZ Team Training Revisit Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0188</num>
+    <name>Broly R</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0189</num>
+    <name>Broly RSSJ</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0190</num>
+    <name>Broly RLSJ</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0191</num>
+    <name>Beerus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0192</num>
+    <name>Champa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0193</num>
+    <name>Whis</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0194</num>
+    <name>Vados</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0195</num>
+    <name>Daishinkan</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0196</num>
+    <name>Zeno</name>
+	<runs>
+		<run>DBZ Team Training Revisit Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0197</num>
+    <name>Sp Shenron</name>
+	<runs>
+		<run>DBZ Team Training Revisit Revisit</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0198</num>
+    <name>Cumber</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0199</num>
+    <name>SSJ Cumber</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0200</num>
+    <name>Ape Cumber</name>
 	<runs>
 	</runs>
 	<status>
