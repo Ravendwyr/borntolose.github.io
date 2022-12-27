@@ -9750,6 +9750,83 @@
 	</status>
   </mon>
 
+  <mon region="larmog" final="false">
+	<num>NVB-0082</num>
+    <name>Platupy</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0083</num>
+    <name>Billuby</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0090</num>
+    <name>Kwacano</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0091</num>
+    <name>Kwaruption</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="false">
+	<num>NVB-0097</num>
+    <name>Evefiss</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0098</num>
+    <name>Darkik</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="larmog" final="true">
+	<num>NVB-0108</num>
+    <name>Seezus</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
   <mon region="larmog" final="true">
 	<num></num>
     <name>(...)</name>
@@ -11268,6 +11345,160 @@
 	</status>
   </mon>
 
+  <mon region="gensokyo" final="false">
+	<num>THM-0138</num>
+    <name>CMarisa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0139</num>
+    <name>Marisa</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0140</num>
+    <name>CReimu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0141</num>
+    <name>Reimu</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0142</num>
+    <name>CByakuren</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0143</num>
+    <name>Byakuren</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0144</num>
+    <name>Kongala</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0145</num>
+    <name>Kikuri</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0146</num>
+    <name>Yuugen</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="false">
+	<num>THM-0147</num>
+    <name>CToyohime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0148</num>
+    <name>Toyohime</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0149</num>
+    <name>Goliath</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0150</num>
+    <name>Sariel</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="gensokyo" final="true">
+	<num>THM-0151</num>
+    <name>Satsuki</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
   <mon region="gensokyo" final="true">
 	<num></num>
     <name>(...)</name>
@@ -12466,6 +12697,138 @@
   <mon region="dragonland" final="true">
 	<num>DBZ-0108</num>
     <name>Tapion</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0109</num>
+    <name>Goten</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0110</num>
+    <name>SSJ Goten</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0111</num>
+    <name>Trunks</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0112</num>
+    <name>SSJ Trunks</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0113</num>
+    <name>Gotenks</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0114</num>
+    <name>Gotenks 2</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0115</num>
+    <name>Gotenks 3</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0116</num>
+    <name>Gogeta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0117</num>
+    <name>SSJ Gogeta</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0118</num>
+    <name>Vegeto</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="false">
+	<num>DBZ-0119</num>
+    <name>SSJ Vegeto</name>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="dragonland" final="true">
+	<num>DBZ-0120</num>
+    <name>Shenron</name>
 	<runs>
 	</runs>
 	<status>
