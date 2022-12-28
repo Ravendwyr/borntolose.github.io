@@ -11148,7 +11148,7 @@
   </mon>
 
   <mon region="gensokyo" final="false">
-	<num>THM-0094</num>
+	<num>THM-0096</num>
     <name>CSakuya</name>
 	<runs>
 	</runs>
@@ -11159,7 +11159,7 @@
   </mon>
 
   <mon region="gensokyo" final="true">
-	<num>THM-0095</num>
+	<num>THM-0097</num>
     <name>Sakuya</name>
 	<runs>
 	</runs>
