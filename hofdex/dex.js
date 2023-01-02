@@ -27,13 +27,15 @@ function displayDex(dexType) {
 		
 			color = backgroundFromRank(firstToString(currentMon, "rank"));
 			
-			star = '<div style="text-align:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
+			type = '<div style="margin-top:7px; margin-left:1px; text-align:left; width:100px; float:left;">' + buildTypeList(currentMon) + '</div>';
+			
+			star = '<div style="text-align:right; width:20px; float:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
 			
 			tooltip = buildRunList(currentMon);
 			
 			img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px" title="' + tooltip +'">';
 			
-			document.getElementById(currentMon.getAttribute("region")).innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + star + '</td>';
+			document.getElementById(currentMon.getAttribute("region")).innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + type + star + '</td>';
 			
 		}
 			
@@ -97,6 +99,19 @@ function buildRunList(mon){
 			}
 	
 	return tooltip;
+	
+}
+
+
+function buildTypeList(mon){
+	
+	types = "";
+	
+	for (t = 0; t < mon.getElementsByTagName("type").length; t++) {
+				types += '<img src="types/' + mon.getElementsByTagName("type")[t].textContent.toString() + '.png">';
+			}
+	
+	return types;
 	
 }
 
