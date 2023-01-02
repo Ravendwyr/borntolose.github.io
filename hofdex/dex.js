@@ -108,7 +108,7 @@ function buildTypeList(mon){
 	types = "";
 	
 	for (t = 0; t < mon.getElementsByTagName("type").length; t++) {
-				types += '<img src="types/' + mon.getElementsByTagName("type")[t].textContent.toString() + '.png">';
+				types += '<img src="types/' + mon.getElementsByTagName("type")[t].textContent.toString().toLowerCase() + '.png">';
 			}
 	
 	return types;
