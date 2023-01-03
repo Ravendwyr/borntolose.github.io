@@ -14612,7 +14612,7 @@
   </mon> 
 
   <mon region="paldea" final="false">
-	<num>0907</num>
+	<num>0909</num>
     <name>Fuecoco</name>
 	<types>
 		<type>Fire</type>
@@ -14626,7 +14626,7 @@
   </mon> 
 
   <mon region="paldea" final="false">
-	<num>0908</num>
+	<num>0910</num>
     <name>Crocalor</name>
 	<types>
 		<type>Fire</type>
@@ -14640,7 +14640,7 @@
   </mon> 
 
   <mon region="paldea" final="true">
-	<num>0909</num>
+	<num>0911</num>
     <name>Skeledirge</name>
 	<types>
 		<type>Fire</type>
