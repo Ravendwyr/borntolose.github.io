@@ -14249,7 +14249,7 @@
   </mon> 
 
   <mon region="galar" final="false">
-	<num>0884</num>
+	<num>0885</num>
     <name>Dreepy</name>
 	<types>
 		<type>Dragon</type>
@@ -14265,7 +14265,7 @@
   </mon> 
 
   <mon region="galar" final="false">
-	<num>0884</num>
+	<num>0886</num>
     <name>Drakloak</name>
 	<types>
 		<type>Dragon</type>
@@ -14280,7 +14280,7 @@
   </mon> 
 
   <mon region="galar" final="true">
-	<num>0884</num>
+	<num>0887</num>
     <name>Dragapult</name>
 	<types>
 		<type>Dragon</type>

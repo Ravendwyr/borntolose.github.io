@@ -21,9 +21,15 @@ function displayDex(dexType) {
 		
 		nohofed = document.getElementById("showNoHoFed").value;
 		
+		stared = document.getElementById("showStared").value;
+		
+		nostared = document.getElementById("showNoStared").value;
+		
 		if ((nfe == "show" || currentMon.getAttribute("final") == "true")
 			&& (hofed == "show" || firstToString(currentMon, "rank") == "")
-			&& (nohofed == "show" || firstToString(currentMon, "rank") != "")) {
+			&& (nohofed == "show" || firstToString(currentMon, "rank") != "")
+			&& (stared == "show" || firstToString(currentMon, "emblem") != "main")
+			&& (nostared == "show" || firstToString(currentMon, "emblem") == "main")) {
 		
 			color = backgroundFromRank(firstToString(currentMon, "rank"));
 			

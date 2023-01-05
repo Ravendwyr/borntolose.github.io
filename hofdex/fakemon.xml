@@ -1921,7 +1921,7 @@
   </mon> 
 
   <mon region="as-hoenn" final="true">
-	<num>SIR-0193</num>
+	<num>SIR-0194</num>
     <name>Ganimede</name>
 	<types>
 		<type>Flying</type>
@@ -1935,7 +1935,7 @@
   </mon> 
 
   <mon region="as-hoenn" final="true">
-	<num>SIR-0193</num>
+	<num>SIR-0195</num>
     <name>Nemea</name>
 	<types>
 		<type>Steel</type>
