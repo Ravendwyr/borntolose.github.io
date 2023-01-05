@@ -51,6 +51,89 @@ function displayDex(dexType) {
  
 }
 
+function generateTeam(dexType) {  
+  
+	var Connect = new XMLHttpRequest();
+	Connect.open("GET", dexType + ".xml", false);
+	Connect.setRequestHeader("Content-Type", "text/xml");
+	Connect.send(null);
+
+	var response = Connect.responseXML;
+	var mons = response.childNodes[0];
+	
+	document.getElementById("randomTeam").innerHTML = "";
+	
+	for (i = 0; i < 6; i++) {
+	
+		monNum = Math.floor(Math.random() * mons.children.length);
+
+		currentMon = mons.children[monNum];
+
+		color = backgroundFromRank(firstToString(currentMon, "rank"));
+				
+		type = '<div style="margin-top:7px; margin-left:1px; text-align:left; width:100px; float:left;">' + buildTypeList(currentMon) + '</div>';
+				
+		star = '<div style="text-align:right; width:20px; float:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
+				
+		tooltip = buildRunList(currentMon);
+				
+		img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px" title="' + tooltip +'">';
+				
+		document.getElementById("randomTeam").innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + type + star + '</td>';
+	
+	}
+	
+}
+
+function generateTeamAll() { 
+
+	var Connect = new XMLHttpRequest();
+	Connect.open("GET", "national.xml", false);
+	Connect.setRequestHeader("Content-Type", "text/xml");
+	Connect.send(null);
+
+	var response = Connect.responseXML;
+	var monsNational = response.childNodes[0];
+	
+	var Connect = new XMLHttpRequest();
+	Connect.open("GET", "fakemon.xml", false);
+	Connect.setRequestHeader("Content-Type", "text/xml");
+	Connect.send(null);
+
+	var response = Connect.responseXML;
+	var monsFakemon = response.childNodes[0];
+	
+	document.getElementById("randomTeam").innerHTML = "";
+	
+	for (i = 0; i < 6; i++) {
+	
+		monNum = Math.floor(Math.random() * (monsNational.children.length + monsFakemon.children.length));
+		
+		if (monNum > monsNational.children.length) {
+			dexType = "fakemon";
+			monNum = monNum - monsNational.children.length;
+			currentMon = monsFakemon.children[monNum];
+		} else {
+			dexType = "national";
+			currentMon = monsNational.children[monNum];
+		}
+
+		color = backgroundFromRank(firstToString(currentMon, "rank"));
+				
+		type = '<div style="margin-top:7px; margin-left:1px; text-align:left; width:100px; float:left;">' + buildTypeList(currentMon) + '</div>';
+				
+		star = '<div style="text-align:right; width:20px; float:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
+				
+		tooltip = buildRunList(currentMon);
+				
+		img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px" title="' + tooltip +'">';
+				
+		document.getElementById("randomTeam").innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + type + star + '</td>';
+	
+	}
+
+}
+
 function clickButton(dexType, id, text){
 	
 	button = document.getElementById(id);
@@ -150,35 +233,3 @@ function nothingToDisplay(dexType){
 	}
 	
 }
-
-/*function displayDex() {  
-  
-	var Connect = new XMLHttpRequest();
-	Connect.open("GET", "national.xml", false);
-	Connect.setRequestHeader("Content-Type", "text/xml");
-	Connect.send(null);
-
-	var response = Connect.responseXML;
-	var charas = response.childNodes[0];
-	
-		for (i = 0; i < charas.children.length; i++) {
-			var currentChara = charas.children[i];
-					
-			var id = currentChara.getElementsByTagName("id");		
-			var icon = currentChara.getElementsByTagName("img");
-			
-			var location = (localStorage.getItem(id[0].textContent.toString()) == "owned" ? "sprites" : "shadows");
-			
-			var onclick = ' onclick="showDexEntry(\'' + id[0].textContent.toString() + '\')"';
-			
-			if (currentChara.getAttribute("category") == "trainer") {
-				document.getElementById("trainers").innerHTML += '<img' + onclick + ' src="' + location + '/portraits/' + icon[0].textContent.toString() + '.png" style="margin:2px">';
-			} else {
-				document.getElementById("mons").innerHTML += '<img' + onclick + ' src="' + location + '/portraits/' + icon[0].textContent.toString() + '.png" style="margin:2px">';
-			}	
-		
-		}
-		
-	console.log(localStorage);
- 
-} */
