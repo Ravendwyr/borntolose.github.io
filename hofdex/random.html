@@ -12,9 +12,15 @@
 	<a href="national.html" style="font-size:small; float:right">[National Dex]</a><br>
 	<a href="fakemon.html" style="font-size:small; float:right">[Fakemon Dex]</a>
   
-	<button onclick="generateTeam('national')" style="font-size:large">Generate Team (National)</button> 
-	<button onclick="generateTeam('fakemon')" style="font-size:large">Generate Team (Fakemon)</button> 
-	<button onclick="generateTeamAll()" style="font-size:large">Generate Team (All)</button> 
+	<button onclick="generateTeam('national', 'true')" style="font-size:large">Generate Team (National, with NFE)</button> 
+	<button onclick="generateTeam('fakemon', 'true')" style="font-size:large">Generate Team (Fakemon, with NFE)</button> 
+	<button onclick="generateTeamAll('true')" style="font-size:large">Generate Team (All, with NFE)</button> 
+	
+	<br><br>
+	
+	<button onclick="generateTeam('national', 'false')" style="font-size:large">Generate Team (National, no NFE)</button> 
+	<button onclick="generateTeam('fakemon', 'false')" style="font-size:large">Generate Team (Fakemon, no NFE)</button> 
+	<button onclick="generateTeamAll('false')" style="font-size:large">Generate Team (All, no NFE)</button> 
 	
 	<br><br>
 

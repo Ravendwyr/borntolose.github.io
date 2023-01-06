@@ -895,7 +895,7 @@
 	<num>SIR-0010</num>
     <name>Takuni</name>
 	<types>
-		<type>Normal </type>
+		<type>Normal</type>
 	</types>
 	<runs>
 	</runs>
@@ -909,7 +909,7 @@
 	<num>SIR-0011</num>
     <name>Percussoon</name>
 	<types>
-		<type>Normal </type>
+		<type>Normal</type>
 	</types>
 	<runs>
 	</runs>

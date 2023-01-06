@@ -51,7 +51,7 @@ function displayDex(dexType) {
  
 }
 
-function generateTeam(dexType) {  
+function generateTeam(dexType, nfe) {  
   
 	var Connect = new XMLHttpRequest();
 	Connect.open("GET", dexType + ".xml", false);
@@ -68,24 +68,32 @@ function generateTeam(dexType) {
 		monNum = Math.floor(Math.random() * mons.children.length);
 
 		currentMon = mons.children[monNum];
+		
+		if (nfe == "true" || currentMon.getAttribute("final") == "true") {
 
-		color = backgroundFromRank(firstToString(currentMon, "rank"));
-				
-		type = '<div style="margin-top:7px; margin-left:1px; text-align:left; width:100px; float:left;">' + buildTypeList(currentMon) + '</div>';
-				
-		star = '<div style="text-align:right; width:20px; float:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
-				
-		tooltip = buildRunList(currentMon);
-				
-		img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px" title="' + tooltip +'">';
-				
-		document.getElementById("randomTeam").innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + type + star + '</td>';
+			color = backgroundFromRank(firstToString(currentMon, "rank"));
+					
+			type = '<div style="margin-top:7px; margin-left:1px; text-align:left; width:100px; float:left;">' + buildTypeList(currentMon) + '</div>';
+					
+			star = '<div style="text-align:right; width:20px; float:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
+					
+			tooltip = buildRunList(currentMon);
+					
+			img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px" title="' + tooltip +'">';
+					
+			document.getElementById("randomTeam").innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + type + star + '</td>';
+			
+		} else {
+			
+			i--;
+		
+		}
 	
 	}
 	
 }
 
-function generateTeamAll() { 
+function generateTeamAll(nfe) { 
 
 	var Connect = new XMLHttpRequest();
 	Connect.open("GET", "national.xml", false);
@@ -117,18 +125,26 @@ function generateTeamAll() {
 			dexType = "national";
 			currentMon = monsNational.children[monNum];
 		}
+		
+		if (nfe == "true" || currentMon.getAttribute("final") == "true") {
 
-		color = backgroundFromRank(firstToString(currentMon, "rank"));
-				
-		type = '<div style="margin-top:7px; margin-left:1px; text-align:left; width:100px; float:left;">' + buildTypeList(currentMon) + '</div>';
-				
-		star = '<div style="text-align:right; width:20px; float:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
-				
-		tooltip = buildRunList(currentMon);
-				
-		img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px" title="' + tooltip +'">';
-				
-		document.getElementById("randomTeam").innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + type + star + '</td>';
+			color = backgroundFromRank(firstToString(currentMon, "rank"));
+					
+			type = '<div style="margin-top:7px; margin-left:1px; text-align:left; width:100px; float:left;">' + buildTypeList(currentMon) + '</div>';
+					
+			star = '<div style="text-align:right; width:20px; float:right;">' + getEmblem(firstToString(currentMon, "emblem")) + '</div>';
+					
+			tooltip = buildRunList(currentMon);
+					
+			img = '<img src="' + dexType + '/' + firstToString(currentMon, "num") + '.png" height="64px" title="' + tooltip +'">';
+					
+			document.getElementById("randomTeam").innerHTML += '<td style="height:140px; width:140px; border:solid 1px; display: inline-block; text-align:center; padding:2px; background-color:' + color + ';"><div style="margin-bottom:14px;"><b>'+ firstToString(currentMon, "num") + '<br>' + firstToString(currentMon, "name") +'</b></div>' + img + type + star + '</td>';
+			
+		} else {
+			
+			i--;
+		
+		}
 	
 	}
 
