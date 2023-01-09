@@ -3865,9 +3865,10 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>Volt White 2 Redux</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -6434,7 +6435,7 @@
   </mon> 
 
   <mon region="hoenn" final="false">
-	<num>374</num>
+	<num>0374</num>
     <name>Beldum</name>
 	<types>
 		<type>Steel</type>
@@ -9480,7 +9481,7 @@
   </mon> 
 
   <mon region="unova" final="false">
-	<num>0570-G</num>
+	<num>0570-Hi</num>
     <name>Zorua</name>
 	<types>
 		<type>Normal</type>
@@ -9510,7 +9511,7 @@
   </mon> 
 
   <mon region="unova" final="true">
-	<num>0571-G</num>
+	<num>0571-Hi</num>
     <name>Zoroark</name>
 	<types>
 		<type>Normal</type>
