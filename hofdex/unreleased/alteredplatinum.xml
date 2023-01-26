@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mons>
+
+<!-- KANTO -->
+
+  <mon region="kanto" final="false">
+	<num>0010-APL</num>
+    <name>Caterpie</name>
+	<types>
+		<type>Bug</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0011-APL</num>
+    <name>Metapod</name>
+	<types>
+		<type>Bug</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0012-APL</num>
+    <name>Butterfree</name>
+	<types>
+		<type>Bug</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0013-APL</num>
+    <name>Weedle</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0014-APL</num>
+    <name>Kakuna</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0015-APL</num>
+    <name>Beedrill</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0026-APL</num>
+    <name>Raichu</name>
+	<types>
+		<type>Electric</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0027-APL</num>
+    <name>Sandshrew</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0028-APL</num>
+    <name>Sandslash</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0046-APL</num>
+    <name>Paras</name>
+	<types>
+		<type>Poison</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0047-APL</num>
+    <name>Parasect</name>
+	<types>
+		<type>Poison</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0058-APL</num>
+    <name>Growlithe</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0059-APL</num>
+    <name>Arcanine</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0077-APL</num>
+    <name>Ponyta</name>
+	<types>
+		<type>Water</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0078-APL</num>
+    <name>Rapidash</name>
+	<types>
+		<type>Water</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0123-APL</num>
+    <name>Scyther</name>
+	<types>
+		<type>Bug</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0137-APL</num>
+    <name>Porygon</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0147-APL</num>
+    <name>Dratini</name>
+	<types>
+		<type>Water</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="false">
+	<num>0148-APL</num>
+    <name>Dragonair</name>
+	<types>
+		<type>Water</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="kanto" final="true">
+	<num>0149-APL</num>
+    <name>Dragonite</name>
+	<types>
+		<type>Water</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- JOHTO -->
+
+  <mon region="johto" final="false">
+	<num>0161-APL</num>
+    <name>Sentret</name>
+	<types>
+		<type>Normal</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0162-APL</num>
+    <name>Furret</name>
+	<types>
+		<type>Normal</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0163-APL</num>
+    <name>Hoothoot</name>
+	<types>
+		<type>Ice</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0164-APL</num>
+    <name>Noctowl</name>
+	<types>
+		<type>Ghost</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0167-APL</num>
+    <name>Spinarak</name>
+	<types>
+		<type>Bug</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0168-APL</num>
+    <name>Ariados</name>
+	<types>
+		<type>Bug</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0170-APL</num>
+    <name>Chinchou</name>
+	<types>
+		<type>Water</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0171-APL</num>
+    <name>Lanturn</name>
+	<types>
+		<type>Water</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0175-APL</num>
+    <name>Togepi</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0176-APL</num>
+    <name>Togetic</name>
+	<types>
+		<type>Grass</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0179-APL</num>
+    <name>Mareep</name>
+	<types>
+		<type>Grass</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0180-APL</num>
+    <name>Flaaffy</name>
+	<types>
+		<type>Grass</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0181-APL</num>
+    <name>Ampharos</name>
+	<types>
+		<type>Grass</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0190-APL</num>
+    <name>Aipom</name>
+	<types>
+		<type>Normal</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0204-APL</num>
+    <name>Pineco</name>
+	<types>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0205-APL</num>
+    <name>Forretress</name>
+	<types>
+		<type>Flying</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0206-APL</num>
+    <name>Dunsparce</name>
+	<types>
+		<type>Ground</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0218-APL</num>
+    <name>Slugma</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0219-APL</num>
+    <name>Magcargo</name>
+	<types>
+		<type>Poison</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="true">
+	<num>0212-APL</num>
+    <name>Scizor</name>
+	<types>
+		<type>Steel</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="johto" final="false">
+	<num>0233-APL</num>
+    <name>Porygon2</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- HOENN -->
+
+  <mon region="hoenn" final="false">
+	<num>0261-APL</num>
+    <name>Poochyena</name>
+	<types>
+		<type>Psychic</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0262-APL</num>
+    <name>Mightyena</name>
+	<types>
+		<type>Psychic</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0304-APL</num>
+    <name>Aron</name>
+	<types>
+		<type>Steel</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0305-APL</num>
+    <name>Lairon</name>
+	<types>
+		<type>Steel</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0306-APL</num>
+    <name>Aggron</name>
+	<types>
+		<type>Steel</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0307-APL</num>
+    <name>Meditite</name>
+	<types>
+		<type>Flying</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0308-APL</num>
+    <name>Medicham</name>
+	<types>
+		<type>Flying</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0309-APL</num>
+    <name>Electrike</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0310-APL</num>
+    <name>Manectric</name>
+	<types>
+		<type>Rock</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0315-APL</num>
+    <name>Roselia</name>
+	<types>
+		<type>Fairy</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0328-APL</num>
+    <name>Trapinch</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0329-APL</num>
+    <name>Vibrava</name>
+	<types>
+		<type>Fire</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0330-APL</num>
+    <name>Flygon</name>
+	<types>
+		<type>Fire</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="false">
+	<num>0333-APL</num>
+    <name>Swablu</name>
+	<types>
+		<type>Psychic</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0334-APL</num>
+    <name>Altaria</name>
+	<types>
+		<type>Psychic</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0337-APL</num>
+    <name>Lunatone</name>
+	<types>
+		<type>Rock</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0338-APL</num>
+    <name>Solrock</name>
+	<types>
+		<type>Fire</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0357-APL</num>
+    <name>Tropius</name>
+	<types>
+		<type>Grass</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="hoenn" final="true">
+	<num>0359-APL</num>
+    <name>Absol</name>
+	<types>
+		<type>Dark</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+<!-- SINNOH -->
+
+  <mon region="sinnoh" final="false">
+	<num>0406-APL</num>
+    <name>Budew</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="sinnoh" final="true">
+	<num>0407-APL</num>
+    <name>Roserade</name>
+	<types>
+		<type>Fairy</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="sinnoh" final="false">
+	<num>0424-APL</num>
+    <name>Ambipom</name>
+	<types>
+		<type>Normal</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="sinnoh" final="true">
+	<num>0468-APL</num>
+    <name>Togekiss</name>
+	<types>
+		<type>Grass</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="sinnoh" final="true">
+	<num>0474-APL</num>
+    <name>Porygon-Z</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+</mons>

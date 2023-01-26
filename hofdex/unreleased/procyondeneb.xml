@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mons>
+
+<!-- SIGNET -->
+
+  <mon region="signet" final="false">
+	<num>PRO-0010</num>
+    <name>Kapiba</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0011</num>
+    <name>Kapirando</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0012</num>
+    <name>Waracchi</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0013</num>
+    <name>Tawarabi</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0014</num>
+    <name>Chicchi</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0015</num>
+    <name>Hiyoppi</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0016</num>
+    <name>Tonbito</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0017</num>
+    <name>Hokekyo</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0018</num>
+    <name>Ukakko</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0019</num>
+    <name>Donkangu</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0020</num>
+    <name>Parakka</name>
+	<types>
+		<type>Dark</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0021</num>
+    <name>Danpaia</name>
+	<types>
+		<type>Dark</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0022</num>
+    <name>Shoubuna</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0023</num>
+    <name>Zebatoru</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0028</num>
+    <name>Mokuyōte</name>
+	<types>
+		<type>Grass</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0032</num>
+    <name>Meran</name>
+	<types>
+		<type>Fire</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0033</num>
+    <name>Meraizu</name>
+	<types>
+		<type>Fire</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0034</num>
+    <name>Merazādo</name>
+	<types>
+		<type>Fire</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0035</num>
+    <name>Karebanī</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0036</num>
+    <name>Furabanī</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0039</num>
+    <name>Pukuhamu</name>
+	<types>
+		<type>Fairy</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0040</num>
+    <name>Puugamu</name>
+	<types>
+		<type>Fairy</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0041</num>
+    <name>Darakuma</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0042</num>
+    <name>Hatarakuma</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0047</num>
+    <name>Purimōdo</name>
+	<types>
+		<type>Ice</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0048</num>
+    <name>Remonīsu</name>
+	<types>
+		<type>Ice</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0049</num>
+    <name>Renemōdo</name>
+	<types>
+		<type>Ice</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0058</num>
+    <name>Bārī</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0059</num>
+    <name>Yāban</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0060</num>
+    <name>Janbos</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0061</num>
+    <name>Ishiarare</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0062</num>
+    <name>Dorisuton</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0063</num>
+    <name>Rokunaito</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0065</num>
+    <name>Mabyūto</name>
+	<types>
+		<type>Normal</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0066</num>
+    <name>Jabetto</name>
+	<types>
+		<type>Poison</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0071</num>
+    <name>Shakutto</name>
+	<types>
+		<type>Bug</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0072</num>
+    <name>Kureigu</name>
+	<types>
+		<type>Bug</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0073</num>
+    <name>Shakuzora</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0074</num>
+    <name>Poijya</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0075</num>
+    <name>Mōnebu</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0076</num>
+    <name>Benorēto</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0077</num>
+    <name>Perame</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0078</num>
+    <name>Mādarā</name>
+	<types>
+		<type>Water</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0079</num>
+    <name>Kodachiuo</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0080</num>
+    <name>Surudoika</name>
+	<types>
+		<type>Water</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0086</num>
+    <name>Eameiru</name>
+	<types>
+		<type>Steel</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0109</num>
+    <name>Rakusuna</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0110</num>
+    <name>Sunankusu</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0112</num>
+    <name>Kamafurā</name>
+	<types>
+		<type>Bug</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0113</num>
+    <name>Pin'natto</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0114</num>
+    <name>Gagokin</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0115</num>
+    <name>Borubotto</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0116</num>
+    <name>Borutefu</name>
+	<types>
+		<type>Electric</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0117</num>
+    <name>Seirodon</name>
+	<types>
+		<type>Rock</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0118</num>
+    <name>Supinerusu</name>
+	<types>
+		<type>Rock</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0119</num>
+    <name>Ikuchisu</name>
+	<types>
+		<type>Rock</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0120</num>
+    <name>Ibachirasu</name>
+	<types>
+		<type>Rock</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0127</num>
+    <name>Toranya</name>
+	<types>
+		<type>Ice</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0128</num>
+    <name>Nyagā</name>
+	<types>
+		<type>Ice</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0129</num>
+    <name>Byakugā</name>
+	<types>
+		<type>Ice</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0130</num>
+    <name>Nōshyu</name>
+	<types>
+		<type>Ice</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0131</num>
+    <name>Snofā</name>
+	<types>
+		<type>Ice</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0132</num>
+    <name>Kofarudo</name>
+	<types>
+		<type>Ice</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0161</num>
+    <name>Iraimu</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0162</num>
+    <name>Iragado</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0163</num>
+    <name>Irairan</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0167</num>
+    <name>Setoshiba</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0168</num>
+    <name>Setohachi</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0169</num>
+    <name>Setoguō</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0201</num>
+    <name>Hatenazemi</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0226</num>
+    <name>Baburun</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0227</num>
+    <name>Garakasago</name>
+	<types>
+		<type>Water</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0228</num>
+    <name>Supainā</name>
+	<types>
+		<type>Water</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0229</num>
+    <name>Barettā</name>
+	<types>
+		<type>Water</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0232</num>
+    <name>Keruena</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0247</num>
+    <name>Hanamimizu</name>
+	<types>
+		<type>Grass</type>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0248</num>
+    <name>Tsuruborosu</name>
+	<types>
+		<type>Grass</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0249</num>
+    <name>Hanamimizu</name>
+	<types>
+		<type>Grass</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0250</num>
+    <name>Fūpyan</name>
+	<types>
+		<type>Grass</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0257</num>
+    <name>Iyaiya</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0258</num>
+    <name>Yandeddo</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0267</num>
+    <name>Dakkoala</name>
+	<types>
+		<type>Grass</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0268</num>
+    <name>Koalashi</name>
+	<types>
+		<type>Grass</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0271</num>
+    <name>Magukigai</name>
+	<types>
+		<type>Fire</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0274</num>
+    <name>Tetoraito</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0275</num>
+    <name>Pawahōn</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0289</num>
+    <name>Guranbī</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0290</num>
+    <name>Sukabī</name>
+	<types>
+		<type>Bug</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0291</num>
+    <name>Kusomarume</name>
+	<types>
+		<type>Bug</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0292</num>
+    <name>Hikarabe</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0315</num>
+    <name>Kazekonko</name>
+	<types>
+		<type>Poison</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0316</num>
+    <name>Honetto</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0323</num>
+    <name>Mameden</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0324</num>
+    <name>Daiōmu</name>
+	<types>
+		<type>Electric</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0325</num>
+    <name>Yukidaru</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0326</num>
+    <name>Doraiasu</name>
+	<types>
+		<type>Ice</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0327</num>
+    <name>Erītā</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0355</num>
+    <name>Suripitto</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0358</num>
+    <name>Karakoron</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0367</num>
+    <name>Demini</name>
+	<types>
+		<type>Dark</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0368</num>
+    <name>Demidoru</name>
+	<types>
+		<type>Dark</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0369</num>
+    <name>Demorigan</name>
+	<types>
+		<type>Dark</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0370</num>
+    <name>Arugari</name>
+	<types>
+		<type>Electric</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="false">
+	<num>PRO-0371</num>
+    <name>Anōga</name>
+	<types>
+		<type>Electric</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="signet" final="true">
+	<num>PRO-0372</num>
+    <name>Kasōdan</name>
+	<types>
+		<type>Electric</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+</mons>

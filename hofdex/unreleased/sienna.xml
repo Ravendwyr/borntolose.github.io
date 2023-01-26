@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mons>
+
+<!-- VOULTAN -->
+
+  <mon region="voultan" final="false">
+	<num>SIE-0001</num>
+    <name>Gramet</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="false">
+	<num>SIE-0002</num>
+    <name>Aprass</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="true">
+	<num>SIE-0003</num>
+    <name>Marmfoo</name>
+	<types>
+		<type>Grass</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="false">
+	<num>SIE-0004</num>
+    <name>Ponfant</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="false">
+	<num>SIE-0005</num>
+    <name>Elesnow</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="true">
+	<num>SIE-0006</num>
+    <name>Eliphreeze</name>
+	<types>
+		<type>Water</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="false">
+	<num>SIE-0007</num>
+    <name>Moocano</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="false">
+	<num>SIE-0008</num>
+    <name>Flabull</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="true">
+	<num>SIE-0009</num>
+    <name>Blazull</name>
+	<types>
+		<type>Fire</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="true">
+	<num>SIE-0016</num>
+    <name>Chartail</name>
+	<types>
+		<type>Electric</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="false">
+	<num>SIE-0021</num>
+    <name>Kiwee</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="false">
+	<num>SIE-0022</num>
+    <name>Delinkwi</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="false">
+	<num>SIE-0023</num>
+    <name>Buram</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="true">
+	<num>SIE-0024</num>
+    <name>Talush</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="false">
+	<num>SIE-0039</num>
+    <name>Ghostorm</name>
+	<types>
+		<type>Electric</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="true">
+	<num>SIE-0040</num>
+    <name>Voltageist</name>
+	<types>
+		<type>Electric</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="voultan" final="true">
+	<num>SIE-0062</num>
+    <name>Kiwisage</name>
+	<types>
+		<type>Steel</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+</mons>

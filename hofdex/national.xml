@@ -6928,6 +6928,7 @@
 		<run>Randomized Black</run>
 		<run>Blazing Emerald</run>
 		<run>Legends Arceus</run>
+		<run>Randomized Violet+</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10372,10 +10373,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Randomized Violet+</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -13037,10 +13039,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Randomized Violet+</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -15142,10 +15145,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Randomized Violet+</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -15653,10 +15657,11 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Randomized Violet+</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -15819,10 +15824,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Randomized Violet+</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
