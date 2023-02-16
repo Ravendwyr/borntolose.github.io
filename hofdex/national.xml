@@ -5680,10 +5680,11 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -6258,10 +6259,11 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7288,10 +7290,11 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7895,10 +7898,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7941,11 +7945,11 @@
 	</types>
 	<runs>
 		<run>Blazing Emerald</run>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
 		<rank>main</rank>
 		<emblem>main</emblem>
-	</status>
   </mon> 
 
   <mon region="sinnoh" final="true">

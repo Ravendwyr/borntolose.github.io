@@ -735,10 +735,11 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
