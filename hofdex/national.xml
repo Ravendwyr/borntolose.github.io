@@ -2416,6 +2416,7 @@
 	</types>
 	<runs>
 		<run>Pyrite</run>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3275,9 +3276,10 @@
 	</types>
 	<runs>
 		<run>Vietnamese Crystal Revisit</run>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -4248,6 +4250,7 @@
 	</types>
 	<runs>
 		<run>XG Remix</run>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7567,9 +7570,10 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -16091,6 +16095,36 @@
 	</status>
   </mon> 
 
+  <mon region="paldea" final="true">
+	<num>1009</num>
+    <name>Walking Wake</name>
+	<types>
+		<type>Water</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" final="true">
+	<num>1010</num>
+    <name>Iron Leaves</name>
+	<types>
+		<type>Grass</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
 <!-- OTHER -->
 
   <mon region="other" final="false">
@@ -16100,9 +16134,10 @@
 	</types>
 	<runs>
 		<run>Brilliant Diamond Revisit</run>
+		<run>Prism Anniversary</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
