@@ -2370,10 +2370,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -5440,10 +5441,11 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -6965,6 +6967,7 @@
 	</types>
 	<runs>
 		<run>Platinum</run>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7145,6 +7148,7 @@
 	</types>
 	<runs>
 		<run>Randomized White 2</run>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7813,10 +7817,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7828,10 +7833,11 @@
 		<type>Rock</type>
 	</types>
 	<runs>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
