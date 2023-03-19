@@ -2758,6 +2758,7 @@
 		<run>Red</run>
 		<run>Red Anniversary</run>
 		<run>Ultra</run>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7988,6 +7989,7 @@
 	<runs>
 		<run>Gauntlet Black 2</run>
 		<run>Sword Revisit - Isle of Armor</run>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8111,9 +8113,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
