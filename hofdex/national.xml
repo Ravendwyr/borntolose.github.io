@@ -3826,6 +3826,7 @@
 		<run>Crystal</run>
 		<run>Crystal Revisit</run>
 		<run>Gauntlet Crystal</run>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6090,6 +6091,7 @@
 	<runs>
 		<run>Gauntlet Black 2</run>
 		<run>Randomized Chatty Crystal</run>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6193,6 +6195,7 @@
 	<runs>
 		<run>Lightning Sapphire</run>
 		<run>Grand Colosseum</run>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7481,6 +7484,7 @@
 		<run>Chatty Yellow</run>
 		<run>Chatty Crystal</run>
 		<run>Randomized Chatty Crystal</run>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8084,9 +8088,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Inverse Platinum</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
