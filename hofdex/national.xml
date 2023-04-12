@@ -3,7 +3,7 @@
 
 <!-- KANTO -->
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0001</num>
     <name>Bulbasaur</name>
 	<types>
@@ -18,7 +18,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0002</num>
     <name>Ivysaur</name>
 	<types>
@@ -33,7 +33,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">  
+  <mon region="kanto" debut="1" final="99">  
 	<num>0003</num>
     <name>Venusaur</name>
 	<types>
@@ -55,7 +55,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0004</num>
     <name>Charmander</name>
 	<types>
@@ -69,7 +69,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0005</num>
     <name>Charmeleon</name>
 	<types>
@@ -84,7 +84,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0006</num>
     <name>Charizard</name>
 	<types>
@@ -107,7 +107,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0007</num>
     <name>Squirtle</name>
 	<types>
@@ -121,7 +121,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0008</num>
     <name>Wartortle</name>
 	<types>
@@ -135,7 +135,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0009</num>
     <name>Blastoise</name>
 	<types>
@@ -154,7 +154,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0010</num>
     <name>Caterpie</name>
 	<types>
@@ -168,7 +168,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0011</num>
     <name>Metapod</name>
 	<types>
@@ -182,7 +182,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0012</num>
     <name>Butterfree</name>
 	<types>
@@ -199,7 +199,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0013</num>
     <name>Weedle</name>
 	<types>
@@ -215,7 +215,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0014</num>
     <name>Kakuna</name>
 	<types>
@@ -230,7 +230,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0015</num>
     <name>Beedrill</name>
 	<types>
@@ -248,7 +248,7 @@
 	</status>
   </mon> 
       
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0016</num>
     <name>Pidgey</name>
 	<types>
@@ -265,7 +265,7 @@
 	</status>
   </mon> 
       
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0017</num>
     <name>Pidgeotto</name>
 	<types>
@@ -282,7 +282,7 @@
 	</status>
   </mon> 
       
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0018</num>
     <name>Pidgeot</name>
 	<types>
@@ -302,7 +302,7 @@
 	</status>
   </mon> 
         
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0019</num>
     <name>Rattata</name>
 	<types>
@@ -316,7 +316,7 @@
 	</status>
   </mon> 
                 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="7" final="0">
 	<num>0019-A</num>
     <name>Rattata</name>
 	<types>
@@ -331,7 +331,7 @@
 	</status>
   </mon> 
         
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="0">
 	<num>0020</num>
     <name>Raticate</name>
 	<types>
@@ -349,7 +349,7 @@
 	</status>
   </mon> 
           
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0020-A</num>
     <name>Raticate</name>
 	<types>
@@ -365,7 +365,7 @@
 	</status>
   </mon> 
             
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0021</num>
     <name>Spearow</name>
 	<types>
@@ -381,7 +381,7 @@
 	</status>
   </mon> 
             
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0022</num>
     <name>Fearow</name>
 	<types>
@@ -399,7 +399,7 @@
 	</status>
   </mon> 
               
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0023</num>
     <name>Ekans</name>
 	<types>
@@ -413,7 +413,7 @@
 	</status>
   </mon> 
               
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0024</num>
     <name>Arbok</name>
 	<types>
@@ -428,7 +428,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0025</num>
     <name>Pikachu</name>
 	<types>
@@ -444,7 +444,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0026</num>
     <name>Raichu</name>
 	<types>
@@ -462,7 +462,7 @@
 	</status>
   </mon> 
       
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0026-A</num>
     <name>Raichu</name>
 	<types>
@@ -477,7 +477,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0027</num>
     <name>Sandshrew</name>
 	<types>
@@ -491,7 +491,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="7" final="0">
 	<num>0027-A</num>
     <name>Sandshrew</name>
 	<types>
@@ -506,7 +506,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0028</num>
     <name>Sandslash</name>
 	<types>
@@ -524,7 +524,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0028-A</num>
     <name>Sandslash</name>
 	<types>
@@ -539,7 +539,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0029</num>
     <name>Nidoran♀</name>
 	<types>
@@ -553,7 +553,7 @@
 	</status>
   </mon> 
       
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0030</num>
     <name>Nidorina</name>
 	<types>
@@ -568,7 +568,7 @@
 	</status>
   </mon> 
         
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0031</num>
     <name>Nidoqueen</name>
 	<types>
@@ -585,7 +585,7 @@
 	</status>
   </mon> 
         
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0032</num>
     <name>Nidoran♂</name>
 	<types>
@@ -600,7 +600,7 @@
 	</status>
   </mon> 
         
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0033</num>
     <name>Nidorino</name>
 	<types>
@@ -615,7 +615,7 @@
 	</status>
   </mon> 
         
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0034</num>
     <name>Nidoking</name>
 	<types>
@@ -634,7 +634,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0035</num>
     <name>Clefairy</name>
 	<types>
@@ -648,7 +648,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0036</num>
     <name>Clefable</name>
 	<types>
@@ -664,7 +664,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0037</num>
     <name>Vulpix</name>
 	<types>
@@ -678,7 +678,7 @@
 	</status>
   </mon> 
       
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="7" final="0">
 	<num>0037-A</num>
     <name>Vulpix</name>
 	<types>
@@ -692,7 +692,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0038</num>
     <name>Ninetales</name>
 	<types>
@@ -708,7 +708,7 @@
 	</status>
   </mon> 
       
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0038-A</num>
     <name>Ninetales</name>
 	<types>
@@ -723,7 +723,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0039</num>
     <name>Jigglypuff</name>
 	<types>
@@ -738,7 +738,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0040</num>
     <name>Wigglytuff</name>
 	<types>
@@ -755,7 +755,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0041</num>
     <name>Zubat</name>
 	<types>
@@ -770,7 +770,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="1">
 	<num>0042</num>
     <name>Golbat</name>
 	<types>
@@ -786,7 +786,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0043</num>
     <name>Oddish</name>
 	<types>
@@ -801,7 +801,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0044</num>
     <name>Gloom</name>
 	<types>
@@ -816,7 +816,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0045</num>
     <name>Vileplume</name>
 	<types>
@@ -833,7 +833,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0046</num>
     <name>Paras</name>
 	<types>
@@ -849,7 +849,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0047</num>
     <name>Parasect</name>
 	<types>
@@ -866,7 +866,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0048</num>
     <name>Venonat</name>
 	<types>
@@ -881,7 +881,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0049</num>
     <name>Venomoth</name>
 	<types>
@@ -898,7 +898,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0050</num>
     <name>Diglett</name>
 	<types>
@@ -913,7 +913,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="7" final="0">
 	<num>0050-A</num>
     <name>Diglett</name>
 	<types>
@@ -928,7 +928,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0051</num>
     <name>Dugtrio</name>
 	<types>
@@ -947,7 +947,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0051-A</num>
     <name>Dugtrio</name>
 	<types>
@@ -962,7 +962,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0052</num>
     <name>Meowth</name>
 	<types>
@@ -977,7 +977,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="7" final="0">
 	<num>0052-A</num>
     <name>Meowth</name>
 	<types>
@@ -991,7 +991,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="8" final="0">
 	<num>0052-G</num>
     <name>Meowth</name>
 	<types>
@@ -1005,7 +1005,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0053</num>
     <name>Persian</name>
 	<types>
@@ -1021,7 +1021,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0053-A</num>
     <name>Persian</name>
 	<types>
@@ -1035,7 +1035,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0054</num>
     <name>Psyduck</name>
 	<types>
@@ -1049,7 +1049,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0055</num>
     <name>Golduck</name>
 	<types>
@@ -1065,7 +1065,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0056</num>
     <name>Mankey</name>
 	<types>
@@ -1079,7 +1079,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="8">
 	<num>0057</num>
     <name>Primeape</name>
 	<types>
@@ -1094,7 +1094,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0058</num>
     <name>Growlithe</name>
 	<types>
@@ -1109,7 +1109,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="8" final="0">
 	<num>0058-Hi</num>
     <name>Growlithe</name>
 	<types>
@@ -1124,7 +1124,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0059</num>
     <name>Arcanine</name>
 	<types>
@@ -1139,7 +1139,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="8" final="99">
 	<num>0059-Hi</num>
     <name>Arcanine</name>
 	<types>
@@ -1154,7 +1154,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0060</num>
     <name>Poliwag</name>
 	<types>
@@ -1170,7 +1170,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0061</num>
     <name>Poliwhirl</name>
 	<types>
@@ -1184,7 +1184,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0062</num>
     <name>Poliwrath</name>
 	<types>
@@ -1200,7 +1200,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0063</num>
     <name>Abra</name>
 	<types>
@@ -1215,7 +1215,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0064</num>
     <name>Kadabra</name>
 	<types>
@@ -1230,7 +1230,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0065</num>
     <name>Alakazam</name>
 	<types>
@@ -1247,7 +1247,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0066</num>
     <name>Machop</name>
 	<types>
@@ -1261,7 +1261,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0067</num>
     <name>Machoke</name>
 	<types>
@@ -1275,7 +1275,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0068</num>
     <name>Machamp</name>
 	<types>
@@ -1290,7 +1290,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0069</num>
     <name>Bellsprout</name>
 	<types>
@@ -1305,7 +1305,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0070</num>
     <name>Weepinbell</name>
 	<types>
@@ -1321,7 +1321,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0071</num>
     <name>Victreebel</name>
 	<types>
@@ -1337,7 +1337,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0072</num>
     <name>Tentacool</name>
 	<types>
@@ -1353,7 +1353,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0073</num>
     <name>Tentacruel</name>
 	<types>
@@ -1370,7 +1370,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0074</num>
     <name>Geodude</name>
 	<types>
@@ -1385,7 +1385,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="7" final="0">
 	<num>0074-A</num>
     <name>Geodude</name>
 	<types>
@@ -1400,7 +1400,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0075</num>
     <name>Graveler</name>
 	<types>
@@ -1416,7 +1416,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="7" final="0">
 	<num>0075-A</num>
     <name>Graveler</name>
 	<types>
@@ -1431,7 +1431,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0076</num>
     <name>Golem</name>
 	<types>
@@ -1447,7 +1447,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0076-A</num>
     <name>Golem</name>
 	<types>
@@ -1462,7 +1462,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0077</num>
     <name>Ponyta</name>
 	<types>
@@ -1477,7 +1477,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="8" final="0">
 	<num>0077-G</num>
     <name>Ponyta</name>
 	<types>
@@ -1491,7 +1491,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0078</num>
     <name>Rapidash</name>
 	<types>
@@ -1507,7 +1507,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="8" final="99">
 	<num>0078-G</num>
     <name>Rapidash</name>
 	<types>
@@ -1522,7 +1522,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0079</num>
     <name>Slowpoke</name>
 	<types>
@@ -1537,7 +1537,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="8" final="0">
 	<num>0079-G</num>
     <name>Slowpoke</name>
 	<types>
@@ -1551,7 +1551,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0080</num>
     <name>Slowbro</name>
 	<types>
@@ -1568,7 +1568,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="8" final="99">
 	<num>0080-G</num>
     <name>Slowbro</name>
 	<types>
@@ -1583,7 +1583,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0081</num>
     <name>Magnemite</name>
 	<types>
@@ -1599,7 +1599,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="3">
 	<num>0082</num>
     <name>Magneton</name>
 	<types>
@@ -1615,7 +1615,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0083</num>
     <name>Farfetch'd</name>
 	<types>
@@ -1632,7 +1632,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="8" final="0">
 	<num>0083-G</num>
     <name>Farfetch'd</name>
 	<types>
@@ -1646,7 +1646,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0084</num>
     <name>Doduo</name>
 	<types>
@@ -1662,7 +1662,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0085</num>
     <name>Dodrio</name>
 	<types>
@@ -1678,7 +1678,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0086</num>
     <name>Seel</name>
 	<types>
@@ -1693,7 +1693,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0087</num>
     <name>Dewgong</name>
 	<types>
@@ -1710,7 +1710,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0088</num>
     <name>Grimer</name>
 	<types>
@@ -1726,7 +1726,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="7" final="0">
 	<num>0088-A</num>
     <name>Grimer</name>
 	<types>
@@ -1741,7 +1741,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0089</num>
     <name>Muk</name>
 	<types>
@@ -1756,7 +1756,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0089-A</num>
     <name>Muk</name>
 	<types>
@@ -1772,7 +1772,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0090</num>
     <name>Shellder</name>
 	<types>
@@ -1786,7 +1786,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0091</num>
     <name>Cloyster</name>
 	<types>
@@ -1802,7 +1802,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0092</num>
     <name>Gastly</name>
 	<types>
@@ -1817,7 +1817,7 @@
 	</status>
   </mon> 
     
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0093</num>
     <name>Haunter</name>
 	<types>
@@ -1832,7 +1832,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0094</num>
     <name>Gengar</name>
 	<types>
@@ -1850,7 +1850,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="1">
 	<num>0095</num>
     <name>Onix</name>
 	<types>
@@ -1865,7 +1865,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0096</num>
     <name>Drowzee</name>
 	<types>
@@ -1880,7 +1880,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0097</num>
     <name>Hypno</name>
 	<types>
@@ -1896,7 +1896,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0098</num>
     <name>Krabby</name>
 	<types>
@@ -1910,7 +1910,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0099</num>
     <name>Kingler</name>
 	<types>
@@ -1925,7 +1925,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0100</num>
     <name>Voltorb</name>
 	<types>
@@ -1939,7 +1939,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="8" final="0">
 	<num>0100-Hi</num>
     <name>Voltorb</name>
 	<types>
@@ -1954,7 +1954,7 @@
 	</status>
   </mon> 
   
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0101</num>
     <name>Electrode</name>
 	<types>
@@ -1969,7 +1969,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="8" final="99">
 	<num>0101-Hi</num>
     <name>Electrode</name>
 	<types>
@@ -1984,7 +1984,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0102</num>
     <name>Exeggcute</name>
 	<types>
@@ -1999,7 +1999,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0103</num>
     <name>Exeggutor</name>
 	<types>
@@ -2015,7 +2015,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0103-A</num>
     <name>Exeggutor</name>
 	<types>
@@ -2030,7 +2030,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0104</num>
     <name>Cubone</name>
 	<types>
@@ -2044,7 +2044,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0105</num>
     <name>Marowak</name>
 	<types>
@@ -2060,7 +2060,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="7" final="99">
 	<num>0105-A</num>
     <name>Marowak</name>
 	<types>
@@ -2075,7 +2075,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0106</num>
     <name>Hitmonlee</name>
 	<types>
@@ -2091,7 +2091,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0107</num>
     <name>Hitmonchan</name>
 	<types>
@@ -2105,7 +2105,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="3">
 	<num>0108</num>
     <name>Lickitung</name>
 	<types>
@@ -2119,7 +2119,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0109</num>
     <name>Koffing</name>
 	<types>
@@ -2133,7 +2133,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0110</num>
     <name>Weezing</name>
 	<types>
@@ -2148,7 +2148,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="8" final="99">
 	<num>0110-G</num>
     <name>Weezing</name>
 	<types>
@@ -2163,7 +2163,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0111</num>
     <name>Rhyhorn</name>
 	<types>
@@ -2178,7 +2178,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="3">
 	<num>0112</num>
     <name>Rhydon</name>
 	<types>
@@ -2194,7 +2194,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="1">
 	<num>0113</num>
     <name>Chansey</name>
 	<types>
@@ -2210,7 +2210,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="3">
 	<num>0114</num>
     <name>Tangela</name>
 	<types>
@@ -2225,7 +2225,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0115</num>
     <name>Kangaskhan</name>
 	<types>
@@ -2240,7 +2240,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0116</num>
     <name>Horsea</name>
 	<types>
@@ -2255,7 +2255,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="1">
 	<num>0117</num>
     <name>Seadra</name>
 	<types>
@@ -2269,7 +2269,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0118</num>
     <name>Goldeen</name>
 	<types>
@@ -2283,7 +2283,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0119</num>
     <name>Seaking</name>
 	<types>
@@ -2298,7 +2298,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0120</num>
     <name>Staryu</name>
 	<types>
@@ -2312,7 +2312,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0121</num>
     <name>Starmie</name>
 	<types>
@@ -2331,7 +2331,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0122</num>
     <name>Mr. Mime</name>
 	<types>
@@ -2347,7 +2347,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="8" final="0">
 	<num>0122-G</num>
     <name>Mr. Mime</name>
 	<types>
@@ -2362,7 +2362,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="1">
 	<num>0123</num>
     <name>Scyther</name>
 	<types>
@@ -2378,7 +2378,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0124</num>
     <name>Jynx</name>
 	<types>
@@ -2394,7 +2394,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="3">
 	<num>0125</num>
     <name>Electabuzz</name>
 	<types>
@@ -2409,7 +2409,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="3">
 	<num>0126</num>
     <name>Magmar</name>
 	<types>
@@ -2425,7 +2425,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0127</num>
     <name>Pinsir</name>
 	<types>
@@ -2439,7 +2439,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0128</num>
     <name>Tauros</name>
 	<types>
@@ -2455,7 +2455,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="9" final="99">
 	<num>0128-Pa</num>
     <name>Tauros</name>
 	<types>
@@ -2469,7 +2469,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0129</num>
     <name>Magikarp</name>
 	<types>
@@ -2483,7 +2483,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0130</num>
     <name>Gyarados</name>
 	<types>
@@ -2502,7 +2502,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0131</num>
     <name>Lapras</name>
 	<types>
@@ -2522,7 +2522,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0132</num>
     <name>Ditto</name>
 	<types>
@@ -2537,7 +2537,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0133</num>
     <name>Eevee</name>
 	<types>
@@ -2552,7 +2552,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0134</num>
     <name>Vaporeon</name>
 	<types>
@@ -2570,7 +2570,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0135</num>
     <name>Jolteon</name>
 	<types>
@@ -2587,7 +2587,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0136</num>
     <name>Flareon</name>
 	<types>
@@ -2603,7 +2603,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="1">
 	<num>0137</num>
     <name>Porygon</name>
 	<types>
@@ -2618,7 +2618,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0138</num>
     <name>Omanyte</name>
 	<types>
@@ -2633,7 +2633,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0139</num>
     <name>Omastar</name>
 	<types>
@@ -2650,7 +2650,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0140</num>
     <name>Kabuto</name>
 	<types>
@@ -2665,7 +2665,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0141</num>
     <name>Kabutops</name>
 	<types>
@@ -2682,7 +2682,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0142</num>
     <name>Aerodactyl</name>
 	<types>
@@ -2698,7 +2698,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0143</num>
     <name>Snorlax</name>
 	<types>
@@ -2714,7 +2714,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0144</num>
     <name>Articuno</name>
 	<types>
@@ -2732,7 +2732,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="8" final="99">
 	<num>0144-G</num>
     <name>Articuno</name>
 	<types>
@@ -2747,7 +2747,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0145</num>
     <name>Zapdos</name>
 	<types>
@@ -2766,7 +2766,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="8" final="99">
 	<num>0145-G</num>
     <name>Zapdos</name>
 	<types>
@@ -2781,7 +2781,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0146</num>
     <name>Moltres</name>
 	<types>
@@ -2798,7 +2798,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="8" final="99">
 	<num>0146-G</num>
     <name>Moltres</name>
 	<types>
@@ -2813,7 +2813,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0147</num>
     <name>Dratini</name>
 	<types>
@@ -2827,7 +2827,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="false">
+  <mon region="kanto" debut="1" final="0">
 	<num>0148</num>
     <name>Dragonair</name>
 	<types>
@@ -2842,7 +2842,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0149</num>
     <name>Dragonite</name>
 	<types>
@@ -2860,7 +2860,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0150</num>
     <name>Mewtwo</name>
 	<types>
@@ -2878,7 +2878,7 @@
 	</status>
   </mon> 
 
-  <mon region="kanto" final="true">
+  <mon region="kanto" debut="1" final="99">
 	<num>0151</num>
     <name>Mew</name>
 	<types>
@@ -2900,7 +2900,7 @@
 
 <!-- JOHTO -->
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0152</num>
     <name>Chikorita</name>
 	<types>
@@ -2914,7 +2914,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0153</num>
     <name>Bayleef</name>
 	<types>
@@ -2928,7 +2928,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0154</num>
     <name>Meganium</name>
 	<types>
@@ -2946,7 +2946,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0155</num>
     <name>Cyndaquil</name>
 	<types>
@@ -2960,7 +2960,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0156</num>
     <name>Quilava</name>
 	<types>
@@ -2974,7 +2974,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0157</num>
     <name>Typhlosion</name>
 	<types>
@@ -2991,7 +2991,7 @@
 	</status>
   </mon> 
     
-  <mon region="johto" final="true">
+  <mon region="johto" debut="8" final="99">
 	<num>0157-Hi</num>
     <name>Typhlosion</name>
 	<types>
@@ -3007,7 +3007,7 @@
 	</status>
   </mon> 
    
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0158</num>
     <name>Totodile</name>
 	<types>
@@ -3021,7 +3021,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0159</num>
     <name>Croconaw</name>
 	<types>
@@ -3035,7 +3035,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0160</num>
     <name>Feraligatr</name>
 	<types>
@@ -3054,7 +3054,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0161</num>
     <name>Sentret</name>
 	<types>
@@ -3068,7 +3068,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0162</num>
     <name>Furret</name>
 	<types>
@@ -3085,7 +3085,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0163</num>
     <name>Hoothoot</name>
 	<types>
@@ -3100,7 +3100,7 @@
 	</status>
   </mon> 
   
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0164</num>
     <name>Noctowl</name>
 	<types>
@@ -3116,7 +3116,7 @@
 	</status>
   </mon> 
     
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0165</num>
     <name>Ledyba</name>
 	<types>
@@ -3131,7 +3131,7 @@
 	</status>
   </mon> 
       
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0166</num>
     <name>Ledian</name>
 	<types>
@@ -3146,7 +3146,7 @@
 	</status>
   </mon> 
         
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0167</num>
     <name>Spinarak</name>
 	<types>
@@ -3161,7 +3161,7 @@
 	</status>
   </mon> 
           
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0168</num>
     <name>Ariados</name>
 	<types>
@@ -3177,7 +3177,7 @@
 	</status>
   </mon> 
             
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0169</num>
     <name>Crobat</name>
 	<types>
@@ -3195,7 +3195,7 @@
 	</status>
   </mon> 
               
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0170</num>
     <name>Chinchou</name>
 	<types>
@@ -3210,7 +3210,7 @@
 	</status>
   </mon> 
                 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0171</num>
     <name>Lanturn</name>
 	<types>
@@ -3227,7 +3227,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0172</num>
     <name>Pichu</name>
 	<types>
@@ -3241,7 +3241,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0173</num>
     <name>Cleffa</name>
 	<types>
@@ -3255,7 +3255,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0174</num>
     <name>Igglybuff</name>
 	<types>
@@ -3270,7 +3270,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0175</num>
     <name>Togepi</name>
 	<types>
@@ -3286,7 +3286,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="3">
 	<num>0176</num>
     <name>Togetic</name>
 	<types>
@@ -3301,7 +3301,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0177</num>
     <name>Natu</name>
 	<types>
@@ -3316,7 +3316,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0178</num>
     <name>Xatu</name>
 	<types>
@@ -3333,7 +3333,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0179</num>
     <name>Mareep</name>
 	<types>
@@ -3347,7 +3347,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0180</num>
     <name>Flaaffy</name>
 	<types>
@@ -3361,7 +3361,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0181</num>
     <name>Ampharos</name>
 	<types>
@@ -3379,7 +3379,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0182</num>
     <name>Bellossom</name>
 	<types>
@@ -3394,7 +3394,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0183</num>
     <name>Marill</name>
 	<types>
@@ -3409,7 +3409,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0184</num>
     <name>Azumarill</name>
 	<types>
@@ -3427,7 +3427,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0185</num>
     <name>Sudowoodo</name>
 	<types>
@@ -3444,7 +3444,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0186</num>
     <name>Politoed</name>
 	<types>
@@ -3459,7 +3459,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0187</num>
     <name>Hoppip</name>
 	<types>
@@ -3474,7 +3474,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0188</num>
     <name>Skiploom</name>
 	<types>
@@ -3490,7 +3490,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0189</num>
     <name>Jumpluff</name>
 	<types>
@@ -3507,7 +3507,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="3">
 	<num>0190</num>
     <name>Aipom</name>
 	<types>
@@ -3521,7 +3521,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0191</num>
     <name>Sunkern</name>
 	<types>
@@ -3535,7 +3535,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0192</num>
     <name>Sunflora</name>
 	<types>
@@ -3550,7 +3550,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="3">
 	<num>0193</num>
     <name>Yanma</name>
 	<types>
@@ -3565,7 +3565,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0194</num>
     <name>Wooper</name>
 	<types>
@@ -3581,7 +3581,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="9" final="0">
 	<num>0194-Pa</num>
     <name>Wooper</name>
 	<types>
@@ -3596,7 +3596,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0195</num>
     <name>Quagsire</name>
 	<types>
@@ -3614,7 +3614,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0196</num>
     <name>Espeon</name>
 	<types>
@@ -3633,7 +3633,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0197</num>
     <name>Umbreon</name>
 	<types>
@@ -3649,7 +3649,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="3">
 	<num>0198</num>
     <name>Murkrow</name>
 	<types>
@@ -3664,7 +3664,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0199</num>
     <name>Slowking</name>
 	<types>
@@ -3680,7 +3680,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="8" final="99">
 	<num>0199-G</num>
     <name>Slowking</name>
 	<types>
@@ -3695,7 +3695,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="3">
 	<num>0200</num>
     <name>Misdreavus</name>
 	<types>
@@ -3710,7 +3710,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0201</num>
     <name>Unown</name>
 	<types>
@@ -3725,7 +3725,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0202</num>
     <name>Wobbuffet</name>
 	<types>
@@ -3740,7 +3740,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="8">
 	<num>0203</num>
     <name>Girafarig</name>
 	<types>
@@ -3755,7 +3755,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0204</num>
     <name>Pineco</name>
 	<types>
@@ -3769,7 +3769,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0205</num>
     <name>Forretress</name>
 	<types>
@@ -3785,7 +3785,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="8">
 	<num>0206</num>
     <name>Dunsparce</name>
 	<types>
@@ -3800,7 +3800,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="3">
 	<num>0207</num>
     <name>Gligar</name>
 	<types>
@@ -3815,7 +3815,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0208</num>
     <name>Steelix</name>
 	<types>
@@ -3834,7 +3834,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0209</num>
     <name>Snubbull</name>
 	<types>
@@ -3848,7 +3848,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0210</num>
     <name>Granbull</name>
 	<types>
@@ -3862,7 +3862,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0211</num>
     <name>Qwilfish</name>
 	<types>
@@ -3878,7 +3878,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="8" final="0">
 	<num>0211-Hi</num>
     <name>Qwilfish</name>
 	<types>
@@ -3893,7 +3893,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0212</num>
     <name>Scizor</name>
 	<types>
@@ -3908,7 +3908,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0213</num>
     <name>Shuckle</name>
 	<types>
@@ -3924,7 +3924,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0214</num>
     <name>Heracross</name>
 	<types>
@@ -3940,7 +3940,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="3">
 	<num>0215</num>
     <name>Sneasel</name>
 	<types>
@@ -3955,7 +3955,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="8" final="0">
 	<num>0215-Hi</num>
     <name>Sneasel</name>
 	<types>
@@ -3970,7 +3970,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0216</num>
     <name>Teddiursa</name>
 	<types>
@@ -3984,7 +3984,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="7">
 	<num>0217</num>
     <name>Ursaring</name>
 	<types>
@@ -3999,7 +3999,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0218</num>
     <name>Slugma</name>
 	<types>
@@ -4013,7 +4013,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0219</num>
     <name>Magcargo</name>
 	<types>
@@ -4030,7 +4030,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0220</num>
     <name>Swinub</name>
 	<types>
@@ -4045,7 +4045,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="3">
 	<num>0221</num>
     <name>Piloswine</name>
 	<types>
@@ -4060,7 +4060,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0222</num>
     <name>Corsola</name>
 	<types>
@@ -4075,7 +4075,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="8" final="0">
 	<num>0222-G</num>
     <name>Corsola</name>
 	<types>
@@ -4089,7 +4089,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0223</num>
     <name>Remoraid</name>
 	<types>
@@ -4103,7 +4103,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0224</num>
     <name>Octillery</name>
 	<types>
@@ -4118,7 +4118,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0225</num>
     <name>Delibird</name>
 	<types>
@@ -4133,7 +4133,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0226</num>
     <name>Mantine</name>
 	<types>
@@ -4149,7 +4149,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0227</num>
     <name>Skarmory</name>
 	<types>
@@ -4165,7 +4165,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0228</num>
     <name>Houndour</name>
 	<types>
@@ -4180,7 +4180,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0229</num>
     <name>Houndoom</name>
 	<types>
@@ -4197,7 +4197,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0230</num>
     <name>Kingdra</name>
 	<types>
@@ -4215,7 +4215,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0231</num>
     <name>Phanpy</name>
 	<types>
@@ -4229,7 +4229,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0232</num>
     <name>Donphan</name>
 	<types>
@@ -4245,7 +4245,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="3">
 	<num>0233</num>
     <name>Porygon2</name>
 	<types>
@@ -4261,7 +4261,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="7">
 	<num>0234</num>
     <name>Stantler</name>
 	<types>
@@ -4275,7 +4275,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0235</num>
     <name>Smeargle</name>
 	<types>
@@ -4289,7 +4289,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0236</num>
     <name>Tyrogue</name>
 	<types>
@@ -4303,7 +4303,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0237</num>
     <name>Hitmontop</name>
 	<types>
@@ -4317,7 +4317,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0238</num>
     <name>Smoochum</name>
 	<types>
@@ -4332,7 +4332,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0239</num>
     <name>Elekid</name>
 	<types>
@@ -4346,7 +4346,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0240</num>
     <name>Magby</name>
 	<types>
@@ -4360,7 +4360,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0241</num>
     <name>Miltank</name>
 	<types>
@@ -4375,7 +4375,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0242</num>
     <name>Blissey</name>
 	<types>
@@ -4390,7 +4390,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0243</num>
     <name>Raikou</name>
 	<types>
@@ -4404,7 +4404,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0244</num>
     <name>Entei</name>
 	<types>
@@ -4421,7 +4421,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0245</num>
     <name>Suicune</name>
 	<types>
@@ -4437,7 +4437,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0246</num>
     <name>Larvitar</name>
 	<types>
@@ -4452,7 +4452,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0247</num>
     <name>Pupitar</name>
 	<types>
@@ -4467,7 +4467,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="false">
+  <mon region="johto" debut="2" final="0">
 	<num>0248</num>
     <name>Tyranitar</name>
 	<types>
@@ -4485,7 +4485,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0249</num>
     <name>Lugia</name>
 	<types>
@@ -4505,7 +4505,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0250</num>
     <name>Ho-Oh</name>
 	<types>
@@ -4523,7 +4523,7 @@
 	</status>
   </mon> 
 
-  <mon region="johto" final="true">
+  <mon region="johto" debut="2" final="99">
 	<num>0251</num>
     <name>Celebi</name>
 	<types>
@@ -4543,7 +4543,7 @@
 
 <!-- HOENN -->
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0252</num>
     <name>Treecko</name>
 	<types>
@@ -4558,7 +4558,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0253</num>
     <name>Grovyle</name>
 	<types>
@@ -4572,7 +4572,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0254</num>
     <name>Sceptile</name>
 	<types>
@@ -4588,7 +4588,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0255</num>
     <name>Torchic</name>
 	<types>
@@ -4602,7 +4602,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0256</num>
     <name>Combusken</name>
 	<types>
@@ -4617,7 +4617,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0257</num>
     <name>Blaziken</name>
 	<types>
@@ -4634,7 +4634,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0258</num>
     <name>Mudkip</name>
 	<types>
@@ -4648,7 +4648,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0259</num>
     <name>Marshtomp</name>
 	<types>
@@ -4664,7 +4664,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0260</num>
     <name>Swampert</name>
 	<types>
@@ -4683,7 +4683,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0261</num>
     <name>Poochyena</name>
 	<types>
@@ -4697,7 +4697,7 @@
 	</status>
   </mon> 
   
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0262</num>
     <name>Mightyena</name>
 	<types>
@@ -4712,7 +4712,7 @@
 	</status>
   </mon> 
   
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0263</num>
     <name>Zigzagoon</name>
 	<types>
@@ -4728,7 +4728,7 @@
 	</status>
   </mon> 
       
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="8" final="0">
 	<num>0263-G</num>
     <name>Zigzagoon</name>
 	<types>
@@ -4743,7 +4743,7 @@
 	</status>
   </mon> 
       
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0264</num>
     <name>Linoone</name>
 	<types>
@@ -4761,7 +4761,7 @@
 	</status>
   </mon> 
       
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="8" final="0">
 	<num>0264-G</num>
     <name>Linoone</name>
 	<types>
@@ -4776,7 +4776,7 @@
 	</status>
   </mon> 
     
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0265</num>
     <name>Wurmple</name>
 	<types>
@@ -4790,7 +4790,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0266</num>
     <name>Silcoon</name>
 	<types>
@@ -4804,7 +4804,7 @@
 	</status>
   </mon> 
           
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0267</num>
     <name>Beautifly</name>
 	<types>
@@ -4819,7 +4819,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0268</num>
     <name>Cascoon</name>
 	<types>
@@ -4833,7 +4833,7 @@
 	</status>
   </mon> 
           
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0269</num>
     <name>Dustox</name>
 	<types>
@@ -4849,7 +4849,7 @@
 	</status>
   </mon> 
     
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0270</num>
     <name>Lotad</name>
 	<types>
@@ -4864,7 +4864,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0271</num>
     <name>Lombre</name>
 	<types>
@@ -4879,7 +4879,7 @@
 	</status>
   </mon> 
           
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0272</num>
     <name>Ludicolo</name>
 	<types>
@@ -4896,7 +4896,7 @@
 	</status>
   </mon> 
     
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0273</num>
     <name>Seedot</name>
 	<types>
@@ -4910,7 +4910,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0274</num>
     <name>Nuzleaf</name>
 	<types>
@@ -4925,7 +4925,7 @@
 	</status>
   </mon> 
           
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0275</num>
     <name>Shiftry</name>
 	<types>
@@ -4941,7 +4941,7 @@
 	</status>
   </mon> 
   
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0276</num>
     <name>Taillow</name>
 	<types>
@@ -4957,7 +4957,7 @@
 	</status>
   </mon> 
       
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0277</num>
     <name>Swellow</name>
 	<types>
@@ -4973,7 +4973,7 @@
 	</status>
   </mon> 
       
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0278</num>
     <name>Wingull</name>
 	<types>
@@ -4988,7 +4988,7 @@
 	</status>
   </mon> 
       
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0279</num>
     <name>Pelipper</name>
 	<types>
@@ -5004,7 +5004,7 @@
 	</status>
   </mon> 
     
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0280</num>
     <name>Ralts</name>
 	<types>
@@ -5019,7 +5019,7 @@
 	</status>
   </mon> 
             
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0281</num>
     <name>Kirlia</name>
 	<types>
@@ -5034,7 +5034,7 @@
 	</status>
   </mon> 
         
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0282</num>
     <name>Gardevoir</name>
 	<types>
@@ -5055,7 +5055,7 @@
 	</status>
   </mon> 
     
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0283</num>
     <name>Surskit</name>
 	<types>
@@ -5070,7 +5070,7 @@
 	</status>
   </mon> 
       
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0284</num>
     <name>Masquerain</name>
 	<types>
@@ -5087,7 +5087,7 @@
 	</status>
   </mon> 
           
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0285</num>
     <name>Shroomish</name>
 	<types>
@@ -5101,7 +5101,7 @@
 	</status>
   </mon> 
       
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0286</num>
     <name>Breloom</name>
 	<types>
@@ -5117,7 +5117,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0287</num>
     <name>Slakoth</name>
 	<types>
@@ -5131,7 +5131,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0288</num>
     <name>Vigoroth</name>
 	<types>
@@ -5145,7 +5145,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0289</num>
     <name>Slaking</name>
 	<types>
@@ -5162,7 +5162,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0290</num>
     <name>Nincada</name>
 	<types>
@@ -5177,7 +5177,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0291</num>
     <name>Ninjask</name>
 	<types>
@@ -5193,7 +5193,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0292</num>
     <name>Shedinja</name>
 	<types>
@@ -5210,7 +5210,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0293</num>
     <name>Whismur</name>
 	<types>
@@ -5224,7 +5224,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0294</num>
     <name>Loudred</name>
 	<types>
@@ -5238,7 +5238,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0295</num>
     <name>Exploud</name>
 	<types>
@@ -5253,7 +5253,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0296</num>
     <name>Makuhita</name>
 	<types>
@@ -5267,7 +5267,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0297</num>
     <name>Hariyama</name>
 	<types>
@@ -5282,7 +5282,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0298</num>
     <name>Azurill</name>
 	<types>
@@ -5297,7 +5297,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="3">
 	<num>0299</num>
     <name>Nosepass</name>
 	<types>
@@ -5311,7 +5311,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0300</num>
     <name>Skitty</name>
 	<types>
@@ -5325,7 +5325,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0301</num>
     <name>Delcatty</name>
 	<types>
@@ -5341,7 +5341,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0302</num>
     <name>Sableye</name>
 	<types>
@@ -5357,7 +5357,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0303</num>
     <name>Mawile</name>
 	<types>
@@ -5373,7 +5373,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0304</num>
     <name>Aron</name>
 	<types>
@@ -5389,7 +5389,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0305</num>
     <name>Lairon</name>
 	<types>
@@ -5404,7 +5404,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0306</num>
     <name>Aggron</name>
 	<types>
@@ -5420,7 +5420,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0307</num>
     <name>Meditite</name>
 	<types>
@@ -5435,7 +5435,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0308</num>
     <name>Medicham</name>
 	<types>
@@ -5451,7 +5451,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0309</num>
     <name>Electrike</name>
 	<types>
@@ -5465,7 +5465,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0310</num>
     <name>Manectric</name>
 	<types>
@@ -5482,7 +5482,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0311</num>
     <name>Plusle</name>
 	<types>
@@ -5498,7 +5498,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0312</num>
     <name>Minun</name>
 	<types>
@@ -5513,7 +5513,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0313</num>
     <name>Volbeat</name>
 	<types>
@@ -5529,7 +5529,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0314</num>
     <name>Illumise</name>
 	<types>
@@ -5543,7 +5543,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="3">
 	<num>0315</num>
     <name>Roselia</name>
 	<types>
@@ -5558,7 +5558,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0316</num>
     <name>Gulpin</name>
 	<types>
@@ -5572,7 +5572,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0317</num>
     <name>Swalot</name>
 	<types>
@@ -5587,7 +5587,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0318</num>
     <name>Carvanha</name>
 	<types>
@@ -5602,7 +5602,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0319</num>
     <name>Sharpedo</name>
 	<types>
@@ -5619,7 +5619,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0320</num>
     <name>Wailmer</name>
 	<types>
@@ -5633,7 +5633,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0321</num>
     <name>Wailord</name>
 	<types>
@@ -5649,7 +5649,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0322</num>
     <name>Numel</name>
 	<types>
@@ -5664,7 +5664,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0323</num>
     <name>Camerupt</name>
 	<types>
@@ -5680,7 +5680,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0324</num>
     <name>Torkoal</name>
 	<types>
@@ -5695,7 +5695,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0325</num>
     <name>Spoink</name>
 	<types>
@@ -5709,7 +5709,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0326</num>
     <name>Grumpig</name>
 	<types>
@@ -5723,7 +5723,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0327</num>
     <name>Spinda</name>
 	<types>
@@ -5737,7 +5737,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0328</num>
     <name>Trapinch</name>
 	<types>
@@ -5751,7 +5751,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0329</num>
     <name>Vibrava</name>
 	<types>
@@ -5767,7 +5767,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0330</num>
     <name>Flygon</name>
 	<types>
@@ -5783,7 +5783,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0331</num>
     <name>Cacnea</name>
 	<types>
@@ -5797,7 +5797,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0332</num>
     <name>Cacturne</name>
 	<types>
@@ -5814,7 +5814,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0333</num>
     <name>Swablu</name>
 	<types>
@@ -5829,7 +5829,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0334</num>
     <name>Altaria</name>
 	<types>
@@ -5847,7 +5847,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0335</num>
     <name>Zangoose</name>
 	<types>
@@ -5861,7 +5861,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0336</num>
     <name>Seviper</name>
 	<types>
@@ -5876,7 +5876,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0337</num>
     <name>Lunatone</name>
 	<types>
@@ -5892,7 +5892,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0338</num>
     <name>Solrock</name>
 	<types>
@@ -5908,7 +5908,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0339</num>
     <name>Barboach</name>
 	<types>
@@ -5923,7 +5923,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0340</num>
     <name>Whiscash</name>
 	<types>
@@ -5939,7 +5939,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0341</num>
     <name>Corphish</name>
 	<types>
@@ -5953,7 +5953,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0342</num>
     <name>Crawdaunt</name>
 	<types>
@@ -5969,7 +5969,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0343</num>
     <name>Baltoy</name>
 	<types>
@@ -5984,7 +5984,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0344</num>
     <name>Claydol</name>
 	<types>
@@ -6000,7 +6000,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0345</num>
     <name>Lileep</name>
 	<types>
@@ -6016,7 +6016,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0346</num>
     <name>Cradily</name>
 	<types>
@@ -6035,7 +6035,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0347</num>
     <name>Anorith</name>
 	<types>
@@ -6050,7 +6050,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0348</num>
     <name>Armaldo</name>
 	<types>
@@ -6067,7 +6067,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0349</num>
     <name>Feebas</name>
 	<types>
@@ -6082,7 +6082,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0350</num>
     <name>Milotic</name>
 	<types>
@@ -6099,7 +6099,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0351</num>
     <name>Castform</name>
 	<types>
@@ -6113,7 +6113,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0352</num>
     <name>Kecleon</name>
 	<types>
@@ -6128,7 +6128,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0353</num>
     <name>Shuppet</name>
 	<types>
@@ -6143,7 +6143,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0354</num>
     <name>Banette</name>
 	<types>
@@ -6157,7 +6157,7 @@
 	</status>
   </mon>
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0355</num>
     <name>Duskull</name>
 	<types>
@@ -6171,7 +6171,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="3">
 	<num>0356</num>
     <name>Dusclops</name>
 	<types>
@@ -6185,7 +6185,7 @@
 	</status>
   </mon>
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0357</num>
     <name>Tropius</name>
 	<types>
@@ -6203,7 +6203,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0358</num>
     <name>Chimecho</name>
 	<types>
@@ -6217,7 +6217,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0359</num>
     <name>Absol</name>
 	<types>
@@ -6233,7 +6233,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0360</num>
     <name>Wynaut</name>
 	<types>
@@ -6247,7 +6247,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0361</num>
     <name>Snorunt</name>
 	<types>
@@ -6261,7 +6261,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0362</num>
     <name>Glalie</name>
 	<types>
@@ -6276,7 +6276,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0363</num>
     <name>Spheal</name>
 	<types>
@@ -6291,7 +6291,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0364</num>
     <name>Sealeo</name>
 	<types>
@@ -6306,7 +6306,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0365</num>
     <name>Walrein</name>
 	<types>
@@ -6325,7 +6325,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0366</num>
     <name>Clamperl</name>
 	<types>
@@ -6339,7 +6339,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0367</num>
     <name>Huntail</name>
 	<types>
@@ -6353,7 +6353,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0368</num>
     <name>Gorebyss</name>
 	<types>
@@ -6367,7 +6367,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0369</num>
     <name>Relicanth</name>
 	<types>
@@ -6383,7 +6383,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0370</num>
     <name>Luvdisc</name>
 	<types>
@@ -6397,7 +6397,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0371</num>
     <name>Bagon</name>
 	<types>
@@ -6411,7 +6411,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0372</num>
     <name>Shelgon</name>
 	<types>
@@ -6425,7 +6425,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0373</num>
     <name>Salamence</name>
 	<types>
@@ -6445,7 +6445,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0374</num>
     <name>Beldum</name>
 	<types>
@@ -6461,7 +6461,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="false">
+  <mon region="hoenn" debut="3" final="0">
 	<num>0375</num>
     <name>Metang</name>
 	<types>
@@ -6477,7 +6477,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0376</num>
     <name>Metagross</name>
 	<types>
@@ -6494,7 +6494,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0377</num>
     <name>Regirock</name>
 	<types>
@@ -6511,7 +6511,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0378</num>
     <name>Regice</name>
 	<types>
@@ -6526,7 +6526,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0379</num>
     <name>Registeel</name>
 	<types>
@@ -6540,7 +6540,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0380</num>
     <name>Latias</name>
 	<types>
@@ -6556,7 +6556,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0381</num>
     <name>Latios</name>
 	<types>
@@ -6573,7 +6573,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0382</num>
     <name>Kyogre</name>
 	<types>
@@ -6589,7 +6589,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0383</num>
     <name>Groudon</name>
 	<types>
@@ -6605,7 +6605,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0384</num>
     <name>Rayquaza</name>
 	<types>
@@ -6622,7 +6622,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0385</num>
     <name>Jirachi</name>
 	<types>
@@ -6638,7 +6638,7 @@
 	</status>
   </mon> 
 
-  <mon region="hoenn" final="true">
+  <mon region="hoenn" debut="3" final="99">
 	<num>0386</num>
     <name>Deoxys</name>
 	<types>
@@ -6654,7 +6654,7 @@
 
 <!-- SINNOH -->
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0387</num>
     <name>Turtwig</name>
 	<types>
@@ -6668,7 +6668,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0388</num>
     <name>Grotle</name>
 	<types>
@@ -6682,7 +6682,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0389</num>
     <name>Torterra</name>
 	<types>
@@ -6702,7 +6702,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0390</num>
     <name>Chimchar</name>
 	<types>
@@ -6716,7 +6716,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0391</num>
     <name>Monferno</name>
 	<types>
@@ -6731,7 +6731,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0392</num>
     <name>Infernape</name>
 	<types>
@@ -6748,7 +6748,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0393</num>
     <name>Piplup</name>
 	<types>
@@ -6762,7 +6762,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0394</num>
     <name>Prinplup</name>
 	<types>
@@ -6776,7 +6776,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0395</num>
     <name>Empoleon</name>
 	<types>
@@ -6792,7 +6792,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0396</num>
     <name>Starly</name>
 	<types>
@@ -6807,7 +6807,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0397</num>
     <name>Staravia</name>
 	<types>
@@ -6822,7 +6822,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0398</num>
     <name>Staraptor</name>
 	<types>
@@ -6841,7 +6841,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0399</num>
     <name>Bidoof</name>
 	<types>
@@ -6855,7 +6855,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0400</num>
     <name>Bibarel</name>
 	<types>
@@ -6871,7 +6871,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0401</num>
     <name>Kricketot</name>
 	<types>
@@ -6885,7 +6885,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0402</num>
     <name>Kricketune</name>
 	<types>
@@ -6900,7 +6900,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0403</num>
     <name>Shinx</name>
 	<types>
@@ -6915,7 +6915,7 @@
 	</status>
   </mon> 
     
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0404</num>
     <name>Luxio</name>
 	<types>
@@ -6929,7 +6929,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0405</num>
     <name>Luxray</name>
 	<types>
@@ -6947,7 +6947,7 @@
 	</status>
   </mon> 
     
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0406</num>
     <name>Budew</name>
 	<types>
@@ -6962,7 +6962,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0407</num>
     <name>Roserade</name>
 	<types>
@@ -6979,7 +6979,7 @@
 	</status>
   </mon> 
     
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0408</num>
     <name>Cranidos</name>
 	<types>
@@ -6994,7 +6994,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0409</num>
     <name>Rampardos</name>
 	<types>
@@ -7009,7 +7009,7 @@
 	</status>
   </mon> 
     
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0410</num>
     <name>Shieldon</name>
 	<types>
@@ -7024,7 +7024,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0411</num>
     <name>Bastiodon</name>
 	<types>
@@ -7040,7 +7040,7 @@
 	</status>
   </mon> 
     
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0412</num>
     <name>Burmy</name>
 	<types>
@@ -7054,7 +7054,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0413</num>
     <name>Wormadam</name>
 	<types>
@@ -7069,7 +7069,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0414</num>
     <name>Mothim</name>
 	<types>
@@ -7085,7 +7085,7 @@
 	</status>
   </mon> 
     
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0415</num>
     <name>Combee</name>
 	<types>
@@ -7100,7 +7100,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0416</num>
     <name>Vespiquen</name>
 	<types>
@@ -7115,7 +7115,7 @@
 	</status>
   </mon> 
    
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0417</num>
     <name>Pachirisu</name>
 	<types>
@@ -7130,7 +7130,7 @@
 	</status>
   </mon> 
     
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0418</num>
     <name>Buizel</name>
 	<types>
@@ -7144,7 +7144,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0419</num>
     <name>Floatzel</name>
 	<types>
@@ -7160,7 +7160,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0420</num>
     <name>Cherubi</name>
 	<types>
@@ -7174,7 +7174,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0421</num>
     <name>Cherrim</name>
 	<types>
@@ -7189,7 +7189,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0422</num>
     <name>Shellos</name>
 	<types>
@@ -7203,7 +7203,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0423</num>
     <name>Gastrodon</name>
 	<types>
@@ -7219,7 +7219,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0424</num>
     <name>Ambipom</name>
 	<types>
@@ -7233,7 +7233,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0425</num>
     <name>Drifloon</name>
 	<types>
@@ -7248,7 +7248,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0426</num>
     <name>Drifblim</name>
 	<types>
@@ -7263,7 +7263,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0427</num>
     <name>Buneary</name>
 	<types>
@@ -7279,7 +7279,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0428</num>
     <name>Lopunny</name>
 	<types>
@@ -7294,7 +7294,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0429</num>
     <name>Mismagius</name>
 	<types>
@@ -7309,7 +7309,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0430</num>
     <name>Honchkrow</name>
 	<types>
@@ -7324,7 +7324,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0431</num>
     <name>Glameow</name>
 	<types>
@@ -7338,7 +7338,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0432</num>
     <name>Purugly</name>
 	<types>
@@ -7353,7 +7353,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0433</num>
     <name>Chingling</name>
 	<types>
@@ -7367,7 +7367,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0434</num>
     <name>Stunky</name>
 	<types>
@@ -7382,7 +7382,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0435</num>
     <name>Skuntank</name>
 	<types>
@@ -7399,7 +7399,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0436</num>
     <name>Bronzor</name>
 	<types>
@@ -7414,7 +7414,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0437</num>
     <name>Bronzong</name>
 	<types>
@@ -7430,7 +7430,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0438</num>
     <name>Bonsly</name>
 	<types>
@@ -7444,7 +7444,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0439</num>
     <name>Mime Jr.</name>
 	<types>
@@ -7459,7 +7459,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0440</num>
     <name>Happiny</name>
 	<types>
@@ -7473,7 +7473,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0441</num>
     <name>Chatot</name>
 	<types>
@@ -7492,7 +7492,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0442</num>
     <name>Spiritomb</name>
 	<types>
@@ -7507,7 +7507,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0443</num>
     <name>Gible</name>
 	<types>
@@ -7522,7 +7522,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0444</num>
     <name>Gabite</name>
 	<types>
@@ -7537,7 +7537,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0445</num>
     <name>Garchomp</name>
 	<types>
@@ -7557,7 +7557,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0446</num>
     <name>Munchlax</name>
 	<types>
@@ -7572,7 +7572,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0447</num>
     <name>Riolu</name>
 	<types>
@@ -7587,7 +7587,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0448</num>
     <name>Lucario</name>
 	<types>
@@ -7603,7 +7603,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0449</num>
     <name>Hippopotas</name>
 	<types>
@@ -7617,7 +7617,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0450</num>
     <name>Hippowdon</name>
 	<types>
@@ -7631,7 +7631,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0451</num>
     <name>Skorupi</name>
 	<types>
@@ -7646,7 +7646,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0452</num>
     <name>Drapion</name>
 	<types>
@@ -7662,7 +7662,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0453</num>
     <name>Croagunk</name>
 	<types>
@@ -7677,7 +7677,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0454</num>
     <name>Toxicroak</name>
 	<types>
@@ -7694,7 +7694,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0455</num>
     <name>Carnivine</name>
 	<types>
@@ -7708,7 +7708,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0456</num>
     <name>Finneon</name>
 	<types>
@@ -7722,7 +7722,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0457</num>
     <name>Lumineon</name>
 	<types>
@@ -7737,7 +7737,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0458</num>
     <name>Mantyke</name>
 	<types>
@@ -7752,7 +7752,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="false">
+  <mon region="sinnoh" debut="4" final="0">
 	<num>0459</num>
     <name>Snover</name>
 	<types>
@@ -7767,7 +7767,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0460</num>
     <name>Abomasnow</name>
 	<types>
@@ -7782,7 +7782,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0461</num>
     <name>Weavile</name>
 	<types>
@@ -7799,7 +7799,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0462</num>
     <name>Magnezone</name>
 	<types>
@@ -7815,7 +7815,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0463</num>
     <name>Lickilicky</name>
 	<types>
@@ -7830,7 +7830,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0464</num>
     <name>Rhyperior</name>
 	<types>
@@ -7846,7 +7846,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0465</num>
     <name>Tangrowth</name>
 	<types>
@@ -7860,7 +7860,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0466</num>
     <name>Electivire</name>
 	<types>
@@ -7874,7 +7874,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0467</num>
     <name>Magmortar</name>
 	<types>
@@ -7888,7 +7888,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0468</num>
     <name>Togekiss</name>
 	<types>
@@ -7905,7 +7905,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0469</num>
     <name>Yanmega</name>
 	<types>
@@ -7921,7 +7921,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0470</num>
     <name>Leafeon</name>
 	<types>
@@ -7936,7 +7936,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0471</num>
     <name>Glaceon</name>
 	<types>
@@ -7951,7 +7951,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0472</num>
     <name>Gliscor</name>
 	<types>
@@ -7968,7 +7968,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0473</num>
     <name>Mamoswine</name>
 	<types>
@@ -7984,7 +7984,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0474</num>
     <name>Porygon-Z</name>
 	<types>
@@ -8001,7 +8001,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0475</num>
     <name>Gallade</name>
 	<types>
@@ -8018,7 +8018,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0476</num>
     <name>Probopass</name>
 	<types>
@@ -8034,7 +8034,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0477</num>
     <name>Dusknoir</name>
 	<types>
@@ -8049,7 +8049,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0478</num>
     <name>Froslass</name>
 	<types>
@@ -8065,7 +8065,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0479</num>
     <name>Rotom</name>
 	<types>
@@ -8081,7 +8081,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0480</num>
     <name>Uxie</name>
 	<types>
@@ -8096,7 +8096,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0481</num>
     <name>Mesprit</name>
 	<types>
@@ -8111,7 +8111,7 @@
 	</status>
   </mon> 
 
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0482</num>
     <name>Azelf</name>
 	<types>
@@ -8126,7 +8126,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0483</num>
     <name>Dialga</name>
 	<types>
@@ -8142,7 +8142,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0484</num>
     <name>Palkia</name>
 	<types>
@@ -8159,7 +8159,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0485</num>
     <name>Heatran</name>
 	<types>
@@ -8174,7 +8174,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0486</num>
     <name>Regigigas</name>
 	<types>
@@ -8188,7 +8188,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0487</num>
     <name>Giratina</name>
 	<types>
@@ -8205,7 +8205,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0488</num>
     <name>Cresselia</name>
 	<types>
@@ -8221,7 +8221,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0489</num>
     <name>Phione</name>
 	<types>
@@ -8235,7 +8235,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0490</num>
     <name>Manaphy</name>
 	<types>
@@ -8251,7 +8251,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0491</num>
     <name>Darkrai</name>
 	<types>
@@ -8266,7 +8266,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0492</num>
     <name>Shaymin</name>
 	<types>
@@ -8282,7 +8282,7 @@
 	</status>
   </mon> 
   
-  <mon region="sinnoh" final="true">
+  <mon region="sinnoh" debut="4" final="99">
 	<num>0493</num>
     <name>Arceus</name>
 	<types>
@@ -8298,7 +8298,7 @@
 
 <!-- UNOVA -->
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0494</num>
     <name>Victini</name>
 	<types>
@@ -8313,7 +8313,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0495</num>
     <name>Snivy</name>
 	<types>
@@ -8327,7 +8327,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0496</num>
     <name>Servine</name>
 	<types>
@@ -8341,7 +8341,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0497</num>
     <name>Serperior</name>
 	<types>
@@ -8356,7 +8356,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0498</num>
     <name>Tepig</name>
 	<types>
@@ -8370,7 +8370,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0499</num>
     <name>Pignite</name>
 	<types>
@@ -8385,7 +8385,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0500</num>
     <name>Emboar</name>
 	<types>
@@ -8401,7 +8401,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0501</num>
     <name>Oshawott</name>
 	<types>
@@ -8415,7 +8415,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0502</num>
     <name>Dewott</name>
 	<types>
@@ -8429,7 +8429,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0503</num>
     <name>Samurott</name>
 	<types>
@@ -8444,7 +8444,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="8" final="99">
 	<num>0503-Hi</num>
     <name>Samurott</name>
 	<types>
@@ -8459,7 +8459,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0504</num>
     <name>Patrat</name>
 	<types>
@@ -8473,7 +8473,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0505</num>
     <name>Watchog</name>
 	<types>
@@ -8487,7 +8487,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0506</num>
     <name>Lillipup</name>
 	<types>
@@ -8501,7 +8501,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0507</num>
     <name>Herdier</name>
 	<types>
@@ -8515,7 +8515,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0508</num>
     <name>Stoutland</name>
 	<types>
@@ -8529,7 +8529,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0509</num>
     <name>Purrloin</name>
 	<types>
@@ -8543,7 +8543,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0510</num>
     <name>Liepard</name>
 	<types>
@@ -8557,7 +8557,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0511</num>
     <name>Pansage</name>
 	<types>
@@ -8571,7 +8571,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0512</num>
     <name>Simisage</name>
 	<types>
@@ -8585,7 +8585,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0513</num>
     <name>Pansear</name>
 	<types>
@@ -8599,7 +8599,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0514</num>
     <name>Simisear</name>
 	<types>
@@ -8613,7 +8613,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0515</num>
     <name>Panpour</name>
 	<types>
@@ -8627,7 +8627,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0516</num>
     <name>Simipour</name>
 	<types>
@@ -8641,7 +8641,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0517</num>
     <name>Munna</name>
 	<types>
@@ -8655,7 +8655,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0518</num>
     <name>Musharna</name>
 	<types>
@@ -8670,7 +8670,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0519</num>
     <name>Pidove</name>
 	<types>
@@ -8685,7 +8685,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0520</num>
     <name>Tranquill</name>
 	<types>
@@ -8701,7 +8701,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0521</num>
     <name>Unfezant</name>
 	<types>
@@ -8718,7 +8718,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0522</num>
     <name>Blitzle</name>
 	<types>
@@ -8732,7 +8732,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0523</num>
     <name>Zebstrika</name>
 	<types>
@@ -8748,7 +8748,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0524</num>
     <name>Roggenrola</name>
 	<types>
@@ -8762,7 +8762,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0525</num>
     <name>Boldore</name>
 	<types>
@@ -8776,7 +8776,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0526</num>
     <name>Gigalith</name>
 	<types>
@@ -8790,7 +8790,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0527</num>
     <name>Woobat</name>
 	<types>
@@ -8805,7 +8805,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0528</num>
     <name>Swoobat</name>
 	<types>
@@ -8820,7 +8820,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0529</num>
     <name>Drilbur</name>
 	<types>
@@ -8834,7 +8834,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0530</num>
     <name>Excadrill</name>
 	<types>
@@ -8853,7 +8853,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0531</num>
     <name>Audino</name>
 	<types>
@@ -8867,7 +8867,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0532</num>
     <name>Timburr</name>
 	<types>
@@ -8881,7 +8881,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0533</num>
     <name>Gurdurr</name>
 	<types>
@@ -8895,7 +8895,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0534</num>
     <name>Conkeldurr</name>
 	<types>
@@ -8909,7 +8909,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0535</num>
     <name>Tympole</name>
 	<types>
@@ -8924,7 +8924,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0536</num>
     <name>Palpitoad</name>
 	<types>
@@ -8939,7 +8939,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0537</num>
     <name>Seismitoad</name>
 	<types>
@@ -8956,7 +8956,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0538</num>
     <name>Throh</name>
 	<types>
@@ -8970,7 +8970,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0539</num>
     <name>Sawk</name>
 	<types>
@@ -8984,7 +8984,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0540</num>
     <name>Sewaddle</name>
 	<types>
@@ -8999,7 +8999,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0541</num>
     <name>Swadloon</name>
 	<types>
@@ -9014,7 +9014,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0542</num>
     <name>Leavanny</name>
 	<types>
@@ -9031,7 +9031,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0543</num>
     <name>Venipede</name>
 	<types>
@@ -9046,7 +9046,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0544</num>
     <name>Whirlipede</name>
 	<types>
@@ -9061,7 +9061,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0545</num>
     <name>Scolipede</name>
 	<types>
@@ -9077,7 +9077,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0546</num>
     <name>Cottonee</name>
 	<types>
@@ -9092,7 +9092,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0547</num>
     <name>Whimsicott</name>
 	<types>
@@ -9107,7 +9107,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0548</num>
     <name>Petilil</name>
 	<types>
@@ -9121,7 +9121,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0549</num>
     <name>Lilligant</name>
 	<types>
@@ -9136,7 +9136,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="8" final="99">
 	<num>0549-Hi</num>
     <name>Lilligant</name>
 	<types>
@@ -9151,7 +9151,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="7">
 	<num>0550</num>
     <name>Basculin</name>
 	<types>
@@ -9165,7 +9165,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0551</num>
     <name>Sandile</name>
 	<types>
@@ -9180,7 +9180,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0552</num>
     <name>Krokorok</name>
 	<types>
@@ -9195,7 +9195,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0553</num>
     <name>Krookodile</name>
 	<types>
@@ -9212,7 +9212,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0554</num>
     <name>Darumaka</name>
 	<types>
@@ -9226,7 +9226,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="8" final="0">
 	<num>0554-G</num>
     <name>Darumaka</name>
 	<types>
@@ -9240,7 +9240,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0555</num>
     <name>Darmanitan</name>
 	<types>
@@ -9254,7 +9254,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="8" final="99">
 	<num>0555-G</num>
     <name>Darmanitan</name>
 	<types>
@@ -9268,7 +9268,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0556</num>
     <name>Maractus</name>
 	<types>
@@ -9282,7 +9282,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0557</num>
     <name>Dwebble</name>
 	<types>
@@ -9297,7 +9297,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0558</num>
     <name>Crustle</name>
 	<types>
@@ -9312,7 +9312,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0559</num>
     <name>Scraggy</name>
 	<types>
@@ -9327,7 +9327,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0560</num>
     <name>Scrafty</name>
 	<types>
@@ -9342,7 +9342,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0561</num>
     <name>Sigilyph</name>
 	<types>
@@ -9358,7 +9358,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0562</num>
     <name>Yamask</name>
 	<types>
@@ -9372,7 +9372,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="8" final="0">
 	<num>0562-G</num>
     <name>Yamask</name>
 	<types>
@@ -9387,7 +9387,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0563</num>
     <name>Cofagrigus</name>
 	<types>
@@ -9401,7 +9401,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0564</num>
     <name>Tirtouga</name>
 	<types>
@@ -9416,7 +9416,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0565</num>
     <name>Carracosta</name>
 	<types>
@@ -9431,7 +9431,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0566</num>
     <name>Archen</name>
 	<types>
@@ -9446,7 +9446,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0567</num>
     <name>Archeops</name>
 	<types>
@@ -9462,7 +9462,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0568</num>
     <name>Trubbish</name>
 	<types>
@@ -9476,7 +9476,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0569</num>
     <name>Garbodor</name>
 	<types>
@@ -9490,7 +9490,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0570</num>
     <name>Zorua</name>
 	<types>
@@ -9504,7 +9504,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="8" final="0">
 	<num>0570-Hi</num>
     <name>Zorua</name>
 	<types>
@@ -9519,7 +9519,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0571</num>
     <name>Zoroark</name>
 	<types>
@@ -9534,7 +9534,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="8" final="99">
 	<num>0571-Hi</num>
     <name>Zoroark</name>
 	<types>
@@ -9549,7 +9549,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0572</num>
     <name>Minccino</name>
 	<types>
@@ -9563,7 +9563,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0573</num>
     <name>Cinccino</name>
 	<types>
@@ -9577,7 +9577,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0574</num>
     <name>Gothita</name>
 	<types>
@@ -9591,7 +9591,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0575</num>
     <name>Gothorita</name>
 	<types>
@@ -9605,7 +9605,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0576</num>
     <name>Gothitelle</name>
 	<types>
@@ -9619,7 +9619,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0577</num>
     <name>Solosis</name>
 	<types>
@@ -9633,7 +9633,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0578</num>
     <name>Duosion</name>
 	<types>
@@ -9647,7 +9647,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0579</num>
     <name>Reuniclus</name>
 	<types>
@@ -9661,7 +9661,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0580</num>
     <name>Ducklett</name>
 	<types>
@@ -9677,7 +9677,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0581</num>
     <name>Swanna</name>
 	<types>
@@ -9693,7 +9693,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0582</num>
     <name>Vanillite</name>
 	<types>
@@ -9707,7 +9707,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0583</num>
     <name>Vanillish</name>
 	<types>
@@ -9721,7 +9721,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0584</num>
     <name>Vanilluxe</name>
 	<types>
@@ -9737,7 +9737,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0585</num>
     <name>Deerling</name>
 	<types>
@@ -9753,7 +9753,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0586</num>
     <name>Sawsbuck</name>
 	<types>
@@ -9769,7 +9769,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0587</num>
     <name>Emolga</name>
 	<types>
@@ -9784,7 +9784,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0588</num>
     <name>Karrablast</name>
 	<types>
@@ -9798,7 +9798,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0589</num>
     <name>Escavalier</name>
 	<types>
@@ -9813,7 +9813,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0590</num>
     <name>Foongus</name>
 	<types>
@@ -9828,7 +9828,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0591</num>
     <name>Amoonguss</name>
 	<types>
@@ -9843,7 +9843,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0592</num>
     <name>Frillish</name>
 	<types>
@@ -9858,7 +9858,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0593</num>
     <name>Jellicent</name>
 	<types>
@@ -9875,7 +9875,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0594</num>
     <name>Alomomola</name>
 	<types>
@@ -9889,7 +9889,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0595</num>
     <name>Joltik</name>
 	<types>
@@ -9905,7 +9905,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0596</num>
     <name>Galvantula</name>
 	<types>
@@ -9921,7 +9921,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0597</num>
     <name>Ferroseed</name>
 	<types>
@@ -9936,7 +9936,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0598</num>
     <name>Ferrothorn</name>
 	<types>
@@ -9952,7 +9952,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0599</num>
     <name>Klink</name>
 	<types>
@@ -9966,7 +9966,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0600</num>
     <name>Klang</name>
 	<types>
@@ -9980,7 +9980,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0601</num>
     <name>Klinklang</name>
 	<types>
@@ -9994,7 +9994,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0602</num>
     <name>Tynamo</name>
 	<types>
@@ -10008,7 +10008,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0603</num>
     <name>Eelektrik</name>
 	<types>
@@ -10022,7 +10022,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0604</num>
     <name>Eelektross</name>
 	<types>
@@ -10037,7 +10037,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0605</num>
     <name>Elgyem</name>
 	<types>
@@ -10051,7 +10051,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0606</num>
     <name>Beheeyem</name>
 	<types>
@@ -10065,7 +10065,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0607</num>
     <name>Litwick</name>
 	<types>
@@ -10080,7 +10080,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0608</num>
     <name>Lampent</name>
 	<types>
@@ -10095,7 +10095,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0609</num>
     <name>Chandelure</name>
 	<types>
@@ -10111,7 +10111,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0610</num>
     <name>Axew</name>
 	<types>
@@ -10125,7 +10125,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0611</num>
     <name>Fraxure</name>
 	<types>
@@ -10139,7 +10139,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0612</num>
     <name>Haxorus</name>
 	<types>
@@ -10154,7 +10154,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0613</num>
     <name>Cubchoo</name>
 	<types>
@@ -10168,7 +10168,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0614</num>
     <name>Beartic</name>
 	<types>
@@ -10182,7 +10182,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0615</num>
     <name>Cryogonal</name>
 	<types>
@@ -10196,7 +10196,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0616</num>
     <name>Shelmet</name>
 	<types>
@@ -10210,7 +10210,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0617</num>
     <name>Accelgor</name>
 	<types>
@@ -10224,7 +10224,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0618</num>
     <name>Stunfisk</name>
 	<types>
@@ -10239,7 +10239,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="8" final="99">
 	<num>0618-G</num>
     <name>Stunfisk</name>
 	<types>
@@ -10254,7 +10254,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0619</num>
     <name>Mienfoo</name>
 	<types>
@@ -10268,7 +10268,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0620</num>
     <name>Mienshao</name>
 	<types>
@@ -10282,7 +10282,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0621</num>
     <name>Druddigon</name>
 	<types>
@@ -10298,7 +10298,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0622</num>
     <name>Golett</name>
 	<types>
@@ -10313,7 +10313,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0623</num>
     <name>Golurk</name>
 	<types>
@@ -10329,7 +10329,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0624</num>
     <name>Pawniard</name>
 	<types>
@@ -10344,7 +10344,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="8">
 	<num>0625</num>
     <name>Bisharp</name>
 	<types>
@@ -10359,7 +10359,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0626</num>
     <name>Bouffalant</name>
 	<types>
@@ -10373,7 +10373,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0627</num>
     <name>Rufflet</name>
 	<types>
@@ -10388,7 +10388,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0628</num>
     <name>Braviary</name>
 	<types>
@@ -10404,7 +10404,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="8" final="99">
 	<num>0628-Hi</num>
     <name>Braviary</name>
 	<types>
@@ -10419,7 +10419,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0629</num>
     <name>Vullaby</name>
 	<types>
@@ -10434,7 +10434,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0630</num>
     <name>Mandibuzz</name>
 	<types>
@@ -10450,7 +10450,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0631</num>
     <name>Heatmor</name>
 	<types>
@@ -10464,7 +10464,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0632</num>
     <name>Durant</name>
 	<types>
@@ -10479,7 +10479,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0633</num>
     <name>Deino</name>
 	<types>
@@ -10495,7 +10495,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0634</num>
     <name>Zweilous</name>
 	<types>
@@ -10510,7 +10510,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0635</num>
     <name>Hydreigon</name>
 	<types>
@@ -10529,7 +10529,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="false">
+  <mon region="unova" debut="5" final="0">
 	<num>0636</num>
     <name>Larvesta</name>
 	<types>
@@ -10544,7 +10544,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0637</num>
     <name>Volcarona</name>
 	<types>
@@ -10561,7 +10561,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0638</num>
     <name>Cobalion</name>
 	<types>
@@ -10576,7 +10576,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0639</num>
     <name>Terrakion</name>
 	<types>
@@ -10591,7 +10591,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0640</num>
     <name>Virizion</name>
 	<types>
@@ -10606,7 +10606,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0641</num>
     <name>Tornadus</name>
 	<types>
@@ -10620,7 +10620,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0642</num>
     <name>Thundurus</name>
 	<types>
@@ -10635,7 +10635,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0643</num>
     <name>Reshiram</name>
 	<types>
@@ -10652,7 +10652,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0644</num>
     <name>Zekrom</name>
 	<types>
@@ -10667,7 +10667,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0645</num>
     <name>Landorus</name>
 	<types>
@@ -10683,7 +10683,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0646</num>
     <name>Kyurem</name>
 	<types>
@@ -10698,7 +10698,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0647</num>
     <name>Keldeo</name>
 	<types>
@@ -10714,7 +10714,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0648</num>
     <name>Meloetta</name>
 	<types>
@@ -10730,7 +10730,7 @@
 	</status>
   </mon> 
 
-  <mon region="unova" final="true">
+  <mon region="unova" debut="5" final="99">
 	<num>0649</num>
     <name>Genesect</name>
 	<types>
@@ -10749,7 +10749,7 @@
 
 <!-- KALOS -->
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0650</num>
     <name>Chespin</name>
 	<types>
@@ -10763,7 +10763,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0651</num>
     <name>Quilladin</name>
 	<types>
@@ -10777,7 +10777,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0652</num>
     <name>Chesnaught</name>
 	<types>
@@ -10792,7 +10792,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0653</num>
     <name>Fennekin</name>
 	<types>
@@ -10806,7 +10806,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0654</num>
     <name>Braixen</name>
 	<types>
@@ -10820,7 +10820,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0655</num>
     <name>Delphox</name>
 	<types>
@@ -10836,7 +10836,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0656</num>
     <name>Froakie</name>
 	<types>
@@ -10850,7 +10850,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0657</num>
     <name>Frogadier</name>
 	<types>
@@ -10864,7 +10864,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0658</num>
     <name>Greninja</name>
 	<types>
@@ -10879,7 +10879,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0659</num>
     <name>Bunnelby</name>
 	<types>
@@ -10893,7 +10893,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0660</num>
     <name>Diggersby</name>
 	<types>
@@ -10908,7 +10908,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0661</num>
     <name>Fletchling</name>
 	<types>
@@ -10923,7 +10923,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0662</num>
     <name>Fletchinder</name>
 	<types>
@@ -10938,7 +10938,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0663</num>
     <name>Talonflame</name>
 	<types>
@@ -10954,7 +10954,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0664</num>
     <name>Scatterbug</name>
 	<types>
@@ -10968,7 +10968,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0665</num>
     <name>Spewpa</name>
 	<types>
@@ -10982,7 +10982,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0666</num>
     <name>Vivillon</name>
 	<types>
@@ -10997,7 +10997,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0667</num>
     <name>Litleo</name>
 	<types>
@@ -11012,7 +11012,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0668</num>
     <name>Pyroar</name>
 	<types>
@@ -11027,7 +11027,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0669</num>
     <name>Flabébé</name>
 	<types>
@@ -11041,7 +11041,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0670</num>
     <name>Floette</name>
 	<types>
@@ -11055,7 +11055,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0671</num>
     <name>Florges</name>
 	<types>
@@ -11069,7 +11069,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0672</num>
     <name>Skiddo</name>
 	<types>
@@ -11083,7 +11083,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0673</num>
     <name>Gogoat</name>
 	<types>
@@ -11098,7 +11098,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0674</num>
     <name>Pancham</name>
 	<types>
@@ -11112,7 +11112,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0675</num>
     <name>Pangoro</name>
 	<types>
@@ -11128,7 +11128,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0676</num>
     <name>Furfrou</name>
 	<types>
@@ -11142,7 +11142,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0677</num>
     <name>Espurr</name>
 	<types>
@@ -11156,7 +11156,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0678</num>
     <name>Meowstic</name>
 	<types>
@@ -11170,7 +11170,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0679</num>
     <name>Honedge</name>
 	<types>
@@ -11185,7 +11185,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0680</num>
     <name>Doublade</name>
 	<types>
@@ -11200,7 +11200,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0681</num>
     <name>Aegislash</name>
 	<types>
@@ -11217,7 +11217,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0682</num>
     <name>Spritzee</name>
 	<types>
@@ -11231,7 +11231,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0683</num>
     <name>Aromatisse</name>
 	<types>
@@ -11246,7 +11246,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0684</num>
     <name>Swirlix</name>
 	<types>
@@ -11260,7 +11260,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0685</num>
     <name>Slurpuff</name>
 	<types>
@@ -11274,7 +11274,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0686</num>
     <name>Inkay</name>
 	<types>
@@ -11289,7 +11289,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0687</num>
     <name>Malamar</name>
 	<types>
@@ -11305,7 +11305,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0688</num>
     <name>Binacle</name>
 	<types>
@@ -11320,7 +11320,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0689</num>
     <name>Barbaracle</name>
 	<types>
@@ -11335,7 +11335,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0690</num>
     <name>Skrelp</name>
 	<types>
@@ -11350,7 +11350,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0691</num>
     <name>Dragalge</name>
 	<types>
@@ -11365,7 +11365,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0692</num>
     <name>Clauncher</name>
 	<types>
@@ -11379,7 +11379,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0693</num>
     <name>Clawitzer</name>
 	<types>
@@ -11395,7 +11395,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0694</num>
     <name>Helioptile</name>
 	<types>
@@ -11410,7 +11410,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0695</num>
     <name>Heliolisk</name>
 	<types>
@@ -11426,7 +11426,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0696</num>
     <name>Tyrunt</name>
 	<types>
@@ -11441,7 +11441,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0697</num>
     <name>Tyrantrum</name>
 	<types>
@@ -11457,7 +11457,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0698</num>
     <name>Amaura</name>
 	<types>
@@ -11472,7 +11472,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0699</num>
     <name>Aurorus</name>
 	<types>
@@ -11488,7 +11488,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0700</num>
     <name>Sylveon</name>
 	<types>
@@ -11503,7 +11503,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0701</num>
     <name>Hawlucha</name>
 	<types>
@@ -11519,7 +11519,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0702</num>
     <name>Dedenne</name>
 	<types>
@@ -11534,7 +11534,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0703</num>
     <name>Carbink</name>
 	<types>
@@ -11549,7 +11549,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0704</num>
     <name>Goomy</name>
 	<types>
@@ -11564,7 +11564,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0705</num>
     <name>Sliggoo</name>
 	<types>
@@ -11579,7 +11579,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="8" final="0">
 	<num>0705-Hi</num>
     <name>Sliggoo</name>
 	<types>
@@ -11594,7 +11594,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0706</num>
     <name>Goodra</name>
 	<types>
@@ -11610,7 +11610,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="8" final="99">
 	<num>0706-Hi</num>
     <name>Goodra</name>
 	<types>
@@ -11625,7 +11625,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0707</num>
     <name>Klefki</name>
 	<types>
@@ -11641,7 +11641,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0708</num>
     <name>Phantump</name>
 	<types>
@@ -11656,7 +11656,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0709</num>
     <name>Trevenant</name>
 	<types>
@@ -11672,7 +11672,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0710</num>
     <name>Pumpkaboo</name>
 	<types>
@@ -11687,7 +11687,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0711</num>
     <name>Gourgeist</name>
 	<types>
@@ -11702,7 +11702,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0712</num>
     <name>Bergmite</name>
 	<types>
@@ -11716,7 +11716,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0713</num>
     <name>Avalugg</name>
 	<types>
@@ -11730,7 +11730,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="8" final="99">
 	<num>0713-Hi</num>
     <name>Avalugg</name>
 	<types>
@@ -11745,7 +11745,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="false">
+  <mon region="kalos" debut="6" final="0">
 	<num>0714</num>
     <name>Noibat</name>
 	<types>
@@ -11760,7 +11760,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0715</num>
     <name>Noivern</name>
 	<types>
@@ -11775,7 +11775,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0716</num>
     <name>Xerneas</name>
 	<types>
@@ -11791,7 +11791,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0717</num>
     <name>Yveltal</name>
 	<types>
@@ -11806,7 +11806,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0718</num>
     <name>Zygarde</name>
 	<types>
@@ -11822,7 +11822,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0719</num>
     <name>Diancie</name>
 	<types>
@@ -11840,7 +11840,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0720</num>
     <name>Hoopa</name>
 	<types>
@@ -11855,7 +11855,7 @@
 	</status>
   </mon> 
 
-  <mon region="kalos" final="true">
+  <mon region="kalos" debut="6" final="99">
 	<num>0721</num>
     <name>Volcanion</name>
 	<types>
@@ -11872,7 +11872,7 @@
 
 <!-- ALOLA -->
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0722</num>
     <name>Rowlet</name>
 	<types>
@@ -11887,7 +11887,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0723</num>
     <name>Dartrix</name>
 	<types>
@@ -11902,7 +11902,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0724</num>
     <name>Decidueye</name>
 	<types>
@@ -11917,7 +11917,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="8" final="99">
 	<num>0724-Hi</num>
     <name>Decidueye</name>
 	<types>
@@ -11932,7 +11932,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0725</num>
     <name>Litten</name>
 	<types>
@@ -11946,7 +11946,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0726</num>
     <name>Torracat</name>
 	<types>
@@ -11960,7 +11960,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0727</num>
     <name>Incineroar</name>
 	<types>
@@ -11976,7 +11976,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0728</num>
     <name>Popplio</name>
 	<types>
@@ -11990,7 +11990,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0729</num>
     <name>Brionne</name>
 	<types>
@@ -12004,7 +12004,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0730</num>
     <name>Primarina</name>
 	<types>
@@ -12020,7 +12020,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0731</num>
     <name>Pikipek</name>
 	<types>
@@ -12035,7 +12035,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0732</num>
     <name>Trumbeak</name>
 	<types>
@@ -12050,7 +12050,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0733</num>
     <name>Toucannon</name>
 	<types>
@@ -12066,7 +12066,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0734</num>
     <name>Yungoos</name>
 	<types>
@@ -12080,7 +12080,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0735</num>
     <name>Gumshoos</name>
 	<types>
@@ -12094,7 +12094,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0736</num>
     <name>Grubbin</name>
 	<types>
@@ -12108,7 +12108,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0737</num>
     <name>Charjabug</name>
 	<types>
@@ -12123,7 +12123,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0738</num>
     <name>Vikavolt</name>
 	<types>
@@ -12139,7 +12139,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0739</num>
     <name>Crabrawler</name>
 	<types>
@@ -12153,7 +12153,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0740</num>
     <name>Crabominable</name>
 	<types>
@@ -12168,7 +12168,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0741</num>
     <name>Oricorio</name>
 	<types>
@@ -12183,7 +12183,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0742</num>
     <name>Cutiefly</name>
 	<types>
@@ -12198,7 +12198,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0743</num>
     <name>Ribombee</name>
 	<types>
@@ -12214,7 +12214,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0744</num>
     <name>Rockruff</name>
 	<types>
@@ -12228,7 +12228,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0745</num>
     <name>Lycanroc</name>
 	<types>
@@ -12243,7 +12243,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0746</num>
     <name>Wishiwashi</name>
 	<types>
@@ -12257,7 +12257,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0747</num>
     <name>Mareanie</name>
 	<types>
@@ -12272,7 +12272,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0748</num>
     <name>Toxapex</name>
 	<types>
@@ -12287,7 +12287,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0749</num>
     <name>Mudbray</name>
 	<types>
@@ -12301,7 +12301,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0750</num>
     <name>Mudsdale</name>
 	<types>
@@ -12315,7 +12315,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0751</num>
     <name>Dewpider</name>
 	<types>
@@ -12330,7 +12330,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0752</num>
     <name>Araquanid</name>
 	<types>
@@ -12345,7 +12345,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0753</num>
     <name>Fomantis</name>
 	<types>
@@ -12359,7 +12359,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0754</num>
     <name>Lurantis</name>
 	<types>
@@ -12374,7 +12374,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0755</num>
     <name>Morelull</name>
 	<types>
@@ -12389,7 +12389,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0756</num>
     <name>Shiinotic</name>
 	<types>
@@ -12404,7 +12404,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0757</num>
     <name>Salandit</name>
 	<types>
@@ -12419,7 +12419,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0758</num>
     <name>Salazzle</name>
 	<types>
@@ -12434,7 +12434,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0759</num>
     <name>Stufful</name>
 	<types>
@@ -12449,7 +12449,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0760</num>
     <name>Bewear</name>
 	<types>
@@ -12464,7 +12464,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0761</num>
     <name>Bounsweet</name>
 	<types>
@@ -12478,7 +12478,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0762</num>
     <name>Steenee</name>
 	<types>
@@ -12492,7 +12492,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0763</num>
     <name>Tsareena</name>
 	<types>
@@ -12506,7 +12506,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0764</num>
     <name>Comfey</name>
 	<types>
@@ -12520,7 +12520,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0765</num>
     <name>Oranguru</name>
 	<types>
@@ -12535,7 +12535,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0766</num>
     <name>Passimian</name>
 	<types>
@@ -12549,7 +12549,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0767</num>
     <name>Wimpod</name>
 	<types>
@@ -12564,7 +12564,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0768</num>
     <name>Golisopod</name>
 	<types>
@@ -12579,7 +12579,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0769</num>
     <name>Sandygast</name>
 	<types>
@@ -12594,7 +12594,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0770</num>
     <name>Palossand</name>
 	<types>
@@ -12609,7 +12609,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0771</num>
     <name>Pyukumuku</name>
 	<types>
@@ -12623,7 +12623,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0772</num>
     <name>Type: Null</name>
 	<types>
@@ -12637,7 +12637,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0773</num>
     <name>Silvally</name>
 	<types>
@@ -12651,7 +12651,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0774</num>
     <name>Minior</name>
 	<types>
@@ -12666,7 +12666,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0775</num>
     <name>Komala</name>
 	<types>
@@ -12680,7 +12680,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0776</num>
     <name>Turtonator</name>
 	<types>
@@ -12695,7 +12695,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0777</num>
     <name>Togedemaru</name>
 	<types>
@@ -12710,7 +12710,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0778</num>
     <name>Mimikyu</name>
 	<types>
@@ -12726,7 +12726,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0779</num>
     <name>Bruxish</name>
 	<types>
@@ -12741,7 +12741,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0780</num>
     <name>Drampa</name>
 	<types>
@@ -12756,7 +12756,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0781</num>
     <name>Dhelmise</name>
 	<types>
@@ -12771,7 +12771,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0782</num>
     <name>Jangmo-o</name>
 	<types>
@@ -12785,7 +12785,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0783</num>
     <name>Hakamo-o</name>
 	<types>
@@ -12800,7 +12800,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0784</num>
     <name>Kommo-o</name>
 	<types>
@@ -12815,7 +12815,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0785</num>
     <name>Tapu Koko</name>
 	<types>
@@ -12830,7 +12830,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0786</num>
     <name>Tapu Lele</name>
 	<types>
@@ -12845,7 +12845,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0787</num>
     <name>Tapu Bulu</name>
 	<types>
@@ -12860,7 +12860,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0788</num>
     <name>Tapu Fini</name>
 	<types>
@@ -12875,7 +12875,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0789</num>
     <name>Cosmog</name>
 	<types>
@@ -12889,7 +12889,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0790</num>
     <name>Cosmoem</name>
 	<types>
@@ -12903,7 +12903,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0791</num>
     <name>Solgaleo</name>
 	<types>
@@ -12919,7 +12919,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0792</num>
     <name>Lunala</name>
 	<types>
@@ -12935,7 +12935,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0793</num>
     <name>Nihilego</name>
 	<types>
@@ -12950,7 +12950,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0794</num>
     <name>Buzzwole</name>
 	<types>
@@ -12966,7 +12966,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0795</num>
     <name>Pheromosa</name>
 	<types>
@@ -12981,7 +12981,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0796</num>
     <name>Xurkitree</name>
 	<types>
@@ -12995,7 +12995,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0797</num>
     <name>Celesteela</name>
 	<types>
@@ -13010,7 +13010,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0798</num>
     <name>Kartana</name>
 	<types>
@@ -13025,7 +13025,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0799</num>
     <name>Guzzlord</name>
 	<types>
@@ -13040,7 +13040,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0800</num>
     <name>Necrozma</name>
 	<types>
@@ -13054,7 +13054,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0801</num>
     <name>Magearna</name>
 	<types>
@@ -13070,7 +13070,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0802</num>
     <name>Marshadow</name>
 	<types>
@@ -13085,7 +13085,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0803</num>
     <name>Poipole</name>
 	<types>
@@ -13099,7 +13099,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0804</num>
     <name>Naganadel</name>
 	<types>
@@ -13114,7 +13114,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0805</num>
     <name>Stakataka</name>
 	<types>
@@ -13129,7 +13129,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0806</num>
     <name>Blacephalon</name>
 	<types>
@@ -13145,7 +13145,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0807</num>
     <name>Zeraora</name>
 	<types>
@@ -13159,7 +13159,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="false">
+  <mon region="alola" debut="7" final="0">
 	<num>0808</num>
     <name>Meltan</name>
 	<types>
@@ -13173,7 +13173,7 @@
 	</status>
   </mon> 
 
-  <mon region="alola" final="true">
+  <mon region="alola" debut="7" final="99">
 	<num>0809</num>
     <name>Melmetal</name>
 	<types>
@@ -13189,7 +13189,7 @@
 
 <!-- GALAR -->
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0810</num>
     <name>Grookey</name>
 	<types>
@@ -13203,7 +13203,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0811</num>
     <name>Thwackey</name>
 	<types>
@@ -13217,7 +13217,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0812</num>
     <name>Rillaboom</name>
 	<types>
@@ -13231,7 +13231,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0813</num>
     <name>Scorbunny</name>
 	<types>
@@ -13245,7 +13245,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0814</num>
     <name>Raboot</name>
 	<types>
@@ -13259,7 +13259,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0815</num>
     <name>Cinderace</name>
 	<types>
@@ -13273,7 +13273,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0816</num>
     <name>Sobble</name>
 	<types>
@@ -13287,7 +13287,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0817</num>
     <name>Drizzile</name>
 	<types>
@@ -13301,7 +13301,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0818</num>
     <name>Inteleon</name>
 	<types>
@@ -13315,7 +13315,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0819</num>
     <name>Skwovet</name>
 	<types>
@@ -13329,7 +13329,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0820</num>
     <name>Greedent</name>
 	<types>
@@ -13343,7 +13343,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0821</num>
     <name>Rookidee</name>
 	<types>
@@ -13357,7 +13357,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0822</num>
     <name>Corvisquire</name>
 	<types>
@@ -13371,7 +13371,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0823</num>
     <name>Corviknight</name>
 	<types>
@@ -13387,7 +13387,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0824</num>
     <name>Blipbug</name>
 	<types>
@@ -13401,7 +13401,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0825</num>
     <name>Dottler</name>
 	<types>
@@ -13416,7 +13416,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0826</num>
     <name>Orbeetle</name>
 	<types>
@@ -13431,7 +13431,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0827</num>
     <name>Nickit</name>
 	<types>
@@ -13445,7 +13445,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0828</num>
     <name>Thievul</name>
 	<types>
@@ -13459,7 +13459,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0829</num>
     <name>Gossifleur</name>
 	<types>
@@ -13473,7 +13473,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0830</num>
     <name>Eldegoss</name>
 	<types>
@@ -13487,7 +13487,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0831</num>
     <name>Wooloo</name>
 	<types>
@@ -13501,7 +13501,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0832</num>
     <name>Dubwool</name>
 	<types>
@@ -13515,7 +13515,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0833</num>
     <name>Chewtle</name>
 	<types>
@@ -13529,7 +13529,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0834</num>
     <name>Drednaw</name>
 	<types>
@@ -13544,7 +13544,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0835</num>
     <name>Yamper</name>
 	<types>
@@ -13558,7 +13558,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0836</num>
     <name>Boltund</name>
 	<types>
@@ -13572,7 +13572,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0837</num>
     <name>Rolycoly</name>
 	<types>
@@ -13586,7 +13586,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0838</num>
     <name>Carkol</name>
 	<types>
@@ -13601,7 +13601,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0839</num>
     <name>Coalossal</name>
 	<types>
@@ -13616,7 +13616,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0840</num>
     <name>Applin</name>
 	<types>
@@ -13631,7 +13631,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0841</num>
     <name>Flapple</name>
 	<types>
@@ -13647,7 +13647,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0842</num>
     <name>Appletun</name>
 	<types>
@@ -13662,7 +13662,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0843</num>
     <name>Silicobra</name>
 	<types>
@@ -13676,7 +13676,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0844</num>
     <name>Sandaconda</name>
 	<types>
@@ -13690,7 +13690,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0845</num>
     <name>Cramorant</name>
 	<types>
@@ -13705,7 +13705,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0846</num>
     <name>Arrokuda</name>
 	<types>
@@ -13719,7 +13719,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0847</num>
     <name>Barraskewda</name>
 	<types>
@@ -13733,7 +13733,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0848</num>
     <name>Toxel</name>
 	<types>
@@ -13748,7 +13748,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0849</num>
     <name>Toxtricity</name>
 	<types>
@@ -13763,7 +13763,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0850</num>
     <name>Sizzlipede</name>
 	<types>
@@ -13778,7 +13778,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0851</num>
     <name>Centiskorch</name>
 	<types>
@@ -13793,7 +13793,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0852</num>
     <name>Clobbopus</name>
 	<types>
@@ -13807,7 +13807,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0853</num>
     <name>Grapploct</name>
 	<types>
@@ -13821,7 +13821,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0854</num>
     <name>Sinistea</name>
 	<types>
@@ -13835,7 +13835,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0855</num>
     <name>Polteageist</name>
 	<types>
@@ -13849,7 +13849,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0856</num>
     <name>Hatenna</name>
 	<types>
@@ -13863,7 +13863,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0857</num>
     <name>Hattrem</name>
 	<types>
@@ -13877,7 +13877,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0858</num>
     <name>Hatterene</name>
 	<types>
@@ -13893,7 +13893,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0859</num>
     <name>Impidimp</name>
 	<types>
@@ -13908,7 +13908,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0860</num>
     <name>Morgrem</name>
 	<types>
@@ -13923,7 +13923,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0861</num>
     <name>Grimmsnarl</name>
 	<types>
@@ -13938,7 +13938,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0862</num>
     <name>Obstagoon</name>
 	<types>
@@ -13954,7 +13954,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0863</num>
     <name>Perrserker</name>
 	<types>
@@ -13968,7 +13968,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0864</num>
     <name>Cursola</name>
 	<types>
@@ -13982,7 +13982,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0865</num>
     <name>Sirfetch'd</name>
 	<types>
@@ -13997,7 +13997,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0866</num>
     <name>Mr. Rime</name>
 	<types>
@@ -14012,7 +14012,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0867</num>
     <name>Runerigus</name>
 	<types>
@@ -14027,7 +14027,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0868</num>
     <name>Milcery</name>
 	<types>
@@ -14041,7 +14041,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0869</num>
     <name>Alcremie</name>
 	<types>
@@ -14055,7 +14055,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0870</num>
     <name>Falinks</name>
 	<types>
@@ -14069,7 +14069,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0871</num>
     <name>Pincurchin</name>
 	<types>
@@ -14083,7 +14083,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0872</num>
     <name>Snom</name>
 	<types>
@@ -14099,7 +14099,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0873</num>
     <name>Frosmoth</name>
 	<types>
@@ -14115,7 +14115,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0874</num>
     <name>Stonjourner</name>
 	<types>
@@ -14129,7 +14129,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0875</num>
     <name>Eiscue</name>
 	<types>
@@ -14143,7 +14143,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0876</num>
     <name>Indeedee</name>
 	<types>
@@ -14158,7 +14158,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0877</num>
     <name>Morpeko</name>
 	<types>
@@ -14174,7 +14174,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0878</num>
     <name>Cufant</name>
 	<types>
@@ -14188,7 +14188,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0879</num>
     <name>Copperajah</name>
 	<types>
@@ -14202,7 +14202,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0880</num>
     <name>Dracozolt</name>
 	<types>
@@ -14217,7 +14217,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0881</num>
     <name>Arctozolt</name>
 	<types>
@@ -14232,7 +14232,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0882</num>
     <name>Dracovish</name>
 	<types>
@@ -14247,7 +14247,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0883</num>
     <name>Arctovish</name>
 	<types>
@@ -14262,7 +14262,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0884</num>
     <name>Duraludon</name>
 	<types>
@@ -14277,7 +14277,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0885</num>
     <name>Dreepy</name>
 	<types>
@@ -14293,7 +14293,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0886</num>
     <name>Drakloak</name>
 	<types>
@@ -14308,7 +14308,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0887</num>
     <name>Dragapult</name>
 	<types>
@@ -14323,7 +14323,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0888</num>
     <name>Zacian</name>
 	<types>
@@ -14339,7 +14339,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0889</num>
     <name>Zamazenta</name>
 	<types>
@@ -14354,7 +14354,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0890</num>
     <name>Eternatus</name>
 	<types>
@@ -14370,7 +14370,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="false">
+  <mon region="galar" debut="8" final="0">
 	<num>0891</num>
     <name>Kubfu</name>
 	<types>
@@ -14385,7 +14385,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0892</num>
     <name>Urshifu</name>
 	<types>
@@ -14400,7 +14400,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0893</num>
     <name>Zarude</name>
 	<types>
@@ -14415,7 +14415,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0894</num>
     <name>Regieleki</name>
 	<types>
@@ -14429,7 +14429,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0895</num>
     <name>Regidrago</name>
 	<types>
@@ -14443,7 +14443,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0896</num>
     <name>Glastrier</name>
 	<types>
@@ -14457,7 +14457,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0897</num>
     <name>Spectrier</name>
 	<types>
@@ -14471,7 +14471,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" final="true">
+  <mon region="galar" debut="8" final="99">
 	<num>0898</num>
     <name>Calyrex</name>
 	<types>
@@ -14488,7 +14488,7 @@
 
 <!-- HISUI -->
 
-  <mon region="hisui" final="true">
+  <mon region="hisui" debut="8" final="99">
 	<num>0899</num>
     <name>Wyrdeer</name>
 	<types>
@@ -14504,7 +14504,7 @@
 	</status>
   </mon> 
 
-  <mon region="hisui" final="true">
+  <mon region="hisui" debut="8" final="99">
 	<num>0900</num>
     <name>Kleavor</name>
 	<types>
@@ -14520,7 +14520,7 @@
 	</status>
   </mon> 
 
-  <mon region="hisui" final="true">
+  <mon region="hisui" debut="8" final="99">
 	<num>0901</num>
     <name>Ursaluna</name>
 	<types>
@@ -14535,7 +14535,7 @@
 	</status>
   </mon> 
 
-  <mon region="hisui" final="true">
+  <mon region="hisui" debut="8" final="99">
 	<num>0902</num>
     <name>Basculegion</name>
 	<types>
@@ -14550,7 +14550,7 @@
 	</status>
   </mon> 
 
-  <mon region="hisui" final="true">
+  <mon region="hisui" debut="8" final="99">
 	<num>0903</num>
     <name>Sneasler</name>
 	<types>
@@ -14565,7 +14565,7 @@
 	</status>
   </mon> 
 
-  <mon region="hisui" final="true">
+  <mon region="hisui" debut="8" final="99">
 	<num>0904</num>
     <name>Overqwil</name>
 	<types>
@@ -14580,7 +14580,7 @@
 	</status>
   </mon> 
 
-  <mon region="hisui" final="true">
+  <mon region="hisui" debut="8" final="99">
 	<num>0905</num>
     <name>Enamorus</name>
 	<types>
@@ -14597,7 +14597,7 @@
 
 <!-- PALDEA -->
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0906</num>
     <name>Sprigatito</name>
 	<types>
@@ -14611,7 +14611,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0907</num>
     <name>Floragato</name>
 	<types>
@@ -14625,7 +14625,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0908</num>
     <name>Meowscarada</name>
 	<types>
@@ -14640,7 +14640,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0909</num>
     <name>Fuecoco</name>
 	<types>
@@ -14654,7 +14654,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0910</num>
     <name>Crocalor</name>
 	<types>
@@ -14668,7 +14668,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0911</num>
     <name>Skeledirge</name>
 	<types>
@@ -14683,7 +14683,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0912</num>
     <name>Quaxly</name>
 	<types>
@@ -14697,7 +14697,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0913</num>
     <name>Quaxwell</name>
 	<types>
@@ -14711,7 +14711,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0914</num>
     <name>Quaquaval</name>
 	<types>
@@ -14727,7 +14727,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0915</num>
     <name>Lechonk</name>
 	<types>
@@ -14741,7 +14741,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0916</num>
     <name>Oinkologne</name>
 	<types>
@@ -14755,7 +14755,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0917</num>
     <name>Tarountula</name>
 	<types>
@@ -14769,7 +14769,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0918</num>
     <name>Spidops</name>
 	<types>
@@ -14783,7 +14783,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0919</num>
     <name>Nymble</name>
 	<types>
@@ -14797,7 +14797,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0920</num>
     <name>Lokix</name>
 	<types>
@@ -14812,7 +14812,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0921</num>
     <name>Pawmi</name>
 	<types>
@@ -14826,7 +14826,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0922</num>
     <name>Pawmo</name>
 	<types>
@@ -14841,7 +14841,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0923</num>
     <name>Pawmot</name>
 	<types>
@@ -14856,7 +14856,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0924</num>
     <name>Tandemaus</name>
 	<types>
@@ -14870,7 +14870,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0925</num>
     <name>Maushold</name>
 	<types>
@@ -14884,7 +14884,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0926</num>
     <name>Fidough</name>
 	<types>
@@ -14898,7 +14898,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0927</num>
     <name>Dachsbun</name>
 	<types>
@@ -14912,7 +14912,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0928</num>
     <name>Smoliv</name>
 	<types>
@@ -14927,7 +14927,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0929</num>
     <name>Dolliv</name>
 	<types>
@@ -14942,7 +14942,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0930</num>
     <name>Arboliva</name>
 	<types>
@@ -14957,7 +14957,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0931</num>
     <name>Squawkabilly</name>
 	<types>
@@ -14972,7 +14972,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0932</num>
     <name>Nacli</name>
 	<types>
@@ -14986,7 +14986,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0933</num>
     <name>Naclstack</name>
 	<types>
@@ -15000,7 +15000,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0934</num>
     <name>Garganacl</name>
 	<types>
@@ -15015,7 +15015,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0935</num>
     <name>Charcadet</name>
 	<types>
@@ -15029,7 +15029,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0936</num>
     <name>Armarouge</name>
 	<types>
@@ -15044,7 +15044,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0937</num>
     <name>Ceruledge</name>
 	<types>
@@ -15059,7 +15059,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0938</num>
     <name>Tadbulb</name>
 	<types>
@@ -15073,7 +15073,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0939</num>
     <name>Bellibolt</name>
 	<types>
@@ -15087,7 +15087,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0940</num>
     <name>Wattrel</name>
 	<types>
@@ -15102,7 +15102,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0941</num>
     <name>Kilowattrel</name>
 	<types>
@@ -15117,7 +15117,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0942</num>
     <name>Maschiff</name>
 	<types>
@@ -15131,7 +15131,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0943</num>
     <name>Mabosstiff</name>
 	<types>
@@ -15145,7 +15145,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0944</num>
     <name>Shroodle</name>
 	<types>
@@ -15160,7 +15160,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0945</num>
     <name>Grafaiai</name>
 	<types>
@@ -15176,7 +15176,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0946</num>
     <name>Bramblin</name>
 	<types>
@@ -15191,7 +15191,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0947</num>
     <name>Brambleghast</name>
 	<types>
@@ -15206,7 +15206,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0948</num>
     <name>Toedscool</name>
 	<types>
@@ -15221,7 +15221,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0949</num>
     <name>Toedscruel</name>
 	<types>
@@ -15236,7 +15236,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0950</num>
     <name>Klawf</name>
 	<types>
@@ -15250,7 +15250,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0951</num>
     <name>Capsakid</name>
 	<types>
@@ -15264,7 +15264,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0952</num>
     <name>Scovillain</name>
 	<types>
@@ -15279,7 +15279,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0953</num>
     <name>Rellor</name>
 	<types>
@@ -15293,7 +15293,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0954</num>
     <name>Rabsca</name>
 	<types>
@@ -15308,7 +15308,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0955</num>
     <name>Flittle</name>
 	<types>
@@ -15322,7 +15322,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0956</num>
     <name>Espathra</name>
 	<types>
@@ -15336,7 +15336,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0957</num>
     <name>Tinkatink</name>
 	<types>
@@ -15351,7 +15351,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0958</num>
     <name>Tinkatuff</name>
 	<types>
@@ -15366,7 +15366,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0959</num>
     <name>Tinkaton</name>
 	<types>
@@ -15382,7 +15382,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0960</num>
     <name>Wiglett</name>
 	<types>
@@ -15396,7 +15396,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0961</num>
     <name>Wugtrio</name>
 	<types>
@@ -15410,7 +15410,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0962</num>
     <name>Bombirdier</name>
 	<types>
@@ -15425,7 +15425,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0963</num>
     <name>Finizen</name>
 	<types>
@@ -15439,7 +15439,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0964</num>
     <name>Palafin</name>
 	<types>
@@ -15453,7 +15453,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0965</num>
     <name>Varoom</name>
 	<types>
@@ -15468,7 +15468,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0966</num>
     <name>Revavroom</name>
 	<types>
@@ -15483,7 +15483,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0967</num>
     <name>Cyclizar</name>
 	<types>
@@ -15498,7 +15498,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0968</num>
     <name>Orthworm</name>
 	<types>
@@ -15512,7 +15512,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0969</num>
     <name>Glimmet</name>
 	<types>
@@ -15527,7 +15527,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0970</num>
     <name>Glimmora</name>
 	<types>
@@ -15542,7 +15542,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0971</num>
     <name>Greavard</name>
 	<types>
@@ -15556,7 +15556,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0972</num>
     <name>Houndstone</name>
 	<types>
@@ -15570,7 +15570,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0973</num>
     <name>Flamigo</name>
 	<types>
@@ -15585,7 +15585,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0974</num>
     <name>Cetoddle</name>
 	<types>
@@ -15599,7 +15599,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0975</num>
     <name>Cetitan</name>
 	<types>
@@ -15613,7 +15613,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0976</num>
     <name>Veluza</name>
 	<types>
@@ -15628,7 +15628,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0977</num>
     <name>Dondozo</name>
 	<types>
@@ -15642,7 +15642,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0978</num>
     <name>Tatsugiri</name>
 	<types>
@@ -15657,7 +15657,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0979</num>
     <name>Annihilape</name>
 	<types>
@@ -15672,7 +15672,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0980</num>
     <name>Clodsire</name>
 	<types>
@@ -15688,7 +15688,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0981</num>
     <name>Farigiraf</name>
 	<types>
@@ -15704,7 +15704,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0982</num>
     <name>Dudunsparce</name>
 	<types>
@@ -15719,7 +15719,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0983</num>
     <name>Kingambit</name>
 	<types>
@@ -15734,7 +15734,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0984</num>
     <name>Great Tusk</name>
 	<types>
@@ -15749,7 +15749,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0985</num>
     <name>Scream Tail</name>
 	<types>
@@ -15764,7 +15764,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0986</num>
     <name>Brute Bonnet</name>
 	<types>
@@ -15779,7 +15779,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0987</num>
     <name>Flutter Mane</name>
 	<types>
@@ -15794,7 +15794,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0988</num>
     <name>Slither Wing</name>
 	<types>
@@ -15809,7 +15809,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0989</num>
     <name>Sandy Shocks</name>
 	<types>
@@ -15824,7 +15824,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0990</num>
     <name>Iron Treads</name>
 	<types>
@@ -15839,7 +15839,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0991</num>
     <name>Iron Bundle</name>
 	<types>
@@ -15855,7 +15855,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0992</num>
     <name>Iron Hands</name>
 	<types>
@@ -15870,7 +15870,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0993</num>
     <name>Iron Jugulis</name>
 	<types>
@@ -15885,7 +15885,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0994</num>
     <name>Iron Moth</name>
 	<types>
@@ -15900,7 +15900,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0995</num>
     <name>Iron Thorns</name>
 	<types>
@@ -15915,7 +15915,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0996</num>
     <name>Frigibax</name>
 	<types>
@@ -15930,7 +15930,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0997</num>
     <name>Arctibax</name>
 	<types>
@@ -15945,7 +15945,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>0998</num>
     <name>Baxcalibur</name>
 	<types>
@@ -15960,7 +15960,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="false">
+  <mon region="paldea" debut="9" final="0">
 	<num>0999</num>
     <name>Gimmighoul</name>
 	<types>
@@ -15974,7 +15974,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1000</num>
     <name>Gholdengo</name>
 	<types>
@@ -15989,7 +15989,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1001</num>
     <name>Wo-Chien</name>
 	<types>
@@ -16004,7 +16004,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1002</num>
     <name>Chien-Pao</name>
 	<types>
@@ -16019,7 +16019,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1003</num>
     <name>Ting-Lu</name>
 	<types>
@@ -16034,7 +16034,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1004</num>
     <name>Chi-Yu</name>
 	<types>
@@ -16049,7 +16049,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1005</num>
     <name>Roaring Moon</name>
 	<types>
@@ -16064,7 +16064,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1006</num>
     <name>Iron Valiant</name>
 	<types>
@@ -16079,7 +16079,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1007</num>
     <name>Koraidon</name>
 	<types>
@@ -16094,7 +16094,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1008</num>
     <name>Miraidon</name>
 	<types>
@@ -16109,7 +16109,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1009</num>
     <name>Walking Wake</name>
 	<types>
@@ -16124,7 +16124,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" final="true">
+  <mon region="paldea" debut="9" final="99">
 	<num>1010</num>
     <name>Iron Leaves</name>
 	<types>
@@ -16141,7 +16141,7 @@
 
 <!-- OTHER -->
 
-  <mon region="other" final="false">
+  <mon region="other" debut="2" final="0">
 	<num>----</num>
     <name>Egg</name>
 	<types>

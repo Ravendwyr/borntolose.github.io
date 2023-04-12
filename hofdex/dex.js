@@ -15,6 +15,8 @@ function displayDex(dexType) {
 		
 		var currentMon = mons.children[i];
 		
+		var currentGen = document.getElementById("numGen").value;
+		
 		nfe = document.getElementById("showNFE").value;
 		
 		hofed = document.getElementById("showHoFed").value;
@@ -25,7 +27,8 @@ function displayDex(dexType) {
 		
 		nostared = document.getElementById("showNoStared").value;
 		
-		if ((nfe == "show" || currentMon.getAttribute("final") == "true")
+		if ((!currentMon.getAttribute("debut") || currentMon.getAttribute("debut") <= parseInt(currentGen))
+			&& (nfe == "show" || currentMon.getAttribute("final") >= parseInt(currentGen) || currentMon.getAttribute("final") == "true")
 			&& (hofed == "show" || firstToString(currentMon, "rank") == "")
 			&& (nohofed == "show" || firstToString(currentMon, "rank") != "")
 			&& (stared == "show" || firstToString(currentMon, "emblem") != "main")
@@ -69,7 +72,10 @@ function generateTeam(dexType, nfe) {
 
 		currentMon = mons.children[monNum];
 		
-		if (nfe == "true" || currentMon.getAttribute("final") == "true") {
+		currentGen = document.getElementById("numGen").value;
+		
+		if ((!currentMon.getAttribute("debut") || currentMon.getAttribute("debut") <= parseInt(currentGen))
+			&& (nfe == "true" || currentMon.getAttribute("final") >= parseInt(currentGen) || currentMon.getAttribute("final") == "true")) {
 
 			color = backgroundFromRank(firstToString(currentMon, "rank"));
 					
@@ -117,6 +123,8 @@ function generateTeamAll(nfe) {
 	
 		monNum = Math.floor(Math.random() * (monsNational.children.length + monsFakemon.children.length));
 		
+		currentGen = document.getElementById("numGen").value;
+		
 		if (monNum > monsNational.children.length) {
 			dexType = "fakemon";
 			monNum = monNum - monsNational.children.length;
@@ -126,7 +134,8 @@ function generateTeamAll(nfe) {
 			currentMon = monsNational.children[monNum];
 		}
 		
-		if (nfe == "true" || currentMon.getAttribute("final") == "true") {
+		if ((!currentMon.getAttribute("debut") || currentMon.getAttribute("debut") <= parseInt(currentGen))
+			&& (nfe == "true" || currentMon.getAttribute("final") >= parseInt(currentGen) || currentMon.getAttribute("final") == "true")) {
 
 			color = backgroundFromRank(firstToString(currentMon, "rank"));
 					
