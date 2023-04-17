@@ -2432,10 +2432,11 @@
 		<type>Bug</type>
 	</types>
 	<runs>
+		<run>Wilting Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7867,10 +7868,11 @@
 		<type>Electric</type>
 	</types>
 	<runs>
+		<run>Wilting Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7881,10 +7883,11 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Wilting Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10872,10 +10875,11 @@
 		<type>Dark</type>
 	</types>
 	<runs>
+		<run>Wilting Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11358,10 +11362,11 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Wilting Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11799,10 +11804,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Wilting Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
