@@ -3735,10 +3735,11 @@
 	</types>
 	<runs>
 		<run>Sirius</run>
+		<run>Victory Fire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -6152,10 +6153,11 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Victory Fire</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon>
 
@@ -7810,6 +7812,7 @@
 	</types>
 	<runs>
 		<run>Randomized Platinum</run>
+		<run>Victory Fire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8310,10 +8313,11 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Victory Fire</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -8817,10 +8821,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Victory Fire</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10151,6 +10156,7 @@
 	</types>
 	<runs>
 		<run>Volt White</run>
+		<run>Victory Fire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12434,9 +12440,10 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Victory Fire</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -12579,10 +12586,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Victory Fire</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
