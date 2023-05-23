@@ -331,7 +331,7 @@
 	</status>
   </mon> 
         
-  <mon region="kanto" debut="1" final="0">
+  <mon region="kanto" debut="1" final="99">
 	<num>0020</num>
     <name>Raticate</name>
 	<types>

@@ -13427,6 +13427,5137 @@
 	</status>
   </mon>
 
+<!-- DIGITAL WORLD -->
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0001</num>
+    <name>Tanemon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0002</num>
+    <name>Palmon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0003</num>
+    <name>Ponchomon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="digiworld" final="false">
+	<num>DIG-0004</num>
+    <name>Lilymon</name>
+	<types>
+		<type>Grass</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="digiworld" final="true">
+	<num>DIG-0005</num>
+    <name>Rosemon</name>
+	<types>
+		<type>Grass</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="digiworld" final="false">
+	<num>DIG-0006</num>
+    <name>Koromon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="digiworld" final="false">
+	<num>DIG-0007</num>
+    <name>Agumon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="digiworld" final="false">
+	<num>DIG-0008</num>
+    <name>Greymon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="digiworld" final="false">
+	<num>DIG-0009</num>
+    <name>M.Greymon</name>
+	<types>
+		<type>Fire</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0010</num>
+    <name>WarGreymon</name>
+	<types>
+		<type>Fire</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+		<run>Digimon Nova Red</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0011</num>
+    <name>Sk.Greymon</name>
+	<types>
+		<type>Fire</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="digiworld" final="false">
+	<num>DIG-0012</num>
+    <name>Bukamon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+    
+  <mon region="digiworld" final="false">
+	<num>DIG-0013</num>
+    <name>Gomamon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+    
+  <mon region="digiworld" final="false">
+	<num>DIG-0014</num>
+    <name>Ikkaukumon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+      
+  <mon region="digiworld" final="false">
+	<num>DIG-0015</num>
+    <name>Zudomon</name>
+	<types>
+		<type>Water</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0016</num>
+    <name>Vikemon</name>
+	<types>
+		<type>Water</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0017</num>
+    <name>Tsunomon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0018</num>
+    <name>Gabumon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0019</num>
+    <name>Garurumon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0020</num>
+    <name>WGaruruomon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0021</num>
+    <name>MGarurumon</name>
+	<types>
+		<type>Ice</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0022</num>
+    <name>Tokomon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0023</num>
+    <name>Patamon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0024</num>
+    <name>Angemon</name>
+	<types>
+		<type>Fairy</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0025</num>
+    <name>M.Angemon</name>
+	<types>
+		<type>Fairy</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0026</num>
+    <name>Seraphimon</name>
+	<types>
+		<type>Fairy</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0027</num>
+    <name>Yokomon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0028</num>
+    <name>Biyomon</name>
+	<types>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0029</num>
+    <name>Birdramon</name>
+	<types>
+		<type>Fire</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0030</num>
+    <name>Garudomon</name>
+	<types>
+		<type>Fire</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0031</num>
+    <name>Hououmon</name>
+	<types>
+		<type>Fire</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0032</num>
+    <name>Motimon</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0033</num>
+    <name>Tentomon</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0034</num>
+    <name>Kabuterimon</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0035</num>
+    <name>M.Kabuterimon</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0036</num>
+    <name>H.Kabuterimon</name>
+	<types>
+		<type>Bug</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0037</num>
+    <name>Nyaromon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0038</num>
+    <name>Salamon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0039</num>
+    <name>Gatomon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0040</num>
+    <name>Angewomon</name>
+	<types>
+		<type>Fairy</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0041</num>
+    <name>Opahnimon</name>
+	<types>
+		<type>Fairy</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+		<run>Digimon Nova Red</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0042</num>
+    <name>Chibomon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0043</num>
+    <name>DemiVeemon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0044</num>
+    <name>Veemon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0045</num>
+    <name>X-Veemon</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0046</num>
+    <name>Magnamon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0047</num>
+    <name>Flamedramon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0048</num>
+    <name>Raidramon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0049</num>
+    <name>Upamon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0050</num>
+    <name>Armadillomon</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0051</num>
+    <name>Anklyomon</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0052</num>
+    <name>Shakomon</name>
+	<types>
+		<type>Ground</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0053</num>
+    <name>Digmon</name>
+	<types>
+		<type>Ground</type>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0054</num>
+    <name>Poromon</name>
+	<types>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0055</num>
+    <name>Hawkmon</name>
+	<types>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0056</num>
+    <name>Aquilamon</name>
+	<types>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0057</num>
+    <name>Silphymon</name>
+	<types>
+		<type>Flying</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0058</num>
+    <name>Shurimon</name>
+	<types>
+		<type>Flying</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0059</num>
+    <name>Minomon</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0060</num>
+    <name>Wormmon</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0061</num>
+    <name>Sitingmon</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0062</num>
+    <name>Paildramon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0063</num>
+    <name>Imp.Dramon</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0064</num>
+    <name>Kokomon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0065</num>
+    <name>Lopmon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0066</num>
+    <name>Turuiemon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0067</num>
+    <name>Antylamon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0068</num>
+    <name>Cherubimon</name>
+	<types>
+		<type>Fighting</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0069</num>
+    <name>Gummymon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0070</num>
+    <name>Terriermon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0071</num>
+    <name>Gargomon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0072</num>
+    <name>Rapidmon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0073</num>
+    <name>M.Gargomon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0074</num>
+    <name>Viximon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0075</num>
+    <name>Renamon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0076</num>
+    <name>Kyubimon</name>
+	<types>
+		<type>Fire</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0077</num>
+    <name>Taomon</name>
+	<types>
+		<type>Fire</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0078</num>
+    <name>Sakuyamon</name>
+	<types>
+		<type>Fire</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0079</num>
+    <name>Gigimon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0080</num>
+    <name>Guilmon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0081</num>
+    <name>Growlmon</name>
+	<types>
+		<type>Fire</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0082</num>
+    <name>W.Growlmon</name>
+	<types>
+		<type>Fire</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0083</num>
+    <name>Gallantmon</name>
+	<types>
+		<type>Fire</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+		<run>Digimon Nova Red</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0084</num>
+    <name>Ketomon</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0085</num>
+    <name>Hopmon</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0086</num>
+    <name>Monodramon</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0087</num>
+    <name>Str.Dramon</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0088</num>
+    <name>Cyberdramon</name>
+	<types>
+		<type>Dark</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0089</num>
+    <name>Calumon</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0090</num>
+    <name>DemiDevimon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0091</num>
+    <name>Devimon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0092</num>
+    <name>Myotismon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0093</num>
+    <name>Piedmon</name>
+	<types>
+		<type>Dark</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0094</num>
+    <name>Kuramon</name>
+	<types>
+		<type>Dark</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0095</num>
+    <name>Tsumemon</name>
+	<types>
+		<type>Dark</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0096</num>
+    <name>Keramon</name>
+	<types>
+		<type>Dark</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0097</num>
+    <name>Chrysalimon</name>
+	<types>
+		<type>Dark</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0098</num>
+    <name>Infermon</name>
+	<types>
+		<type>Dark</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0099</num>
+    <name>Diaboromon</name>
+	<types>
+		<type>Dark</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0100</num>
+    <name>Impmon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0101</num>
+    <name>Beelzemon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0102</num>
+    <name>Pixiemon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0103</num>
+    <name>Mar.Angemon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0104</num>
+    <name>Sunarizamon</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0105</num>
+    <name>Tortomon</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0106</num>
+    <name>Spinomon</name>
+	<types>
+		<type>Ground</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0107</num>
+    <name>Dorimon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0108</num>
+    <name>Dorumon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0109</num>
+    <name>Kamemon</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0110</num>
+    <name>Gwappamon</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0111</num>
+    <name>Shawjamon</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0112</num>
+    <name>Nanimon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0113</num>
+    <name>Apemon</name>
+	<types>
+		<type>Fighting</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0114</num>
+    <name>Pandamon</name>
+	<types>
+		<type>Fighting</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0115</num>
+    <name>Pagumon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0116</num>
+    <name>Gazimon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0117</num>
+    <name>Devidramon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0118</num>
+    <name>Cerberumon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0119</num>
+    <name>Bombmon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0120</num>
+    <name>Thundermon</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0121</num>
+    <name>B.Nanimon</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0122</num>
+    <name>Botamon</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0123</num>
+    <name>Wizardmon</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0124</num>
+    <name>Wisemon</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0125</num>
+    <name>ToyAgumon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0126</num>
+    <name>ExTyranomon</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0127</num>
+    <name>S.Knightmon</name>
+	<types>
+		<type>Ground</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0128</num>
+    <name>Monitamon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0129</num>
+    <name>Deputymon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0130</num>
+    <name>Justimon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0131</num>
+    <name>Sukamon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0132</num>
+    <name>Etemon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0133</num>
+    <name>M.Etemon</name>
+	<types>
+		<type>Fighting</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0134</num>
+    <name>M.Koromon</name>
+	<types>
+		<type>Steel</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0135</num>
+    <name>Kokuwamon</name>
+	<types>
+		<type>Steel</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0136</num>
+    <name>Andromon</name>
+	<types>
+		<type>Steel</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0137</num>
+    <name>Petitmon</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0138</num>
+    <name>Dracomon</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0139</num>
+    <name>Airdramon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0140</num>
+    <name>WingDramon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0141</num>
+    <name>Dolphmon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0142</num>
+    <name>Divermon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0143</num>
+    <name>Pukumon</name>
+	<types>
+		<type>Water</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0144</num>
+    <name>Numemon</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0145</num>
+    <name>Raremon</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0146</num>
+    <name>Dragomon</name>
+	<types>
+		<type>Poison</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0147</num>
+    <name>Golemon</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0148</num>
+    <name>Machinedramon</name>
+	<types>
+		<type>Steel</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0149</num>
+    <name>Kunemon</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0150</num>
+    <name>Flymon</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0151</num>
+    <name>Snimon</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0152</num>
+    <name>Kuwagamon</name>
+	<types>
+		<type>Bug</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0153</num>
+    <name>Puroromon</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0154</num>
+    <name>Fanbeemon</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0155</num>
+    <name>Honeybeemon</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0156</num>
+    <name>Butterflymon</name>
+	<types>
+		<type>Bug</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0157</num>
+    <name>Yanmamon</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0158</num>
+    <name>Dokugumon</name>
+	<types>
+		<type>Bug</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0159</num>
+    <name>Tapirmon</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0160</num>
+    <name>Sk.Mammothmon</name>
+	<types>
+		<type>Psychic</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0161</num>
+    <name>Poyomon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0162</num>
+    <name>Manbomon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0163</num>
+    <name>M.Chimeramon</name>
+	<types>
+		<type>Water</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0164</num>
+    <name>Datamon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0165</num>
+    <name>Ebemon</name>
+	<types>
+		<type>Steel</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0166</num>
+    <name>Kudamon</name>
+	<types>
+		<type>Water</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0167</num>
+    <name>Quetzalmon</name>
+	<types>
+		<type>Water</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0168</num>
+    <name>Scorpiomon</name>
+	<types>
+		<type>Water</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0169</num>
+    <name>Sk.Scorpiomon</name>
+	<types>
+		<type>Water</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0170</num>
+    <name>Vorvomon</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0171</num>
+    <name>Lavorvomon</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0172</num>
+    <name>Lavogaritamon</name>
+	<types>
+		<type>Rock</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0173</num>
+    <name>Vol.Dramon</name>
+	<types>
+		<type>Rock</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0174</num>
+    <name>Monzaemon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0175</num>
+    <name>Nyokimon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0176</num>
+    <name>Floramon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0177</num>
+    <name>Kabukimon</name>
+	<types>
+		<type>Grass</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0178</num>
+    <name>Rafflesimon</name>
+	<types>
+		<type>Grass</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0179</num>
+    <name>Darcmon</name>
+	<types>
+		<type>Electric</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0180</num>
+    <name>Valkyrimon</name>
+	<types>
+		<type>Electric</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0181</num>
+    <name>Gizamon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0182</num>
+    <name>Coelamon</name>
+	<types>
+		<type>Water</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0183</num>
+    <name>Regalecusmon</name>
+	<types>
+		<type>Water</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0184</num>
+    <name>Gotsumon</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0185</num>
+    <name>Togemogumon</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0186</num>
+    <name>Jagamon</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0187</num>
+    <name>Garbamon</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0188</num>
+    <name>Troopmon</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0189</num>
+    <name>Monochromon</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0190</num>
+    <name>Tuskmon</name>
+	<types>
+		<type>Ground</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0191</num>
+    <name>Allomon</name>
+	<types>
+		<type>Rock</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0192</num>
+    <name>Digitamamon</name>
+	<types>
+		<type>Normal</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0193</num>
+    <name>Devitamamon</name>
+	<types>
+		<type>Dark</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0194</num>
+    <name>Crabmon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0195</num>
+    <name>Ebidramon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0196</num>
+    <name>Gusokumon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0197</num>
+    <name>Bearmon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0198</num>
+    <name>Grizzmon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0199</num>
+    <name>GrapLeomon</name>
+	<types>
+		<type>Fighting</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0200</num>
+    <name>Bakemon</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0201</num>
+    <name>Phantomon</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0202</num>
+    <name>M.Phantomon</name>
+	<types>
+		<type>Ghost</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0203</num>
+    <name>Vilemon</name>
+	<types>
+		<type>Poison</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0204</num>
+    <name>LadyDevimon</name>
+	<types>
+		<type>Poison</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0205</num>
+    <name>Lilithmon</name>
+	<types>
+		<type>Poison</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+		<run>Digimon Nova Red</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0206</num>
+    <name>Goblimon</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0207</num>
+    <name>Ogremon</name>
+	<types>
+		<type>Poison</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0208</num>
+    <name>Jotumon</name>
+	<types>
+		<type>Poison</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0209</num>
+    <name>Liollmon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0210</num>
+    <name>Leomon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0211</num>
+    <name>Sab.Leomon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0212</num>
+    <name>Elecmon</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0213</num>
+    <name>Unimon</name>
+	<types>
+		<type>Electric</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0214</num>
+    <name>Punimon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0215</num>
+    <name>Gaossmon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0216</num>
+    <name>Tyranomon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0217</num>
+    <name>ChaosDramon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0218</num>
+    <name>D.Tyranomon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0219</num>
+    <name>MasTyranomon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0220</num>
+    <name>Otamamon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0221</num>
+    <name>Gekomon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0222</num>
+    <name>ShogunGekomon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0223</num>
+    <name>Gekomon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0224</num>
+    <name>Kotemon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0225</num>
+    <name>Musyamon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0226</num>
+    <name>Asuramon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0227</num>
+    <name>Zanbamon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0228</num>
+    <name>Wanyamon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0229</num>
+    <name>Gaomon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0230</num>
+    <name>Gaogamon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0231</num>
+    <name>Mach.Gaogamon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0232</num>
+    <name>Mir.Gaogamon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0233</num>
+    <name>Mojyamon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0234</num>
+    <name>Jijimon</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0235</num>
+    <name>Babamon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0236</num>
+    <name>Tinkermon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0237</num>
+    <name>Kazemon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0238</num>
+    <name>A.Kazemon</name>
+	<types>
+		<type>Fairy</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0239</num>
+    <name>Chikurimon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0240</num>
+    <name>Hagurumon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0241</num>
+    <name>Omekamon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0242</num>
+    <name>Y.Botamon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0243</num>
+    <name>Chackmon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0244</num>
+    <name>Frigimon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0245</num>
+    <name>Hexeblaumon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0246</num>
+    <name>Chicchimon</name>
+	<types>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0247</num>
+    <name>Hyokomon</name>
+	<types>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0248</num>
+    <name>Buraimon</name>
+	<types>
+		<type>Flying</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0249</num>
+    <name>Kiwimon</name>
+	<types>
+		<type>Flying</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0250</num>
+    <name>Deramon</name>
+	<types>
+		<type>Flying</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0251</num>
+    <name>Owlmon</name>
+	<types>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0252</num>
+    <name>Ravemon</name>
+	<types>
+		<type>Flying</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0253</num>
+    <name>Muchomon</name>
+	<types>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0254</num>
+    <name>Kokatorimon</name>
+	<types>
+		<type>Flying</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0255</num>
+    <name>Mokumon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0256</num>
+    <name>DemiMeramon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0257</num>
+    <name>Candlemon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0258</num>
+    <name>Meramon</name>
+	<types>
+		<type>Fire</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0259</num>
+    <name>Sk.Meramon</name>
+	<types>
+		<type>Fire</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0260</num>
+    <name>Boarmon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0261</num>
+    <name>Lynxmon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0262</num>
+    <name>Shadramon</name>
+	<types>
+		<type>Fire</type>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0263</num>
+    <name>D.Lizamon</name>
+	<types>
+		<type>Fire</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0264</num>
+    <name>Pichimon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0265</num>
+    <name>Chapmon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0266</num>
+    <name>Seadramon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0267</num>
+    <name>M.Seadramon</name>
+	<types>
+		<type>Water</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0268</num>
+    <name>Starmon</name>
+	<types>
+		<type>Water</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0269</num>
+    <name>S.Starmon</name>
+	<types>
+		<type>Water</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0270</num>
+    <name>Betamon</name>
+	<types>
+		<type>Water</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0271</num>
+    <name>Gesomon</name>
+	<types>
+		<type>Water</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0272</num>
+    <name>M.Devimon</name>
+	<types>
+		<type>Water</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0273</num>
+    <name>K.Numemon</name>
+	<types>
+		<type>Water</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0274</num>
+    <name>Mermaimon</name>
+	<types>
+		<type>Water</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0275</num>
+    <name>A.Mermaimon</name>
+	<types>
+		<type>Water</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+		<run>Digimon Nova Red</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0276</num>
+    <name>Syakomon</name>
+	<types>
+		<type>Water</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0277</num>
+    <name>Shellmon</name>
+	<types>
+		<type>Water</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0278</num>
+    <name>Plesiomon</name>
+	<types>
+		<type>Water</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0279</num>
+    <name>Yuramon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0280</num>
+    <name>Budmon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0281</num>
+    <name>Lalamon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0282</num>
+    <name>Sunflowmon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0283</num>
+    <name>Lilamon</name>
+	<types>
+		<type>Grass</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0284</num>
+    <name>Lotusmon</name>
+	<types>
+		<type>Grass</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0285</num>
+    <name>Woodmon</name>
+	<types>
+		<type>Grass</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0286</num>
+    <name>Pumpkinmon</name>
+	<types>
+		<type>Grass</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0287</num>
+    <name>Weedmon</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0288</num>
+    <name>Blossomon</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0289</num>
+    <name>Nohemon</name>
+	<types>
+		<type>Grass</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0290</num>
+    <name>Puppetmon</name>
+	<types>
+		<type>Grass</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0291</num>
+    <name>Monmon</name>
+	<types>
+		<type>Grass</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0292</num>
+    <name>Makuramon</name>
+	<types>
+		<type>Grass</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0293</num>
+    <name>Mamemon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0294</num>
+    <name>M.Maimamon</name>
+	<types>
+		<type>Steel</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0295</num>
+    <name>MameTyramon</name>
+	<types>
+		<type>Steel</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0296</num>
+    <name>Ban.Mamemon</name>
+	<types>
+		<type>Steel</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0297</num>
+    <name>Xiaomon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0298</num>
+    <name>Labramon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0299</num>
+    <name>Seasarmon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0300</num>
+    <name>A.Sphinxmon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0301</num>
+    <name>Prariemon</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0302</num>
+    <name>Bucchiemon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0303</num>
+    <name>Chamelemon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0304</num>
+    <name>Meicoomon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0305</num>
+    <name>Beastmon</name>
+	<types>
+		<type>Dark</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0306</num>
+    <name>Minervamon</name>
+	<types>
+		<type>Dark</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0307</num>
+    <name>Ghostmon</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0308</num>
+    <name>Sk.Baluchimon</name>
+	<types>
+		<type>Ghost</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0309</num>
+    <name>Arukenimon</name>
+	<types>
+		<type>Poison</type>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0310</num>
+    <name>Mummymon</name>
+	<types>
+		<type>Poison</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0311</num>
+    <name>Datirimon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0312</num>
+    <name>Parasaurmon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0313</num>
+    <name>Toropiamon</name>
+	<types>
+		<type>Grass</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0314</num>
+    <name>Hydramon</name>
+	<types>
+		<type>Grass</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0315</num>
+    <name>Dracmon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0316</num>
+    <name>W.Monzaemon</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0317</num>
+    <name>Pusurimon</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0318</num>
+    <name>Herissmon</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0319</num>
+    <name>Filmon</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0320</num>
+    <name>Stefilmon</name>
+	<types>
+		<type>Electric</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0321</num>
+    <name>Rasenmon</name>
+	<types>
+		<type>Electric</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0322</num>
+    <name>Cutemon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0323</num>
+    <name>Kumbhiramon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0324</num>
+    <name>Baihumon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0325</num>
+    <name>P.Chessmon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0326</num>
+    <name>Kn.Chessmon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0327</num>
+    <name>Q.Chessmon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0328</num>
+    <name>K.Chessmon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0329</num>
+    <name>Shoutmon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0330</num>
+    <name>Sw.Shoutmon</name>
+	<types>
+		<type>Fire</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0331</num>
+    <name>Curimon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0332</num>
+    <name>Gurimon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0333</num>
+    <name>Gammamon</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0334</num>
+    <name>C.Weissmon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0335</num>
+    <name>Kleptomon</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0336</num>
+    <name>Moonmon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0337</num>
+    <name>Lunamon</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0338</num>
+    <name>Dianamon</name>
+	<types>
+		<type>Ice</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0339</num>
+    <name>Sunmon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0340</num>
+    <name>Coronamon</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0341</num>
+    <name>Apollomon</name>
+	<types>
+		<type>Fire</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0342</num>
+    <name>Puttimon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0343</num>
+    <name>Kyupimon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0344</num>
+    <name>Venusmon</name>
+	<types>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0345</num>
+    <name>Megidramon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0346</num>
+    <name>Neptunemon</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0347</num>
+    <name>Goldramon</name>
+	<types>
+		<type>Dragon</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+		<run>Digimon Nova Red</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0348</num>
+    <name>Lucemon</name>
+	<types>
+		<type>Fairy</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0349</num>
+    <name>Lucemon X</name>
+	<types>
+		<type>Fairy</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="false">
+	<num>DIG-0350</num>
+    <name>Milleniumon</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0351</num>
+    <name>Milleniummon</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0352</num>
+    <name>Alphamon</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0353</num>
+    <name>ShoutmonX3</name>
+	<types>
+		<type>Fire</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0354</num>
+    <name>PaladinMod</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="digiworld" final="true">
+	<num>DIG-0355</num>
+    <name>Omnimon</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+
 <!-- GENSOKYO -->
 
   <mon region="gensokyo" final="false">
