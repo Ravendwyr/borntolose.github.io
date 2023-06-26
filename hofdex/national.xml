@@ -1283,6 +1283,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Crystal</run>
+		<run>Randomized SoulSilver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2516,6 +2517,7 @@
 		<run>Dual Blue</run>
 		<run>Randomized Y</run>
 		<run>RGB Green</run>
+		<run>Randomized SoulSilver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3781,6 +3783,7 @@
 	</types>
 	<runs>
 		<run>Vega</run>
+		<run>Victory Fire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5083,6 +5086,7 @@
 	<runs>
 		<run>FireRed</run>
 		<run>FireRed Revisit</run>
+		<run>Randomized SoulSilver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6649,10 +6653,11 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Randomized SoulSilver</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -8081,6 +8086,7 @@
 	</types>
 	<runs>
 		<run>Renegade Platinum</run>
+		<run>Randomized SoulSilver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
