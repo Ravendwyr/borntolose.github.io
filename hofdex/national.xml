@@ -5373,6 +5373,7 @@
 	</types>
 	<runs>
 		<run>Randomized Black 2</run>
+		<run>Resolute</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6623,6 +6624,7 @@
 	<runs>
 		<run>Omega Ruby</run>
 		<run>Alpha Sapphire</run>
+		<run>Resolute</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7011,9 +7013,10 @@
 	</types>
 	<runs>
 		<run>Dual Sanqui Blue</run>
+		<run>Resolute</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
+		<rank>main</rank>
 		<emblem>inter</emblem>
 	</status>
   </mon> 
@@ -7710,10 +7713,11 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Resolute</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -8180,9 +8184,10 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Resolute</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -8194,9 +8199,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Resolute</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -8451,6 +8457,7 @@
 	</types>
 	<runs>
 		<run>Blazed Glazed</run>
+		<run>Resolute</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8797,10 +8804,11 @@
 		<type>Rock</type>
 	</types>
 	<runs>
+		<run>Resolute</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10291,10 +10299,11 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Resolute</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10723,6 +10732,7 @@
 	</types>
 	<runs>
 		<run>Randomized Black</run>
+		<run>Resolute</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10739,6 +10749,7 @@
 	</types>
 	<runs>
 		<run>Randomized Black 2</run>
+		<run>Resolute</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11786,10 +11797,11 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Resolute</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12151,6 +12163,7 @@
 	</types>
 	<runs>
 		<run>Ultra Sun</run>
+		<run>Resolute</run>
 	</runs>
 	<status>
 		<rank>main</rank>

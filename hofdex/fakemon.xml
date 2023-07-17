@@ -13427,6 +13427,24 @@
 	</status>
   </mon>
 
+~<!-- Tyron -->
+
+  <mon region="tyron" final="true">
+	<num>TYR-0387</num>
+    <name>Eliza</name>
+	<types>
+		<type>Dark</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+		<run>Resolute</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
 <!-- DIGITAL WORLD -->
 
   <mon region="digiworld" final="false">
