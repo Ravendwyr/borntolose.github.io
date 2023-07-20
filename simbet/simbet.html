@@ -14,14 +14,14 @@
 		if ( Notification.permission !== 'denied' || Notification.permission === 'default') {
 			Notification.requestPermission((permission) => {
 				if (permission === 'granted') {
-					const notification = new Notification('Notifications enabled.');
+					const notification = new Notification('Ready to notify.');
 				}
 			})
 		}
 	
 		ComfyJS.onCommand = ( user, command, message, flags, extra ) => {
 				
-				if (user.toString() == "YugnatZero") {
+				if (user.toString() == "tppsimulator") {
 				
 					console.log(message);
 					
