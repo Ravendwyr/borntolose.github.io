@@ -657,6 +657,7 @@
 	<runs>
 		<run>Dual Blue</run>
 		<run>Blazing Emerald Runback</run>
+		<run>Yellow: Cramorant Edition</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1441,6 +1442,7 @@
 	</types>
 	<runs>
 		<run>Brown</run>
+		<run>Yellow: Cramorant Edition</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2142,6 +2144,7 @@
 	</types>
 	<runs>
 		<run>Blazing Emerald</run>
+		<run>Yellow: Cramorant Edition</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2419,6 +2422,7 @@
 	<runs>
 		<run>Pyrite</run>
 		<run>Prism Anniversary</run>
+		<run>Yellow: Cramorant Edition</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13732,10 +13736,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Yellow: Cramorant Edition</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon> 
 
@@ -13760,10 +13765,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Yellow: Cramorant Edition</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon> 
 
