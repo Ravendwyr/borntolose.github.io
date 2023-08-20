@@ -7516,10 +7516,11 @@
 		<type>Dark</type>
 	</types>
 	<runs>
+		<run>Black &amp; White 3</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -8736,6 +8737,7 @@
 	<runs>
 		<run>Black 2</run>
 		<run>Black Revisit</run>
+		<run>Black &amp; White 3</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9895,6 +9897,7 @@
 	<runs>
 		<run>Alpha Sapphire</run>
 		<run>Star</run>
+		<run>Black &amp; White 3</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10217,10 +10220,11 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Black &amp; White 3</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10486,10 +10490,11 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Black &amp; White 3</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10501,10 +10506,11 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Black &amp; White 3</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
