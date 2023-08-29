@@ -13430,7 +13430,7 @@
 ~<!-- Tyron -->
 
   <mon region="tyron" final="true">
-	<num>TYR-0387</num>
+	<num>VFR-0387</num>
     <name>Eliza</name>
 	<types>
 		<type>Dark</type>
