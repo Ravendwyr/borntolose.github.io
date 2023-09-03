@@ -4620,9 +4620,10 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Debug Rubin</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -4764,6 +4765,7 @@
 		<run>Flora Sky</run>
 		<run>Dual Sanqui Blue</run>
 		<run>Star</run>
+		<run>Debug Rubin</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4976,6 +4978,7 @@
 	</types>
 	<runs>
 		<run>Sapphire</run>
+		<run>Debug Rubin</run>
 	</runs>
 	<status>
 		<rank>side</rank>
@@ -5105,9 +5108,10 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Debug Rubin</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -5563,9 +5567,10 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>Debug Rubin</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
