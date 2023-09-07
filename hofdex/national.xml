@@ -6616,10 +6616,11 @@
 	<runs>
 		<run>Metronome Sapphire</run>
 		<run>Sirius</run>
+		<run>Mega Power</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7798,10 +7799,11 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Mega Power</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -8665,10 +8667,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Mega Power</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11063,10 +11066,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Mega Power</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12887,10 +12891,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Mega Power</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -13052,10 +13057,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Mega Power</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
