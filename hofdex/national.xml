@@ -4407,9 +4407,10 @@
 		<type>Electric</type>
 	</types>
 	<runs>
+		<run>Mega Power</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -11883,6 +11884,7 @@
 		<run>Rising Ruby</run>
 		<run>Sword Revisit - Crown Tundra</run>
 		<run>Dual Sanqui Red</run>
+		<run>Mega Power</run>
 	</runs>
 	<status>
 		<rank>main</rank>
