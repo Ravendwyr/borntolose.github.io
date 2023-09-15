@@ -16196,6 +16196,110 @@
 	</status>
   </mon> 
 
+  <mon region="paldea" debut="9" final="99">
+	<num>1011</num>
+    <name>Dipplin</name>
+	<types>
+		<type>Grass</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="0">
+	<num>1012</num>
+    <name>Poltchageist</name>
+	<types>
+		<type>Grass</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1013</num>
+    <name>Sinistcha</name>
+	<types>
+		<type>Grass</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1014</num>
+    <name>Okidogi</name>
+	<types>
+		<type>Poison</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1015</num>
+    <name>Munkidori</name>
+	<types>
+		<type>Poison</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1016</num>
+    <name>Fezandipiti</name>
+	<types>
+		<type>Poison</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1017</num>
+    <name>Ogerpon</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
 <!-- OTHER -->
 
   <mon region="other" debut="2" final="0">
