@@ -1,0 +1,78 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Badge Alert</title>
+</head>
+<body>
+	<script>
+	
+		if ( Notification.permission !== 'denied' || Notification.permission === 'default') {
+			Notification.requestPermission((permission) => {
+				if (permission === 'granted') {
+					const notification = new Notification('Ready to notify.');
+				}
+			})
+		}
+		
+		lastBattleKind = "";
+		//lastEvolutionIsHappening = "";
+		evoInParty = [];
+	
+		function fetchData() {
+			fetch('https://twitchplayspokemon.tv/api/run_status')
+			.then(response => response.json())
+			.then(data => {
+				
+				if (data.battle_kind == "Wild" 
+				   && lastBattleKind != data.battle_kind 
+				   && !data.caught_list.includes(data.enemy_party[0].species.national_dex)) {
+				
+					notification = new Notification("A wild " + data.enemy_party[0].species.name + " appeared!");
+					document.getElementById("eventList").innerHTML += "A wild " + data.enemy_party[0].species.name + " appeared!<br>";
+				
+				}
+				
+				/*if (data.evolution_is_happening != false 
+				   && lastEvolutionIsHappening != data.evolution_is_happening) {
+				
+					notification = new Notification("A Pokémon is evolving!");
+					document.getElementById("eventList").innerHTML += "A Pokémon is evolving!<br>";
+				
+				}*/
+				
+				for (i = 0; i < data.party.length; i++){
+					if (data.party[i].species.evolutions.length > 0) {
+						if (data.party[i].species.evolutions[0].level <= data.party[i].level && !evoInParty.includes(data.party[i].species.name)) {
+						
+							notification = new Notification(data.party[i].species.name + " is about to evolve!");
+							document.getElementById("eventList").innerHTML += data.party[i].species.name + " is about to evolve!<br>";
+							
+							evoInParty.push(data.party[i].species.name);
+							
+						}
+					}
+				}
+				
+				lastBattleKind = data.battle_kind;
+				//lastEvolutionIsHappening = data.evolution_is_happening;
+				
+				//console.log(data.battle_type);
+				setTimeout(fetchData, 30000);
+			})
+		}
+		
+		fetchData();
+		
+	</script>
+	<div>
+		<!--img id="img" width="96px" src="0474.png"><br-->
+		<i>[Keep this tab open to receive notifications when an uncaught mon appears.]</i><br>
+		<i><small>[You must first allow this page to send you notifications.]</small></i>
+		<br><br>
+		<div id="eventList"></div>
+	</div>
+</body>
+</html>
