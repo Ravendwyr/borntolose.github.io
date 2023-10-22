@@ -5946,6 +5946,1516 @@
 	</status>
   </mon>
 
+<!-- UNDEAD HOENN -->
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0001</num>
+    <name>Boilbasaur</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0002</num>
+    <name>Shrivlsaur</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0003</num>
+    <name>Vivosaur</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>  
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0004</num>
+    <name>Rotmander</name>
+	<types>
+		<type>Fire</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0005</num>
+    <name>Charmeworm</name>
+	<types>
+		<type>Fire</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0006</num>
+    <name>Zombizard</name>
+	<types>
+		<type>Fire</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>  
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0007</num>
+    <name>Oozle</name>
+	<types>
+		<type>Water</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0008</num>
+    <name>Entrailtle</name>
+	<types>
+		<type>Water</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0009</num>
+    <name>Bleedoise</name>
+	<types>
+		<type>Water</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0010</num>
+    <name>Shinigami</name>
+	<types>
+		<type>Psychic</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0011</num>
+    <name>Latinstein</name>
+	<types>
+		<type>Dragon</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0012</num>
+    <name>Antispiral</name>
+	<types>
+		<type>Normal</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0013</num>
+    <name>Glute</name>
+	<types>
+		<type>Bug</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0014</num>
+    <name>Bute</name>
+	<types>
+		<type>Bug</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0015</num>
+    <name>Nute</name>
+	<types>
+		<type>Bug</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0019</num>
+    <name>Ramshaker</name>
+	<types>
+		<type>Normal</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0023</num>
+    <name>Sevicious</name>
+	<types>
+		<type>Poison</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0024</num>
+    <name>Zangol</name>
+	<types>
+		<type>Normal</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0025</num>
+    <name>Pikachew</name>
+	<types>
+		<type>Electric</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0026</num>
+    <name>Stitcher</name>
+	<types>
+		<type>Electric</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0049</num>
+    <name>A Monster</name>
+	<types>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0051</num>
+    <name>Galactimon</name>
+	<types>
+		<type>Rock</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0056</num>
+    <name>Rotting</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0060</num>
+    <name>Polihag</name>
+	<types>
+		<type>Water</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0061</num>
+    <name>Poliworm</name>
+	<types>
+		<type>Water</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0062</num>
+    <name>Poliwraith</name>
+	<types>
+		<type>Water</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0073</num>
+    <name>Qwilshark</name>
+	<types>
+		<type>Water</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0083</num>
+    <name>Dragoone</name>
+	<types>
+		<type>Normal</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0088</num>
+    <name>Moulder</name>
+	<types>
+		<type>Poison</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0089</num>
+    <name>Yuck</name>
+	<types>
+		<type>Poison</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+    
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0090</num>
+    <name>Tentorture</name>
+	<types>
+		<type>Poison</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0091</num>
+    <name>Tecthulu</name>
+	<types>
+		<type>Poison</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+      
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0092</num>
+    <name>Ghastlier</name>
+	<types>
+		<type>Ghost</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+        
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0093</num>
+    <name>Haunteyes</name>
+	<types>
+		<type>Ghost</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0094</num>
+    <name>Gengaze</name>
+	<types>
+		<type>Ghost</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+		<run>Snakewood DX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+    
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0115</num>
+    <name>Roclobster</name>
+	<types>
+		<type>Dragon</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>    
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0122</num>
+    <name>Vigourlan</name>
+	<types>
+		<type>Normal</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+    
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0123</num>
+    <name>Grimreaper</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+      
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0124</num>
+    <name>Eye-Eye</name>
+	<types>
+		<type>Ice</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+        
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0125</num>
+    <name>Electabugs</name>
+	<types>
+		<type>Electric</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+        
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0126</num>
+    <name>Miasmar</name>
+	<types>
+		<type>Fire</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>        
+  
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0143</num>
+    <name>Gorelax</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+    
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0150</num>
+    <name>Mutagon</name>
+	<types>
+		<type>Psychic</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+    
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0151</num>
+    <name>Mewby</name>
+	<types>
+		<type>Psychic</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+      
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0172</num>
+    <name>Azombie</name>
+	<types>
+		<type>Disease</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+        
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0175</num>
+    <name>Kamina</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+		<run>Snakewood DX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+          
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0183</num>
+    <name>Graveill</name>
+	<types>
+		<type>Water</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+		<run>Snakewood DX</run>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0184</num>
+    <name>Azombarill</name>
+	<types>
+		<type>Water</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+		<run>Snakewood DX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0185</num>
+    <name>Gluemadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0186</num>
+    <name>Krampus</name>
+	<types>
+		<type>Ice</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0187</num>
+    <name>Earthmadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0188</num>
+    <name>Bonemadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0189</num>
+    <name>Crazymadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0190</num>
+    <name>Seamadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0191</num>
+    <name>Burstmadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0192</num>
+    <name>Blastmadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0193</num>
+    <name>Treemadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0196</num>
+    <name>Toxeon</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0197</num>
+    <name>Demoneon</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0198</num>
+    <name>Dirtkrow</name>
+	<types>
+		<type>Dark</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0203</num>
+    <name>Aeromadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0206</num>
+    <name>Diamandix</name>
+	<types>
+		<type>Steel</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0207</num>
+    <name>Normadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0209</num>
+    <name>Cinderco</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0210</num>
+    <name>Radiorange</name>
+	<types>
+		<type>Fire</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0211</num>
+    <name>Telson</name>
+	<types>
+		<type>Water</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0212</num>
+    <name>Ironreaper</name>
+	<types>
+		<type>Bug</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0215</num>
+    <name>Maw</name>
+	<types>
+		<type>Dark</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0217</num>
+    <name>Chocwork</name>
+	<types>
+		<type>Steel</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0225</num>
+    <name>Mysteryegg</name>
+	<types>
+		<type>Normal</type>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0228</num>
+    <name>Houndsour</name>
+	<types>
+		<type>Dark</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0229</num>
+    <name>Headdoom</name>
+	<types>
+		<type>Dark</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0239</num>
+    <name>Houndemon</name>
+	<types>
+		<type>Dark</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0240</num>
+    <name>Houndecay</name>
+	<types>
+		<type>Dark</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0249</num>
+    <name>Scar Lugia</name>
+	<types>
+		<type>Psychic</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+		<run>Snakewood DX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0272</num>
+    <name>Skylax</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0280</num>
+    <name>Rancid</name>
+	<types>
+		<type>Psychic</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0281</num>
+    <name>Killia</name>
+	<types>
+		<type>Psychic</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0282</num>
+    <name>Gardevour</name>
+	<types>
+		<type>Psychic</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0290</num>
+    <name>Hyperegg</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0291</num>
+    <name>Secretegg</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0292</num>
+    <name>Kajilianth</name>
+	<types>
+		<type>Poison</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0298</num>
+    <name>X32763</name>
+	<types>
+		<type>Steel</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0317</num>
+    <name>Kingmadio</name>
+	<types>
+		<type>Ghost</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0322</num>
+    <name>Hombone</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0323</num>
+    <name>Hombeast</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0324</num>
+    <name>Virodon</name>
+	<types>
+		<type>Ground</type>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0331</num>
+    <name>Kenchira</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0332</num>
+    <name>Kenchukuo</name>
+	<types>
+		<type>Fighting</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0371</num>
+    <name>Psypig</name>
+	<types>
+		<type>Fire</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="false">
+	<num>SKW-0373</num>
+    <name>Calfby</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0377</num>
+    <name>Furi X</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0378</num>
+    <name>Furi Z</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0379</num>
+    <name>Furi Q</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0380</num>
+    <name>Luca Zamón</name>
+	<types>
+		<type>Dragon</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0381</num>
+    <name>Téa Barqán</name>
+	<types>
+		<type>Dragon</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+		<run>Snakewood DX</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0382</num>
+    <name>Turmur</name>
+	<types>
+		<type>Disease</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0384</num>
+    <name>Senex</name>
+	<types>
+		<type>Fighting</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0385</num>
+    <name>Shaderu</name>
+	<types>
+		<type>Ghost</type>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0386</num>
+    <name>Faceleech</name>
+	<types>
+		<type>Disease</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sw-hoenn" final="true">
+	<num>SKW-0389</num>
+    <name>Dragon</name>
+	<types>
+		<type>Fire</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  
 <!-- FUSED JOHTO -->
 
   <mon region="fus-johto" final="false">
@@ -13427,7 +14937,7 @@
 	</status>
   </mon>
 
-~<!-- Tyron -->
+<!-- TYRON -->
 
   <mon region="tyron" final="true">
 	<num>VFR-0387</num>
@@ -25118,6 +26628,5588 @@
 	<types>
 		<type>Dark</type>
 		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+<!-- DIGITAL WORLD -->
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0001</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0002</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0003</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0004</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0005</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0006</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0007</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0008</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0009</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0010</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0011</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0012</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0013</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0014</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0015</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0016</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0017</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0018</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0019</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0020</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0021</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0022</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0023</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0024</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0025</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0026</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0027</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0028</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0029</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0030</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0031</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0032</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0033</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0034</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0035</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0036</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0037</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0038</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0039</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0040</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0041</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0042</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0043</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0044</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0045</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0046</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0047</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0048</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0049</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0050</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0051</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0052</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0053</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0054</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0055</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0056</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0057</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0058</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0059</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0060</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0061</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0062</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0063</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0064</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0065</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0066</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0067</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0068</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0069</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0070</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0071</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0072</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0073</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>  
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0074</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0075</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0076</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0077</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0078</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0079</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0080</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0081</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0082</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0083</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0084</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0085</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0086</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0087</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0088</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0089</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0090</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0091</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0092</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ghost</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0093</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ghost</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0094</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ghost</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0095</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0096</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0097</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0098</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0099</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0100</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0101</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0102</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0103</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0104</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0105</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0106</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0107</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0108</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0109</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0110</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0111</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0112</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0113</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0114</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0115</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0116</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0117</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0118</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0119</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0120</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0121</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0122</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0123</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0124</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0125</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0126</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0127</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0128</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0129</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0130</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0131</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0132</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0133</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0134</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0135</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0136</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0137</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0138</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0139</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0140</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0141</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0142</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0143</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0144</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0145</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0146</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0147</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0148</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0149</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dragon</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0150</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0151</num>
+    <name>Frigo</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0152</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0153</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0154</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0155</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0156</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0157</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0158</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0159</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0160</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0161</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0162</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0163</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0164</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0165</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0166</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0167</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0168</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0169</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0170</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0171</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0172</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0173</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0174</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0175</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0176</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0177</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0178</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0179</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0180</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0181</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0182</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0183</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0184</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0185</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0186</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0187</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0188</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0189</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0190</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0191</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0192</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0193</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0194</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0195</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0196</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0197</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0198</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dark</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0199</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0200</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0201</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0202</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0203</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0204</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0205</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0206</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0207</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0208</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0209</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0210</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0211</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0212</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0213</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0214</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0215</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dark</type>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0216</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0217</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0218</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0219</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0220</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0221</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0222</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0223</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0224</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0225</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0226</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0227</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+		<run>PokeSus2</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0228</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dark</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0229</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dark</type>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0230</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0231</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0232</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0233</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0234</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0235</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0236</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0237</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0238</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0239</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0240</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0241</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0242</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0243</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0244</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0245</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0246</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0247</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0248</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0249</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0250</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0251</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0252</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0253</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0254</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+		<run>PokeSus2</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0255</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0256</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0257</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0258</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0259</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0260</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0261</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0262</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0263</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0264</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0265</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0266</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0267</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0268</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0269</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0270</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0271</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0272</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0273</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0274</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0275</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0276</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0277</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0278</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0279</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0280</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0281</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0282</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0283</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0284</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0285</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0286</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0287</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0288</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0289</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0290</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0291</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0292</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+		<run>PokeSus2</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0293</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0294</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0295</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0296</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0297</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0298</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0299</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0300</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0301</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0302</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dark</type>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0303</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0304</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0305</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0306</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0307</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0308</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fighting</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0309</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0310</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0311</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0312</num>
+    <name>Amogus</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0313</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0314</num>
+    <name>Amogus</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0315</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0316</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0317</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0318</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0319</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+		<run>PokeSus2</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0320</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0321</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0322</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0323</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+		<run>PokeSus2</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0324</num>
+    <name>Amogus</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0325</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0326</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0327</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0328</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0329</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0330</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0331</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0332</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0333</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0334</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dragon</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0335</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0336</num>
+    <name>Amogus</name>
+	<types>
+		<type>Poison</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0337</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0338</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0339</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0340</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0341</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0342</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0343</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0344</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ground</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0345</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0346</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0347</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0348</num>
+    <name>Amogus</name>
+	<types>
+		<type>Rock</type>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0349</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0350</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0351</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0352</num>
+    <name>Amogus</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0353</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0354</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0355</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0356</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ghost</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0357</num>
+    <name>Amogus</name>
+	<types>
+		<type>Grass</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0358</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0359</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0360</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0361</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0362</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0363</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0364</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0365</num>
+    <name>Amogus</name>
+	<types>
+		<type>Ice</type>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0366</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0367</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0368</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0369</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+		<run>PokeSus2</run>
+	</runs>
+	<status>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0370</num>
+    <name>Amogus</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0371</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0372</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0373</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dragon</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0374</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="false">
+	<num>SUS-0375</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0376</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0377</num>
+    <name>Falgus</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0378</num>
+    <name>Falgus</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0379</num>
+    <name>Falgus</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0380</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dragon</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0381</num>
+    <name>Amogus</name>
+	<types>
+		<type>Dragon</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0382</num>
+    <name>Amongdrip</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0383</num>
+    <name>Amongdrip</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0384</num>
+    <name>Amongdrip</name>
+	<types>
+		<type>Dragon</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0385</num>
+    <name>Amogus</name>
+	<types>
+		<type>Steel</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="sus-hoenn" final="true">
+	<num>SUS-0386</num>
+    <name>Amogus</name>
+	<types>
+		<type>Psychic</type>
 	</types>
 	<runs>
 	</runs>

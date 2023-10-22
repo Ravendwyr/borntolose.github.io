@@ -4200,6 +4200,7 @@
 	<runs>
 		<run>Blazed Glazed</run>
 		<run>Brilliant Diamond</run>
+		<run>Ultra Mega Power</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4545,10 +4546,11 @@
 		<run>Metronome Sapphire</run>
 		<run>Randomized Colosseum</run>
 		<run>Silver</run>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem>side</emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -6618,6 +6620,7 @@
 		<run>Metronome Sapphire</run>
 		<run>Sirius</run>
 		<run>Mega Power</run>
+		<run>Ultra Mega Power</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8669,6 +8672,7 @@
 	</types>
 	<runs>
 		<run>Mega Power</run>
+		<run>Ultra Mega Power</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11068,6 +11072,7 @@
 	</types>
 	<runs>
 		<run>Mega Power</run>
+		<run>Ultra Mega Power</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11110,10 +11115,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Ultra Mega Power</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon> 
 
@@ -13060,6 +13066,7 @@
 	</types>
 	<runs>
 		<run>Mega Power</run>
+		<run>Ultra Mega Power</run>
 	</runs>
 	<status>
 		<rank>main</rank>
