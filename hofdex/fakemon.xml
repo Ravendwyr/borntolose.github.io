@@ -6136,9 +6136,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6151,9 +6152,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6211,9 +6213,10 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6359,9 +6362,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6419,9 +6423,10 @@
 		<type>Disease</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6495,9 +6500,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6584,9 +6590,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6599,9 +6606,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6736,9 +6744,10 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6751,9 +6760,10 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6781,9 +6791,10 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -6796,9 +6807,10 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -7197,9 +7209,10 @@
 		<type>Dark</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -7301,9 +7314,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -7418,9 +7432,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -14948,6 +14963,24 @@
 	</types>
 	<runs>
 		<run>Resolute</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+<!-- CYENN -->
+
+  <mon region="cyenn" final="true">
+	<num>NML-0217</num>
+    <name>Elluce</name>
+	<types>
+		<type>Dark</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+		<run>Nameless</run>
 	</runs>
 	<status>
 		<rank>main</rank>

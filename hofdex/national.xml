@@ -2026,10 +2026,11 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Nameless</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -2129,9 +2130,10 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -3837,6 +3839,7 @@
 		<run>Crystal Revisit</run>
 		<run>Gauntlet Crystal</run>
 		<run>Inverse Platinum</run>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4201,6 +4204,7 @@
 		<run>Blazed Glazed</run>
 		<run>Brilliant Diamond</run>
 		<run>Ultra Mega Power</run>
+		<run>Ultra Mega Power Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4442,6 +4446,7 @@
 	<runs>
 		<run>Vietnamese Crystal</run>
 		<run>Vietnamese Crystal Revisit</run>
+		<run>Ultra Mega Power Revisit</run>
 	</runs>
 	<status>
 		<rank>side</rank>
@@ -5142,9 +5147,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -5156,9 +5162,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -5173,6 +5180,7 @@
 		<run>FireRed</run>
 		<run>FireRed Revisit</run>
 		<run>Randomized Colosseum</run>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5874,9 +5882,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -5889,6 +5898,7 @@
 	</types>
 	<runs>
 		<run>XG Remix</run>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7313,6 +7323,7 @@
 	</types>
 	<runs>
 		<run>Prism</run>
+		<run>Nameless</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7592,6 +7603,7 @@
 	</types>
 	<runs>
 		<run>Brilliant Diamond</run>
+		<run>Snakewood DX</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7976,6 +7988,7 @@
 	</types>
 	<runs>
 		<run>Alpha Sapphire</run>
+		<run>Nameless</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8185,6 +8198,7 @@
 	<runs>
 		<run>Legends Arceus</run>
 		<run>Dual Sanqui Red</run>
+		<run>Nameless</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8902,10 +8916,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Nameless</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10368,6 +10383,7 @@
 	</types>
 	<runs>
 		<run>Sword</run>
+		<run>Ultra Mega Power Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11116,6 +11132,7 @@
 	</types>
 	<runs>
 		<run>Ultra Mega Power</run>
+		<run>Ultra Mega Power Revisit</run>
 	</runs>
 	<status>
 		<rank>inter</rank>
@@ -13036,9 +13053,10 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Ultra Mega Power Revisit</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13067,6 +13085,7 @@
 	<runs>
 		<run>Mega Power</run>
 		<run>Ultra Mega Power</run>
+		<run>Ultra Mega Power Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13244,10 +13263,11 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Nameless</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -13852,10 +13872,11 @@
 		<type>Bug</type>
 	</types>
 	<runs>
+		<run>Nameless</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14398,6 +14419,7 @@
 	</types>
 	<runs>
 		<run>Sword</run>
+		<run>Nameless</run>
 	</runs>
 	<status>
 		<rank>main</rank>
