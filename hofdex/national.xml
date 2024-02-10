@@ -1782,9 +1782,10 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1798,6 +1799,7 @@
 	</types>
 	<runs>
 		<run>Red Anniversary</run>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4124,6 +4126,7 @@
 	</types>
 	<runs>
 		<run>Randomized Colosseum</run>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6580,6 +6583,7 @@
 	</types>
 	<runs>
 		<run>Randomized TriHard Emerald</run>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7144,10 +7148,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
    
@@ -8573,10 +8578,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Inverse White</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -9157,10 +9163,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -9304,10 +9311,11 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -9332,10 +9340,11 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Inverse White</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -9362,10 +9371,11 @@
 		<type>Rock</type>
 	</types>
 	<runs>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -9481,10 +9491,11 @@
 		<type>Rock</type>
 	</types>
 	<runs>
+		<run>Inverse White</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -9540,10 +9551,11 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>Inverse White</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -9613,10 +9625,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -9711,10 +9724,11 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Inverse White</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10234,10 +10248,11 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Inverse White</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10618,6 +10633,7 @@
 	<runs>
 		<run>Randomized Y</run>
 		<run>Volt White 2 Redux</run>
+		<run>Inverse White</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10663,9 +10679,10 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -10724,9 +10741,10 @@
 		<type>Electric</type>
 	</types>
 	<runs>
+		<run>Inverse White</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -10755,9 +10773,10 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
