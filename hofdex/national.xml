@@ -14368,7 +14368,7 @@
 	</status>
   </mon> 
 
-  <mon region="galar" debut="8" final="99">
+  <mon region="galar" debut="8" final="8">
 	<num>0884</num>
     <name>Duraludon</name>
 	<types>
@@ -16246,7 +16246,7 @@
 	</status>
   </mon> 
 
-  <mon region="paldea" debut="9" final="99">
+  <mon region="paldea" debut="9" final="0">
 	<num>1011</num>
     <name>Dipplin</name>
 	<types>
@@ -16341,6 +16341,125 @@
     <name>Ogerpon</name>
 	<types>
 		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1018</num>
+    <name>Archaludon</name>
+	<types>
+		<type>Steel</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1019</num>
+    <name>Hydrapple</name>
+	<types>
+		<type>Grass</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1020</num>
+    <name>Gouging Fire</name>
+	<types>
+		<type>Fire</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1021</num>
+    <name>Raging Bolt</name>
+	<types>
+		<type>Electric</type>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1022</num>
+    <name>Iron Boulder</name>
+	<types>
+		<type>Rock</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1023</num>
+    <name>Iron Crown</name>
+	<types>
+		<type>Steel</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1024</num>
+    <name>Terapagos</name>
+	<types>
+		<type>Normal</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+
+  <mon region="paldea" debut="9" final="99">
+	<num>1025</num>
+    <name>Pecharunt</name>
+	<types>
+		<type>Poison</type>
+		<type>Ghost</type>
 	</types>
 	<runs>
 	</runs>
