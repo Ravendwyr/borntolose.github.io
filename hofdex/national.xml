@@ -9625,11 +9625,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
-		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank>main</rank>
-		<emblem>main</emblem>
+		<rank></rank>
+		<emblem></emblem>
 	</status>
   </mon> 
 
@@ -9640,10 +9639,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Inverse White 2</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
