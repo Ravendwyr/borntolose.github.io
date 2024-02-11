@@ -48,6 +48,7 @@
 		<run>Metronome Sapphire</run>
 		<run>RGB Green</run>
 		<run>Charity Dual Blue - Testing</run>
+		<run>Japanese Green</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -147,6 +148,7 @@
 		<run>Ultra</run>
 		<run>Randomized White 2</run>
 		<run>Charity Dual Red</run>
+		<run>Japanese Blue</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -192,6 +194,7 @@
 	<runs>
 		<run>Moemon</run>
 		<run>Dual Sanqui Blue</run>
+		<run>Japanese Green</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -392,6 +395,7 @@
 		<run>Sun</run>
 		<run>Charity Dual Blue - Testing</run>
 		<run>Yellow</run>
+		<run>Japanese Green</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -860,6 +864,7 @@
 	<runs>
 		<run>Red Anniversary</run>
 		<run>The Wooper Who Saved Christmas</run>
+		<run>Japanese Blue</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1133,6 +1138,7 @@
 	</types>
 	<runs>
 		<run>Bronze</run>
+		<run>Japanese Blue</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2059,6 +2065,7 @@
 	<runs>
 		<run>Randomized Black</run>
 		<run>Dual Sanqui Red</run>
+		<run>Japanese Blue</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2505,6 +2512,7 @@
 		<run>Vietnamese Crystal Revisit</run>
 		<run>Chatty Yellow</run>
 		<run>Burning Red</run>
+		<run>Japanese Green</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2654,6 +2662,7 @@
 	<runs>
 		<run>Red</run>
 		<run>HeartGold</run>
+		<run>Japanese Green</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2771,6 +2780,7 @@
 		<run>Red Anniversary</run>
 		<run>Ultra</run>
 		<run>Inverse Platinum</run>
+		<run>Japanese Blue</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2883,6 +2893,7 @@
 		<run>Bootleg Green</run>
 		<run>Burning Red Revisit</run>
 		<run>Randomized Sanqui Red</run>
+		<run>Japanese Green</run>
 	</runs>
 	<status>
 		<rank>side</rank>
@@ -3232,6 +3243,7 @@
 	<runs>
 		<run>Alpha Sapphire</run>
 		<run>Randomized Black 2</run>
+		<run>Japanese Sapphire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4256,6 +4268,7 @@
 	<runs>
 		<run>Randomized Platinum</run>
 		<run>Randomized TriHard Emerald</run>
+		<run>Japanese Sapphire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4649,6 +4662,7 @@
 	<runs>
 		<run>XG</run>
 		<run>TriHard Emerald</run>
+		<run>Japanese Sapphire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4835,9 +4849,10 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Japanese Sapphire</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>side</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -5611,6 +5626,7 @@
 	</types>
 	<runs>
 		<run>XD</run>
+		<run>Japanese Sapphire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5918,6 +5934,7 @@
 	</types>
 	<runs>
 		<run>Randomized Black 2</run>
+		<run>Japanese Sapphire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6212,10 +6229,11 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Japanese Sapphire</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>side</rank>
+		<emblem>side</emblem>
 	</status>
   </mon>
 
