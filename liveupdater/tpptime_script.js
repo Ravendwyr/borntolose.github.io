@@ -60,6 +60,9 @@ $(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Bought/Sold 10 Potions! **"
 });
+$(` <input type="button" value="Going dark"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**[Meta] The live updater is going dark. Check [#run-feed](https://discord.com/channels/927292379436814406/942158888311078944) on the Discord server for continued updates.**"
+});
 $(` <br/> `).appendTo(btnbox);
 
 $(` <input type="button" value="Poké"> `).appendTo(btnbox).click(() => {
