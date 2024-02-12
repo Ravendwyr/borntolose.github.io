@@ -3,7 +3,7 @@ textarea = document.querySelector(".usertext-edit textarea")
 
 // create button bar
 const btnbox = document.createElement("div");
-btnbox.addClass('btnbox')
+btnbox.classList.add('btnbox')
 
 // create buttons, and insert each button into the button bar
 $(`<a class="quickinserts">Time</a> `).appendTo(btnbox).click(() => {
