@@ -9,10 +9,10 @@ btnbox.classList.add('btnbox')
 /*$(`<a class="quickinserts">Time</a> `).appendTo(btnbox).click(() => {
   textarea.value += timeElapsed()
 });*/
-$(`<input type="button">Poké</input> `).appendTo(btnbox).click(() => {
+$(`<input type="button" value="Poké"> `).appendTo(btnbox).click(() => {
   textarea.value += "Poké"
 });
-$(`<input type="button">₽</input> `).appendTo(btnbox).click(() => {
+$(`<input type="button" value="₽"> `).appendTo(btnbox).click(() => {
   textarea.value += "₽"
 });
 
