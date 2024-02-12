@@ -60,7 +60,6 @@ $(` <input type="button" value="TM">&nbsp;&nbsp;`).appendTo(btnbox).click(() => 
 $(` <input type="button" value="Mart">&nbsp;&nbsp;`).appendTo(btnbox).click(() => {
   textarea.value += "**Bought/Sold 10 Potions! **"
 });
-});
 $(` <br/> `).appendTo(btnbox);
 
 $(` <input type="button" value="Poké">&nbsp;&nbsp;`).appendTo(btnbox).click(() => {
