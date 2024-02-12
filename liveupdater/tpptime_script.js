@@ -6,13 +6,13 @@ const btnbox = document.createElement("div");
 btnbox.classList.add('btnbox')
 
 // create buttons, and insert each button into the button bar
-$(`<a class="quickinserts">Time</a> `).appendTo(btnbox).click(() => {
+/*$(`<a class="quickinserts">Time</a> `).appendTo(btnbox).click(() => {
   textarea.value += timeElapsed()
-});
-$(`<a class="quickinserts">Poké</a> `).appendTo(btnbox).click(() => {
+});*/
+$(`<input type="button">Poké</input> `).appendTo(btnbox).click(() => {
   textarea.value += "Poké"
 });
-$(`<a class="quickinserts">₽</a> `).appendTo(btnbox).click(() => {
+$(`<input type="button">₽</input> `).appendTo(btnbox).click(() => {
   textarea.value += "₽"
 });
 
