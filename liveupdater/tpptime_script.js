@@ -11,28 +11,28 @@ btnbox.classList.add('btnbox')
 });*/
 
 $(` <input type="button" value="[Info]"> `).appendTo(btnbox).click(() => {
-  textarea.value += "[Info] "
+  textarea.value = "[Info] " + textarea.value
 });
 $(` <input type="button" value="[Recap]"> `).appendTo(btnbox).click(() => {
-  textarea.value += "[Recap] "
+  textarea.value = "[Recap] " + textarea.value
 });
 $(` <input type="button" value="[Chat]"> `).appendTo(btnbox).click(() => {
-  textarea.value += "[Chat] "
+  textarea.value = "[Chat] " + textarea.value
 });
 $(` <input type="button" value="[Streamer]"> `).appendTo(btnbox).click(() => {
-  textarea.value += "[Streamer] "
+  textarea.value = "[Streamer] " + textarea.value
 });
 $(` <input type="button" value="[Dev]"> `).appendTo(btnbox).click(() => {
-  textarea.value += "[Dev] "
+  textarea.value = "[Dev] " + textarea.value
 });
 $(` <input type="button" value="[Fluff]"> `).appendTo(btnbox).click(() => {
-  textarea.value += "[Fluff] "
+  textarea.value = "[Fluff] " + textarea.value
 });
 $(` <input type="button" value="[Snark]"> `).appendTo(btnbox).click(() => {
-  textarea.value += "[Snark] "
+  textarea.value = "[Snark] " + textarea.value
 });
 $(` <input type="button" value="[Meta]"> `).appendTo(btnbox).click(() => {
-  textarea.value += "[Meta] "
+  textarea.value = "[Meta] " + textarea.value
 });
 $(` <br/> `).appendTo(btnbox);
 
