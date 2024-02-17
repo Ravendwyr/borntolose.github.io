@@ -10,6 +10,12 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
+$(` <input type="button" value="[G]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[Info] " + textarea.value
+});
+$(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[Info] " + textarea.value
+});
 $(` <input type="button" value="[Info]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Info] " + textarea.value
 });
@@ -22,9 +28,6 @@ $(` <input type="button" value="[Chat]"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="[Streamer]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Streamer] " + textarea.value
 });
-$(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[Dev] " + textarea.value
-});
 $(` <input type="button" value="[Fluff]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Fluff] " + textarea.value
 });
@@ -33,6 +36,9 @@ $(` <input type="button" value="[Snark]"> `).appendTo(btnbox).click(() => {
 });
 $(` <input type="button" value="[Meta]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Meta] " + textarea.value
+});
+$(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[Dev] " + textarea.value
 });
 $(` <br/> `).appendTo(btnbox);
 
