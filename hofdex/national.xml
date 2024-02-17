@@ -425,6 +425,7 @@
 	</types>
 	<runs>
 		<run>Dual Blue</run>
+		<run>Super Gauntlet Red</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -831,6 +832,7 @@
 	<runs>
 		<run>Emerald</run>
 		<run>Gauntlet Red</run>
+		<run>Super Gauntlet Red</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1869,10 +1871,11 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Red</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
   
@@ -1900,6 +1903,7 @@
 	<runs>
 		<run>Randomized Colosseum</run>
 		<run>Charity Dual Blue - Testing</run>
+		<run>Super Gauntlet Red</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2513,6 +2517,7 @@
 		<run>Chatty Yellow</run>
 		<run>Burning Red</run>
 		<run>Japanese Green</run>
+		<run>Super Gauntlet Red</run>
 	</runs>
 	<status>
 		<rank>main</rank>
