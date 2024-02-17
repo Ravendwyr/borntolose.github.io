@@ -16,6 +16,11 @@ $(` <input type="button" value="[G]"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[S] " + textarea.value
 });
+$(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[Intermission] " + textarea.value
+});
+$(` <br/> `).appendTo(btnbox);
+
 $(` <input type="button" value="[Info]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Info] " + textarea.value
 });
@@ -36,9 +41,6 @@ $(` <input type="button" value="[Snark]"> `).appendTo(btnbox).click(() => {
 });
 $(` <input type="button" value="[Meta]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Meta] " + textarea.value
-});
-$(` <input type="button" value="[Inter]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[Intermission] " + textarea.value
 });
 $(` <br/> `).appendTo(btnbox);
 
