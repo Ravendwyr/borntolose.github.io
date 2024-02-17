@@ -22,7 +22,7 @@ $(` <input type="button" value="[Chat]"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="[Streamer]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Streamer] " + textarea.value
 });
-$(` <input type="button" value="[Dev]"> `).appendTo(btnbox).click(() => {
+$(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Dev] " + textarea.value
 });
 $(` <input type="button" value="[Fluff]"> `).appendTo(btnbox).click(() => {
