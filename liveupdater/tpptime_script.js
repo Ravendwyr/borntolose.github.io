@@ -10,6 +10,9 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
+$(` <input type="button" value="[G/S]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[G/S] " + textarea.value
+});
 $(` <input type="button" value="[G]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[G] " + textarea.value
 });
