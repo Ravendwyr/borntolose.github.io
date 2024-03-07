@@ -377,6 +377,7 @@
 	</types>
 	<runs>
 		<run>RGB Green</run>
+		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1249,6 +1250,7 @@
 		<run>Red Anniversary</run>
 		<run>Dual Blue</run>
 		<run>Charity Dual Red</run>
+		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1340,6 +1342,7 @@
 	</types>
 	<runs>
 		<run>Red Anniversary</run>
+		<run>Super Gauntlet Gold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1451,6 +1454,7 @@
 	<runs>
 		<run>Brown</run>
 		<run>Yellow: Cramorant Edition</run>
+		<run>Super Gauntlet Gold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2070,6 +2074,7 @@
 		<run>Randomized Black</run>
 		<run>Dual Sanqui Red</run>
 		<run>Japanese Blue</run>
+		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2967,6 +2972,7 @@
 		<run>Gauntlet Crystal</run>
 		<run>Renegade Platinum</run>
 		<run>Randomized Black 2</run>
+		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3075,6 +3081,7 @@
 		<run>Crystal Revisit</run>
 		<run>Pyrite</run>
 		<run>Silver</run>
+		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3167,9 +3174,10 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -3401,6 +3409,7 @@
 		<run>Prism</run>
 		<run>Grand Colosseum</run>
 		<run>Silver</run>
+		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3671,6 +3680,7 @@
 	<runs>
 		<run>Colosseum</run>
 		<run>Grand Colosseum</run>
+		<run>Super Gauntlet Gold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3702,10 +3712,11 @@
 	</types>
 	<runs>
 		<run>Metronome Sapphire</run>
+		<run>Super Gauntlet Gold</run>
 	</runs>
 	<status>
-		<rank>side</rank>
-		<emblem>side</emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -4100,10 +4111,11 @@
 		<type>Rock</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Gold</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -4304,10 +4316,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Gold</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -4404,6 +4417,7 @@
 	</types>
 	<runs>
 		<run>Crystal Anniversary</run>
+		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4554,6 +4568,7 @@
 		<run>Randomized Colosseum</run>
 		<run>SpaceWorld Gold Reforged</run>
 		<run>SpaceWorld Gold Reforged Revisit</run>
+		<run>Super Gauntlet Gold</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4668,6 +4683,7 @@
 		<run>XG</run>
 		<run>TriHard Emerald</run>
 		<run>Japanese Sapphire</run>
+		<run>Super Gauntlet Ruby</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4977,6 +4993,7 @@
 	</types>
 	<runs>
 		<run>XD</run>
+		<run>Super Gauntlet Ruby</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5041,10 +5058,11 @@
 	</types>
 	<runs>
 		<run>Blazing Emerald</run>
+		<run>Super Gauntlet Sapphire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
     
@@ -5204,6 +5222,7 @@
 		<run>FireRed Revisit</run>
 		<run>Randomized Colosseum</run>
 		<run>Snakewood DX</run>
+		<run>Super Gauntlet Sapphire</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5556,6 +5575,7 @@
 	</types>
 	<runs>
 		<run>Omega Ruby</run>
+		<run>Super Gauntlet Ruby</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5768,10 +5788,11 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Ruby</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -5782,10 +5803,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sapphire</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -5907,10 +5929,11 @@
 	</types>
 	<runs>
 		<run>Snakewood DX</run>
+		<run>Super Gauntlet Ruby</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -6267,10 +6290,11 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sapphire</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -6403,10 +6427,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sapphire</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -6417,10 +6442,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Ruby</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -6590,10 +6616,11 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sapphire</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
