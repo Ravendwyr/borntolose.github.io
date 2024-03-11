@@ -71,6 +71,7 @@ $(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Bought/Sold 10 Potions!** "
 });
+$(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Traded Diamond's Cascoon for Pearl's Slicoon!** "
 });
@@ -164,14 +165,15 @@ $(` <input type="button" value="☂"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="☃"> `).appendTo(btnbox).click(() => {
   textarea.value += "☃"
 });
+$(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="🙂"> `).appendTo(btnbox).click(() => {
   textarea.value += "🙂"
 });
 $(` <input type="button" value="😄"> `).appendTo(btnbox).click(() => {
   textarea.value += "😄"
 });
-$(` <input type="button" value="🙂"> `).appendTo(btnbox).click(() => {
-  textarea.value += "🙂"
+$(` <input type="button" value="😫"> `).appendTo(btnbox).click(() => {
+  textarea.value += "😫"
 });
 $(` <input type="button" value="😣"> `).appendTo(btnbox).click(() => {
   textarea.value += "😣"
