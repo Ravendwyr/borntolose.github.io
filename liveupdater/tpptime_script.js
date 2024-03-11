@@ -10,14 +10,14 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
-$(` <input type="button" value="[R/S]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[R/S] " + textarea.value
+$(` <input type="button" value="[D/P]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[D/P] " + textarea.value
 });
-$(` <input type="button" value="[R]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[R] " + textarea.value
+$(` <input type="button" value="[D]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[D] " + textarea.value
 });
-$(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[S] " + textarea.value
+$(` <input type="button" value="[P]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[P] " + textarea.value
 });
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Intermission] " + textarea.value
@@ -54,7 +54,7 @@ $(` <input type="button" value="Lvl up"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple grew to Lv. 100!** "
 });
 $(` <input type="button" value="Lvl up + Move"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Wurmple grew to Lv. 100 and learned Tackle over Splash.** "
+  textarea.value += "**Wurmple grew to Lv. 100 and learned Tackle over Splash!** "
 });
 $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple evolved into Cascoon!** "
@@ -70,6 +70,12 @@ $(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
 });
 $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Bought/Sold 10 Potions!** "
+});
+$(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Traded Diamond's Cascoon for Pearl's Slicoon!** "
+});
+$(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
+  textarea.value += "We enter the Pokémon Center and **heal.** "
 });
 $(` <input type="button" value="Going dark"> `).appendTo(btnbox).click(() => {
   textarea.value += "[Meta] The live updater is going dark. Check [#run-feed](https://discord.com/channels/927292379436814406/942158888311078944) on the Discord server for continued updates."
@@ -113,8 +119,75 @@ $(` <input type="button" value="…"> `).appendTo(btnbox).click(() => {
   textarea.value += "…"
 });
 $(` <br/> `).appendTo(btnbox);
+$(` <input type="button" value="◎"> `).appendTo(btnbox).click(() => {
+  textarea.value += "◎"
+});
+$(` <input type="button" value="○"> `).appendTo(btnbox).click(() => {
+  textarea.value += "○"
+});
+$(` <input type="button" value="□"> `).appendTo(btnbox).click(() => {
+  textarea.value += "□"
+});
+$(` <input type="button" value="△"> `).appendTo(btnbox).click(() => {
+  textarea.value += "△"
+});
+$(` <input type="button" value="◇"> `).appendTo(btnbox).click(() => {
+  textarea.value += "◇"
+});
+$(` <input type="button" value="♠"> `).appendTo(btnbox).click(() => {
+  textarea.value += "♠"
+});
+$(` <input type="button" value="♣"> `).appendTo(btnbox).click(() => {
+  textarea.value += "♣"
+});
+$(` <input type="button" value="♥"> `).appendTo(btnbox).click(() => {
+  textarea.value += "♥"
+});
+$(` <input type="button" value="♦"> `).appendTo(btnbox).click(() => {
+  textarea.value += "♦"
+});
+$(` <input type="button" value="★"> `).appendTo(btnbox).click(() => {
+  textarea.value += "★"
+});
+$(` <input type="button" value="♪"> `).appendTo(btnbox).click(() => {
+  textarea.value += "♪"
+});
+$(` <input type="button" value="☀"> `).appendTo(btnbox).click(() => {
+  textarea.value += "☀"
+});
+$(` <input type="button" value="☁"> `).appendTo(btnbox).click(() => {
+  textarea.value += "☁"
+});
+$(` <input type="button" value="☂"> `).appendTo(btnbox).click(() => {
+  textarea.value += "☂"
+});
+$(` <input type="button" value="☃"> `).appendTo(btnbox).click(() => {
+  textarea.value += "☃"
+});
+$(` <input type="button" value="🙂"> `).appendTo(btnbox).click(() => {
+  textarea.value += "🙂"
+});
+$(` <input type="button" value="😄"> `).appendTo(btnbox).click(() => {
+  textarea.value += "😄"
+});
+$(` <input type="button" value="🙂"> `).appendTo(btnbox).click(() => {
+  textarea.value += "🙂"
+});
+$(` <input type="button" value="😣"> `).appendTo(btnbox).click(() => {
+  textarea.value += "😣"
+});
+$(` <input type="button" value="ᶻz"> `).appendTo(btnbox).click(() => {
+  textarea.value += "ᶻz"
+});
+$(` <input type="button" value="⭜"> `).appendTo(btnbox).click(() => {
+  textarea.value += "⭜"
+});
+$(` <input type="button" value="⭝"> `).appendTo(btnbox).click(() => {
+  textarea.value += "⭝"
+});
+$(` <br/> `).appendTo(btnbox);
 $(` <a class="quickinserts">Quick substitute</a> `).appendTo(btnbox).click(() => {
-  textarea.value = textarea.value.replace("$$", "₽").replace("Pokemon", "Pokémon").replace("pokemon", "Pokémon").replace("Pokecenter", "Poké Center").replace("Pokemart", "Poké Mart").replace("pokecenter", "Poké Center").replace("pokemart", "Poké Mart").replace("pokeball", "Poké Ball").replace("Pokeball", "Poké Ball").replace("(male)", "♂").replace("(female)", "♀").replace("(m)", "♂").replace("(f)", "♀").replace("(pk)", "ᴾᴋ").replace("(mn)", "ᴹɴ").replace("(x)", "×").replace("NidoranM", "Nidoran♂").replace("NidoranF", "Nidoran♀");
+  textarea.value = textarea.value.replace("$$", "₽").replace("Pokemon", "Pokémon").replace("pokemon", "Pokémon").replace("Pokecenter", "Poké Center").replace("Pokemart", "Poké Mart").replace("pokecenter", "Poké Center").replace("pokemart", "Poké Mart").replace("pokeball", "Poké Ball").replace("Pokeball", "Poké Ball").replace("(male)", "♂").replace("(female)", "♀").replace("(m)", "♂").replace("(f)", "♀").replace("(pk)", "ᴾᴋ").replace("(mn)", "ᴹɴ").replace("(x)", "×").replace("NidoranM", "Nidoran♂").replace("NidoranF", "Nidoran♀").replace("send sout", "sends out").replace("take sout", "takes out");
 });
 $(` <br/> `).appendTo(btnbox);
 $(` <br/> `).appendTo(btnbox);
