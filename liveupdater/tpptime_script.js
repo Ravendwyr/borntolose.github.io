@@ -10,14 +10,14 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
-$(` <input type="button" value="[D/P]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[D/P] " + textarea.value
+$(` <input type="button" value="[B/W]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[B/W] " + textarea.value
 });
-$(` <input type="button" value="[D]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[D] " + textarea.value
+$(` <input type="button" value="[B]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[B] " + textarea.value
 });
-$(` <input type="button" value="[P]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[P] " + textarea.value
+$(` <input type="button" value="[W]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[W] " + textarea.value
 });
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Intermission] " + textarea.value
@@ -73,10 +73,10 @@ $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
 });
 $(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Traded Diamond's Cascoon for Pearl's Slicoon!** "
+  textarea.value += "**Traded Diamond's Cascoon for Pearl's Silcoon!** "
 });
 $(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
-  textarea.value += "We enter the Pokémon Center and **heal.** "
+  textarea.value += "We enter the Poké Center and **heal.** "
 });
 $(` <input type="button" value="Going dark"> `).appendTo(btnbox).click(() => {
   textarea.value += "[Meta] The live updater is going dark. Check [#run-feed](https://discord.com/channels/927292379436814406/942158888311078944) on the Discord server for continued updates."
