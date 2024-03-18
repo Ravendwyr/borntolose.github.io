@@ -166,14 +166,14 @@ $(` <input type="button" value="☃"> `).appendTo(btnbox).click(() => {
   textarea.value += "☃"
 });
 $(` <br/> `).appendTo(btnbox);
+$(` <input type="button" value="😑"> `).appendTo(btnbox).click(() => {
+  textarea.value += "😑"
+});
 $(` <input type="button" value="🙂"> `).appendTo(btnbox).click(() => {
   textarea.value += "🙂"
 });
-$(` <input type="button" value="😄"> `).appendTo(btnbox).click(() => {
-  textarea.value += "😄"
-});
-$(` <input type="button" value="😫"> `).appendTo(btnbox).click(() => {
-  textarea.value += "😫"
+$(` <input type="button" value="😞"> `).appendTo(btnbox).click(() => {
+  textarea.value += "😞"
 });
 $(` <input type="button" value="😣"> `).appendTo(btnbox).click(() => {
   textarea.value += "😣"
