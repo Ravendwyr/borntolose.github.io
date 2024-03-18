@@ -60,7 +60,7 @@ $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple evolved into Cascoon!** "
 });
 $(` <input type="button" value="Vs."> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Vs. Trainer Red!** (Attempt #1) "
+  textarea.value += "**Vs. Leader Misty!** (Attempt #1) "
 });
 $(` <input type="button" value="Badge"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Defeated Leader Misty and received the Cascade Badge!** "
@@ -175,8 +175,8 @@ $(` <input type="button" value="🙂"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="😞"> `).appendTo(btnbox).click(() => {
   textarea.value += "😞"
 });
-$(` <input type="button" value="😣"> `).appendTo(btnbox).click(() => {
-  textarea.value += "😣"
+$(` <input type="button" value="😠"> `).appendTo(btnbox).click(() => {
+  textarea.value += "😠"
 });
 $(` <input type="button" value="ᶻz"> `).appendTo(btnbox).click(() => {
   textarea.value += "ᶻz"
