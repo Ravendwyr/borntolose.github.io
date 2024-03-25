@@ -73,7 +73,7 @@ $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
 });
 $(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Traded Black's Cascoon for White's Silcoon!** "
+  textarea.value += "**Traded X's Cascoon for Y's Silcoon!** "
 });
 $(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We enter the Poké Center and **heal.** "
