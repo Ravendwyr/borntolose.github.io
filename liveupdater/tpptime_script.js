@@ -10,14 +10,14 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
-$(` <input type="button" value="[B/W]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[B/W] " + textarea.value
+$(` <input type="button" value="[X/Y]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[X/Y] " + textarea.value
 });
-$(` <input type="button" value="[B]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[B] " + textarea.value
+$(` <input type="button" value="[X]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[X] " + textarea.value
 });
-$(` <input type="button" value="[W]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[W] " + textarea.value
+$(` <input type="button" value="[Y]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[Y] " + textarea.value
 });
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Intermission] " + textarea.value
@@ -118,6 +118,12 @@ $(` <input type="button" value="”"> `).appendTo(btnbox).click(() => {
 });
 $(` <input type="button" value="…"> `).appendTo(btnbox).click(() => {
   textarea.value += "…"
+});
+$(` <input type="button" value="é"> `).appendTo(btnbox).click(() => {
+  textarea.value += "é"
+});
+$(` <input type="button" value="É"> `).appendTo(btnbox).click(() => {
+  textarea.value += "É"
 });
 $(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="◎"> `).appendTo(btnbox).click(() => {
