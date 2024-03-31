@@ -3909,10 +3909,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet X</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -5448,6 +5449,7 @@
 	<runs>
 		<run>Randomized Black 2</run>
 		<run>Resolute</run>
+		<run>Super Gauntlet X</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8195,6 +8197,7 @@
 	<runs>
 		<run>Renegade Platinum</run>
 		<run>Randomized SoulSilver</run>
+		<run>Super Gauntlet Y</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11165,10 +11168,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11314,10 +11318,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11418,6 +11423,7 @@
 	</types>
 	<runs>
 		<run>Randomized Ultra Moon</run>
+		<run>Super Gauntlet X</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11446,10 +11452,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet X</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11507,10 +11514,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11676,6 +11684,7 @@
 	</types>
 	<runs>
 		<run>Brown</run>
+		<run>Super Gauntlet X</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11692,6 +11701,7 @@
 	</types>
 	<runs>
 		<run>X</run>
+		<run>Super Gauntlet Y</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11707,10 +11717,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet X</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11875,10 +11886,11 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Y</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
