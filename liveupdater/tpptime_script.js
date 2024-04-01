@@ -10,14 +10,14 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
-$(` <input type="button" value="[X/Y]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[X/Y] " + textarea.value
+$(` <input type="button" value="[S/M]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[S/M] " + textarea.value
 });
-$(` <input type="button" value="[X]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[X] " + textarea.value
+$(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[S] " + textarea.value
 });
-$(` <input type="button" value="[Y]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[Y] " + textarea.value
+$(` <input type="button" value="[M]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[M] " + textarea.value
 });
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Intermission] " + textarea.value
@@ -60,10 +60,10 @@ $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple evolved into Cascoon!** "
 });
 $(` <input type="button" value="Vs."> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Vs. Leader Misty!** (Attempt #1) "
+  textarea.value += "**Vs. Kahuna Moon!** (Attempt #1) "
 });
-$(` <input type="button" value="Badge"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Defeated Leader Misty and received the Cascade Badge!** "
+$(` <input type="button" value="Z-Crystal"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Defeated Totem Raticate and received the Normal Z-Crystal!** "
 });
 $(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Received TM90 Snarl!** "
@@ -73,7 +73,7 @@ $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
 });
 $(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Traded X's Cascoon for Y's Silcoon!** "
+  textarea.value += "**Traded Sun's Cascoon for Moon's Silcoon!** "
 });
 $(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We enter the Poké Center and **heal.** "
