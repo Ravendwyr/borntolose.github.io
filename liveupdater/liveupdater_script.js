@@ -1,7 +1,7 @@
 javascript: (
   function() { 
-    const gameName = "Super Gauntlet X & Y";
-    const gameStartTime = 1711400400000;
+    const gameName = "Super Gauntlet Sun & Ultra Moon";
+    const gameStartTime = 1712005200000;
 
 
     const timeElapsed = () => {   
