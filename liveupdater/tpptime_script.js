@@ -63,7 +63,7 @@ $(` <input type="button" value="Vs."> `).appendTo(btnbox).click(() => {
   textarea.value += "**Vs. Kahuna Moon!** (Attempt #1) "
 });
 $(` <input type="button" value="Z-Crystal"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Defeated Totem Raticate and received the Normal Z-Crystal!** "
+  textarea.value += "**Completed Guzma's Trial and received the Buginium Z!** "
 });
 $(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Received TM90 Snarl!** "
