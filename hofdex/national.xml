@@ -539,10 +539,11 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
     
@@ -725,10 +726,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
   
@@ -4126,6 +4128,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Gold</run>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4345,10 +4348,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -5865,6 +5869,7 @@
 	</types>
 	<runs>
 		<run>TriHard Emerald</run>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9352,6 +9357,7 @@
 		<run>Gauntlet Black 2</run>
 		<run>Sword Revisit - Isle of Armor</run>
 		<run>Super Gauntlet Black</run>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9679,6 +9685,7 @@
 	</types>
 	<runs>
 		<run>Black 2</run>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10671,9 +10678,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -12105,10 +12113,11 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12372,10 +12381,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12504,10 +12514,11 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12624,10 +12635,11 @@
 	</types>
 	<runs>
 		<run>Victory Fire</run>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12710,10 +12722,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12739,10 +12752,11 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -13127,6 +13141,7 @@
 	</types>
 	<runs>
 		<run>Waning Moon</run>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13310,9 +13325,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Ultra Moon</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
