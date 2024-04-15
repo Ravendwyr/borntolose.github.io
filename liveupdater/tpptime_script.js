@@ -10,7 +10,7 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
-$(` <input type="button" value="[S/M]"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="[S/M]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[S/M] " + textarea.value
 });
 $(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
@@ -18,7 +18,7 @@ $(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
 });
 $(` <input type="button" value="[M]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[M] " + textarea.value
-});
+});*/
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Intermission] " + textarea.value
 });
@@ -48,7 +48,7 @@ $(` <input type="button" value="[Meta]"> `).appendTo(btnbox).click(() => {
 $(` <br/> `).appendTo(btnbox);
 
 $(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Caught a female Lv. 100 Wurmple!** Nickname: `NICKNAME`. "
+  textarea.value += "**Snatched a female Lv. 100 Wurmple!** Nickname: `NICKNAME`. "
 });
 $(` <input type="button" value="Lvl up"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple grew to Lv. 100!** "
@@ -62,9 +62,9 @@ $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="Vs."> `).appendTo(btnbox).click(() => {
   textarea.value += "**Vs. Kahuna Moon!** (Attempt #1) "
 });
-$(` <input type="button" value="Z-Crystal"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="Z-Crystal"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Completed Guzma's Trial and received the Buginium Z!** "
-});
+});*/
 $(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Received TM90 Snarl!** "
 });
@@ -72,9 +72,9 @@ $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Bought/Sold 10 Potions!** "
 });
 $(` <br/> `).appendTo(btnbox);
-$(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Traded Sun's Cascoon for Moon's Silcoon!** "
-});
+});*/
 $(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We enter the Poké Center and **heal.** "
 });
