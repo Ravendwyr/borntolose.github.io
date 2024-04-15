@@ -53,7 +53,7 @@ $(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="Purify"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple was purified!** Nickname: `NICKNAME`. "
 });
-$(` <input type="button" value="Purify + Moves"> `).appendTo(btnbox).click(() => {
+$(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple was purified! It grew to Lv. 100 and learned Splash!** Nickname: `NICKNAME`. "
 });
 $(` <input type="button" value="Lvl up"> `).appendTo(btnbox).click(() => {
