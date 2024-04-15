@@ -48,7 +48,7 @@ $(` <input type="button" value="[Meta]"> `).appendTo(btnbox).click(() => {
 $(` <br/> `).appendTo(btnbox);
 
 $(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Snatched a female Lv. 100 Wurmple!** Nickname: `NICKNAME`. "
+  textarea.value += "**Snagged a female Lv. 100 Wurmple!** Nickname: `NICKNAME`. "
 });
 $(` <input type="button" value="Lvl up"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple grew to Lv. 100!** "
