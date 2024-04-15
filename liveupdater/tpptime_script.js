@@ -60,7 +60,7 @@ $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple evolved into Cascoon!** "
 });
 $(` <input type="button" value="Vs."> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Vs. Kahuna Moon!** (Attempt #1) "
+  textarea.value += "**Vs. Cipher Greevil!** (Attempt #1) "
 });
 /*$(` <input type="button" value="Z-Crystal"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Completed Guzma's Trial and received the Buginium Z!** "
@@ -72,9 +72,9 @@ $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Bought/Sold 10 Potions!** "
 });
 $(` <br/> `).appendTo(btnbox);
-/*$(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Traded Sun's Cascoon for Moon's Silcoon!** "
-});*/
+$(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Traded Colosseum's Cascoon for Ruby's Silcoon!** "
+});
 $(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We enter the Poké Center and **heal.** "
 });
