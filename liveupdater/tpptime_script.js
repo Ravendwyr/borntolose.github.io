@@ -48,7 +48,13 @@ $(` <input type="button" value="[Meta]"> `).appendTo(btnbox).click(() => {
 $(` <br/> `).appendTo(btnbox);
 
 $(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Snagged a female Lv. 100 Wurmple!** Nickname: `NICKNAME`. "
+  textarea.value += "**Snagged a female Lv. 100 Wurmple!** "
+});
+$(` <input type="button" value="Purify"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Wurmple was purified!** Nickname: `NICKNAME`. "
+});
+$(` <input type="button" value="Purify + Moves"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Wurmple was purified! It grew to Lv. 100 and learned Splash!** Nickname: `NICKNAME`. "
 });
 $(` <input type="button" value="Lvl up"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple grew to Lv. 100!** "
