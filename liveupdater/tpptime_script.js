@@ -122,6 +122,9 @@ $(` <input type="button" value="“"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="”"> `).appendTo(btnbox).click(() => {
   textarea.value += "”"
 });
+$(` <input type="button" value="‥"> `).appendTo(btnbox).click(() => {
+  textarea.value += "‥"
+});
 $(` <input type="button" value="…"> `).appendTo(btnbox).click(() => {
   textarea.value += "…"
 });
