@@ -3863,10 +3863,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Colosseum</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -4204,6 +4205,7 @@
 	</types>
 	<runs>
 		<run>Theta Emerald EX</run>
+		<run>Super Gauntlet Colosseum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4334,6 +4336,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Gold</run>
+		<run>Super Gauntlet Colosseum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4377,10 +4380,11 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Colosseum</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -4500,10 +4504,11 @@
 		<run>Vietnamese Crystal</run>
 		<run>Vietnamese Crystal Revisit</run>
 		<run>Ultra Mega Power Revisit</run>
+		<run>Super Gauntlet Colosseum</run>
 	</runs>
 	<status>
-		<rank>side</rank>
-		<emblem>side</emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -5934,6 +5939,7 @@
 		<run>FireRed</run>
 		<run>FireRed Revisit</run>
 		<run>Gauntlet Platinum</run>
+		<run>Super Gauntlet Colosseum</run>
 	</runs>
 	<status>
 		<rank>main</rank>
