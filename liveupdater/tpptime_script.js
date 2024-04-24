@@ -47,14 +47,11 @@ $(` <input type="button" value="[Meta]"> `).appendTo(btnbox).click(() => {
 });
 $(` <br/> `).appendTo(btnbox);
 
+$(` <input type="button" value="Snag"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Snagged a female Lv. 100+ Wurmple!** "
+});
 $(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Snagged a female Lv. 100 Wurmple!** "
-});
-$(` <input type="button" value="Purify"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Wurmple was purified!** Nickname: `NICKNAME`. "
-});
-$(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Wurmple was purified! It grew to Lv. 100 and learned Splash!** Nickname: `NICKNAME`. "
+  textarea.value += "**Caught a female Lv. 100 Wurmple!** Nickname: `NICKNAME`. "
 });
 $(` <input type="button" value="Lvl up"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple grew to Lv. 100!** "
@@ -77,7 +74,14 @@ $(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Bought/Sold 10 Potions!** "
 });
+
 $(` <br/> `).appendTo(btnbox);
+$(` <input type="button" value="Purify"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Wurmple was purified!** Nickname: `NICKNAME`. "
+});
+$(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Wurmple was purified! It grew to Lv. 100 and learned Splash!** Nickname: `NICKNAME`. "
+});
 $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Traded Colosseum's Cascoon for Ruby's Silcoon!** "
 });
