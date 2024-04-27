@@ -80,7 +80,7 @@ $(` <input type="button" value="Purify"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple was purified!** Nickname: `NICKNAME`. "
 });
 $(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Wurmple was purified! It grew to Lv. 100 and learned Splash!** Nickname: `NICKNAME`. "
+  textarea.value += "**Wurmple was purified! It grew to Lv. 100 and regained Splash!** Nickname: `NICKNAME`. "
 });
 $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Traded Colosseum's Cascoon for Ruby's Silcoon!** "
