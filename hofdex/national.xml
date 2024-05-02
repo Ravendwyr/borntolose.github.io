@@ -2618,6 +2618,7 @@
 		<run>Crystal Anniversary</run>
 		<run>Bootleg Green</run>
 		<run>Randomized TriHard Emerald</run>
+		<run>Super Gauntlet XD</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3235,6 +3236,7 @@
 		<run>Brown</run>
 		<run>Blazing Emerald</run>
 		<run>Brilliant Diamond Revisit</run>
+		<run>Super Gauntlet XD</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3833,10 +3835,11 @@
 	<runs>
 		<run>Vega</run>
 		<run>Victory Fire</run>
+		<run>Super Gauntlet XD</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -4113,10 +4116,11 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet XD</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -5646,10 +5650,11 @@
 	</types>
 	<runs>
 		<run>Debug Rubin</run>
+		<run>Super Gauntlet XD</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -6284,10 +6289,11 @@
 	</types>
 	<runs>
 		<run>Japanese Sapphire</run>
+		<run>Super Gauntlet XD</run>
 	</runs>
 	<status>
-		<rank>side</rank>
-		<emblem>side</emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon>
 
