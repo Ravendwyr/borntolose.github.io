@@ -10,15 +10,15 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
-/*$(` <input type="button" value="[S/M]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[S/M] " + textarea.value
+$(` <input type="button" value="[B/W]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[B/W] " + textarea.value
 });
-$(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[S] " + textarea.value
+$(` <input type="button" value="[B]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[W] " + textarea.value
 });
-$(` <input type="button" value="[M]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[M] " + textarea.value
-});*/
+$(` <input type="button" value="[B]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[W] " + textarea.value
+});
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Intermission] " + textarea.value
 });
@@ -47,9 +47,9 @@ $(` <input type="button" value="[Meta]"> `).appendTo(btnbox).click(() => {
 });
 $(` <br/> `).appendTo(btnbox);
 
-$(` <input type="button" value="Snag"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="Snag"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Snagged a female Lv. 100+ Wurmple!** "
-});
+});*/
 $(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Caught a female Lv. 100 Wurmple!** Nickname: `NICKNAME`. "
 });
@@ -63,11 +63,11 @@ $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple evolved into Cascoon!** "
 });
 $(` <input type="button" value="Vs."> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Vs. Cipher Greevil!** (Attempt #1) "
+  textarea.value += "**Vs. Leader Misty!** (Attempt #1) "
 });
-/*$(` <input type="button" value="Z-Crystal"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Completed Guzma's Trial and received the Buginium Z!** "
-});*/
+$(` <input type="button" value="Badge"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Defeated Leader Misty and earned the Cascade Badge!** "
+});
 $(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Received TM90 Snarl!** "
 });
@@ -75,15 +75,15 @@ $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Bought/Sold 10 Potions!** "
 });
 
-$(` <br/> `).appendTo(btnbox);
+/*$(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="Purify"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple was purified!** Nickname: `NICKNAME`. "
 });
 $(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple was purified! It grew to Lv. 100 and regained Splash!** Nickname: `NICKNAME`. "
-});
+});*/
 $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Traded Colosseum's Cascoon for Ruby's Silcoon!** "
+  textarea.value += "**Traded Black's Cascoon for White's Silcoon!** "
 });
 $(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We enter the Poké Center and **heal.** "
