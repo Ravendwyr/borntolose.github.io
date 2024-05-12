@@ -14,9 +14,9 @@ $(` <input type="button" value="[B/W]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[B/W] " + textarea.value
 });
 $(` <input type="button" value="[B]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[W] " + textarea.value
+  textarea.value = "[B] " + textarea.value
 });
-$(` <input type="button" value="[B]"> `).appendTo(btnbox).click(() => {
+$(` <input type="button" value="[W]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[W] " + textarea.value
 });
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
