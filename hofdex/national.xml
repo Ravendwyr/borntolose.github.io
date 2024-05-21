@@ -1582,6 +1582,7 @@
 	<runs>
 		<run>Red Anniversary</run>
 		<run>Randomized TriHard Emerald</run>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2323,6 +2324,7 @@
 	</types>
 	<runs>
 		<run>Charity Dual Blue</run>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4278,6 +4280,7 @@
 		<run>Crystal Anniversary</run>
 		<run>Metronome Sapphire</run>
 		<run>Rising Ruby</run>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4577,6 +4580,7 @@
 		<run>Brilliant Diamond</run>
 		<run>SpaceWorld Gold Reforged Revisit</run>
 		<run>Dual Sanqui Red</run>
+		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5086,6 +5090,7 @@
 	<runs>
 		<run>Blazing Emerald</run>
 		<run>Super Gauntlet Sapphire</run>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7743,9 +7748,10 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13047,9 +13053,10 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
