@@ -7750,10 +7750,9 @@
 		<type>Ground</type>
 	</types>
 	<runs>
-		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
-		<rank>main</rank>
+		<rank></rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -7765,9 +7764,10 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
