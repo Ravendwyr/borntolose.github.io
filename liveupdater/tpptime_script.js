@@ -63,10 +63,10 @@ $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple evolved into Cascoon!** "
 });
 $(` <input type="button" value="Vs."> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Vs. Leader Misty!** (Attempt #1) "
+  textarea.value += "**Vs. Gym Leader Misty!** (Attempt #1) "
 });
 $(` <input type="button" value="Badge"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Defeated Leader Misty and earned the Cascade Badge!** "
+  textarea.value += "**Defeated Gym Leader Misty and earned the Cascade Badge!** "
 });
 $(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Received TM90 Snarl!** "
@@ -83,7 +83,7 @@ $(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple was purified! It grew to Lv. 100 and regained Splash!** Nickname: `NICKNAME`. "
 });*/
 $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Traded Black's Cascoon for White's Silcoon!** "
+  textarea.value += "**Traded Sword's Cascoon for Shield's Silcoon!** "
 });
 $(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We enter the Poké Center and **heal.** "
