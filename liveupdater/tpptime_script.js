@@ -138,6 +138,12 @@ $(` <input type="button" value="é"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="É"> `).appendTo(btnbox).click(() => {
   textarea.value += "É"
 });
+$(` <input type="button" value="ñ"> `).appendTo(btnbox).click(() => {
+  textarea.value += "ñ"
+});
+$(` <input type="button" value="Ñ"> `).appendTo(btnbox).click(() => {
+  textarea.value += "Ñ"
+});
 /*$(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="◎"> `).appendTo(btnbox).click(() => {
   textarea.value += "◎"
@@ -231,7 +237,6 @@ $(` <input type="button" value="⇒"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="⇔"> `).appendTo(btnbox).click(() => {
   textarea.value += "⇔"
 });
-$(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="₵"> `).appendTo(btnbox).click(() => {
   textarea.value += "₵"
 });
