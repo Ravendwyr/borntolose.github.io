@@ -111,9 +111,9 @@ $(` <input type="button" value="ᴾᴋ"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="ᴹɴ"> `).appendTo(btnbox).click(() => {
   textarea.value += "ᴹɴ"
 });
-$(` <input type="button" value="×"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="×"> `).appendTo(btnbox).click(() => {
   textarea.value += "×"
-});
+});*/
 $(` <input type="button" value="‘"> `).appendTo(btnbox).click(() => {
   textarea.value += "‘"
 });
@@ -126,12 +126,12 @@ $(` <input type="button" value="“"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="”"> `).appendTo(btnbox).click(() => {
   textarea.value += "”"
 });
-$(` <input type="button" value="‥"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="‥"> `).appendTo(btnbox).click(() => {
   textarea.value += "‥"
-});
+});*/
 $(` <input type="button" value="…"> `).appendTo(btnbox).click(() => {
   textarea.value += "…"
-});
+});*/
 $(` <input type="button" value="é"> `).appendTo(btnbox).click(() => {
   textarea.value += "é"
 });
@@ -207,9 +207,53 @@ $(` <input type="button" value="⭝"> `).appendTo(btnbox).click(() => {
   textarea.value += "⭝"
 });*/
 $(` <br/> `).appendTo(btnbox);
+$(` <input type="button" value="¿"> `).appendTo(btnbox).click(() => {
+  textarea.value += "¿"
+});
+$(` <input type="button" value="¡"> `).appendTo(btnbox).click(() => {
+  textarea.value += "¡"
+});
+$(` <input type="button" value="↑"> `).appendTo(btnbox).click(() => {
+  textarea.value += "↑"
+});
+$(` <input type="button" value="↓"> `).appendTo(btnbox).click(() => {
+  textarea.value += "↓"
+});
+$(` <input type="button" value="→"> `).appendTo(btnbox).click(() => {
+  textarea.value += "→"
+});
+$(` <input type="button" value="←"> `).appendTo(btnbox).click(() => {
+  textarea.value += "←"
+});
+$(` <input type="button" value="⇒"> `).appendTo(btnbox).click(() => {
+  textarea.value += "⇒"
+});
+$(` <input type="button" value="⇔"> `).appendTo(btnbox).click(() => {
+  textarea.value += "⇔"
+});
+$(` <br/> `).appendTo(btnbox);
+$(` <input type="button" value="₵"> `).appendTo(btnbox).click(() => {
+  textarea.value += "₵"
+});
+$(` <input type="button" value="€"> `).appendTo(btnbox).click(() => {
+  textarea.value += "€"
+});
+$(` <input type="button" value="¥"> `).appendTo(btnbox).click(() => {
+  textarea.value += "¥"
+});
+$(` <input type="button" value="₩"> `).appendTo(btnbox).click(() => {
+  textarea.value += "₩"
+});
+$(` <input type="button" value="¤"> `).appendTo(btnbox).click(() => {
+  textarea.value += "¤"
+});
+$(` <input type="button" value="ƒ"> `).appendTo(btnbox).click(() => {
+  textarea.value += "ƒ"
+});
+$(` <br/> `).appendTo(btnbox);
 $(` <br/> `).appendTo(btnbox);
 $(` <a class="quickinserts">Replace aliases and fix common misspellings</a> `).appendTo(btnbox).click(() => {
-  textarea.value = textarea.value.replace("$$", "₽").replace("Pokemon", "Pokémon").replace("pokemon", "Pokémon").replace("Pokecenter", "Poké Center").replace("Pokemart", "Poké Mart").replace("pokecenter", "Poké Center").replace("pokemart", "Poké Mart").replace("pokeball", "Poké Ball").replace("Pokeball", "Poké Ball").replace("(male)", "♂").replace("(female)", "♀").replace("(m)", "♂").replace("(f)", "♀").replace("(pk)", "ᴾᴋ").replace("(mn)", "ᴹɴ").replace("(x)", "×").replace("NidoranM", "Nidoran♂").replace("NidoranF", "Nidoran♀").replace("send sout", "sends out").replace("take sout", "takes out");
+  textarea.value = textarea.value.replace("$$", "₽").replace("Pokemon", "Pokémon").replace("pokemon", "Pokémon").replace("Pokecenter", "Poké Center").replace("Pokemart", "Poké Mart").replace("pokecenter", "Poké Center").replace("pokemart", "Poké Mart").replace("pokeball", "Poké Ball").replace("Pokeball", "Poké Ball").replace("(male)", "♂").replace("(female)", "♀").replace("(m)", "♂").replace("(f)", "♀").replace("(pk)", "ᴾᴋ").replace("(mn)", "ᴹɴ").replace("(x)", "×").replace("NidoranM", "Nidoran♂").replace("NidoranF", "Nidoran♀").replace("send sout", "sends out").replace("take sout", "takes out").replace("lv.", "Lv.");
 });
 $(` <br/> `).appendTo(btnbox);
 $(` <br/> `).appendTo(btnbox);
