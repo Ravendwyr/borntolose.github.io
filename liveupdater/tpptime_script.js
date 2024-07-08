@@ -10,14 +10,14 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
-$(` <input type="button" value="[B/W]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[B/W] " + textarea.value
+$(` <input type="button" value="[Sw/Sh]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[Sw/Sh] " + textarea.value
 });
-$(` <input type="button" value="[B]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[B] " + textarea.value
+$(` <input type="button" value="[Sw]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[Sw] " + textarea.value
 });
-$(` <input type="button" value="[W]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[W] " + textarea.value
+$(` <input type="button" value="[Sh]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[Sh] " + textarea.value
 });
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Intermission] " + textarea.value
@@ -138,7 +138,7 @@ $(` <input type="button" value="é"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="É"> `).appendTo(btnbox).click(() => {
   textarea.value += "É"
 });
-$(` <br/> `).appendTo(btnbox);
+/*$(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="◎"> `).appendTo(btnbox).click(() => {
   textarea.value += "◎"
 });
@@ -205,7 +205,7 @@ $(` <input type="button" value="⭜"> `).appendTo(btnbox).click(() => {
 });
 $(` <input type="button" value="⭝"> `).appendTo(btnbox).click(() => {
   textarea.value += "⭝"
-});
+});*/
 $(` <br/> `).appendTo(btnbox);
 $(` <br/> `).appendTo(btnbox);
 $(` <a class="quickinserts">Replace aliases and fix common misspellings</a> `).appendTo(btnbox).click(() => {
