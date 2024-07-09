@@ -93,6 +93,9 @@ $(` <input type="button" value="Going dark"> `).appendTo(btnbox).click(() => {
 });
 $(` <br/> `).appendTo(btnbox);
 
+$(` <input type="button" value="PT"> `).appendTo(btnbox).click(() => {
+  textarea.value += "Pokémon Trainer"
+});
 $(` <input type="button" value="Poké"> `).appendTo(btnbox).click(() => {
   textarea.value += "Poké"
 });
@@ -254,6 +257,9 @@ $(` <input type="button" value="¤"> `).appendTo(btnbox).click(() => {
 });
 $(` <input type="button" value="ƒ"> `).appendTo(btnbox).click(() => {
   textarea.value += "ƒ"
+});
+$(` <input type="button" value="★"> `).appendTo(btnbox).click(() => {
+  textarea.value += "★"
 });
 $(` <br/> `).appendTo(btnbox);
 $(` <br/> `).appendTo(btnbox);
