@@ -649,9 +649,10 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -1598,10 +1599,11 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sword</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
   
@@ -2128,10 +2130,11 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -2785,9 +2788,10 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -2820,9 +2824,10 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -2852,10 +2857,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sword</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -3301,9 +3307,10 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -4859,9 +4866,10 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -6077,10 +6085,11 @@
 	</types>
 	<runs>
 		<run>Blazing Emerald</run>
+		<run>Super Gauntlet Sword</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -7765,10 +7774,11 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Sun</run>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -11342,6 +11352,7 @@
 	</types>
 	<runs>
 		<run>Theta Emerald EX</run>
+		<run>Super Gauntlet Sword</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13006,9 +13017,10 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13188,9 +13200,10 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13372,9 +13385,10 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13559,10 +13573,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -13631,10 +13646,11 @@
 	</types>
 	<runs>
 		<run>Sword Revisit - Isle of Armor</run>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank>inter</rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -13703,10 +13719,11 @@
 		<type>Dark</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sword</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -13759,10 +13776,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -13906,10 +13924,11 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14185,10 +14204,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Sword</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14302,9 +14322,10 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14421,10 +14442,11 @@
 	</types>
 	<runs>
 		<run>Sword</run>
+		<run>Super Gauntlet Sword</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14494,9 +14516,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14509,9 +14532,10 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14602,9 +14626,10 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Shield</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14618,6 +14643,7 @@
 	</types>
 	<runs>
 		<run>Sword</run>
+		<run>Super Gauntlet Sword</run>
 	</runs>
 	<status>
 		<rank>main</rank>
