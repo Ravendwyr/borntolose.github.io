@@ -10,14 +10,14 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
-$(` <input type="button" value="[Sw/Sh]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[Sw/Sh] " + textarea.value
+$(` <input type="button" value="[S/V]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[S/V] " + textarea.value
 });
-$(` <input type="button" value="[Sw]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[Sw] " + textarea.value
+$(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[S] " + textarea.value
 });
-$(` <input type="button" value="[Sh]"> `).appendTo(btnbox).click(() => {
-  textarea.value = "[Sh] " + textarea.value
+$(` <input type="button" value="[V]"> `).appendTo(btnbox).click(() => {
+  textarea.value = "[V] " + textarea.value
 });
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Intermission] " + textarea.value
@@ -62,7 +62,10 @@ $(` <input type="button" value="Lvl up + Move"> `).appendTo(btnbox).click(() => 
 $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple evolved into Cascoon!** "
 });
-$(` <input type="button" value="Vs."> `).appendTo(btnbox).click(() => {
+$(` <input type="button" value="Vs. PT"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Vs. Pokémon Trainer Red!** (Attempt #1) "
+});
+$(` <input type="button" value="Vs. GL"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Vs. Gym Leader Misty!** (Attempt #1) "
 });
 $(` <input type="button" value="Badge"> `).appendTo(btnbox).click(() => {
