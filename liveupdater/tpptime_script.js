@@ -89,7 +89,7 @@ $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Traded Sword's Cascoon for Shield's Silcoon!** "
 });
 $(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
-  textarea.value += "We enter the Poké Center and **heal.** "
+  textarea.value += "We head to a Poké Center and **heal.** "
 });
 $(` <input type="button" value="Going dark"> `).appendTo(btnbox).click(() => {
   textarea.value += "[Meta] The live updater is going dark. Check [#run-feed](https://discord.com/channels/927292379436814406/942158888311078944) on the Discord server for continued updates."
