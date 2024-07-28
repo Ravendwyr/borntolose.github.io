@@ -86,7 +86,7 @@ $(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple was purified! It grew to Lv. 100 and regained Splash!** Nickname: `NICKNAME`. "
 });*/
 $(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Traded Sword's Cascoon for Shield's Silcoon!** "
+  textarea.value += "**Traded Scarlet's Cascoon for Violet's Silcoon!** "
 });
 $(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We head to a Poké Center and **heal.** "

@@ -149,6 +149,7 @@
 		<run>Randomized White 2</run>
 		<run>Charity Dual Red</run>
 		<run>Japanese Blue</run>
+		<run>NES Yellow</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -461,6 +462,7 @@
 		<run>Dual Red</run>
 		<run>Charity Dual Blue - Testing</run>
 		<run>Charity Dual Red</run>
+		<run>NES Yellow</run>
 		<run>Super Gauntlet Diamond</run>
 	</runs>
 	<status>
@@ -667,7 +669,7 @@
 		<run>Dual Blue</run>
 		<run>Blazing Emerald Runback</run>
 		<run>Yellow: Cramorant Edition</run>
-		<run>GB Tower Crystal</run>
+		<run>GB Tower Crystal - VC Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1210,6 +1212,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Red</run>
+		<run>GB Tower Crystal - VC Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1869,6 +1872,7 @@
 		<run>Metronome Sapphire</run>
 		<run>RGB Green</run>
 		<run>Dual Sanqui Red</run>
+		<run>NES Yellow</run>
 		<run>Super Gauntlet Diamond</run>
 	</runs>
 	<status>
@@ -2084,6 +2088,7 @@
 		<run>Randomized Black</run>
 		<run>Dual Sanqui Red</run>
 		<run>Japanese Blue</run>
+		<run>NES Yellow</run>
 		<run>Super Gauntlet Silver</run>
 	</runs>
 	<status>
@@ -2268,7 +2273,7 @@
 	</types>
 	<runs>
 		<run>Charity Dual Blue</run>
-		<run>GB Tower Crystal</run>
+		<run>GB Tower Crystal - VC Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2440,7 +2445,7 @@
 	</types>
 	<runs>
 		<run>Moemon</run>
-		<run>GB Tower Crystal</run>
+		<run>GB Tower Crystal - VC Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2842,6 +2847,7 @@
 	<runs>
 		<run>Randomized Chatty Crystal</run>
 		<run>Randomized TriHard Emerald</run>
+		<run>NES Yellow</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2924,6 +2930,7 @@
 		<run>Burning Red Revisit</run>
 		<run>Randomized Sanqui Red</run>
 		<run>Japanese Green</run>
+		<run>NES Yellow</run>
 	</runs>
 	<status>
 		<rank>side</rank>
@@ -3386,7 +3393,7 @@
 	<runs>
 		<run>HeartGold</run>
 		<run>Blazing Emerald</run>
-		<run>GB Tower Crystal</run>
+		<run>GB Tower Crystal - VC Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3973,7 +3980,7 @@
 	</types>
 	<runs>
 		<run>Metronome Sapphire</run>
-		<run>GB Tower Crystal</run>
+		<run>GB Tower Crystal - VC Revisit</run>
 	</runs>
 	<status>
 		<rank>side</rank>
@@ -4519,6 +4526,7 @@
 		<run>Vietnamese Crystal</run>
 		<run>Vietnamese Crystal Revisit</run>
 		<run>Ultra Mega Power Revisit</run>
+		<run>NES Yellow</run>
 		<run>Super Gauntlet Colosseum</run>
 	</runs>
 	<status>
