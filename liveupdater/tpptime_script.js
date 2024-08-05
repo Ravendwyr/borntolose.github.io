@@ -50,8 +50,11 @@ $(` <br/> `).appendTo(btnbox);
 /*$(` <input type="button" value="Snag"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Snagged a female Lv. 100+ Wurmple!** "
 });*/
-$(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Caught a female Lv. 100 Wurmple!** Nickname: `NICKNAME`. "
+});*/
+$(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Caught a female Lv. 100 Wurmple!** "
 });
 $(` <input type="button" value="Lvl up"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple grew to Lv. 100!** "
