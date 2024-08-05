@@ -56,9 +56,9 @@ $(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="Lvl up"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple grew to Lv. 100!** "
 });
-/*$(` <input type="button" value="Lvl up + Move"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Wurmple grew to Lv. 100 and learned Tackle over Splash!** "
-});*/
+$(` <input type="button" value="Lvl up + Move"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Wurmple grew to Lv. 100 and learned Tackle!** "
+});
 $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple evolved into Cascoon!** "
 });
