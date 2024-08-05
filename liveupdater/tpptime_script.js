@@ -103,6 +103,22 @@ $(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
 /*$(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We head to a Poké Center and **heal.** "
 });*/
+$(` <input type="button" value="Plate"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Defeated Wyrdeer and received the Mind Plate!** "
+});
+$(` <br/> `).appendTo(btnbox);
+$(` <input type="button" value="New mission"> `).appendTo(btnbox).click(() => {
+  textarea.value += '**Received a new Mission: "Title".** '
+});
+$(` <input type="button" value="New request"> `).appendTo(btnbox).click(() => {
+  textarea.value += '**Received Request 99: "Title".** '
+});
+$(` <input type="button" value="Mission done"> `).appendTo(btnbox).click(() => {
+  textarea.value += '**Mission complete: "Title".** '
+});
+$(` <input type="button" value="Request done"> `).appendTo(btnbox).click(() => {
+  textarea.value += '**Completed Request 99: "Title" and received 99 Potions.** '
+});
 $(` <input type="button" value="Going dark"> `).appendTo(btnbox).click(() => {
   textarea.value += "[Meta] The live updater is going dark. Check [#run-feed](https://discord.com/channels/927292379436814406/942158888311078944) on the Discord server for continued updates."
 });
