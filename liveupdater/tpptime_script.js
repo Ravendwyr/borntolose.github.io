@@ -10,7 +10,7 @@ btnbox.classList.add('btnbox')
   textarea.value += timeElapsed()
 });*/
 
-$(` <input type="button" value="[S/V]"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="[S/V]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[S/V] " + textarea.value
 });
 $(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
@@ -18,7 +18,7 @@ $(` <input type="button" value="[S]"> `).appendTo(btnbox).click(() => {
 });
 $(` <input type="button" value="[V]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[V] " + textarea.value
-});
+});*/
 $(` <input type="button" value="[Intermission]"> `).appendTo(btnbox).click(() => {
   textarea.value = "[Intermission] " + textarea.value
 });
@@ -56,26 +56,35 @@ $(` <input type="button" value="Catch"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="Lvl up"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple grew to Lv. 100!** "
 });
-$(` <input type="button" value="Lvl up + Move"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="Lvl up + Move"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple grew to Lv. 100 and learned Tackle over Splash!** "
-});
+});*/
 $(` <input type="button" value="Evo"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple evolved into Cascoon!** "
 });
 $(` <input type="button" value="Vs. PT"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Vs. Pokémon Trainer Red!** (Attempt #1) "
 });
-$(` <input type="button" value="Vs. GL"> `).appendTo(btnbox).click(() => {
+$(` <input type="button" value="Vs. NP"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Vs. Kleavor, Lord of the Woods!** (Attempt #1) "
+});
+/*$(` <input type="button" value="Vs. GL"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Vs. Gym Leader Misty!** (Attempt #1) "
-});
-$(` <input type="button" value="Badge"> `).appendTo(btnbox).click(() => {
+});*/
+/*$(` <input type="button" value="Badge"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Defeated Gym Leader Misty and earned the Cascade Badge!** "
+});*/
+$(` <input type="button" value="Plate"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Defeated Wyrdeer and received the Mind Plate!** "
 });
-$(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="TM"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Received TM90 Snarl!** "
+});*/
+$(` <input type="button" value="Craft"> `).appendTo(btnbox).click(() => {
+  textarea.value += "**Crafted 5 Potions.** "
 });
 $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Bought/Sold 10 Potions!** "
+  textarea.value += "**Bought/Sold 10 Potions.** "
 });
 
 /*$(` <br/> `).appendTo(btnbox);
@@ -85,12 +94,12 @@ $(` <input type="button" value="Purify"> `).appendTo(btnbox).click(() => {
 $(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Wurmple was purified! It grew to Lv. 100 and regained Splash!** Nickname: `NICKNAME`. "
 });*/
-$(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
+/*$(` <input type="button" value="Trade"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Traded Scarlet's Cascoon for Violet's Silcoon!** "
-});
-$(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
+});*/
+/*$(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We head to a Poké Center and **heal.** "
-});
+});*/
 $(` <input type="button" value="Going dark"> `).appendTo(btnbox).click(() => {
   textarea.value += "[Meta] The live updater is going dark. Check [#run-feed](https://discord.com/channels/927292379436814406/942158888311078944) on the Discord server for continued updates."
 });
