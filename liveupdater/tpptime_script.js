@@ -103,9 +103,6 @@ $(` <input type="button" value="Purify+"> `).appendTo(btnbox).click(() => {
 /*$(` <input type="button" value="Center heal"> `).appendTo(btnbox).click(() => {
   textarea.value += "We head to a Poké Center and **heal.** "
 });*/
-$(` <input type="button" value="Plate"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Defeated Wyrdeer and received the Mind Plate!** "
-});
 $(` <br/> `).appendTo(btnbox);
 $(` <input type="button" value="New mission"> `).appendTo(btnbox).click(() => {
   textarea.value += '**Received a new Mission: "Title".** '
