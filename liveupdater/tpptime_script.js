@@ -84,7 +84,7 @@ $(` <input type="button" value="Plate"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Received TM90 Snarl!** "
 });*/
 $(` <input type="button" value="Craft"> `).appendTo(btnbox).click(() => {
-  textarea.value += "**Crafted 5 Potions.** "
+  textarea.value += "**Crafted 10 Potions.** "
 });
 $(` <input type="button" value="Mart"> `).appendTo(btnbox).click(() => {
   textarea.value += "**Bought/Sold 10 Potions.** "
