@@ -8303,10 +8303,11 @@
 	</types>
 	<runs>
 		<run>Gauntlet Platinum</run>
+		<run>Super Gauntlet Legends: Arceus</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
   
@@ -9335,10 +9336,11 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Legends: Arceus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -9744,10 +9746,11 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Legends: Arceus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -10573,6 +10576,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Black</run>
+		<run>Super Gauntlet Violet</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10633,10 +10637,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Legends: Arceus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12179,10 +12184,11 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Legends: Arceus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -14037,9 +14043,10 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Violet</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -14834,10 +14841,11 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Legends: Arceus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
