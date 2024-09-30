@@ -101,6 +101,7 @@
 		<run>Sword Revisit - Crown Tundra</run>
 		<run>Randomized Black 2</run>
 		<run>Charity Dual Blue</run>
+		<run>Randomized Violet+</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4526,6 +4527,7 @@
 		<run>Vietnamese Crystal</run>
 		<run>Vietnamese Crystal Revisit</run>
 		<run>Ultra Mega Power Revisit</run>
+		<run>Scarlet Revisit - The Indigo Disk</run>
 		<run>NES Yellow</run>
 		<run>Super Gauntlet Colosseum</run>
 	</runs>
@@ -8176,6 +8178,7 @@
 	<runs>
 		<run>Randomized Y</run>
 		<run>Flora Sky</run>
+		<run>Scarlet</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8303,7 +8306,7 @@
 	</types>
 	<runs>
 		<run>Gauntlet Platinum</run>
-		<run>Super Gauntlet Legends: Arceus</run>
+		<run>Super Gauntlet Legends Arceus</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8461,6 +8464,7 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>Randomized Violet+</run>
 		<run>Super Gauntlet Diamond</run>
 		<run>Super Gauntlet Pearl</run>
 	</runs>
@@ -9336,7 +9340,7 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
-		<run>Super Gauntlet Legends: Arceus</run>
+		<run>Super Gauntlet Legends Arceus</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9746,7 +9750,7 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
-		<run>Super Gauntlet Legends: Arceus</run>
+		<run>Super Gauntlet Legends Arceus</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -10637,7 +10641,7 @@
 		<type>Flying</type>
 	</types>
 	<runs>
-		<run>Super Gauntlet Legends: Arceus</run>
+		<run>Super Gauntlet Legends Arceus</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -12184,7 +12188,7 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
-		<run>Super Gauntlet Legends: Arceus</run>
+		<run>Super Gauntlet Legends Arceus</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -14399,6 +14403,7 @@
 	</types>
 	<runs>
 		<run>Scarlet</run>
+		<run>Scarlet Revisit - The Indigo Disk</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -14841,7 +14846,7 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
-		<run>Super Gauntlet Legends: Arceus</run>
+		<run>Super Gauntlet Legends Arceus</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15708,9 +15713,10 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Scarlet</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -16036,9 +16042,10 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Super Gauntlet Violet</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -16321,9 +16328,10 @@
 		<type>Ice</type>
 	</types>
 	<runs>
+		<run>Scarlet</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -16351,9 +16359,10 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>Scarlet Revisit - The Indigo Disk</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -16396,9 +16405,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Scarlet Revisit - The Indigo Disk</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -16545,9 +16555,10 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Scarlet Revisit - The Indigo Disk</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -16590,9 +16601,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Scarlet Revisit - The Indigo Disk</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
