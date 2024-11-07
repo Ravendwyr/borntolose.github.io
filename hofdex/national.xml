@@ -715,6 +715,7 @@
 	<runs>
 		<run>Prism</run>
 		<run>Charity Dual Blue - Testing</run>
+		<run>Multiworld Emerald</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1636,6 +1637,7 @@
 	</types>
 	<runs>
 		<run>Pyrite</run>
+		<run>Rocket Edition</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -1777,6 +1779,7 @@
 	</types>
 	<runs>
 		<run>Red Anniversary</run>
+		<run>Multiworld Emerald</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2544,6 +2547,7 @@
 		<run>Burning Red</run>
 		<run>Japanese Green</run>
 		<run>Super Gauntlet Red</run>
+		<run>Rocket Edition</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2647,6 +2651,7 @@
 	<runs>
 		<run>Platinum</run>
 		<run>Bootleg Green</run>
+		<run>Rocket Edition</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2952,6 +2957,7 @@
 		<run>Sword</run>
 		<run>Dual Sanqui Red</run>
 		<run>Charity Dual Blue</run>
+		<run>Multiworld Emerald</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3204,10 +3210,11 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Silver</run>
+		<run>Multiworld Emerald</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
         
@@ -3254,6 +3261,7 @@
 		<run>Blazing Emerald</run>
 		<run>Brilliant Diamond Revisit</run>
 		<run>Super Gauntlet XD</run>
+		<run>Rocket Edition</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3442,6 +3450,7 @@
 		<run>Grand Colosseum</run>
 		<run>Silver</run>
 		<run>Super Gauntlet Silver</run>
+		<run>Multiworld Emerald</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4560,9 +4569,10 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Multiworld Emerald</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -4618,6 +4628,7 @@
 		<run>SpaceWorld Gold Reforged</run>
 		<run>SpaceWorld Gold Reforged Revisit</run>
 		<run>Super Gauntlet Gold</run>
+		<run>Multiworld Emerald</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6349,6 +6360,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Sapphire</run>
+		<run>Multiworld Emerald</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6709,6 +6721,7 @@
 	<runs>
 		<run>Omega Ruby</run>
 		<run>Debug Rubin</run>
+		<run>Multiworld Emerald</run>
 	</runs>
 	<status>
 		<rank>main</rank>
