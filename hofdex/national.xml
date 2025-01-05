@@ -1078,6 +1078,7 @@
 	<runs>
 		<run>Brown</run>
 		<run>Legends Arceus</run>
+		<run>Super Gauntlet Scarlet</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5237,6 +5238,7 @@
 	</types>
 	<runs>
 		<run>Sirius</run>
+		<run>Super Gauntlet Scarlet</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -14418,6 +14420,7 @@
 	<runs>
 		<run>Scarlet</run>
 		<run>Scarlet Revisit - The Indigo Disk</run>
+		<run>Super Gauntlet Scarlet</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15699,6 +15702,7 @@
 	</types>
 	<runs>
 		<run>Scarlet</run>
+		<run>Super Gauntlet Scarlet</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -16434,10 +16438,10 @@
 		<type>Electric</type>
 		<type>Dragon</type>
 	</types>
-	<runs>
+		<run>Super Gauntlet Scarlet</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
