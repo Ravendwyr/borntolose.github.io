@@ -35,15 +35,15 @@
 				
 				}
 				
-				/*if (data.evolution_is_happening != false 
+				if (data.evolution_is_happening != false 
 				   && lastEvolutionIsHappening != data.evolution_is_happening) {
 				
 					notification = new Notification("A Pokémon is evolving!");
 					document.getElementById("eventList").innerHTML += "A Pokémon is evolving!<br>";
 				
-				}*/
+				}
 				
-				for (i = 0; i < data.party.length; i++){
+				/*for (i = 0; i < data.party.length; i++){
 					if (data.party[i].species.evolutions.length > 0) {
 						if (data.party[i].species.evolutions[0].level <= data.party[i].level && !evoInParty.includes(data.party[i].species.name)) {
 						
@@ -54,10 +54,10 @@
 							
 						}
 					}
-				}
+				}*/
 				
 				lastBattleKind = data.battle_kind;
-				//lastEvolutionIsHappening = data.evolution_is_happening;
+				lastEvolutionIsHappening = data.evolution_is_happening;
 				
 				//console.log(data.battle_type);
 				setTimeout(fetchData, 65000);
