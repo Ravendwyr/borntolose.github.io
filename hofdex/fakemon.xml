@@ -665,6 +665,21 @@
 	</status>
   </mon> 
   
+  <mon region="none" final="true">
+	<num>000M</num>
+    <name>'M</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+		<run>KEP Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon> 
+  
 <!-- NALJO -->
 
   <mon region="naljo" final="true">
@@ -4625,6 +4640,492 @@
 	</status>
   </mon>
 
+<!-- EXPANDED KANTO -->
+
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0009</num>
+    <name>Totartle</name>
+	<types>
+		<type>Water</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0013</num>
+    <name>Gorochu</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0040</num>
+    <name>Gentlarva</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0041</num>
+    <name>Pupal</name>
+	<types>
+		<type>Bug</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0042</num>
+    <name>Carapthor</name>
+	<types>
+		<type>Bug</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0044</num>
+    <name>Gaotora</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0045</num>
+    <name>Gorotora</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+		<run>KEP Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0054</num>
+    <name>Nidoreign</name>
+	<types>
+		<type>Poison</type>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0055</num>
+    <name>Bittybat</name>
+	<types>
+		<type>Poison</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0097</num>
+    <name>Weirduck</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0106</num>
+    <name>Cheep</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0107</num>
+    <name>Jabetta</name>
+	<types>
+		<type>Water</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0119</num>
+    <name>Magnetite</name>
+	<types>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0136</num>
+    <name>Blottle</name>
+	<types>
+		<type>Water</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0137</num>
+    <name>Pendraken</name>
+	<types>
+		<type>Water</type>
+		<type>Fairy</type>
+	</types>
+	<runs>
+		<run>KEP Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0138</num>
+    <name>Ribbito</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0139</num>
+    <name>Croakozuna</name>
+	<types>
+		<type>Water</type>
+		<type>Dark</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0150</num>
+    <name>Gavillain</name>
+	<types>
+		<type>Dragon</type>
+		<type>Electric</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0161</num>
+    <name>Guardia</name>
+	<types>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0162</num>
+    <name>Balumba</name>
+	<types>
+		<type>Fairy</type>
+		<type>Flying</type>
+	</types>
+	<runs>
+		<run>KEP Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0173</num>
+    <name>Ramoose</name>
+	<types>
+		<type>Normal</type>
+		<type>Grass</type>
+	</types>
+	<runs>
+		<run>KEP Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0187</num>
+    <name>Blastyke</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0189</num>
+    <name>Sharpoon</name>
+	<types>
+		<type>Water</type>
+		<type>Steel</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0202</num>
+    <name>Trampel</name>
+	<types>
+		<type>Normal</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0209</num>
+    <name>Gorillaimo</name>
+	<types>
+		<type>Normal</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0210</num>
+    <name>Cactormus</name>
+	<types>
+		<type>Grass</type>
+		<type>Ground</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0214</num>
+    <name>Buu</name>
+	<types>
+		<type>Ice</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0230</num>
+    <name>Decilla</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0231</num>
+    <name>Gawarhed</name>
+	<types>
+		<type>Rock</type>
+	</types>
+	<runs>
+		<run>KEP Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0232</num>
+    <name>Omegadge</name>
+	<types>
+		<type>Steel</type>
+	</types>
+	<runs>
+		<run>KEP Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0236</num>
+    <name>Squeamata</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="false">
+	<num>KEP-0237</num>
+    <name>Ministare</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="exp-kanto" final="true">
+	<num>KEP-0238</num>
+    <name>Iguanarch</name>
+	<types>
+		<type>Dragon</type>
+	</types>
+	<runs>
+		<run>KEP Anniversary</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem>main</emblem>
+	</status>
+  </mon>
+  
 <!-- REMIXED ORRE -->
 
   <mon region="xgr-orre" final="true">
@@ -13397,6 +13898,42 @@
 	</status>
   </mon>
 
+<!-- TYRON -->
+
+  <mon region="tyron" final="true">
+	<num>VFR-0387</num>
+    <name>Eliza</name>
+	<types>
+		<type>Dark</type>
+		<type>Fighting</type>
+	</types>
+	<runs>
+		<run>Resolute</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+<!-- CYENN -->
+
+  <mon region="cyenn" final="true">
+	<num>NML-0217</num>
+    <name>Elluce</name>
+	<types>
+		<type>Dark</type>
+		<type>Psychic</type>
+	</types>
+	<runs>
+		<run>Nameless</run>
+	</runs>
+	<status>
+		<rank>main</rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
 <!-- SOLANA -->
 
   <mon region="solana" final="true">
@@ -13443,6 +13980,274 @@
 	<status>
 		<rank>inter</rank>
 		<emblem>inter</emblem>
+	</status>
+  </mon>
+
+<!-- SOUTH EASTERN MINNESOTA -->
+  
+  <mon region="minnesota" final="false">
+	<num>FNT-0001</num>
+    <name>Verdanta</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="false">
+	<num>FNT-0002</num>
+    <name>Verdantor</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="true">
+	<num>FNT-0003</num>
+    <name>Verdantost</name>
+	<types>
+		<type>Grass</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="false">
+	<num>FNT-0004</num>
+    <name>Papyromaniac</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="false">
+	<num>FNT-0005</num>
+    <name>Papyromanitc</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="true">
+	<num>FNT-0006</num>
+    <name>Papyropapa</name>
+	<types>
+		<type>Fire</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="false">
+	<num>FNT-0007</num>
+    <name>Proggito</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="false">
+	<num>FNT-0008</num>
+    <name>Proggile</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="true">
+	<num>FNT-0009</num>
+    <name>Progg</name>
+	<types>
+		<type>Water</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="true">
+	<num>FNT-0010</num>
+    <name>Scourier</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+  
+  <mon region="minnesota" final="true">
+	<num>FNT-0011</num>
+    <name>Caviarlone</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="minnesota" final="true">
+	<num>FNT-0012</num>
+    <name>Helvetikhan</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="minnesota" final="true">
+	<num>FNT-0013</num>
+    <name>Sans-Scareif</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="minnesota" final="true">
+	<num>FNT-0014</num>
+    <name>Chiller</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="minnesota" final="true">
+	<num>FNT-0015</num>
+    <name>Airial</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="minnesota" final="true">
+	<num>FNT-0016</num>
+    <name>Oxima Nova</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="minnesota" final="true">
+	<num>FNT-0017</num>
+    <name>Sockwell</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="minnesota" final="true">
+	<num>FNT-0018</num>
+    <name>Whalexandria</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
+	</status>
+  </mon>
+
+  <mon region="minnesota" final="true">
+	<num>FNT-0000</num>
+    <name>missINGDINGno</name>
+	<types>
+		<type>Unknown</type>
+	</types>
+	<runs>
+	</runs>
+	<status>
+		<rank></rank>
+		<emblem></emblem>
 	</status>
   </mon>
 
@@ -14954,42 +15759,6 @@
 	</status>
   </mon>
 
-<!-- TYRON -->
-
-  <mon region="tyron" final="true">
-	<num>VFR-0387</num>
-    <name>Eliza</name>
-	<types>
-		<type>Dark</type>
-		<type>Fighting</type>
-	</types>
-	<runs>
-		<run>Resolute</run>
-	</runs>
-	<status>
-		<rank>main</rank>
-		<emblem></emblem>
-	</status>
-  </mon>
-
-<!-- CYENN -->
-
-  <mon region="cyenn" final="true">
-	<num>NML-0217</num>
-    <name>Elluce</name>
-	<types>
-		<type>Dark</type>
-		<type>Psychic</type>
-	</types>
-	<runs>
-		<run>Nameless</run>
-	</runs>
-	<status>
-		<rank>main</rank>
-		<emblem></emblem>
-	</status>
-  </mon>
-  
 <!-- DIGITAL WORLD -->
 
   <mon region="digiworld" final="false">
