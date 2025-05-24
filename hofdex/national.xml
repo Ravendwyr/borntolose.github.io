@@ -2654,6 +2654,7 @@
 		<run>Platinum</run>
 		<run>Bootleg Green</run>
 		<run>Rocket Edition</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3625,10 +3626,11 @@
 	</types>
 	<runs>
 		<run>Blazing Emerald</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -3689,6 +3691,7 @@
 		<run>Colosseum</run>
 		<run>Randomized Platinum</run>
 		<run>Blazing Emerald Runback</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4223,10 +4226,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -5058,6 +5062,7 @@
 	<runs>
 		<run>XD</run>
 		<run>Super Gauntlet Ruby</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5091,9 +5096,10 @@
 	<runs>
 		<run>Sapphire</run>
 		<run>Debug Rubin</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank>side</rank>
+		<rank>main</rank>
 		<emblem>side</emblem>
 	</status>
   </mon> 
@@ -5919,6 +5925,7 @@
 	<runs>
 		<run>TriHard Emerald</run>
 		<run>Super Gauntlet Sun</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6242,6 +6249,7 @@
 		<run>Gauntlet Black 2</run>
 		<run>Randomized Chatty Crystal</run>
 		<run>Inverse Platinum</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6742,6 +6750,7 @@
 	<runs>
 		<run>Randomized White 2</run>
 		<run>Lightning Sapphire</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8502,6 +8511,7 @@
 	</types>
 	<runs>
 		<run>Victory Fire</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11132,6 +11142,7 @@
 	</types>
 	<runs>
 		<run>Wilting Y</run>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11311,10 +11322,11 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12533,10 +12545,11 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -12785,9 +12798,10 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -12891,9 +12905,10 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13098,10 +13113,11 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>main</rank>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -13160,9 +13176,10 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13316,9 +13333,10 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13345,9 +13363,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13452,9 +13471,10 @@
 		<type>Electric</type>
 	</types>
 	<runs>
+		<run>Photonic Sun</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 

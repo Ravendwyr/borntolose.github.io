@@ -28071,9 +28071,10 @@
 		<type>Poison</type>
 	</types>
 	<runs>
+		<run>PokeSus</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -28314,9 +28315,10 @@
 		<type>Water</type>
 	</types>
 	<runs>
+		<run>PokeSus</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>inter</rank>
 		<emblem></emblem>
 	</status>
   </mon>
@@ -29252,10 +29254,11 @@
 		<type>Fire</type>
 	</types>
 	<runs>
+		<run>PokeSus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon>
 
@@ -29655,10 +29658,11 @@
 		<type>Grass</type>
 	</types>
 	<runs>
+		<run>PokeSus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon>
 
@@ -29902,10 +29906,11 @@
 		<type>Electric</type>
 	</types>
 	<runs>
+		<run>PokeSus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon>
 
@@ -29973,10 +29978,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>PokeSus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon>
 
@@ -30101,10 +30107,11 @@
 		<type>Rock</type>
 	</types>
 	<runs>
+		<run>PokeSus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon>
 
@@ -30914,10 +30921,11 @@
 		<type>Normal</type>
 	</types>
 	<runs>
+		<run>PokeSus</run>
 	</runs>
 	<status>
-		<rank></rank>
-		<emblem></emblem>
+		<rank>inter</rank>
+		<emblem>inter</emblem>
 	</status>
   </mon>
 
