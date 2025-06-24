@@ -466,6 +466,7 @@
 		<run>Charity Dual Red</run>
 		<run>NES Yellow</run>
 		<run>Super Gauntlet Diamond</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -544,6 +545,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Ultra Moon</run>
+		<run>Super Gauntlet Violet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2127,6 +2129,7 @@
 	<runs>
 		<run>Burning Red</run>
 		<run>Burning Red Revisit</run>
+		<run>Scarlet Revisit - Switch 2</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2586,6 +2589,7 @@
 	</types>
 	<runs>
 		<run>Randomized Chatty Crystal</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2902,6 +2906,7 @@
 	</types>
 	<runs>
 		<run>Crystal</run>
+		<run>Scarlet Revisit - Switch 2</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3566,6 +3571,7 @@
 	</types>
 	<runs>
 		<run>Bronze</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -3627,6 +3633,7 @@
 	<runs>
 		<run>Blazing Emerald</run>
 		<run>Photonic Sun</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4360,6 +4367,7 @@
 	<runs>
 		<run>XG Remix</run>
 		<run>Prism Anniversary</run>
+		<run>Super Gauntlet Violet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6250,6 +6258,7 @@
 		<run>Randomized Chatty Crystal</run>
 		<run>Inverse Platinum</run>
 		<run>Photonic Sun</run>
+		<run>Photonic Sun Revisit - Lusamine Day</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6751,6 +6760,7 @@
 		<run>Randomized White 2</run>
 		<run>Lightning Sapphire</run>
 		<run>Photonic Sun</run>
+		<run>Photonic Sun Revisit - Lusamine Day</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7811,6 +7821,7 @@
 	<runs>
 		<run>Super Gauntlet Sun</run>
 		<run>Super Gauntlet Shield</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9383,6 +9394,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet White</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9778,6 +9790,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Legends Arceus</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11294,6 +11307,7 @@
 	<runs>
 		<run>Mega Power</run>
 		<run>Ultra Mega Power</run>
+		<run>Scarlet Revisit - Switch 2</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11780,6 +11794,7 @@
 	<runs>
 		<run>Brown</run>
 		<run>Super Gauntlet X</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13114,6 +13129,7 @@
 	</types>
 	<runs>
 		<run>Photonic Sun</run>
+		<run>Photonic Sun Revisit - Lusamine Day</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13176,7 +13192,7 @@
 		<type>Fairy</type>
 	</types>
 	<runs>
-		<run>Photonic Sun</run>
+		<run>Photonic Sun Revisit - Lusamine Day</run>
 	</runs>
 	<status>
 		<rank>inter</rank>
@@ -13364,6 +13380,8 @@
 	</types>
 	<runs>
 		<run>Photonic Sun</run>
+		<run>Photonic Sun Revisit - Lusamine Day</run>
+		<run>Scarlet Revisit - Switch 2</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -13472,6 +13490,7 @@
 	</types>
 	<runs>
 		<run>Photonic Sun</run>
+		<run>Photonic Sun Revisit - Lusamine Day</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -14976,6 +14995,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Scarlet</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15020,6 +15040,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Violet</run>
+		<run>Super Gauntlet Violet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15222,6 +15243,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Scarlet</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15576,6 +15598,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Violet</run>
+		<run>Super Gauntlet Violet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15827,6 +15850,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Violet</run>
+		<run>Super Gauntlet Violet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15857,6 +15881,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Scarlet</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15888,6 +15913,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Scarlet</run>
+		<run>Super Gauntlet Scarlet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -15932,6 +15958,7 @@
 	</types>
 	<runs>
 		<run>Super Gauntlet Violet</run>
+		<run>Super Gauntlet Violet Revisit</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -16447,6 +16474,7 @@
 	</types>
 	<runs>
 		<run>Scarlet Revisit - The Indigo Disk</run>
+		<run>Scarlet Revisit - Switch 2</run>
 	</runs>
 	<status>
 		<rank>inter</rank>
@@ -16598,6 +16626,7 @@
 	</types>
 	<runs>
 		<run>Scarlet Revisit - The Indigo Disk</run>
+		<run>Scarlet Revisit - Switch 2</run>
 	</runs>
 	<status>
 		<rank>inter</rank>
