@@ -4266,10 +4266,11 @@
 		<type>Flying</type>
 	</types>
 	<runs>
+		<run>Gauntlet Emerald</run>
 		<run>Silver</run>
 	</runs>
 	<status>
-		<rank>side</rank>
+		<rank>main</rank>
 		<emblem>side</emblem>
 	</status>
   </mon> 
@@ -6592,9 +6593,10 @@
 		<type>Dragon</type>
 	</types>
 	<runs>
+		<run>Gauntlet Emerald</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
