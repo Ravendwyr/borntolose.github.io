@@ -12,6 +12,7 @@ ZEvent2024.Runs.push(
         Region: "Johto",
         Generation: 4,
         Pokedex: "National",
+        FinalStateLink: "./states/soulsilver.json",
         Events: [
 		
 			{ Name: "Totodile", Time: "0d00h23m53s", Group: "Pokemon" },
