@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"outDir": "./bin",
+		"target": "es5",
+		"removeComments": true
+	},
+	"files": [
+		"./src/tpp-structure.ts",
+		"./src/tpp-progress.ts",
+		"./src/tpp-scraper.ts",
+		"./src/tpp-angular.ts",
+		"./src/poke-styles.ts",
+		"./src/tables.ts",
+		"./src/twitch-videos.ts",
+		"./src/catch-graph.ts",
+		"./src/reddit-pasteee.ts"
+	]
+}

@@ -1,0 +1,73 @@
+.dexEntry {
+    position:relative;
+    display: inline-block;
+    margin: auto;
+    opacity: .2;
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 10px 0;
+    width: 120px;
+    font-family: pokeplatinum;
+    font-size:1.5em;
+    line-height: .9em;
+    /*text-shadow: 0 0 4px white;*/
+}
+
+.dexEntry > * {
+    margin: auto;
+}
+
+
+.dexEntry:not(.owned) {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.dexEntry.owned {
+    opacity: 1;
+    background-color: lightgray;
+}
+
+.dexEntry h3, .dexEntry h4 {
+    margin:0;
+}
+
+.dexEntry h4 {
+    width: 100%;
+    font-size: .925em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.dexEntry .pokesprite {
+    display: inline-block;
+    font-size: 64px;
+    width: 1em;
+    height: 1em;
+    margin: 5px 0;
+}
+
+.dexEntry .pokesprite:not(.missingno) img {
+    height: 0;
+    width: 0;
+    padding: .5em;
+    image-rendering: pixelated;
+    background-repeat: no-repeat;
+}
+
+.dexEntry .pokesprite.missingno img {
+    height: 100%;
+    image-rendering: pixelated;
+}
+
+.dexEntry .hofRibbon {
+    position: absolute;
+    left:2px;
+    top:2px;
+    width:15%;
+}
+
+.dexEntry .hofRibbon img {
+    width:100%;
+}

@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"outDir": "../data/Pokedex",
+		"target": "es5",
+		"removeComments": true,
+		"outFile": "pokedex-data.js",
+		"declaration": true
+	},
+	"include": [
+		"**/*.ts"
+	]
+}

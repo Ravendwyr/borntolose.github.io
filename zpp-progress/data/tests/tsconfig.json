@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"outDir": ".",
+		"target": "es5",
+		"removeComments": true,
+		"outFile": "tpp-data-tests.js",
+		"sourceMap": true,
+		"noEmitOnError": true
+	},
+	"include": [
+		"./tests.ts",
+		"../**/*.ts"
+	],
+	"exclude": []
+}

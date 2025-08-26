@@ -1,0 +1,41 @@
+{
+	"version": "2.0.0",
+	"command": "gulp",
+	"tasks": [
+		{
+			"label": "build",
+			"type": "shell",
+			"command": "gulp build",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"presentation": {
+				"echo": true,
+				"reveal": "silent",
+				"focus": false,
+				"panel": "shared",
+				"showReuseMessage": true,
+				"clear": false
+			},
+			"problemMatcher": "$tsc"
+		},
+		{
+			"label": "test",
+			"type": "shell",
+			"command": "gulp test",
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared",
+				"showReuseMessage": true,
+				"clear": false
+			},
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			}
+		}
+	]
+}

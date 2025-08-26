@@ -1,0 +1,540 @@
+.run-status {
+    font-family: pokered, pokeplatinum, monospace;
+}
+
+.run-status .updating {
+    position: absolute;
+    right:1em;
+}
+
+.last-screenshot {
+    margin-bottom:1em;
+    padding:1em;
+}
+
+.last-screenshot img {
+    height:256px;
+    margin: 5px;
+}
+
+.last-screenshot h4 {
+    margin:2px;
+}
+
+.itemsList, .badgeList {
+    vertical-align: top;
+    display: inline-block;
+    font-family: pokered, pokeplatinum, monospace;
+    margin:2%;
+    margin-top:0;
+    width:23%;
+    min-width: 300px;
+}
+.itemsList ul, .badgeList ul {
+    list-style: none;
+    padding:0;
+}
+.itemsList ul {
+    text-align: left;
+}
+.itemsList ul li{
+    padding: .5em 1em;
+}
+/* .itemsList ul li[data-id]:before {
+    content: '#' attr(data-id);
+    float: left;
+    padding-right: .5em;
+    text-align: right;
+    width:4.5em;
+    box-sizing: border-box;
+    vertical-align: baseline;
+} */
+.itemsList ul li[data-quantity]:after {
+    content:'×' attr(data-quantity);
+    float: right;
+    vertical-align: baseline;
+}
+
+.itemsList h6, .badgeList h6 {
+    margin: .1em;
+}
+
+.gameStats {
+    width: auto;
+    white-space: nowrap;
+}
+
+.gameStats ul li[data-quantity]:after {
+    content:attr(data-quantity);
+    float: right;
+    margin-left: 1em;
+    vertical-align: baseline;
+}
+
+.optionsList {
+    text-transform: capitalize;
+}
+
+.badgeList {
+    width:auto;
+}
+.badgeList ul h3 {
+    font-family: pokeplatinum, monospace;
+}
+.badgeList ul h3, .badgeList ul h4 , .badgeList ul h5, .badgeList ul h6 {
+    margin:.25em 0;
+}
+
+.badgeList ul li {
+    display:inline-block;
+    background-color: rgba(0,0,0,.1);
+    margin:.2em;
+    width:12em;
+    vertical-align: top;
+}
+
+.badgeList ul li .image {
+    display: inline-block;
+    font-size: 64px;
+    width: 1em;
+    height: 1em;
+    margin: 5px 0;
+}
+
+.pixel-art img {
+    image-rendering: pixelated!important;
+}
+
+.badgeList ul li .image.pokesprite:not(.missingno) img {
+    height: 0;
+    width: 0;
+    padding: .5em;
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+}
+
+.badgeList ul li .image img {
+    height: 1em;
+}
+
+.hallOfFameDisplay.pokeBorder {
+    border:none;
+    background-color:white;
+    width:95vw;
+}
+.hallOfFameDisplay.pokeBorder table {
+    margin: auto;
+}
+
+.hallOfFameDisplay.pokeBorder td {
+    background-color: rgba(0,0,0,.1);
+}
+
+.hallOfFameDisplay .entry {
+    font-size:1.3vw;
+}
+
+.entry.fainted {
+    filter:grayscale();
+}
+
+.run-status .pokeBorder {
+    max-width: 90%;
+    margin: 1em;
+    vertical-align: top;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.pokeBorder .pokedex > h2, .pokeBorder .pokedex > h3, .pokeBorder .pokedex > h4, .pokeBorder .pokedex > h5, .pokeBorder .pokedex > h6 {
+    margin:0;
+}
+
+.pokeBorder .pokedex .total {
+    font-family: pokeplatinum, monospace;
+}
+
+.plug {
+    display: block;
+    margin:.1em;
+    color:black!important;
+    font-family: pokeplatinum, monospace;
+}
+
+.error {
+    font-family: pokeplatinum, monospace;
+}
+
+.window-shade {
+    position: absolute;
+    left:.3em;
+    top:.5em;
+    opacity: .1;
+    cursor: pointer;
+}
+
+.window-shade:hover {
+    opacity: 1;
+}
+
+.pokemon-hud ul.party {
+  font-family: pokeplatinum, monospace;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size:16px;
+}
+
+.pokemon-hud.pc-box ul.party {
+    font-size:8px;
+    width: 80em;
+    text-align: center;
+    max-width:100%;
+}
+
+.pokemon-hud ul.party > li {
+  display: inline-flex;
+  position: relative;
+  padding: 0;
+  margin: .5em;
+}
+
+.pokemon-hud ul.party > li:not(.host) {
+    min-width:12em;
+}
+
+.pokemon-hud.pc-box ul.party > li {
+    background-color:#DDD;
+    width:15em;
+}
+
+.pokemon-hud ul.party > li ul.info-tabs {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 5;
+    display: flex;
+    flex-flow: column nowrap;
+    list-style: none;
+    justify-content: space-between;
+    align-items: stretch;
+    font-size: .8em;
+    width: 3em;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    overflow-x: hidden;
+}
+
+.pokemon-hud.pc-box ul.party > li ul.info-tabs {
+    font-size: .5em;
+}
+
+.pokemon-hud ul.party > li ul.info-tabs > li {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-weight: bold;
+    background-color: #ccc;
+    color: #333;
+    border: 1px solid #333;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    transform: translateX(-110%);
+    cursor: pointer;
+    transition: transform .15s ease-in;
+    transition-delay: calc(var(--n) * .03);
+    overflow: hidden;
+}
+
+.pokemon-hud ul.party > li:hover ul.info-tabs > li, .pokemon-hud ul.party > li.show-tabs ul.info-tabs > li {
+    transform: translateX(0);
+}
+
+.pokemon-hud ul.party > li ul.info-tabs > li.active {
+    background-color: #fff;
+}
+
+.pokemon-hud.pc-box ul.party > li.empty {
+    background-color:transparent;
+    font-size:3em;
+    text-align: center;
+    width:auto;
+    display: block;
+}
+
+.pokemon-hud ul.party > li.female .name:after {
+  content: '♀';
+  color: deeppink;
+}
+.pokemon-hud ul.party > li.male .name:after {
+  content: '♂';
+  color: dodgerblue;
+}
+
+.touhoumon .pokemon-hud ul.party > li.female .name:after {
+    color:darkmagenta;
+    display:inline-block;
+	content:"☯";
+	transform:rotateZ(-90deg);
+}
+
+.touhoumon .pokemon-hud ul.party > li.male .name:after {
+    color:darkblue;
+    display:inline-block;
+	content:"☯";
+	transform:rotateZ(90deg);
+}
+
+.pokemon-hud ul.party > li .pokemon-image {
+  display: inline-block;
+  flex: 0 0 auto;
+  position: relative;
+  height:9em;
+}
+
+.pokemon-hud ul.party > li .pokemon-image .species {
+    position: absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.pokemon-hud ul.party > li.fainted .pokemon-image .species, .pokemon-hud ul.party > li.health-high .pokemon-image .species, .pokemon-hud ul.party > li.health-low .pokemon-image .species {
+    color:white;
+}
+
+.pokemon-hud ul.party > li .pokemon-image > img, .pokemon-hud ul.party > li .pokemon-image > a > img {
+    height:8em;
+    image-rendering: pixelated;
+}
+
+.pokemon-hud ul.party > li .pokemon-image > .pokesprite > img {
+	position: static;
+    height:0!important;
+    width:0!important;
+	transform: none!important;
+	font-size:8em;
+    padding:.5em;
+	margin:auto;
+    background-repeat: no-repeat;
+    /* background-position: top left; */
+    image-rendering: pixelated;
+}
+
+.pokemon-hud ul.party > li .pokemon-image > .pokesprite.egg > img {
+    background-position: center;
+    background: url("../img/egg.gif")!important;
+    background-size: contain!important;
+}
+
+.pokemon-hud ul.party > li.pkrs-infected .pokemon-image:before {
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image:url("../img/pkrs-infected.png");
+    object-fit: contain;
+    position:absolute;
+    left: .2em;
+    bottom: .2em;
+    width: 1.5em;
+    height: 1.5em;
+    filter: drop-shadow(0 0 1px black);
+}
+
+.pokemon-hud ul.party > li.pkrs-infected.pkrs-cured .pokemon-image:before {
+    background-image:url("../img/pkrs-cured.png");
+    filter: drop-shadow(0 0 1px black)hue-rotate(-45deg);
+}
+
+.pokemon-hud ul.party > li .pokemon-info {
+  flex: 1 1 auto;
+  position: relative;
+  min-width: 0;
+}
+.pokemon-hud ul.party > li .pokemon-info .name {
+  display: block;
+  text-align: center;
+  white-space: pre;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.pokemon-hud ul.party > li .pokemon-info .name:after {
+  margin-left: .1em;
+}
+.pokemon-hud ul.party > li .pokemon-info .types {
+  text-align: left;
+  white-space: nowrap;
+  float:left;
+}
+.pokemon-hud ul.party > li .pokemon-info .types img {
+  height: 1em;
+  margin-right: .1em;
+  border-radius: 50%;
+  position: relative;
+}
+.pokemon-hud ul.party > li .pokemon-info  .level {
+  float: right;
+  font-size:1.1em;
+  line-height: .9em;
+  font-weight: bold;
+}
+.pokemon-hud ul.party > li .pokemon-info .level:before {
+  content: 'Lv';
+  font-size: .8em;
+  vertical-align: baseline;
+}
+.pokemon-hud ul.party > li .pokemon-info .moves, .pokemon-hud ul.party > li .pokemon-info .stats {
+  list-style: none;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  top: .3em;
+  clear:both;
+}
+.pokemon-hud ul.party > li .pokemon-info .stats {
+    top: 0;
+}
+.pokemon-hud ul.party > li .pokemon-info .moves li, .pokemon-hud ul.party > li .pokemon-info .stats li  {
+  display: block;
+  white-space: nowrap;
+  height: auto;
+  text-align: left;
+}
+.pokemon-hud ul.party > li .pokemon-info .stats li {
+    line-height: .8em;
+    height: .8em;
+}
+.pokemon-hud ul.party > li .pokemon-info .moves li img {
+  height: 1em;
+  border-radius: 50%;
+  position: relative;
+  top: .1em;
+}
+.pokemon-hud ul.party > li .pokemon-info .moves li i {
+    margin-right:.2em;
+}
+.pokemon-hud ul.party > li.fainted {
+  opacity: .5;
+  transition: filter 0.5s ease-in, opacity 0.5s ease-out;
+  filter: grayscale(100%);
+}
+.pokemon-hud ul.party > li.health-high .pokemon-image {
+  background-image: linear-gradient(46deg, green 0%, green 47.6%, rgba(0, 0, 0, 0) 47.7%);
+}
+
+.pokemon-hud ul.party > li.health-med .pokemon-image {
+  background-image: linear-gradient(46deg, goldenrod 0%, goldenrod 47.6%, rgba(0, 0, 0, 0) 47.7%);
+}
+
+.pokemon-hud ul.party > li.health-low .pokemon-image {
+  background-image: linear-gradient(46deg, red 0%, red 47.6%, rgba(0, 0, 0, 0) 47.7%);
+}
+
+.pokemon-hud ul.party > li .informatic {
+    display: block;
+    text-align: left;
+    clear: both;
+}
+
+.pokemon-hud ul.party > li .informatic.evolution {
+    line-height: .9em;
+    margin-top: .2em;
+    margin-bottom: .2em;
+}
+
+.pokemon-hud ul.party > li .informatic:before {
+    margin-right: .1em;
+    width:1em;
+    display: inline-block;
+    text-align: center;
+}
+
+.pokemon-hud ul.party > li .informatic.ability {
+    margin-bottom:-.5em;
+}
+.pokemon-hud ul.party > li .informatic.held-item:before {
+    content:'🫴';
+}
+.pokemon-hud ul.party > li .informatic.friendship:before {
+    content:'☋';
+}
+
+.pokemon-hud ul.party > li .informatic.money:before {
+    content:'$';
+}
+
+.pokemon-hud ul.party > li .informatic.coins:before {
+    content:'◎';
+}
+
+.pokemon-hud ul.party > li .informatic.balls:before {
+    content:'♎';
+}
+
+/*.pokemon-hud ul.party > li.egg {
+  line-height: 14vh;
+  font-size: 7vh;
+}*/
+
+.pokemon-hud ul.party > li.shadow-mon {
+    padding-top: 1em;
+}
+
+.pokemon-hud ul.party > li.shadow-mon .shadow-bar {
+    position: absolute;
+    height:1.25em;
+    right:.8em;
+    left:1.6em;
+    top: 0;
+    font-size: .75em;
+    background-color:#333;
+    border:.1em solid #666;
+    color: white;
+}
+.pokemon-hud ul.party > li.shadow-mon .shadow-bar:before {
+    content: "❤";
+    padding: 0 .5em;
+    font-weight: bold;
+    background-color:#666;
+    transform: skew(-15deg);
+    position: absolute;
+    right:calc(100% - .5em);
+    top:-.075em;
+    bottom:-.075em;
+    z-index: 1;
+}
+.pokemon-hud ul.party > li.shadow-mon .shadow-bar:after {
+    content:'';
+    position: absolute;
+    background-color:#666;
+    right:-.75em;
+    top:-.075em;
+    bottom:-.075em;
+    width:1em;
+    transform:skew(15deg);
+}
+.pokemon-hud ul.party > li.shadow-mon .shadow-bar .bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    mask-image: repeating-linear-gradient(to right, black 0%, black 19.5%, transparent 19.51%, transparent 20.5%);
+    -webkit-mask-image: repeating-linear-gradient(to right, black 0%, black 19.5%, transparent 19.51%, transparent 20.5%);
+}
+.pokemon-hud ul.party > li.shadow-mon .shadow-bar .bar .shadow {
+    position: absolute;
+    left:0;
+    top:0;
+    bottom:0;
+    transform:skew(15deg)translateX(-.2em);
+    max-width: 100%;
+    background-color:purple;
+}

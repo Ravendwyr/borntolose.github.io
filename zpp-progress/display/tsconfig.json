@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"outDir": "display/",
+		"target": "es5",
+		"removeComments": true,
+		"outFile": "tpp-display.js",
+		"jsx": "react",
+		"skipLibCheck": true,
+		"declaration": true
+	},
+	"include": [
+		"**/*.ts",
+		"**/*.tsx"
+	]
+}
