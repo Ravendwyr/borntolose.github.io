@@ -161,7 +161,7 @@ ZEvent2024.Runs.push(
             },
 
             <TPP.HallOfFame>{
-                Group: "Hall of Fame", Name: "Hall of Fame", Time: "01d17h48m10s", Attempts: 7, IDNo: "30858", Party: [
+                Group: "Hall of Fame", Name: "Panthéon", Time: "01d17h48m10s", Attempts: 7, IDNo: "30858", Party: [
                     { Pokemon: "Gyarados", Nickname: "MICHEL", Level: 51, Gender: "Female", Met: "Lac Colère", OT: "AAP", Shiny: true },
                     { Pokemon: "Feraligatr", Nickname: "......", Level: 60, Gender: "Male", Met: "Bourg Geon", OT: "AAP" },
                     { Pokemon: "Fearow", Nickname: "Piou Piou", Level: 32, Gender: "Female", Met: "Route 35", OT: "Vijay" },
