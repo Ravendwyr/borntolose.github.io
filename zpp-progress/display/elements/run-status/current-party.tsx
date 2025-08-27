@@ -6,7 +6,7 @@ namespace TPP.Display.Elements.RunStatus {
     export class CurrentParty extends React.Component<{ party: TPP.Tv.PartyData; trainer?: TPP.Tv.TrainerData, run: TPP.Run; }, {}> {
 
         render() {
-            return <PokeBox title="Current Party" className="pokemon-hud">
+            return <PokeBox title="Final Party" className="pokemon-hud">
                 <ul className="party">
                     {this.props.trainer ?
                         <li key='host' className="host">
@@ -22,8 +22,8 @@ namespace TPP.Display.Elements.RunStatus {
                             <div className="pokemon-info">
                                 <div className="name">{this.props.trainer.name}</div>
                                 <div className="informatic money">{(this.props.trainer.money || 0).toLocaleString()}</div>
-                                <div className="informatic coins">{(this.props.trainer.coins || 0).toLocaleString()}</div>
-                                <div className="informatic balls">{(this.props.trainer || { ball_count: 0 }).ball_count}</div>
+								{/*<div className="informatic coins">{(this.props.trainer.coins || 0).toLocaleString()}</div>
+                                <div className="informatic balls">{(this.props.trainer || { ball_count: 0 }).ball_count}</div>*/}
                                 <div className="informatic badges">{`Badges: ${((this.props.trainer.badges || 0).toString(2).replace(/0/g, '').length / (this.props.run.RunName == "Burning Red" ? 2 : 1))}`}</div>
                                 <div className="informatic owned">{`Owned: ${this.props.trainer.caught}`}</div>
                                 <div className="informatic seen">{`Seen: ${this.props.trainer.seen}`}</div>
@@ -196,7 +196,7 @@ namespace TPP.Display.Elements.RunStatus {
                 this.state.showTabs && "show-tabs"
             ].filter(c => !!c).map(cleanString).join(' ');
             return <li className={classes} onClick={e => this.setState(s => ({ showTabs: !s.showTabs }))}>
-                <ul className="info-tabs">
+                {/*<ul className="info-tabs">
                     {infoModes.map((m, i) => <li
                         key={m}
                         className={(this.state && this.state.infoMode || 0) == i && "active" || undefined}
@@ -205,7 +205,7 @@ namespace TPP.Display.Elements.RunStatus {
                     >
                         {m}
                     </li>)}
-                </ul>
+				</ul>*/}
                 <div className="pokemon-image">
                     <PokeSprite pokemon={mon.is_egg ? "Egg" : mon.species && mon.species.name || "???"} gender={mon.gender} shiny={mon.shiny} baseUrl={this.props.baseUrl} />
                     <div className="species">{mon.is_egg ? "Egg" : mon.species && mon.species.name || "???"}</div>
@@ -234,7 +234,7 @@ namespace TPP.Display.Elements.RunStatus {
                 transformOrigin: "left center",
                 transform: "scale(.8)"
             };
-            return m && <li onClick={e => { e.stopPropagation(); this.setState(state => ({ showStats: !state.showStats })); }} style={{ cursor: "pointer" }}>
+            return m && <li /*onClick={e => { e.stopPropagation(); this.setState(state => ({ showStats: !state.showStats })); }} style={{ cursor: "pointer" }}*/>
                 <TypeImg type={m.type} baseUrl={this.props.baseUrl} />
                 {this.state.showStats
                     ? <span className="move-name">

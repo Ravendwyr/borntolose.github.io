@@ -12,6 +12,7 @@ ZEvent2022.Runs.push(
         Region: "Kanto",
         Generation: 3,
         Pokedex: "National",
+        FinalStateLink: "./states/leafgreen.json",
         Events: [
 		
 			// Following timestamps are estimates due to lack of VOD

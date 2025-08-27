@@ -1,92 +1,226 @@
 {
-
     "party":[
         {
             "name":"......",
-            "language":"English",
+            "language":"French",
             "shiny":false,
             "species":{
                 "name":"Feraligatr",
                 "national_dex":160,
                 "type1":"Water",
-                "type2":"Water",
+                "type2":"Water"
             },
             "held_item":{
-                "name":"Mystic Water"
+                "id": 243,
+                "name": "Eau Mystique"
             },
             "moves":[
                 {
-                    "accuracy":100,
-                    "base_power":80,
-                    "pp":15,
-                    "pp_up":0,
-                    "max_pp":15,
                     "name":"Mâchouille",
-                    "type":"Dark",
+                    "type":"Dark"
                 },
                 {
-                    "accuracy":100,
-                    "base_power":80,
-                    "pp":15,
-                    "pp_up":0,
-                    "max_pp":15,
                     "name":"Cascade",
-                    "type":"Water",
+                    "type":"Water"
                 },
                 {
-                    "accuracy":95,
-                    "base_power":65,
-                    "pp":15,
-                    "pp_up":0,
-                    "max_pp":15,
                     "name":"Crocs Givre",
-                    "type":"Ice",
+                    "type":"Ice"
                 },
                 {
-                    "accuracy":100,
-                    "base_power":90,
-                    "pp":15,
-                    "pp_up":0,
-                    "max_pp":15,
                     "name":"Surf",
-                    "type":"Water",
+                    "type":"Water"
                 }
             ],
-            "pokerus":{
-                "infected":true,
-                "days_left":0,
-                "strain":0,
-                "cured":false
-            },
-            "met":{
-                "area_name":"Littleroot Town",
-                "level":5,
-                "game":"4",
-                "caught_in":"Poké Ball",
-                "caught":"0d00h23m53s",
-            },
             "is_egg":false,
             "ability":"Torrent",
-            "ribbons":[
-            ],
-            "level":64,
-            "stats":{
-                "hp":202,
-                "attack":161,
-                "defense":111,
-                "speed":167,
-                "special_attack":114,
-                "special_defense":122
+            "level":65,
+            "gender":"Male"
+        },
+        {
+            "name":"MICHEL",
+            "language":"French",
+            "shiny":true,
+            "species":{
+                "name":"Gyarados",
+                "national_dex":130,
+                "type1":"Water",
+                "type2":"Flying"
             },
-            "gender":"Male",
-            "nature":"Naughty"
+            "held_item":{
+                "id": 216,
+                "name": "Multi Exp."
+            },
+            "moves":[
+                {
+                    "name":"Cascade",
+                    "type":"Water"
+                },
+                {
+                    "name":"Morsure",
+                    "type":"Dark"
+                },
+                {
+                    "name":"Séisme",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Crocs Givre",
+                    "type":"Ice"
+                }
+            ],
+            "is_egg":false,
+            "ability":"Intimidation",
+            "level":62,
+            "gender":"Female"
+        },
+        {
+            "name":"Piou Piou",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Fearow",
+                "national_dex":22,
+                "type1":"Normal",
+                "type2":"Flying"
+            },
+            "held_item":{
+                "id": 137,
+                "name": "Lettre Herbe"
+            },
+            "moves":[
+                {
+                    "name":"Aéropique",
+                    "type":"Flying"
+                },
+                {
+                    "name":"Vol",
+                    "type":"Flying"
+                },
+                {
+                    "name":"Poursuite",
+                    "type":"Dark"
+                },
+                {
+                    "name":"Groz'Yeux",
+                    "type":"Normal"
+                }
+            ],
+            "is_egg":false,
+            "ability":"Regard Vif",
+            "level":32,
+            "gender":"Female"
+        },
+        {
+            "name":"MV",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Lugia",
+                "national_dex":249,
+                "type1":"Psychic",
+                "type2":"Flying"
+            },
+            "held_item":{
+            },
+            "moves":[
+                {
+                    "name":"Extrasenseur",
+                    "type":"Psychic"
+                },
+                {
+                    "name":"Surf",
+                    "type":"Water"
+                },
+                {
+                    "name":"Dracochoc",
+                    "type":"Dragon"
+                },
+                {
+                    "name":"Aéroblast",
+                    "type":"Flying"
+                }
+            ],
+            "is_egg":false,
+            "ability":"Pression",
+            "level":52
+        },
+        {
+            "name":"JDG♀",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Nidoqueen",
+                "national_dex":31,
+                "type1":"Poison",
+                "type2":"Ground"
+            },
+            "held_item":{
+            },
+            "moves":[
+                {
+                    "name":"Coupe",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Griffe",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Force",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Combo-Griffe",
+                    "type":"Normal"
+                }
+            ],
+            "is_egg":false,
+            "ability":"Point Poison",
+            "level":35,
+            "gender":"Female"
+        },
+        {
+            "name":"AAAAAAK",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Quagsire",
+                "national_dex":195,
+                "type1":"Water",
+                "type2":"Ground"
+            },
+            "held_item":{
+            },
+            "moves":[
+                {
+                    "name":"Mimi-Queue",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Lance-Boue",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Tir de Boue",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Souplesse",
+                    "type":"Normal"
+                }
+            ],
+            "is_egg":false,
+            "ability":"Absorb Eau",
+            "level":18,
+            "gender":"Male"
         }
     ],
     "game":"Argent SoulSilver",
     "caught":16,
-    "seen":16,
+    "seen":"???",
     "name":"AAP",
     "id":30858,
     "money":210100,
-	"badges":255,
+	"badges":32767
 }

@@ -241,7 +241,7 @@ module TPP.Display.RunStatus {
         $party.addClass(cleanString(run.RunName) + " " + (run.Class || "") + " " + (run.BaseGame || ""));
         // $party.css('background-color', run.ColorPrimary);
         // $party.css('border-color', run.ColorSecondary);
-        $party.append($("<h3>").text("Current Party"));
+        $party.append($("<h3>").text("Final Party"));
         $party.append($("<h4>").text(Duration.parse(run.Duration, run.StartTime).toString(TPP.Scale.Days)));
         var $hofRow = $("<tr>").appendTo($("<table>").appendTo($party));
         var $host = $("<div class='entry host'>").appendTo($("<td>").appendTo($hofRow));
