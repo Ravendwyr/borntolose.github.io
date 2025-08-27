@@ -87,7 +87,7 @@ module TPP.Display.RunStatus {
         $container.append($("<h1>").text(run.RunName));
         if (status.party)
             $container.append(DrawParty(run, status));
-        if (run.Events.filter(e => (<HallOfFame>e).Party).length > 0)
+        else if (run.Events.filter(e => (<HallOfFame>e).Party).length > 0)
             $container.append(DrawHallOfFame(run, <HallOfFame>run.Events.filter(e => (<HallOfFame>e).Party).pop()));
         if (status.map_id)
             $container.append(DrawLocation(run, status));

@@ -148,6 +148,7 @@ declare namespace TPP {
         FinalStateLink?: string;
         LastScreenshot?: string;
         SidegameId?: string;
+        AlwaysShowHOF?: boolean;
     }
     interface DisplayRun extends Run {
         Videos?: Twitch.Video[];

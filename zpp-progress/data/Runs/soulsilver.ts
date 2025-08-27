@@ -13,6 +13,7 @@ ZEvent2024.Runs.push(
         Generation: 4,
         Pokedex: "National",
         FinalStateLink: "./states/soulsilver.json",
+		AlwaysShowHOF,
         Events: [
 		
 			{ Name: "Totodile", Time: "0d00h23m53s", Group: "Pokemon" },

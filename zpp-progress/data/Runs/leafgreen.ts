@@ -13,6 +13,7 @@ ZEvent2022.Runs.push(
         Generation: 3,
         Pokedex: "National",
         FinalStateLink: "./states/leafgreen.json",
+		AlwaysShowHOF,
         Events: [
 		
 			// Following timestamps are estimates due to lack of VOD
@@ -23,14 +24,14 @@ ZEvent2022.Runs.push(
 			{ Name: "Pidgey", Time: "0d01h04m", Group: "Pokemon" }, // Real time unknown, between 0h55m15s and 1h09m35s
 			
 			{
-                Group: "Badges", Name: "Boulder Badge", Image: "img/badges/boulder.png", ImageSource: "http://bulbapedia.bulbagarden.net/wiki/Badge#Indigo_League",
+                Group: "Badges", Name: "Badge Roche", Image: "img/badges/boulder.png", ImageSource: "http://bulbapedia.bulbagarden.net/wiki/Badge#Indigo_League",
                 Time: "0d02h36m09s", Attempts: 0 // Attempt number uncertain due to lack of VOD
             },
 			
 			{ Name: "Ivysaur", Time: "0d04h06m44s", Group: "Pokemon" },
 			
             {
-                Group: "Badges", Name: "Cascade Badge", Image: "img/badges/cascade.png", ImageSource: "http://bulbapedia.bulbagarden.net/wiki/Badge#Indigo_League",
+                Group: "Badges", Name: "Badge Cascade", Image: "img/badges/cascade.png", ImageSource: "http://bulbapedia.bulbagarden.net/wiki/Badge#Indigo_League",
                 Time: "0d09h30m17s", Attempts: 1 // Estimate due to lack of VOD
             },
 			

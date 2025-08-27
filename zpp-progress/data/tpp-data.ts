@@ -51,6 +51,9 @@ var tppData: TPP.Collection[] = [ZEvent2022, ZEvent2024, Revisits];
 var exports = exports || {};
 exports.tppData = tppData;
 
+const Shiny = true; // for HoF shorthand
+const AlwaysShowHOF = true; // for HOF shorthand
+
 //post-processing
 setTimeout(() => {
     //remove runs with blank start dates
