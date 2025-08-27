@@ -59,7 +59,7 @@ namespace TPP.Controllers {
         }
 
         Render() {
-            $('head title').text('TPP ' + this.pageTitle);
+            $('head title').text('ZPP ' + this.pageTitle);
             this.placeOnPage(this.pageTitle, "page-title");
             this.placeOnPage(this.render(), "contents");
             this.placeOnPage(this.contentTitle || this.pageTitle, "content-title");
