@@ -1,0 +1,44 @@
+{
+    "party":[
+        {
+            "name":"Gruikui",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Tepig",
+                "national_dex":498,
+                "type1":"Fire",
+                "type2":"Fire"
+            },
+            "held_item":{
+                "id": 0,
+                "name": ""
+            },
+            "moves":[
+                {
+                    "name":"Charge",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Mimi-Queue",
+                    "type":"Normal"
+                },
+                {
+                    "name":"Flammèche",
+                    "type":"Fire"
+                },
+            ],
+            "is_egg":false,
+            "ability":"Brasier",
+            "level":7,
+            "gender":"Male"
+        },
+    ],
+    "game":"Blanc",
+    "caught":1,
+    "seen":"???",
+    "name":"AAABd",
+    "id":"???",
+    "money":"???",
+	"badges":0
+}

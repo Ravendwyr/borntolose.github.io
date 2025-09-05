@@ -12,7 +12,7 @@ ZEvent2025.Runs.push(
         Region: "Unova",
         Generation: 5,
         Pokedex: "National",
-        // FinalStateLink: "./states/white.json",
+        FinalStateLink: "./states/white.json",
 		AlwaysShowHOF,
         Events: [
 		
@@ -27,6 +27,36 @@ ZEvent2025.Runs.push(
 			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
 			Time: "0d00h13m15s", Attempts: 1
 		},
+		
+		
+		//{ Group: "Badges", Name: "Badge Triple", Image: "img/badges/trio.png", Time: "", Attempts: 1 },
+		//{ Group: "Badges", Name: "Badge Basique", Image: "img/badges/basic.png", Time: "", Attempts: 1 },
+		//{ Group: "Badges", Name: "Badge Élytre", Image: "img/badges/insect.png", Time: "", Attempts: 1 },
+		//{ Group: "Badges", Name: "Badge Volt", Image: "img/badges/bolt.png", Time: "", Attempts: 1 },
+		//{ Group: "Badges", Name: "Badge Sismique", Image: "img/badges/quake.png", Time: "", Attempts: 1 },
+		//{ Group: "Badges", Name: "Badge Jet", Image: "img/badges/jet.png", Time: "", Attempts: 1 },
+		//{ Group: "Badges", Name: "Badge Stalactite", Image: "img/badges/freeze.png", Time: "", Attempts: 1 },
+		//{ Group: "Badges", Name: "Badge Mythe", Image: "img/badges/legend.png", Time: "", Attempts: 1 },
+
+		//{ Group: "Elite Four", Name: "Anis", Image: "img/trainers/black/shauntal.png", Time: "", Attempts: 1 },
+		//{ Group: "Elite Four", Name: "Pieris", Image: "img/trainers/black/grimsley.png", Time: "", Attempts: 1 },
+		//{ Group: "Elite Four", Name: "Percila", Image: "img/trainers/black/caitlin.png", Time: "", Attempts: 1 },
+		//{ Group: "Elite Four", Name: "Kunz", Image: "img/trainers/black/marshal.png", Time: "", Attempts: 1 },
+		//{ Group: "Champions", Name: "N", Image: "img/trainers/black/n.png", Time: "", Attempts: 1 },
+		//{ Group: "Champions", Name: "Ghetis", Image: "img/trainers/black/ghetsis.png", Time: "", Attempts: 1 },
+
+		/*<TPP.HallOfFame>{
+			Group: "Hall of Fame", Name: "First Game Clear", Time: "", IDNo: "", Attempts: 1, Party: [
+				{ Pokemon: "Emboar", Nickname: "aaaxxxm %", Level: 85, Gender: "Male" },
+				{ Pokemon: "Haxorus", Nickname: "q--------l", Level: 86, Gender: "Female" },
+				{ Pokemon: "Lilligant", Nickname: "Petililqz", Level: 85, Gender: "Female" },
+				{ Pokemon: "Musharna", Nickname: ",,,,,((((%", Level: 85, Gender: "Male" },
+				{ Pokemon: "Toxicroak", Nickname: "qwriowy", Level: 95, Gender: "Male" },
+				{ Pokemon: "Excadrill", Nickname: "♂♂♂♂♂♂♂♂-W", Level: 93, Gender: "Female" },
+			],
+			Image: "img/ribbons/event.png",
+			FirstAttemptDate: ""
+		},*/
 			
         ]
     }
