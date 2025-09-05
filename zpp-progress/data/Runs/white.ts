@@ -33,6 +33,8 @@ ZEvent2025.Runs.push(
 			Time: "0d00h54m08s", Attempts: 1
 		},
 		
+		{ Name: "Pansage", Time: "0d01h36m40s", Group: "Pokemon" }, 
+		
 		
 		//{ Group: "Badges", Name: "Badge Triple", Image: "img/badges/trio.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Basique", Image: "img/badges/basic.png", Time: "", Attempts: 1 },

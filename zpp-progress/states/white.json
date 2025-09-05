@@ -27,10 +27,14 @@
                     "name":"Flammèche",
                     "type":"Fire"
                 },
+                {
+                    "name":"Flair",
+                    "type":"Normal"
+                },
             ],
             "is_egg":false,
             "ability":"Brasier",
-            "level":7,
+            "level":9,
             "gender":"Male"
         },
     ],
