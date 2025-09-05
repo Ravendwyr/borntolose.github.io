@@ -53,6 +53,11 @@ ZEvent2025.Runs.push(
 		{ Name: "Blitzle", Time: "0d03h52m02s", Group: "Pokemon" }, 
 		{ Name: "Pignite", Time: "0d04h23m23s", Group: "Pokemon" }, 
 		
+		{
+			Group: "Trainers", Name: "N", Image: "img/trainers/black/n.png",
+			Time: "0d05h08m05s", Attempts: 1
+		},
+		
 		//
 		//{ Group: "Badges", Name: "Badge Basique", Image: "img/badges/basic.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Élytre", Image: "img/badges/insect.png", Time: "", Attempts: 1 },
