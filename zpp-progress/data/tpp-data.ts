@@ -10,6 +10,11 @@ var ZEvent2024: TPP.Collection = {
     Scale: TPP.Scale.Hours,
     Runs: []
 };
+var ZEvent2025: TPP.Collection = {
+    Name: "ZEvent 2025",
+    Scale: TPP.Scale.Hours,
+    Runs: []
+};
 var Sidegames: TPP.Collection = {
     Name: "Sidegames",
     SingularName: "Sidegame",
@@ -46,7 +51,7 @@ var ShortIntermissions: TPP.Collection = {
     Scale: TPP.Scale.Minutes,
     Runs: []
 }
-var tppData: TPP.Collection[] = [ZEvent2022, ZEvent2024, Revisits];
+var tppData: TPP.Collection[] = [ZEvent2022, ZEvent2024, ZEvent2025, Revisits];
 
 var exports = exports || {};
 exports.tppData = tppData;
