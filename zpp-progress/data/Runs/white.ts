@@ -4,19 +4,19 @@ ZEvent2025.Runs.push(
         RunName: "Blanc",
         ColorPrimary: "#e2e2e4",
         ColorSecondary: "#57595a",
-        StartDate: "2025-09-05T18:03:00Z",
+        StartDate: "2025-09-05T16:03:00Z",
         Duration: "255d",
         HostName: "AAABd",
         HostImage: "img/hosts/aaabd.png",
         // HostImageSource: "",
-        Region: "Kanto",
-        Generation: 3,
+        Region: "Unova",
+        Generation: 5,
         Pokedex: "National",
         // FinalStateLink: "./states/white.json",
 		AlwaysShowHOF,
         Events: [
 		
-		{ Name: "Bulbasaur", Time: "0d00h06m38s", Group: "Pokemon" }, 
+		{ Name: "Tepig", Time: "0d00h06m38s", Group: "Pokemon" }, 
 			
         ]
     }
