@@ -17,6 +17,16 @@ ZEvent2025.Runs.push(
         Events: [
 		
 		{ Name: "Tepig", Time: "0d00h06m38s", Group: "Pokemon" }, 
+		
+		{
+			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
+			Time: "0d00h08m15s", Attempts: 1
+		},
+			
+		{
+			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
+			Time: "0d00h13m15s", Attempts: 1
+		},
 			
         ]
     }
