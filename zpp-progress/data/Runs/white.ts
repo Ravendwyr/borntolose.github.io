@@ -28,6 +28,11 @@ ZEvent2025.Runs.push(
 			Time: "0d00h13m15s", Attempts: 1
 		},
 		
+		{
+			Group: "Trainers", Name: "N", Image: "img/trainers/black/n.png",
+			Time: "0d00h54m08s", Attempts: 1
+		},
+		
 		
 		//{ Group: "Badges", Name: "Badge Triple", Image: "img/badges/trio.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Basique", Image: "img/badges/basic.png", Time: "", Attempts: 1 },
