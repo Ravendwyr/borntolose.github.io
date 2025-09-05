@@ -58,8 +58,12 @@ ZEvent2025.Runs.push(
 			Time: "0d05h08m05s", Attempts: 1
 		},
 		
-		//
-		//{ Group: "Badges", Name: "Badge Basique", Image: "img/badges/basic.png", Time: "", Attempts: 1 },
+		{ 
+			Group: "Badges", Name: "Badge Basique", Image: "img/badges/basic.png", 
+			Time: "0d05h58m54s", Attempts: 2 
+		},
+		
+		
 		//{ Group: "Badges", Name: "Badge Élytre", Image: "img/badges/insect.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Volt", Image: "img/badges/bolt.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Sismique", Image: "img/badges/quake.png", Time: "", Attempts: 1 },
