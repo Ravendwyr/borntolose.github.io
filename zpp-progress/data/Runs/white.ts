@@ -99,10 +99,53 @@ ZEvent2025.Runs.push(
 		
 		{ Name: "Krokorok", Time: "1d00h18m19s", Group: "Pokemon" },
 		
-		//{ Group: "Badges", Name: "Badge Sismique", Image: "img/badges/quake.png", Time: "", Attempts: 1 },
-		//{ Group: "Badges", Name: "Badge Jet", Image: "img/badges/jet.png", Time: "", Attempts: 1 },
-		//{ Group: "Badges", Name: "Badge Stalactite", Image: "img/badges/freeze.png", Time: "", Attempts: 1 },
-		//{ Group: "Badges", Name: "Badge Mythe", Image: "img/badges/legend.png", Time: "", Attempts: 1 },
+		{ 
+			Group: "Badges", Name: "Badge Sismique", Image: "img/badges/quake.png", 
+			Time: "1d02h07m28s", Attempts: 2
+		},
+		
+		/*
+		{
+			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
+			Time: "", Attempts: 0
+		},
+		
+		{
+			Group: "Trainers", Name: "N", Image: "img/trainers/black/n.png",
+			Time: "", Attempts: 0
+		},
+		
+		{ 
+			Group: "Badges", Name: "Badge Jet", Image: "img/badges/jet.png", 
+			Time: "", Attempts: 0
+		},
+		
+		{
+			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
+			Time: "1d00h07m05s", Attempts: 1
+		},
+		
+		{ 
+			Group: "Badges", Name: "Badge Stalactite", Image: "img/badges/freeze.png", 
+			Time: "", Attempts: 0
+		},
+		
+		{
+			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
+			Time: "", Attempts: 0
+		},
+		
+		{ 
+			Group: "Badges", Name: "Badge Mythe", Image: "img/badges/legend.png", 
+			Time: "", Attempts: 0
+		},
+		
+		{
+			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
+			Time: "1d00h07m05s", Attempts: 1
+		},
+		
+		*/
 
 		//{ Group: "Elite Four", Name: "Anis", Image: "img/trainers/black/shauntal.png", Time: "", Attempts: 1 },
 		//{ Group: "Elite Four", Name: "Pieris", Image: "img/trainers/black/grimsley.png", Time: "", Attempts: 1 },
