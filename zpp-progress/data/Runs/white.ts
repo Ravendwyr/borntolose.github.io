@@ -67,8 +67,11 @@ ZEvent2025.Runs.push(
 		{ Name: "Scraggy", Time: "0d11h55m35s", Group: "Pokemon" }, 
 		{ Name: "Darumaka", Time: "0d13h41m17s", Group: "Pokemon" }, 
 		
+		{ 
+			Group: "Badges", Name: "Badge Élytre", Image: "img/badges/insect.png", 
+			Time: "0d20h47m17s", Attempts: 1
+		},
 		
-		//{ Group: "Badges", Name: "Badge Élytre", Image: "img/badges/insect.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Volt", Image: "img/badges/bolt.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Sismique", Image: "img/badges/quake.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Jet", Image: "img/badges/jet.png", Time: "", Attempts: 1 },
