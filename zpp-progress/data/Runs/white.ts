@@ -64,6 +64,8 @@ ZEvent2025.Runs.push(
 		},
 		
 		{ Name: "Sandile", Time: "0d10h14m37s", Group: "Pokemon" }, 
+		{ Name: "Scraggy", Time: "0d11h55m35s", Group: "Pokemon" }, 
+		{ Name: "Darumaka", Time: "0d13h41m17s", Group: "Pokemon" }, 
 		
 		
 		//{ Group: "Badges", Name: "Badge Élytre", Image: "img/badges/insect.png", Time: "", Attempts: 1 },
