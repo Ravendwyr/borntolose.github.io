@@ -63,6 +63,8 @@ ZEvent2025.Runs.push(
 			Time: "0d05h58m54s", Attempts: 2 
 		},
 		
+		{ Name: "Sandile", Time: "0d10h14m37s", Group: "Pokemon" }, 
+		
 		
 		//{ Group: "Badges", Name: "Badge Élytre", Image: "img/badges/insect.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Volt", Image: "img/badges/bolt.png", Time: "", Attempts: 1 },
