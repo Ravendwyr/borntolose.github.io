@@ -74,7 +74,7 @@ ZEvent2025.Runs.push(
 		
 		{
 			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
-			Time: "0d20h10m05s", Attempts: 1
+			Time: "0d20h59m53s", Attempts: 1
 		},
 		
 		{
