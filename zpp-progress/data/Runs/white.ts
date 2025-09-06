@@ -72,6 +72,16 @@ ZEvent2025.Runs.push(
 			Time: "0d20h47m17s", Attempts: 1
 		},
 		
+		{
+			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
+			Time: "0d20h10m05s", Attempts: 1
+		},
+		
+		{
+			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
+			Time: "0d21h07m53s", Attempts: 1
+		},
+		
 		//{ Group: "Badges", Name: "Badge Volt", Image: "img/badges/bolt.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Sismique", Image: "img/badges/quake.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Jet", Image: "img/badges/jet.png", Time: "", Attempts: 1 },
