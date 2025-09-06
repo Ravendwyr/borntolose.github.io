@@ -111,12 +111,15 @@ ZEvent2025.Runs.push(
 			Time: "1d03h46m31s", Attempts: 1
 		},
 		
-		/*
+		{ Name: "Zebstrika", Time: "1d05h41m16s", Group: "Pokemon" },
+		{ Name: "Emboar", Time: "1d06h27m24s", Group: "Pokemon" },
+		
 		{
 			Group: "Trainers", Name: "N", Image: "img/trainers/black/n.png",
-			Time: "", Attempts: 0
+			Time: "1d06h41m05s", Attempts: 1
 		},
 		
+		/*
 		{ 
 			Group: "Badges", Name: "Badge Jet", Image: "img/badges/jet.png", 
 			Time: "", Attempts: 0
