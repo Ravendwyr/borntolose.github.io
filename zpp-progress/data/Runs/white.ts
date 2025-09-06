@@ -106,12 +106,12 @@ ZEvent2025.Runs.push(
 		
 		{ Name: "Ducklett", Time: "1d03h09m07s", Group: "Pokemon" },
 		
-		/*
 		{
 			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
-			Time: "", Attempts: 0
+			Time: "1d03h46m31s", Attempts: 1
 		},
 		
+		/*
 		{
 			Group: "Trainers", Name: "N", Image: "img/trainers/black/n.png",
 			Time: "", Attempts: 0
