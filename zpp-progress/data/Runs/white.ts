@@ -92,6 +92,13 @@ ZEvent2025.Runs.push(
 			Time: "0d23h53m18s", Attempts: 3
 		},
 		
+		{
+			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
+			Time: "1d00h07m05s", Attempts: 1
+		},
+		
+		{ Name: "Krokorok", Time: "1d00h18m19s", Group: "Pokemon" },
+		
 		//{ Group: "Badges", Name: "Badge Sismique", Image: "img/badges/quake.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Jet", Image: "img/badges/jet.png", Time: "", Attempts: 1 },
 		//{ Group: "Badges", Name: "Badge Stalactite", Image: "img/badges/freeze.png", Time: "", Attempts: 1 },
