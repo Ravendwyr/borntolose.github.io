@@ -143,6 +143,8 @@ ZEvent2025.Runs.push(
 			Time: "1d22h49m03s", Attempts: 1
 		},
 		
+		{ Name: "Krookodile", Time: "1d23h42m47s", Group: "Pokemon" },
+		
 		{ 
 			Group: "Badges", Name: "Badge Mythe", Image: "img/badges/legend.png", 
 			Time: "2d00h44m09s", Attempts: 2
