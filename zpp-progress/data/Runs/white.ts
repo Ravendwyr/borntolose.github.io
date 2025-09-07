@@ -119,12 +119,12 @@ ZEvent2025.Runs.push(
 			Time: "1d06h41m05s", Attempts: 1
 		},
 		
-		/*
 		{ 
 			Group: "Badges", Name: "Badge Jet", Image: "img/badges/jet.png", 
-			Time: "", Attempts: 0
+			Time: "1d10h03m43s", Attempts: 1
 		},
 		
+		/*
 		{
 			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
 			Time: "1d00h07m05s", Attempts: 1
