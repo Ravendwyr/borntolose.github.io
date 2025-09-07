@@ -170,11 +170,14 @@ ZEvent2025.Runs.push(
 			Time: "2d03h44m10s", Attempts: 1 
 		},
 		
-		/*
 		{ 
 			Group: "Elite Four", Name: "Kunz", Image: "img/trainers/black/marshal.png", 
-			Time: "", Attempts: 1 
+			Time: "2d04h38m14s", Attempts: 1
 		},
+		
+		{ Name: "Zekrom", Time: "2d05h07m45s", Group: "Pokemon" },
+		
+		/*
 		{ 
 			Group: "Champions", Name: "N", Image: "img/trainers/black/n.png", 
 			Time: "", Attempts: 1 
