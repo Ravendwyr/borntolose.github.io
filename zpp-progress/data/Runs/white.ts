@@ -152,13 +152,35 @@ ZEvent2025.Runs.push(
 			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
 			Time: "2d01h15m34s", Attempts: 1
 		},
+		
+		{ 
+			Group: "Elite Four", Name: "Pieris", Image: "img/trainers/black/grimsley.png", 
+			Time: "2d02h54m25s", Attempts: 1 
+		},
+		
 
-		//{ Group: "Elite Four", Name: "Anis", Image: "img/trainers/black/shauntal.png", Time: "", Attempts: 1 },
-		//{ Group: "Elite Four", Name: "Pieris", Image: "img/trainers/black/grimsley.png", Time: "", Attempts: 1 },
-		//{ Group: "Elite Four", Name: "Percila", Image: "img/trainers/black/caitlin.png", Time: "", Attempts: 1 },
-		//{ Group: "Elite Four", Name: "Kunz", Image: "img/trainers/black/marshal.png", Time: "", Attempts: 1 },
-		//{ Group: "Champions", Name: "N", Image: "img/trainers/black/n.png", Time: "", Attempts: 1 },
-		//{ Group: "Champions", Name: "Ghetis", Image: "img/trainers/black/ghetsis.png", Time: "", Attempts: 1 },
+		/*
+		{ 
+			Group: "Elite Four", Name: "Anis", Image: "img/trainers/black/shauntal.png", 
+			Time: "", Attempts: 1 
+		},
+		{ 
+			Group: "Elite Four", Name: "Percila", Image: "img/trainers/black/caitlin.png", 
+			Time: "", Attempts: 2
+		},
+		{ 
+			Group: "Elite Four", Name: "Kunz", Image: "img/trainers/black/marshal.png", 
+			Time: "", Attempts: 1 
+		},
+		{ 
+			Group: "Champions", Name: "N", Image: "img/trainers/black/n.png", 
+			Time: "", Attempts: 1 
+		},
+		{ 
+			Group: "Champions", Name: "Ghetis", Image: "img/trainers/black/ghetsis.png", 
+			Time: "", Attempts: 1 
+		},
+		*/
 
 		/*<TPP.HallOfFame>{
 			Group: "Hall of Fame", Name: "First Game Clear", Time: "", IDNo: "", Attempts: 1, Party: [
