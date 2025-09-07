@@ -158,16 +158,17 @@ ZEvent2025.Runs.push(
 			Time: "2d02h54m25s", Attempts: 1 
 		},
 		
-
-		/*
-		{ 
-			Group: "Elite Four", Name: "Anis", Image: "img/trainers/black/shauntal.png", 
-			Time: "", Attempts: 1 
-		},
 		{ 
 			Group: "Elite Four", Name: "Percila", Image: "img/trainers/black/caitlin.png", 
-			Time: "", Attempts: 2
+			Time: "2d03h35m06s", Attempts: 3
 		},
+
+		{ 
+			Group: "Elite Four", Name: "Anis", Image: "img/trainers/black/shauntal.png", 
+			Time: "2d03h44m10s", Attempts: 1 
+		},
+		
+		/*
 		{ 
 			Group: "Elite Four", Name: "Kunz", Image: "img/trainers/black/marshal.png", 
 			Time: "", Attempts: 1 
@@ -183,7 +184,7 @@ ZEvent2025.Runs.push(
 		*/
 
 		/*<TPP.HallOfFame>{
-			Group: "Hall of Fame", Name: "First Game Clear", Time: "", IDNo: "", Attempts: 1, Party: [
+			Group: "Hall of Fame", Name: "First Game Clear", Time: "", IDNo: "", Attempts: 3, Party: [
 				{ Pokemon: "Emboar", Nickname: "aaaxxxm %", Level: 85, Gender: "Male" },
 				{ Pokemon: "Haxorus", Nickname: "q--------l", Level: 86, Gender: "Female" },
 				{ Pokemon: "Lilligant", Nickname: "Petililqz", Level: 85, Gender: "Female" },
