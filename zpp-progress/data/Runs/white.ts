@@ -143,18 +143,15 @@ ZEvent2025.Runs.push(
 			Time: "1d22h49m03s", Attempts: 1
 		},
 		
-		/*
 		{ 
 			Group: "Badges", Name: "Badge Mythe", Image: "img/badges/legend.png", 
-			Time: "", Attempts: 0
+			Time: "2d00h44m09s", Attempts: 2
 		},
 		
 		{
 			Group: "Trainers", Name: "Tcheren", Image: "img/trainers/black/cheren.png",
-			Time: "1d00h07m05s", Attempts: 1
+			Time: "2d01h15m34s", Attempts: 1
 		},
-		
-		*/
 
 		//{ Group: "Elite Four", Name: "Anis", Image: "img/trainers/black/shauntal.png", Time: "", Attempts: 1 },
 		//{ Group: "Elite Four", Name: "Pieris", Image: "img/trainers/black/grimsley.png", Time: "", Attempts: 1 },
