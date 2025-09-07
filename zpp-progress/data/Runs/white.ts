@@ -129,12 +129,16 @@ ZEvent2025.Runs.push(
 			Time: "1d11h16m50s", Attempts: 1
 		},
 		
-		/*
+		{ Name: "Swanna", Time: "1d14h20m06s", Group: "Pokemon" },
+		
 		{ 
 			Group: "Badges", Name: "Badge Stalactite", Image: "img/badges/freeze.png", 
-			Time: "", Attempts: 0
+			Time: "1d14h34m36s", Attempts: 1
 		},
 		
+		{ Name: "Golett", Time: "1d15h07m52s", Group: "Pokemon" },
+		
+		/*
 		{
 			Group: "Trainers", Name: "Bianca", Image: "img/trainers/black/bianca.png",
 			Time: "", Attempts: 0
