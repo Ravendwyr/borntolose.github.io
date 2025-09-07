@@ -1,48 +1,191 @@
 {
     "party":[
         {
-            "name":"Gruikui",
+            "name":"Crocorible",
             "language":"French",
             "shiny":false,
             "species":{
-                "name":"Tepig",
-                "national_dex":498,
-                "type1":"Fire",
-                "type2":"Fire"
+                "name":"Krookodile",
+                "national_dex":553,
+                "type1":"Ground",
+                "type2":"Dark"
             },
             "held_item":{
-                "id": 0,
-                "name": ""
+                "id": 268,
+                "name": "Ceinture Pro"
             },
             "moves":[
                 {
-                    "name":"Charge",
+                    "name":"Mâchouille",
+                    "type":"Dark"
+                },
+                {
+                    "name":"Vengeance",
                     "type":"Normal"
                 },
                 {
-                    "name":"Mimi-Queue",
+                    "name":"Piétisol",
+                    "type":"Ground"
+                },
+                {
+                    "name":"Tempêtesable",
+                    "type":"Rock"
+                }
+            ],
+            "is_egg":false,
+            "ability":"Intimidation",
+            "level": 52,
+            "gender":"Male"
+        },
+		{
+            "name":"ADMIN♥♥♥♥♥",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Swanna",
+                "national_dex":581,
+                "type1":"Water",
+                "type2":"Flying"
+            },
+            "held_item":{
+                "id": 268,
+                "name": "Grelot Coque"
+            },
+            "moves":[
+                {
+                    "name":"Surf",
+                    "type":"Water"
+                },
+                {
+                    "name":"Aéropique",
+                    "type":"Flying"
+                },
+                {
+                    "name":"Atterrissage",
+                    "type":"Flying"
+                },
+                {
+                    "name":"Vol",
+                    "type":"Flying"
+                }
+            ],
+            "is_egg":false,
+            "ability":"Cœur de Coq",
+            "level": 44,
+            "gender":"Male"
+        },
+		{
+            "name":"”♦︎",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Zekrom",
+                "national_dex":581,
+                "type1":"Dragon",
+                "type2":"Electric"
+            },
+            "moves":[
+                {
+                    "name":"Dracosouffle",
+                    "type":"Dragon"
+                },
+                {
+                    "name":"Tranche",
                     "type":"Normal"
                 },
                 {
-                    "name":"Flammèche",
+                    "name":"Psykoud'Boul",
+                    "type":"Psychic"
+                },
+                {
+                    "name":"Éclair Croix",
+                    "type":"Electric"
+                }
+            ],
+            "is_egg":false,
+            "ability":"Téra-Voltage",
+            "level": 51
+        },
+		{
+            "name":"MLG",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Zebstrika",
+                "national_dex":523,
+                "type1":"Electric",
+                "type2":"Electric"
+            },
+            "held_item":{
+                "id": 229,
+                "name": "Pierre Stase"
+            },
+            "moves":[
+                {
+                    "name":"ChangeÉclair",
+                    "type":"Electric"
+                },
+                {
+                    "name":"Coup d'Jus",
+                    "type":"Electric"
+                },
+                {
+                    "name":"Nitrocharge",
                     "type":"Fire"
                 },
                 {
-                    "name":"Flair",
-                    "type":"Normal"
+                    "name":"Poursuite",
+                    "type":"Dark"
+                }
+            ],
+            "is_egg":false,
+            "ability":"Motorisé",
+            "level": 45,
+            "gender":"Female"
+        },
+		{
+            "name":"Roitiflam",
+            "language":"French",
+            "shiny":false,
+            "species":{
+                "name":"Emboar",
+                "national_dex":500,
+                "type1":"Fire",
+                "type2":"Fighting"
+            },
+            "held_item":{
+                "id": 540,
+                "name": "Casque Brut"
+            },
+            "moves":[
+                {
+                    "name":"Casse-Brique",
+                    "type":"Fighting"
                 },
+                {
+                    "name":"Nitrocharge",
+                    "type":"Fire"
+                },
+                {
+                    "name":"Lance-Flamme",
+                    "type":"Fire"
+                },
+                {
+                    "name":"Piétisol",
+                    "type":"Ground"
+                }
             ],
             "is_egg":false,
             "ability":"Brasier",
-            "level":9,
+            "level": 55,
             "gender":"Male"
-        },
+        }
     ],
     "game":"Blanc",
-    "caught":1,
+    "caught":15,
     "seen":"???",
     "name":"AAABd",
     "id":"???",
     "money":"???",
-	"badges":0
+	"badges":255
 }
