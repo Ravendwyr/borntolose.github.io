@@ -246,6 +246,7 @@
 		<run>Brown</run>
 		<run>Dual Red</run>
 		<run>Blazing Emerald</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2553,6 +2554,7 @@
 		<run>Japanese Green</run>
 		<run>Super Gauntlet Red</run>
 		<run>Rocket Edition</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -2925,10 +2927,11 @@
 		<run>Crystal</run>
 		<run>Crystal Revisit</run>
 		<run>Red Anniversary</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
-		<emblem></emblem>
+		<emblem>main</emblem>
 	</status>
   </mon> 
 
@@ -3699,6 +3702,7 @@
 		<run>Randomized Platinum</run>
 		<run>Blazing Emerald Runback</run>
 		<run>Photonic Sun</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4126,6 +4130,7 @@
 	<runs>
 		<run>Renegade Platinum</run>
 		<run>Randomized Black 2</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -4604,6 +4609,7 @@
 		<run>Prism</run>
 		<run>Ultra Sun</run>
 		<run>Debug Rubin</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5255,6 +5261,7 @@
 	<runs>
 		<run>Sirius</run>
 		<run>Super Gauntlet Scarlet</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -5352,6 +5359,7 @@
 	<runs>
 		<run>Flora Sky</run>
 		<run>Blazing Emerald</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -6399,6 +6407,7 @@
 	<runs>
 		<run>X</run>
 		<run>Randomized White 2</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7127,6 +7136,7 @@
 		<run>Blazing Emerald</run>
 		<run>Legends Arceus</run>
 		<run>Randomized Violet+</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7793,6 +7803,7 @@
 	</types>
 	<runs>
 		<run>Volt White 2 Redux</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -7994,6 +8005,7 @@
 	<runs>
 		<run>Gauntlet Platinum</run>
 		<run>Blazing Emerald</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8071,6 +8083,7 @@
 	</types>
 	<runs>
 		<run>Wilting Y</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8086,6 +8099,7 @@
 	</types>
 	<runs>
 		<run>Wilting Y</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -8103,6 +8117,7 @@
 	<runs>
 		<run>Vega</run>
 		<run>Brilliant Diamond</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -9077,6 +9092,7 @@
 		<run>Rising Ruby</run>
 		<run>Sword Revisit - Crown Tundra</run>
 		<run>Randomized Chatty Crystal</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11187,9 +11203,10 @@
 		<type>Ground</type>
 	</types>
 	<runs>
+		<run>Unbound</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -11310,6 +11327,7 @@
 		<run>Mega Power</run>
 		<run>Ultra Mega Power</run>
 		<run>Scarlet Revisit - Switch 2</run>
+		<run>Unbound</run>
 	</runs>
 	<status>
 		<rank>main</rank>
@@ -11458,9 +11476,10 @@
 		<type>Psychic</type>
 	</types>
 	<runs>
+		<run>Unbound</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -12156,9 +12175,10 @@
 		<type>Ghost</type>
 	</types>
 	<runs>
+		<run>Unbound</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -12652,9 +12672,10 @@
 		<type>Bug</type>
 	</types>
 	<runs>
+		<run>Unbound</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -12773,9 +12794,10 @@
 		<type>Fighting</type>
 	</types>
 	<runs>
+		<run>Unbound</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
@@ -13024,9 +13046,10 @@
 		<type>Steel</type>
 	</types>
 	<runs>
+		<run>Unbound</run>
 	</runs>
 	<status>
-		<rank></rank>
+		<rank>main</rank>
 		<emblem></emblem>
 	</status>
   </mon> 
