@@ -1,6 +1,10 @@
 {
     "party":[
         {
+            "original_trainer":{
+                "name":"JJJJJJ",
+                "id":20543
+            },
             "name":"A",
             "language":"French",
             "shiny":false,
@@ -8,10 +12,13 @@
                 "name":"Jolteon",
                 "national_dex":135,
                 "type1":"Electric",
-                "type2":"Electric"
+                "type2":"Electric",
+				"evolutions":[
+				]
             },
             "held_item":{
             },
+            "friendship":236,
             "moves":[
                 {
                     "name":"Onde de Choc",
@@ -30,12 +37,59 @@
                     "type":"Normal"
                 }
             ],
+            "ivs":{
+                "hp":22,
+                "attack":13,
+                "defense":19,
+                "special_attack":31,
+                "special_defense":12,
+                "speed":27
+            },
             "is_egg":false,
+            "evs":{
+                "hp":8,
+                "attack":33,
+                "defense":44,
+                "special_attack":37,
+                "special_defense":34,
+                "speed":70
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":94,
+                "area_name":"Céladopole",
+                "level":25,
+                "game":"Vert Feuille",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Absorb Volt",
             "level":50,
-            "gender":"Female"
+            "stats":{
+                "hp":65,
+                "attack":65,
+                "defense":60,
+                "special_attack":110,
+                "special_defense":95,
+                "speed":130
+            },
+            "gender":"Female",
+            "experience":{
+                "current":130274
+            },
+            "nature":"Malin"
         },
         {
+            "original_trainer":{
+                "name":"JJJJJJ",
+                "id":20543
+            },
             "name":"AAAAAAAA",
             "language":"French",
             "shiny":false,
@@ -43,12 +97,15 @@
                 "name":"Pidgeot",
                 "national_dex":18,
                 "type1":"Normal",
-                "type2":"Flying"
+                "type2":"Flying",
+				"evolutions":[
+				]
             },
             "held_item":{
                 "id": 4,
                 "name": "Poké Ball"
             },
+            "friendship":255,
             "moves":[
                 {
                     "name":"Vol",
@@ -67,12 +124,60 @@
                     "type":"Normal"
                 }
             ],
+            "ivs":{
+                "hp":22,
+                "attack":8,
+                "defense":19,
+                "special_attack":8,
+                "special_defense":8,
+                "speed":7
+            },
             "is_egg":false,
+            "evs":{
+                "hp":20,
+                "attack":69,
+                "defense":45,
+                "special_attack":38,
+                "special_defense":28,
+                "speed":120
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":101,
+                "area_name":"Route 1",
+                "level":3,
+                "game":"Vert Feuille",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Regard Vif",
             "level":49,
-            "gender":"Male"
+            "stats":{
+                "hp":83,
+                "attack":80,
+                "defense":75,
+                "special_attack":70,
+                "special_defense":70,
+                "speed":91
+            },
+            "gender":"Male",
+            "experience":{
+                "current":114082
+            },
+            "nature":"Naïf"
         },
         {
+            "original_trainer":{
+                "name":"JJJJJJ",
+                "id":20543
+            },
+            "friendship":236,
             "name":"SABELETTE",
             "language":"French",
             "shiny":false,
@@ -80,10 +185,16 @@
                 "name":"Sandshrew",
                 "national_dex":27,
                 "type1":"Ground",
-                "type2":"Ground"
+                "type2":"Ground",
+				"evolutions":[
+					{
+						"level":22
+					}
+				]
             },
             "held_item":{
             },
+            "friendship":134,
             "moves":[
                 {
                     "name":"Griffe",
@@ -98,12 +209,59 @@
                     "type":"Normal"
                 }
             ],
+            "ivs":{
+                "hp":14,
+                "attack":30,
+                "defense":15,
+                "special_attack":26,
+                "special_defense":24,
+                "speed":18
+            },
             "is_egg":false,
+            "evs":{
+                "hp":0,
+                "attack":0,
+                "defense":0,
+                "special_attack":0,
+                "special_defense":0,
+                "speed":1
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":104,
+                "area_name":"Route 4",
+                "level":10,
+                "game":"Vert Feuille",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Voile Sable",
             "level":10,
-            "gender":"Male"
+            "stats":{
+                "hp":50,
+                "attack":75,
+                "defense":85,
+                "special_attack":20,
+                "special_defense":30,
+                "speed":40
+            },
+            "gender":"Male",
+            "experience":{
+                "current":1162
+            },
+            "nature":"Docile"
         },
         {
+            "original_trainer":{
+                "name":"JJJJJJ",
+                "id":20543
+            },
             "name":"FLORIZARRE",
             "language":"French",
             "shiny":false,
@@ -111,12 +269,15 @@
                 "name":"Venusaur",
                 "national_dex":3,
                 "type1":"Grass",
-                "type2":"Poison"
+                "type2":"Poison",
+				"evolutions":[
+				]
             },
             "held_item":{
                 "id": 14,
                 "name": "Antidote"
             },
+            "friendship":254,
             "moves":[
                 {
                     "name":"Fouet Lianes",
@@ -135,12 +296,59 @@
                     "type":"Normal"
                 }
             ],
+            "ivs":{
+                "hp":13,
+                "attack":2,
+                "defense":2,
+                "special_attack":29,
+                "special_defense":7,
+                "speed":29
+            },
             "is_egg":false,
+            "evs":{
+                "hp":55,
+                "attack":58,
+                "defense":110,
+                "special_attack":31,
+                "special_defense":9,
+                "speed":152
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":88,
+                "area_name":"Bourg Palette",
+                "level":5,
+                "game":"Vert Feuille",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Engrais",
             "level":52,
-            "gender":"Male"
+            "stats":{
+                "hp":80,
+                "attack":82,
+                "defense":83,
+                "special_attack":100,
+                "special_defense":100,
+                "speed":80
+            },
+            "gender":"Male",
+            "experience":{
+                "current":140322
+            },
+            "nature":"Modeste"
         },
         {
+            "original_trainer":{
+                "name":"JJJJJJ",
+                "id":20543
+            },
             "name":"FLOP",
             "language":"French",
             "shiny":false,
@@ -148,10 +356,13 @@
                 "name":"Lapras",
                 "national_dex":131,
                 "type1":"Water",
-                "type2":"Ice"
+                "type2":"Ice",
+				"evolutions":[
+				]
             },
             "held_item":{
             },
+            "friendship":138,
             "moves":[
                 {
                     "name":"Surf",
@@ -170,12 +381,59 @@
                     "type":"Psychic"
                 }
             ],
+            "ivs":{
+                "hp":19,
+                "attack":5,
+                "defense":11,
+                "special_attack":16,
+                "special_defense":27,
+                "speed":16
+            },
             "is_egg":false,
+            "evs":{
+                "hp":1,
+                "attack":14,
+                "defense":0,
+                "special_attack":0,
+                "special_defense":3,
+                "speed":16
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":134,
+                "area_name":"Sylphe SARL",
+                "level":25,
+                "game":"Vert Feuille",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Absorb Eau",
             "level":28,
-            "gender":"Male"
+            "stats":{
+                "hp":130,
+                "attack":85,
+                "defense":80,
+                "special_attack":85,
+                "special_defense":95,
+                "speed":60
+            },
+            "gender":"Male",
+            "experience":{
+                "current":29050
+            },
+            "nature":"Naïf"
         },
         {
+            "original_trainer":{
+                "name":"JJJJJJ",
+                "id":20543
+            },
             "name":"BIDE",
             "language":"French",
             "shiny":false,
@@ -183,10 +441,13 @@
                 "name":"Snorlax",
                 "national_dex":143,
                 "type1":"Normal",
-                "type2":"Normal"
+                "type2":"Normal",
+				"evolutions":[
+				]
             },
             "held_item":{
             },
+            "friendship":121,
             "moves":[
                 {
                     "name":"Coup d’Boule",
@@ -205,10 +466,53 @@
                     "type":"Normal"
                 }
             ],
+            "ivs":{
+                "hp":10,
+                "attack":5,
+                "defense":5,
+                "special_attack":6,
+                "special_defense":15,
+                "speed":0
+            },
             "is_egg":false,
+            "evs":{
+                "hp":0,
+                "attack":0,
+                "defense":1,
+                "special_attack":3,
+                "special_defense":0,
+                "speed":2
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":116,
+                "area_name":"Route 16",
+                "level":30,
+                "game":"Vert Feuille",
+                "caught_in":"Master Ball"
+            },
             "ability":"Vaccin",
             "level":30,
-            "gender":"Male"
+            "stats":{
+                "hp":160,
+                "attack":110,
+                "defense":65,
+                "special_attack":65,
+                "special_defense":110,
+                "speed":30
+            },
+            "gender":"Male",
+            "experience":{
+                "current":36621
+            },
+            "nature":"Docile"
         }
     ],
     "game":"Vert Feuille",

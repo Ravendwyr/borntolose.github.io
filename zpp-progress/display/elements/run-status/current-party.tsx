@@ -71,9 +71,9 @@ namespace TPP.Display.Elements.RunStatus {
                             <li className="informatic">HP: {mon.evs.hp}</li>
                             <li className="informatic">Atk: {mon.evs.attack}</li>
                             <li className="informatic">Def: {mon.evs.defense}</li>
-                            <li className="informatic">Spd: {mon.evs.speed}</li>
                             <li className="informatic">Spatk: {mon.evs.special_attack}</li>
                             <li className="informatic">Spdef: {mon.evs.special_defense}</li>
+                            <li className="informatic">Spd: {mon.evs.speed}</li>
                         </ul>}
                     </div>;
                 case "IVs":
@@ -84,9 +84,9 @@ namespace TPP.Display.Elements.RunStatus {
                             <li className="informatic">HP: {mon.ivs.hp}</li>
                             <li className="informatic">Atk: {mon.ivs.attack}</li>
                             <li className="informatic">Def: {mon.ivs.defense}</li>
-                            <li className="informatic">Spd: {mon.ivs.speed}</li>
                             <li className="informatic">Spatk: {mon.ivs.special_attack}</li>
                             <li className="informatic">Spdef: {mon.ivs.special_defense}</li>
+                            <li className="informatic">Spd: {mon.ivs.speed}</li>
                         </ul>}
                     </div>;
                 case "Stats":
@@ -98,9 +98,9 @@ namespace TPP.Display.Elements.RunStatus {
                             <li className="informatic">HP: {pMon.stats.hp}</li>
                             <li className="informatic">Atk: {pMon.stats.attack}</li>
                             <li className="informatic">Def: {pMon.stats.defense}</li>
-                            <li className="informatic">Spd: {pMon.stats.speed}</li>
                             <li className="informatic">Spatk: {pMon.stats.special_attack}</li>
                             <li className="informatic">Spdef: {pMon.stats.special_defense}</li>
+                            <li className="informatic">Spd: {pMon.stats.speed}</li>
                         </ul>}
                     </div>;
                 case "Cond":
@@ -123,10 +123,10 @@ namespace TPP.Display.Elements.RunStatus {
                         {mon.experience && <ul className="stats">
                             <li className="informatic">Experience</li>
                             <li className="informatic">Current: {mon.experience.current}</li>
-                            <li className="informatic">Next Level: {mon.experience.next_level}</li>
-                            <li className="informatic">Remaining: {mon.experience.remaining}</li>
+                            {mon.experience.next_level && <li className="informatic">Next Level: {mon.experience.next_level}</li>}
+                            {mon.experience.remaining && <li className="informatic">Remaining: {mon.experience.remaining}</li>}
                         </ul>}
-                        {mon.nature && <div className="nature informatic">{mon.nature} Nature</div>}
+                        {mon.nature && <div className="nature informatic">Nature: {mon.nature}</div>}
                         {mon.characteristic && <div className="characteristic informatic">{mon.characteristic}</div>}
                         {mon.friendship && <div className="friendship informatic">{mon.friendship}</div>}
                     </div>;
@@ -197,7 +197,7 @@ namespace TPP.Display.Elements.RunStatus {
                 this.state.showTabs && "show-tabs"
             ].filter(c => !!c).map(cleanString).join(' ');
             return <li className={classes} onClick={e => this.setState(s => ({ showTabs: !s.showTabs }))}>
-                {/*<ul className="info-tabs">
+                {<ul className="info-tabs">
                     {infoModes.map((m, i) => <li
                         key={m}
                         className={(this.state && this.state.infoMode || 0) == i && "active" || undefined}
@@ -206,7 +206,7 @@ namespace TPP.Display.Elements.RunStatus {
                     >
                         {m}
                     </li>)}
-				</ul>*/}
+				</ul>}
                 <div className="pokemon-image">
                     <PokeSprite pokemon={mon.is_egg ? "Egg" : mon.species && mon.species.name || "???"} gender={mon.gender} shiny={mon.shiny} baseUrl={this.props.baseUrl} />
                     <div className="species">{mon.is_egg ? "Egg" : mon.species && mon.species.name || "???"}</div>
