@@ -1,6 +1,10 @@
 {
     "party":[
         {
+            "original_trainer":{
+                "name":"AAP",
+                "id":30858
+            },
             "name":"......",
             "language":"French",
             "shiny":false,
@@ -8,7 +12,9 @@
                 "name":"Feraligatr",
                 "national_dex":160,
                 "type1":"Water",
-                "type2":"Water"
+                "type2":"Water",
+				"evolutions":[
+				]
             },
             "held_item":{
                 "id": 243,
@@ -32,12 +38,57 @@
                     "type":"Water"
                 }
             ],
+            "ivs":{
+                "hp":"26 (?)",
+                "attack":"18 (?)",
+                "defense":"1 (?)",
+                "special_attack":"29 (?)",
+                "special_defense":"0 (?)",
+                "speed":"25 (?)"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"65 (?)",
+                "attack":"91 (?)",
+                "defense":"77 (?)",
+                "special_attack":"79 (?)",
+                "special_defense":"38 (?)",
+                "speed":"160 (?)"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":126,
+                "area_name":"Bourg Geon",
+                "level":5,
+                "game":"Argent SoulSilver",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Torrent",
             "level":65,
-            "gender":"Male"
+            "stats":{
+                "hp":212,
+                "attack":183,
+                "defense":148,
+                "special_attack":138,
+                "special_defense":106,
+                "speed":148
+            },
+            "gender":"Male",
+            "nature":"Mauvais",
+            "characteristic":"???"
         },
         {
+            "original_trainer":{
+                "name":"AAP",
+                "id":30858
+            },
             "name":"MICHEL",
             "language":"French",
             "shiny":true,
@@ -45,7 +96,9 @@
                 "name":"Gyarados",
                 "national_dex":130,
                 "type1":"Water",
-                "type2":"Flying"
+                "type2":"Flying",
+				"evolutions":[
+				]
             },
             "held_item":{
                 "id": 216,
@@ -69,12 +122,57 @@
                     "type":"Ice"
                 }
             ],
+            "ivs":{
+                "hp":"4 (?)",
+                "attack":"8 (?)",
+                "defense":"3 (?)",
+                "special_attack":"4 (?)",
+                "special_defense":"22 (?)",
+                "speed":"11 (?)"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"25 (?)",
+                "attack":"155 (?)",
+                "defense":"59 (?)",
+                "special_attack":"72 (?)",
+                "special_defense":"67 (?)",
+                "speed":"131 (?)"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":135,
+                "area_name":"Lac Colère",
+                "level":30,
+                "game":"Argent SoulSilver",
+                "caught_in":"Super Ball"
+            },
             "ability":"Intimidation",
             "level":62,
-            "gender":"Female"
+            "stats":{
+                "hp":196,
+                "attack":206,
+                "defense":113,
+                "special_attack":93,
+                "special_defense":136,
+                "speed":132
+            },
+            "gender":"Female",
+            "nature":"Mauvais",
+            "characteristic":"???"
         },
         {
+            "original_trainer":{
+                "name":"Vijay",
+                "id":1001
+            },
             "name":"Piou Piou",
             "language":"French",
             "shiny":false,
@@ -82,7 +180,9 @@
                 "name":"Fearow",
                 "national_dex":22,
                 "type1":"Normal",
-                "type2":"Flying"
+                "type2":"Flying",
+				"evolutions":[
+				]
             },
             "held_item":{
                 "id": 137,
@@ -106,12 +206,57 @@
                     "type":"Normal"
                 }
             ],
+            "ivs":{
+                "hp":15,
+                "attack":20,
+                "defense":15,
+                "special_attack":20,
+                "special_defense":20,
+                "speed":20
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"16 (?)",
+                "attack":"9 (?)",
+                "defense":"7 (?)",
+                "special_attack":"26 (?)",
+                "special_defense":"15 (?)",
+                "speed":"11 (?)"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":183,
+                "area_name":"Route 35",
+                "level":20,
+                "game":"Argent SoulSilver",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Regard Vif",
             "level":32,
-            "gender":"Female"
+            "stats":{
+                "hp":89,
+                "attack":69,
+                "defense":45,
+                "special_attack":52,
+                "special_defense":51,
+                "speed":83
+            },
+            "gender":"Female",
+            "nature":"Pressé",
+            "characteristic":"???"
         },
         {
+            "original_trainer":{
+                "name":"AAP",
+                "id":30858
+            },
             "name":"MV",
             "language":"French",
             "shiny":false,
@@ -119,7 +264,9 @@
                 "name":"Lugia",
                 "national_dex":249,
                 "type1":"Psychic",
-                "type2":"Flying"
+                "type2":"Flying",
+				"evolutions":[
+				]
             },
             "held_item":{
             },
@@ -141,11 +288,56 @@
                     "type":"Flying"
                 }
             ],
+            "ivs":{
+                "hp":"26 (?)",
+                "attack":"8 (?)",
+                "defense":"14-15 (?)",
+                "special_attack":"21 (?)",
+                "special_defense":"30 (?)",
+                "speed":"18 (?)"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"4 (?)",
+                "attack":"97 (?)",
+                "defense":"26 (?)",
+                "special_attack":"56 (?)",
+                "special_defense":"34 (?)",
+                "speed":"26 (?)"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":218,
+                "area_name":"Tourb'Îles",
+                "level":45,
+                "game":"Argent SoulSilver",
+                "caught_in":"Master Ball"
+            },
             "ability":"Pression",
-            "level":52
+            "level":52,
+            "stats":{
+                "hp":186,
+                "attack":102,
+                "defense":150,
+                "special_attack":116,
+                "special_defense":202,
+                "speed":130
+            },
+            "nature":"Calme",
+            "characteristic":"???"
         },
         {
+            "original_trainer":{
+                "name":"AAP",
+                "id":30858
+            },
             "name":"JDG♀",
             "language":"French",
             "shiny":false,
@@ -153,7 +345,9 @@
                 "name":"Nidoqueen",
                 "national_dex":31,
                 "type1":"Poison",
-                "type2":"Ground"
+                "type2":"Ground",
+				"evolutions":[
+				]
             },
             "held_item":{
             },
@@ -175,12 +369,57 @@
                     "type":"Normal"
                 }
             ],
+            "ivs":{
+                "hp":"28 (?)",
+                "attack":"6 (?)",
+                "defense":"14 (?)",
+                "special_attack":"28 (?)",
+                "special_defense":"21 (?)",
+                "speed":"2 (?)"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"24 (?)",
+                "attack":"20 (?)",
+                "defense":"36 (?)",
+                "special_attack":"52 (?)",
+                "special_defense":"24 (?)",
+                "speed":"85 (?)"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":183,
+                "area_name":"Route 35",
+                "level":12,
+                "game":"Argent SoulSilver",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Point Poison",
             "level":35,
-            "gender":"Female"
+            "stats":{
+                "hp":119,
+                "attack":66,
+                "defense":73,
+                "special_attack":71,
+                "special_defense":65,
+                "speed":72
+            },
+            "gender":"Female",
+            "nature":"Naïf",
+            "characteristic":"???"
         },
         {
+            "original_trainer":{
+                "name":"AAP",
+                "id":30858
+            },
             "name":"AAAAAAK",
             "language":"French",
             "shiny":false,
@@ -188,7 +427,9 @@
                 "name":"Quagsire",
                 "national_dex":195,
                 "type1":"Water",
-                "type2":"Ground"
+                "type2":"Ground",
+				"evolutions":[
+				]
             },
             "held_item":{
             },
@@ -210,10 +451,51 @@
                     "type":"Normal"
                 }
             ],
+            "ivs":{
+                "hp":"0-4 (?)",
+                "attack":"0-2 (?)",
+                "defense":"3-7 (?)",
+                "special_attack":"15-19 (?)",
+                "special_defense":"20-25 (?)",
+                "speed":"8-13 (?)"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"0",
+                "attack":"0",
+                "defense":"0",
+                "special_attack":"0",
+                "special_defense":"0",
+                "speed":"0"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":158,
+                "area_name":"Route 10",
+                "level":18,
+                "game":"Argent SoulSilver",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Absorb Eau",
             "level":18,
-            "gender":"Male"
+            "stats":{
+                "hp":62,
+                "attack":35,
+                "defense":36,
+                "special_attack":31,
+                "special_defense":32,
+                "speed":19
+            },
+            "gender":"Male",
+            "nature":"???",
+            "characteristic":"???"
         }
     ],
     "game":"Argent SoulSilver",
