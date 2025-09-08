@@ -54,7 +54,8 @@ namespace TPP.Display.Elements.RunStatus {
                                 <TypeImg type={mon.species.type2} baseUrl={this.props.baseUrl} />
                                 : null}
                         </div>}
-                        {mon.level && <div className="level">{mon.level + (mon.level == 100 || (mon.experience || { remaining: 1 }).remaining ? 0 : 1)}</div>}
+                        {/*mon.level && <div className="level">{mon.level + (mon.level == 100 || (mon.experience || { remaining: 1 }).remaining ? 0 : 1)}</div>*/}
+                        {mon.level && <div className="level">{mon.level}</div>}
                         {mon.ability && <div className="ability informatic">{mon.ability}</div>}
                         <ul className="moves">
                             {(mon.moves || []).map(m => <Move move={m} key={m.id} baseUrl={this.props.baseUrl} />)}

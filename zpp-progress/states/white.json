@@ -1,6 +1,10 @@
 {
     "party":[
         {
+            "original_trainer":{
+                "name":"AAABd",
+                "id":20192
+            },
             "name":"Crocorible",
             "language":"French",
             "shiny":false,
@@ -8,12 +12,15 @@
                 "name":"Krookodile",
                 "national_dex":553,
                 "type1":"Ground",
-                "type2":"Dark"
+                "type2":"Dark",
+				"evolutions":[
+				]
             },
             "held_item":{
                 "id": 268,
                 "name": "Ceinture Pro"
             },
+            "friendship":"???",
             "moves":[
                 {
                     "name":"Mâchouille",
@@ -32,12 +39,60 @@
                     "type":"Rock"
                 }
             ],
+            "ivs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":17,
+                "area_name":"Route 4",
+                "level":15,
+                "game":"Blanc",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Intimidation",
             "level": 52,
-            "gender":"Male"
+            "stats":{
+                "hp":174,
+                "attack":151,
+                "defense":97,
+                "special_attack":78,
+                "special_defense":92,
+                "speed":122
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"???"
+            },
+            "nature":"Malin",
+            "characteristic":"Un peu vaniteux"
         },
 		{
+            "original_trainer":{
+                "name":"AAABd",
+                "id":20192
+            },
             "name":"ADMIN♥♥♥♥♥",
             "language":"French",
             "shiny":false,
@@ -45,12 +100,15 @@
                 "name":"Swanna",
                 "national_dex":581,
                 "type1":"Water",
-                "type2":"Flying"
+                "type2":"Flying",
+				"evolutions":[
+				]
             },
             "held_item":{
                 "id": 268,
                 "name": "Grelot Coque"
             },
+            "friendship":"???",
             "moves":[
                 {
                     "name":"Surf",
@@ -69,12 +127,60 @@
                     "type":"Flying"
                 }
             ],
+            "ivs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":65,
+                "area_name":"Pont Yoneuve",
+                "level":22,
+                "game":"Blanc",
+                "caught_in":"Filet Ball"
+            },
             "ability":"Cœur de Coq",
-            "level": 44,
-            "gender":"Male"
+            "level": 43,
+            "stats":{
+                "hp":124,
+                "attack":100,
+                "defense":69,
+                "special_attack":87,
+                "special_defense":64,
+                "speed":117
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"???"
+            },
+            "nature":"Naïf",
+            "characteristic":"Fuit rapidement"
         },
 		{
+            "original_trainer":{
+                "name":"AAABd",
+                "id":20192
+            },
             "name":"”♦︎",
             "language":"French",
             "shiny":false,
@@ -82,8 +188,11 @@
                 "name":"Zekrom",
                 "national_dex":581,
                 "type1":"Dragon",
-                "type2":"Electric"
+                "type2":"Electric",
+				"evolutions":[
+				]
             },
+            "friendship":"???",
             "moves":[
                 {
                     "name":"Dracosouffle",
@@ -102,11 +211,59 @@
                     "type":"Electric"
                 }
             ],
+            "ivs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":45,
+                "area_name":"Palais de N",
+                "level":50,
+                "game":"Blanc",
+                "caught_in":"Master Ball"
+            },
             "ability":"Téra-Voltage",
-            "level": 51
+            "level": 51,
+            "stats":{
+                "hp":165,
+                "attack":163,
+                "defense":136,
+                "special_attack":121,
+                "special_defense":121,
+                "speed":119
+            },
+            "experience":{
+                "current":"???"
+            },
+            "nature":"Jovial (?)",
+            "characteristic":"???"
         },
 		{
+            "original_trainer":{
+                "name":"AAABd",
+                "id":20192
+            },
             "name":"MLG",
             "language":"French",
             "shiny":false,
@@ -114,12 +271,15 @@
                 "name":"Zebstrika",
                 "national_dex":523,
                 "type1":"Electric",
-                "type2":"Electric"
+                "type2":"Electric",
+				"evolutions":[
+				]
             },
             "held_item":{
                 "id": 229,
                 "name": "Pierre Stase"
             },
+            "friendship":"???",
             "moves":[
                 {
                     "name":"ChangeÉclair",
@@ -138,12 +298,60 @@
                     "type":"Dark"
                 }
             ],
+            "ivs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":16,
+                "area_name":"Route 3",
+                "level":11,
+                "game":"Blanc",
+                "caught_in":"Soin Ball"
+            },
             "ability":"Motorisé",
             "level": 45,
-            "gender":"Female"
+            "stats":{
+                "hp":128,
+                "attack":126,
+                "defense":68,
+                "special_attack":82,
+                "special_defense":80,
+                "speed":106
+            },
+            "gender":"Female",
+            "experience":{
+                "current":"???"
+            },
+            "nature":"Malpoli",
+            "characteristic":"???"
         },
 		{
+            "original_trainer":{
+                "name":"AAABd",
+                "id":20192
+            },
             "name":"Roitiflam",
             "language":"French",
             "shiny":false,
@@ -151,12 +359,15 @@
                 "name":"Emboar",
                 "national_dex":500,
                 "type1":"Fire",
-                "type2":"Fighting"
+                "type2":"Fighting",
+				"evolutions":[
+				]
             },
             "held_item":{
                 "id": 540,
                 "name": "Casque Brut"
             },
+            "friendship":"???",
             "moves":[
                 {
                     "name":"Casse-Brique",
@@ -175,17 +386,61 @@
                     "type":"Ground"
                 }
             ],
+            "ivs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
             "is_egg":false,
+            "evs":{
+                "hp":"???",
+                "attack":"???",
+                "defense":"???",
+                "special_attack":"???",
+                "special_defense":"???",
+                "speed":"???"
+            },
+            "condition":{
+                "coolness":0,
+                "beauty":0,
+                "cuteness":0,
+                "smartness":0,
+                "toughness":0,
+                "feel":0
+            },
+			"met":{
+                "area_id":4,
+                "area_name":"Renouet",
+                "level":5,
+                "game":"Blanc",
+                "caught_in":"Poké Ball"
+            },
             "ability":"Brasier",
             "level": 55,
-            "gender":"Male"
+            "stats":{
+                "hp":201,
+                "attack":186,
+                "defense":97,
+                "special_attack":120,
+                "special_defense":89,
+                "speed":111
+            },
+            "gender":"Male",
+            "experience":{
+                "current":"???"
+            },
+            "nature":"Hardi",
+            "characteristic":"Aime courir"
         }
     ],
     "game":"Blanc",
     "caught":15,
     "seen":"???",
     "name":"AAABd",
-    "id":"???",
+    "id":20192,
     "money":"???",
 	"badges":255
 }
