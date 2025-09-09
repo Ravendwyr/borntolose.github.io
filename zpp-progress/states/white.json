@@ -20,7 +20,7 @@
                 "id": 268,
                 "name": "Ceinture Pro"
             },
-            "friendship":"???",
+            "friendship":"252",
             "moves":[
                 {
                     "name":"Mâchouille",
@@ -40,21 +40,21 @@
                 }
             ],
             "ivs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":22,
+                "attack":2,
+                "defense":18,
+                "special_attack":24,
+                "special_defense":26,
+                "speed":23
             },
             "is_egg":false,
             "evs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":23,
+                "attack":182,
+                "defense":25,
+                "special_attack":23,
+                "special_defense":14,
+                "speed":74
             },
             "condition":{
                 "coolness":0,
@@ -83,7 +83,7 @@
             },
             "gender":"Male",
             "experience":{
-                "current":"???"
+                "current":138591
             },
             "nature":"Malin",
             "characteristic":"Un peu vaniteux"
@@ -108,7 +108,7 @@
                 "id": 268,
                 "name": "Grelot Coque"
             },
-            "friendship":"???",
+            "friendship":252,
             "moves":[
                 {
                     "name":"Surf",
@@ -128,21 +128,21 @@
                 }
             ],
             "ivs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":15,
+                "attack":18,
+                "defense":21,
+                "special_attack":12,
+                "special_defense":28,
+                "speed":29
             },
             "is_egg":false,
             "evs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":10,
+                "attack":125,
+                "defense":19,
+                "special_attack":23,
+                "special_defense":11,
+                "speed":58
             },
             "condition":{
                 "coolness":0,
@@ -171,7 +171,7 @@
             },
             "gender":"Male",
             "experience":{
-                "current":"???"
+                "current":83322
             },
             "nature":"Naïf",
             "characteristic":"Fuit rapidement"
@@ -192,7 +192,7 @@
 				"evolutions":[
 				]
             },
-            "friendship":"???",
+            "friendship":8,
             "moves":[
                 {
                     "name":"Dracosouffle",
@@ -212,21 +212,21 @@
                 }
             ],
             "ivs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":5,
+                "attack":11,
+                "defense":17,
+                "special_attack":15,
+                "special_defense":29,
+                "speed":25
             },
             "is_egg":false,
             "evs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":0,
+                "attack":2,
+                "defense":5,
+                "special_attack":6,
+                "special_defense":0,
+                "speed":0
             },
             "condition":{
                 "coolness":0,
@@ -254,10 +254,10 @@
                 "speed":119
             },
             "experience":{
-                "current":"???"
+                "current":171037
             },
-            "nature":"Jovial (?)",
-            "characteristic":"???"
+            "nature":"Jovial",
+            "characteristic":"Assez entêté"
         },
 		{
             "original_trainer":{
@@ -279,7 +279,7 @@
                 "id": 229,
                 "name": "Pierre Stase"
             },
-            "friendship":"???",
+            "friendship":255,
             "moves":[
                 {
                     "name":"ChangeÉclair",
@@ -299,21 +299,21 @@
                 }
             ],
             "ivs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":11,
+                "attack":20,
+                "defense":9,
+                "special_attack":4,
+                "special_defense":26,
+                "speed":0
             },
             "is_egg":false,
             "evs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":15,
+                "attack":206,
+                "defense":28,
+                "special_attack":39,
+                "special_defense":7,
+                "speed":81
             },
             "condition":{
                 "coolness":0,
@@ -342,10 +342,10 @@
             },
             "gender":"Female",
             "experience":{
-                "current":"???"
+                "current":93794
             },
             "nature":"Malpoli",
-            "characteristic":"???"
+            "characteristic":"Un peu vaniteux"
         },
 		{
             "original_trainer":{
@@ -367,7 +367,7 @@
                 "id": 540,
                 "name": "Casque Brut"
             },
-            "friendship":"???",
+            "friendship":252,
             "moves":[
                 {
                     "name":"Casse-Brique",
@@ -387,21 +387,21 @@
                 }
             ],
             "ivs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":25,
+                "attack":21,
+                "defense":24,
+                "special_attack":2,
+                "special_defense":20,
+                "speed":30
             },
             "is_egg":false,
             "evs":{
-                "hp":"???",
-                "attack":"???",
-                "defense":"???",
-                "special_attack":"???",
-                "special_defense":"???",
-                "speed":"???"
+                "hp":18,
+                "attack":255,
+                "defense":57,
+                "special_attack":34,
+                "special_defense":12,
+                "speed":134
             },
             "condition":{
                 "coolness":0,
@@ -430,7 +430,7 @@
             },
             "gender":"Male",
             "experience":{
-                "current":"???"
+                "current":162342
             },
             "nature":"Hardi",
             "characteristic":"Aime courir"
@@ -438,9 +438,9 @@
     ],
     "game":"Blanc",
     "caught":15,
-    "seen":"???",
+    "seen":124,
     "name":"AAABd",
     "id":20192,
-    "money":"???",
+    "money":189164,
 	"badges":255
 }
