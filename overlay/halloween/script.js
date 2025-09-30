@@ -62,6 +62,9 @@ function createImage() {
 function pickRandomImage() {
 	
 	const imageList = [
+		"bloody_handprint.png",
+		"ghost.png",
+		"gore.png",
 		"message_001.png",
 		"message_002.png",
 		"message_003.png",
@@ -72,19 +75,21 @@ function pickRandomImage() {
 		"message_009.png",
 		"message_010.png",
 		"message_011.png",
-		"ghost.png",
-		"gore.png",
+		"message_013.png",
 		"olden.png",
 		"scream.png",
 		"white_hand.png",
+		"darkrai_bw.gif",
 		"haunter_crystal.gif",
 		"gengar_crystal.gif",
 		"ghost_rgb.gif",
 		"message_008.gif",
 		"message_012.gif",
+		"nene.gif",
 		"olden.gif",
 		"phancero.gif",
 		"tv_face.gif",
+		"unownking.gif",
 		"yuri_eyes.gif"
 	];
 	
