@@ -25,6 +25,7 @@ function mainLoop(fast) {
 			setTimeout(() => {
 				$("#imageContainer").fadeTo(5000, 0);
 				setTimeout(() => {
+					document.getElementById("imgElement").src = "";
 					document.getElementById("imgElement").remove();
 				}, 5000);
 			}, 20000);
@@ -69,15 +70,18 @@ function pickRandomImage() {
 		"message_006.png",
 		"message_007.png",
 		"message_009.png",
+		"message_010.png",
+		"message_011.png",
 		"ghost.png",
+		"gore.png",
 		"olden.png",
 		"scream.png",
 		"white_hand.png",
-		"creepy_marill.gif",
 		"haunter_crystal.gif",
 		"gengar_crystal.gif",
 		"ghost_rgb.gif",
 		"message_008.gif",
+		"message_012.gif",
 		"olden.gif",
 		"phancero.gif",
 		"tv_face.gif",
