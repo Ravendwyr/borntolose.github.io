@@ -68,6 +68,7 @@ function pickRandomImage() {
 		"message_005.png",
 		"message_006.png",
 		"message_007.png",
+		"message_009.png",
 		"ghost.png",
 		"olden.png",
 		"scream.png",
