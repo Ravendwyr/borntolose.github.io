@@ -63,6 +63,7 @@ function pickRandomImage() {
 	
 	const imageList = [
 		"bloody_handprint.png",
+		"flak.png",
 		"ghost.png",
 		"gore.png",
 		"message_001.png",
