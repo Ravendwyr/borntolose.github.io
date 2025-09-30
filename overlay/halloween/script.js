@@ -43,10 +43,14 @@ function createImage() {
 	
 	var imgCont = document.getElementById("imageContainer");
 	var imgElem = document.createElement("img");
-	imgElem.style.height = "100%";
 	imgElem.id = "imgElement";
 	imgElem.src = "images/" + pickRandomImage();
+	imgElem.style.maxHeight = "300px";
+	imgElem.style.maxWidth = "300px";
+	imgElem.style.height = "auto";
+	imgElem.style.width = "auto";
 	imgCont.style.marginLeft = posX;
+	imgCont.style.marginTop = posY;
 	imgCont.style.marginTop = posY;
 	imgCont.style.rotate = rotAngle + "deg";
 	imgCont.style.opacity = 0;
@@ -60,9 +64,20 @@ function pickRandomImage() {
 		"message_001.png",
 		"message_002.png",
 		"message_003.png",
+		"message_004.png",
+		"message_005.png",
+		"message_006.png",
+		"message_007.png",
+		"ghost.png",
+		"olden.png",
 		"white_hand.png",
+		"creepy_marill.gif",
 		"haunter_crystal.gif",
-		"gengar_crystal.gif"
+		"gengar_crystal.gif",
+		"olden.gif",
+		"phancero.gif",
+		"tv_face.gif",
+		"yuri_eyes.gif"
 	];
 	
 	return imageList[Math.floor(Math.random() * imageList.length)];
