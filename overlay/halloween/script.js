@@ -7,7 +7,7 @@ function mainLoop(fast) {
 	//if (fast) {
 		//setTimeout(() => {
 			createImage();
-			$("#imageContainer").fadeTo(5000, 0.25);
+			$("#imageContainer").fadeTo(5000, 0.4);
 			setTimeout(() => {
 				$("#imageContainer").fadeTo(5000, 0);
 				setTimeout(() => {
@@ -18,10 +18,13 @@ function mainLoop(fast) {
 		//}, Math.floor(Math.random() * randWait));
 	//}
 	
+	var nextTimeout = Math.floor(Math.random() * randWait);
+	console.log("Next wait: " + ((interval+nextTimeout-20000)/60000).toFixed(2) + " minutes"); 
+	
 	setInterval(() => {
 		setTimeout(() => {
 			createImage();
-			$("#imageContainer").fadeTo(5000, 0.25);
+			$("#imageContainer").fadeTo(5000, 0.4);
 			setTimeout(() => {
 				$("#imageContainer").fadeTo(5000, 0);
 				setTimeout(() => {
@@ -30,7 +33,10 @@ function mainLoop(fast) {
 				}, 5000);
 			}, 20000);
 	
-		}, Math.floor(Math.random() * randWait));
+		}, nextTimeout);
+		
+		nextTimeout = Math.floor(Math.random() * randWait);
+		console.log("Next wait: " + ((interval+nextTimeout-20000)/60000).toFixed(2) + " minutes"); 
 		
 	}, interval);
  
