@@ -4,8 +4,8 @@ function mainLoop(fast) {
 	var interval = fast ? 30000 : 300000;
 	var randWait = fast ? 0 : 150000;
 	
-	if (fast) {
-		setTimeout(() => {
+	//if (fast) {
+		//setTimeout(() => {
 			createImage();
 			$("#imageContainer").fadeTo(5000, 0.25);
 			setTimeout(() => {
@@ -15,8 +15,8 @@ function mainLoop(fast) {
 				}, 5000);
 			}, 20000);
 	
-		}, Math.floor(Math.random() * randWait));
-	}
+		//}, Math.floor(Math.random() * randWait));
+	//}
 	
 	setInterval(() => {
 		setTimeout(() => {
