@@ -100,7 +100,7 @@ function pickRandomImage() {
 		"gengar_crystal.gif",
 		"ghost_rgb.gif",
 		"litwick_chcrystal.gif",
-		"lucas_nighmare.gif",
+		"lucas_nightmare.gif",
 		"message_008.gif",
 		"message_012.gif",
 		"missingno.gif",
